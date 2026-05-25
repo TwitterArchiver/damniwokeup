@@ -1,6 +1,6 @@
 ## @damniwokeup 的推文存档
 
-本仓库为 [@damniwokeup](https://twitter.com/{USERNAME}) 的 Twitter/X 推文存档，
+本仓库为 [@damniwokeup](https://twitter.com/damniwokeup) 的 Twitter/X 推文存档，
 通过 [Wayback Machine](https://web.archive.org) 抓取，使用 GitHub Pages 自动部署。
 
 🔗 在线阅读：**https://TwitterArchiver.github.io/damniwokeup/**
