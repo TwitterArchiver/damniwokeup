@@ -43,6 +43,11 @@ jobs:
             -o index.html || true
           curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/.nojekyll" \
             -o .nojekyll || touch .nojekyll
+          mkdir -p .github/workflows
+          curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/update.yml" \
+            -o .github/workflows/update.yml || true
+          curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/retry_all.yml" \
+            -o .github/workflows/retry_all.yml || true
           echo "✅ archive.py ($(wc -l < /tmp/archive.py) 行)"
 
       - name: 替换 index.html 中的账号名
