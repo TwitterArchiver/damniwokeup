@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-05-25T19:21:01",
+  "last_updated": "2026-05-25T15:10:19",
   "html": {
     "https://web.archive.org/web/20241030093900if_/https://twitter.com/damniwokeup/status/1851559420490293446": {
       "status": "done"
@@ -3481,6 +3481,14 @@
     },
     "https://web.archive.org/web/20260413104016if_/https://twitter.com/damniwokeup/status/2043640404999065970": {
       "status": "done"
+    },
+    "https://web.archive.org/web/20260524115016if_/https://twitter.com/damniwokeup/status/2058515926379794667": {
+      "status": "done",
+      "last_updated": "2026-05-25T15:10:19"
+    },
+    "https://web.archive.org/web/20260524114921if_/https://twitter.com/damniwokeup/status/2058515692450971729": {
+      "status": "done",
+      "last_updated": "2026-05-25T15:10:19"
     }
   },
   "images": {
