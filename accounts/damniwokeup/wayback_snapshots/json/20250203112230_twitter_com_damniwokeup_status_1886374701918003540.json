@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886067314899943424"
+      ],
+      "media_source_tweet_id": [
+        "1886067321854120231"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1886374701918003540",
+    "created_at": "2025-02-03T11:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T12:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886374701918003540"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 55,
+          "normalized_text": "chainsawman",
+          "probability": 0.411,
+          "start": 45,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 44,
+          "tag": "chainsawman"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1005208878764756992",
+          "start": 3,
+          "username": "machipachi1901"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xerdQ6gObU",
+          "end": 80,
+          "expanded_url": "https://x.com/machipachi1901/status/1886067321854120231/photo/1",
+          "media_key": "3_1886067314899943424",
+          "start": 57,
+          "url": "https://t.co/xerdQ6gObU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886374701918003540",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1647
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886067321854120231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @machipachi1901: War &amp; her chainsaw \n#chainsawman https://t.co/xerdQ6gObU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1886067314899943424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiyoOucWAAA6oI0.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886067314899943424"
+          ],
+          "media_source_tweet_id": [
+            "1886067321854120231"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1886374701918003540",
+        "created_at": "2025-02-03T11:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T12:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886374701918003540"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "chainsawman",
+              "probability": 0.411,
+              "start": 45,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 44,
+              "tag": "chainsawman"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1005208878764756992",
+              "start": 3,
+              "username": "machipachi1901"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xerdQ6gObU",
+              "end": 80,
+              "expanded_url": "https://x.com/machipachi1901/status/1886067321854120231/photo/1",
+              "media_key": "3_1886067314899943424",
+              "start": 57,
+              "url": "https://t.co/xerdQ6gObU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886374701918003540",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1647
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886067321854120231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @machipachi1901: War &amp; her chainsaw \n#chainsawman https://t.co/xerdQ6gObU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886067314899943424"
+          ]
+        },
+        "author_id": "1005208878764756992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1886067321854120231",
+        "created_at": "2025-02-02T15:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T16:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886067321854120231"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 24,
+              "tag": "chainsawman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xerdQ6gObU",
+              "end": 60,
+              "expanded_url": "https://x.com/machipachi1901/status/1886067321854120231/photo/1",
+              "media_key": "3_1886067314899943424",
+              "start": 37,
+              "url": "https://t.co/xerdQ6gObU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886067321854120231",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2064,
+          "impression_count": 175582,
+          "like_count": 16630,
+          "quote_count": 27,
+          "reply_count": 27,
+          "retweet_count": 1647
+        },
+        "reply_settings": "everyone",
+        "text": "War &amp; her chainsaw \n#chainsawman https://t.co/xerdQ6gObU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 151,
+          "like_count": 6785,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1306
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-08T22:04:07.000Z",
+        "description": "most powerful doodler in the world! COMMS OPEN 4/5 waitlist open",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/machipachi1901",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/machipachi1901",
+                "start": 0,
+                "url": "https://t.co/AUsjMRyiRo"
+              }
+            ]
+          }
+        },
+        "id": "1005208878764756992",
+        "location": "20",
+        "name": "machi 🍤 COMMS OPEN",
+        "pinned_tweet_id": "1877430317058769019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872555844543381504/rfx8h2vg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36381,
+          "following_count": 2056,
+          "like_count": 65095,
+          "listed_count": 148,
+          "media_count": 1174,
+          "tweet_count": 6122
+        },
+        "url": "https://t.co/AUsjMRyiRo",
+        "username": "machipachi1901",
+        "verified": false
+      }
+    ]
+  }
+}

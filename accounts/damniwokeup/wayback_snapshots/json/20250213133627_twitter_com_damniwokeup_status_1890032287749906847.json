@@ -1,0 +1,520 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889770473644326912"
+      ],
+      "media_source_tweet_id": [
+        "1889770992664281184"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1890032287749906847",
+    "created_at": "2025-02-13T13:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T14:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890032287749906847"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 52,
+          "normalized_text": "chainsawman193",
+          "probability": 0.5119,
+          "start": 39,
+          "type": "Other"
+        },
+        {
+          "end": 65,
+          "normalized_text": "chainsawman",
+          "probability": 0.5031,
+          "start": 55,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 38,
+          "tag": "chainsawman193"
+        },
+        {
+          "end": 66,
+          "start": 54,
+          "tag": "chainsawman"
+        },
+        {
+          "end": 75,
+          "start": 67,
+          "tag": "チェンソーマン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1405151392940109827",
+          "start": 3,
+          "username": "TungstenExp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bOVAPIz4A5",
+          "end": 99,
+          "expanded_url": "https://x.com/TungstenExp/status/1889770992664281184/photo/1",
+          "media_key": "3_1889770473644326912",
+          "start": 76,
+          "url": "https://t.co/bOVAPIz4A5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890032287749906847",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 809
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889770992664281184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TungstenExp: Let me see you cry\n-\n#chainsawman193 #chainsawman #チェンソーマン https://t.co/bOVAPIz4A5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3025,
+        "media_key": "3_1889770473644326912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjnQO7yXgAAzDZK.jpg",
+        "width": 2200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889770473644326912"
+          ],
+          "media_source_tweet_id": [
+            "1889770992664281184"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1890032287749906847",
+        "created_at": "2025-02-13T13:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T14:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890032287749906847"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "chainsawman193",
+              "probability": 0.5119,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 65,
+              "normalized_text": "chainsawman",
+              "probability": 0.5031,
+              "start": 55,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 38,
+              "tag": "chainsawman193"
+            },
+            {
+              "end": 66,
+              "start": 54,
+              "tag": "chainsawman"
+            },
+            {
+              "end": 75,
+              "start": 67,
+              "tag": "チェンソーマン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1405151392940109827",
+              "start": 3,
+              "username": "TungstenExp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bOVAPIz4A5",
+              "end": 99,
+              "expanded_url": "https://x.com/TungstenExp/status/1889770992664281184/photo/1",
+              "media_key": "3_1889770473644326912",
+              "start": 76,
+              "url": "https://t.co/bOVAPIz4A5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890032287749906847",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 809
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889770992664281184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TungstenExp: Let me see you cry\n-\n#chainsawman193 #chainsawman #チェンソーマン https://t.co/bOVAPIz4A5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889770473644326912"
+          ]
+        },
+        "author_id": "1405151392940109827",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1889770992664281184",
+        "created_at": "2025-02-12T20:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T21:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889770992664281184"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "chainsawman193",
+              "probability": 0.545,
+              "start": 22,
+              "type": "Other"
+            },
+            {
+              "end": 48,
+              "normalized_text": "chainsawman",
+              "probability": 0.534,
+              "start": 38,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 21,
+              "tag": "chainsawman193"
+            },
+            {
+              "end": 49,
+              "start": 37,
+              "tag": "chainsawman"
+            },
+            {
+              "end": 58,
+              "start": 50,
+              "tag": "チェンソーマン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bOVAPIz4A5",
+              "end": 82,
+              "expanded_url": "https://x.com/TungstenExp/status/1889770992664281184/photo/1",
+              "media_key": "3_1889770473644326912",
+              "start": 59,
+              "url": "https://t.co/bOVAPIz4A5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889770992664281184",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 613,
+          "impression_count": 47573,
+          "like_count": 5748,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 809
+        },
+        "reply_settings": "everyone",
+        "text": "Let me see you cry\n-\n#chainsawman193 #chainsawman #チェンソーマン https://t.co/bOVAPIz4A5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "Our very existence belongs to pride.",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 150,
+          "like_count": 6920,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1328
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-16T13:15:12.000Z",
+        "description": "Rafi / TUNGSTEN\n\n- 21 - he/him - 🇨🇦🇮🇩 -\n\nI draw. I'm still learning. My art WILL be inconsistent, bear with me 😭\n. \nhttps://t.co/bRPPxajQNZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tungstenexp.carrd.co",
+                "end": 139,
+                "expanded_url": "https://tungstenexp.carrd.co",
+                "start": 116,
+                "url": "https://t.co/bRPPxajQNZ"
+              }
+            ]
+          }
+        },
+        "id": "1405151392940109827",
+        "name": "🎂TUNGSTEN - W74🎂",
+        "pinned_tweet_id": "1870958401217495484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887665636047749120/KhuWQnrI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 500,
+          "like_count": 8005,
+          "listed_count": 7,
+          "media_count": 138,
+          "tweet_count": 785
+        },
+        "username": "TungstenExp",
+        "verified": false
+      }
+    ]
+  }
+}

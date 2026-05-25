@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866743068097155072"
+      ],
+      "media_source_tweet_id": [
+        "1866743447648079881"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1866760471484960912",
+    "created_at": "2024-12-11T08:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T09:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866760471484960912"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "oc"
+        },
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "従順塵埃"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "869735415036628992",
+          "start": 3,
+          "username": "Yurichtofen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eSUzJZ4Our",
+          "end": 59,
+          "expanded_url": "https://x.com/Yurichtofen/status/1866743447648079881/photo/1",
+          "media_key": "3_1866743068097155072",
+          "start": 36,
+          "url": "https://t.co/eSUzJZ4Our"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866760471484960912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866743447648079881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yurichtofen: #oc #従順塵埃  授業の休憩時間 https://t.co/eSUzJZ4Our"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1607,
+        "media_key": "3_1866743068097155072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GegA7hTakAA5b_S.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866743068097155072"
+          ],
+          "media_source_tweet_id": [
+            "1866743447648079881"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1866760471484960912",
+        "created_at": "2024-12-11T08:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T09:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866760471484960912"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "oc"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "従順塵埃"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "869735415036628992",
+              "start": 3,
+              "username": "Yurichtofen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eSUzJZ4Our",
+              "end": 59,
+              "expanded_url": "https://x.com/Yurichtofen/status/1866743447648079881/photo/1",
+              "media_key": "3_1866743068097155072",
+              "start": 36,
+              "url": "https://t.co/eSUzJZ4Our"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866760471484960912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866743447648079881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yurichtofen: #oc #従順塵埃  授業の休憩時間 https://t.co/eSUzJZ4Our"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866743068097155072"
+          ]
+        },
+        "author_id": "869735415036628992",
+        "conversation_id": "1866743447648079881",
+        "created_at": "2024-12-11T07:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T08:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866743447648079881"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "oc"
+            },
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "従順塵埃"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eSUzJZ4Our",
+              "end": 42,
+              "expanded_url": "https://x.com/Yurichtofen/status/1866743447648079881/photo/1",
+              "media_key": "3_1866743068097155072",
+              "start": 19,
+              "url": "https://t.co/eSUzJZ4Our"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866743447648079881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 998,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "#oc #従順塵埃  授業の休憩時間 https://t.co/eSUzJZ4Our"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 5835,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1015
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-31T02:00:56.000Z",
+        "description": "日本語を勉強している留学生、ゲームプロデューサー、イラストレーター\n百合を描く",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/yurichtofen",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/yurichtofen",
+                "start": 0,
+                "url": "https://t.co/to8wqBotlz"
+              }
+            ]
+          }
+        },
+        "id": "869735415036628992",
+        "location": "イーロン・マスク氏の墓石の前で",
+        "name": "Yurika-R🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824379702250967041/H0o2Ae8P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24330,
+          "following_count": 443,
+          "like_count": 951,
+          "listed_count": 206,
+          "media_count": 220,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/to8wqBotlz",
+        "username": "Yurichtofen",
+        "verified": true
+      }
+    ]
+  }
+}

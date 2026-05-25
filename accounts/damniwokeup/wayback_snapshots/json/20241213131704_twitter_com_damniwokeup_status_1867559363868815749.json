@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867275068549869568"
+      ],
+      "media_source_tweet_id": [
+        "1867275076837814627"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1867559363868815749",
+    "created_at": "2024-12-13T13:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T14:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867559363868815749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1639819054256107521",
+          "start": 3,
+          "username": "shiej007"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IQfw7al59B",
+          "end": 47,
+          "expanded_url": "https://x.com/shiej007/status/1867275076837814627/photo/1",
+          "media_key": "3_1867275068549869568",
+          "start": 24,
+          "url": "https://t.co/IQfw7al59B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867559363868815749",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 684
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867275076837814627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiej007: 9s redraw https://t.co/IQfw7al59B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1867275068549869568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GenkyBbbsAAjoWc.jpg",
+        "width": 1523
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867275068549869568"
+          ],
+          "media_source_tweet_id": [
+            "1867275076837814627"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1867559363868815749",
+        "created_at": "2024-12-13T13:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T14:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867559363868815749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1639819054256107521",
+              "start": 3,
+              "username": "shiej007"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQfw7al59B",
+              "end": 47,
+              "expanded_url": "https://x.com/shiej007/status/1867275076837814627/photo/1",
+              "media_key": "3_1867275068549869568",
+              "start": 24,
+              "url": "https://t.co/IQfw7al59B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867559363868815749",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 684
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867275076837814627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiej007: 9s redraw https://t.co/IQfw7al59B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867275068549869568"
+          ]
+        },
+        "author_id": "1639819054256107521",
+        "conversation_id": "1867275076837814627",
+        "created_at": "2024-12-12T18:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T19:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867275076837814627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQfw7al59B",
+              "end": 33,
+              "expanded_url": "https://x.com/shiej007/status/1867275076837814627/photo/1",
+              "media_key": "3_1867275068549869568",
+              "start": 10,
+              "url": "https://t.co/IQfw7al59B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867275076837814627",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 454,
+          "impression_count": 73150,
+          "like_count": 4866,
+          "quote_count": 8,
+          "reply_count": 12,
+          "retweet_count": 684
+        },
+        "reply_settings": "everyone",
+        "text": "9s redraw https://t.co/IQfw7al59B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 146,
+          "like_count": 5930,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1055
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:38:36.000Z",
+        "description": "NO AI🚫 | Commissions: https://t.co/t0oAiSd3y5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vgen.co/shiej007",
+                "end": 45,
+                "expanded_url": "https://vgen.co/shiej007",
+                "start": 22,
+                "url": "https://t.co/t0oAiSd3y5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/shiej007",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/shiej007",
+                "start": 0,
+                "url": "https://t.co/c7faD2X93h"
+              }
+            ]
+          }
+        },
+        "id": "1639819054256107521",
+        "location": "Prints and all links →",
+        "name": "shie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695439605439639552/x80woePX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29943,
+          "following_count": 316,
+          "like_count": 5753,
+          "listed_count": 183,
+          "media_count": 106,
+          "tweet_count": 1292
+        },
+        "url": "https://t.co/c7faD2X93h",
+        "username": "shiej007",
+        "verified": false
+      }
+    ]
+  }
+}

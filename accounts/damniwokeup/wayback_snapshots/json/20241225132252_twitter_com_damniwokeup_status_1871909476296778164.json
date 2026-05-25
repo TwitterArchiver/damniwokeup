@@ -1,0 +1,564 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871849488287158272"
+      ],
+      "media_source_tweet_id": [
+        "1871849492087259382"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "1871909476296778164",
+    "created_at": "2024-12-25T13:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T14:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871909476296778164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1355861536976248836",
+          "start": 3,
+          "username": "hamafugu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C5mHpZYRk9",
+          "end": 57,
+          "expanded_url": "https://x.com/hamafugu/status/1871849492087259382/photo/1",
+          "media_key": "3_1871849488287158272",
+          "start": 34,
+          "url": "https://t.co/C5mHpZYRk9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871909476296778164",
+    "lang": "et",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 939
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871849492087259382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hamafugu: 𝐌𝐞𝐫𝐫𝐲 𝐂𝐡𝐫𝐢𝐬𝐭𝐦𝐚𝐬🎅🏻🎄🤍 https://t.co/C5mHpZYRk9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1871849488287158272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfolMS5aUAAsfo_.jpg",
+        "width": 1430
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871849488287158272"
+          ],
+          "media_source_tweet_id": [
+            "1871849492087259382"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "1871909476296778164",
+        "created_at": "2024-12-25T13:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T14:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871909476296778164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1355861536976248836",
+              "start": 3,
+              "username": "hamafugu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5mHpZYRk9",
+              "end": 57,
+              "expanded_url": "https://x.com/hamafugu/status/1871849492087259382/photo/1",
+              "media_key": "3_1871849488287158272",
+              "start": 34,
+              "url": "https://t.co/C5mHpZYRk9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871909476296778164",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 939
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871849492087259382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hamafugu: 𝐌𝐞𝐫𝐫𝐲 𝐂𝐡𝐫𝐢𝐬𝐭𝐦𝐚𝐬🎅🏻🎄🤍 https://t.co/C5mHpZYRk9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871849488287158272"
+          ]
+        },
+        "author_id": "1355861536976248836",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "1871849492087259382",
+        "created_at": "2024-12-25T09:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T10:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871849492087259382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5mHpZYRk9",
+              "end": 43,
+              "expanded_url": "https://x.com/hamafugu/status/1871849492087259382/photo/1",
+              "media_key": "3_1871849488287158272",
+              "start": 20,
+              "url": "https://t.co/C5mHpZYRk9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871849492087259382",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 658,
+          "impression_count": 140520,
+          "like_count": 9883,
+          "quote_count": 8,
+          "reply_count": 8,
+          "retweet_count": 939
+        },
+        "reply_settings": "everyone",
+        "text": "𝐌𝐞𝐫𝐫𝐲 𝐂𝐡𝐫𝐢𝐬𝐭𝐦𝐚𝐬🎅🏻🎄🤍 https://t.co/C5mHpZYRk9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 148,
+          "like_count": 6348,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1211
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-31T12:52:50.000Z",
+        "description": "illustration animation 実績等の情報は下記のリンクからご確認いただけます。 リプ・DMあまり返せませんがよく読んで元気もらってます、ありがとうございます。ご連絡先📧fuguhama@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/hamafugu",
+                "end": 23,
+                "expanded_url": "https://potofu.me/hamafugu",
+                "start": 0,
+                "url": "https://t.co/i5KLP8RjlE"
+              }
+            ]
+          }
+        },
+        "id": "1355861536976248836",
+        "location": "連絡先、ポートフォリオ(過去のお仕事)、グッズ、他SNS等→",
+        "name": "はまふぐ▶「GAL★LERY」💘通販開始",
+        "pinned_tweet_id": "1856989281086280084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588907980346400768/B7Ee9YiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147249,
+          "following_count": 761,
+          "like_count": 30839,
+          "listed_count": 1068,
+          "media_count": 302,
+          "tweet_count": 7375
+        },
+        "url": "https://t.co/i5KLP8RjlE",
+        "username": "hamafugu",
+        "verified": true
+      }
+    ]
+  }
+}

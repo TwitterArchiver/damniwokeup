@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022778256139702272"
+      ],
+      "media_source_tweet_id": [
+        "2022778420761882989"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "2023084094842913050",
+    "created_at": "2026-02-15T17:16:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T18:16:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023084094842913050"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 72,
+          "normalized_text": "ddlcfanart",
+          "probability": 0.4995,
+          "start": 63,
+          "type": "Other"
+        },
+        {
+          "end": 84,
+          "normalized_text": "DDLCSayori",
+          "probability": 0.41,
+          "start": 75,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 73,
+          "start": 62,
+          "tag": "ddlcfanart"
+        },
+        {
+          "end": 85,
+          "start": 74,
+          "tag": "DDLCSayori"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1427395171864481795",
+          "start": 3,
+          "username": "PastaOnFloor"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s8tvuXmbpo",
+          "end": 109,
+          "expanded_url": "https://x.com/PastaOnFloor/status/2022778420761882989/photo/1",
+          "media_key": "3_2022778256139702272",
+          "start": 86,
+          "url": "https://t.co/s8tvuXmbpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023084094842913050",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 769
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022778420761882989",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PastaOnFloor: I would have loved to spend today with you.\n#ddlcfanart #DDLCSayori https://t.co/s8tvuXmbpo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2022778256139702272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBJaG1iXUAA26MH.jpg",
+        "width": 3143
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022778256139702272"
+          ],
+          "media_source_tweet_id": [
+            "2022778420761882989"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "2023084094842913050",
+        "created_at": "2026-02-15T17:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T18:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023084094842913050"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 72,
+              "normalized_text": "ddlcfanart",
+              "probability": 0.4995,
+              "start": 63,
+              "type": "Other"
+            },
+            {
+              "end": 84,
+              "normalized_text": "DDLCSayori",
+              "probability": 0.41,
+              "start": 75,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 62,
+              "tag": "ddlcfanart"
+            },
+            {
+              "end": 85,
+              "start": 74,
+              "tag": "DDLCSayori"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1427395171864481795",
+              "start": 3,
+              "username": "PastaOnFloor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s8tvuXmbpo",
+              "end": 109,
+              "expanded_url": "https://x.com/PastaOnFloor/status/2022778420761882989/photo/1",
+              "media_key": "3_2022778256139702272",
+              "start": 86,
+              "url": "https://t.co/s8tvuXmbpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023084094842913050",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 769
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022778420761882989",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PastaOnFloor: I would have loved to spend today with you.\n#ddlcfanart #DDLCSayori https://t.co/s8tvuXmbpo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022778256139702272"
+          ]
+        },
+        "author_id": "1427395171864481795",
+        "conversation_id": "2022778420761882989",
+        "created_at": "2026-02-14T21:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T22:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022778420761882989"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "ddlcfanart",
+              "probability": 0.5313,
+              "start": 45,
+              "type": "Other"
+            },
+            {
+              "end": 66,
+              "normalized_text": "DDLCSayori",
+              "probability": 0.4383,
+              "start": 57,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 44,
+              "tag": "ddlcfanart"
+            },
+            {
+              "end": 67,
+              "start": 56,
+              "tag": "DDLCSayori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s8tvuXmbpo",
+              "end": 91,
+              "expanded_url": "https://x.com/PastaOnFloor/status/2022778420761882989/photo/1",
+              "media_key": "3_2022778256139702272",
+              "start": 68,
+              "url": "https://t.co/s8tvuXmbpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022778420761882989",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 384,
+          "impression_count": 22986,
+          "like_count": 3632,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 769
+        },
+        "reply_settings": "everyone",
+        "text": "I would have loved to spend today with you.\n#ddlcfanart #DDLCSayori https://t.co/s8tvuXmbpo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 153,
+          "like_count": 7417,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1328
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-16T22:21:49.000Z",
+        "description": "20 | I do what needs to be done. What do you expect from a true freak?! | Draws on the rarest of occasions | DMs are open but full of bots so I may not see them",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "demonssouls.wiki.fextralife.com/Penetrator",
+                "end": 23,
+                "expanded_url": "https://demonssouls.wiki.fextralife.com/Penetrator",
+                "start": 0,
+                "url": "https://t.co/OLgD7G4gxi"
+              }
+            ]
+          }
+        },
+        "id": "1427395171864481795",
+        "location": "Betrayed and Trapped. He/Him ",
+        "name": "Legendary FloorPasta",
+        "pinned_tweet_id": "1989807349024936046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937764955052290048/e4KMSHQT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 184,
+          "like_count": 20912,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 480
+        },
+        "url": "https://t.co/OLgD7G4gxi",
+        "username": "PastaOnFloor",
+        "verified": false
+      }
+    ]
+  }
+}

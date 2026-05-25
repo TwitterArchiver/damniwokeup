@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026282581797507072"
+      ],
+      "media_source_tweet_id": [
+        "2026282584565756178"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "2026594893557350804",
+    "created_at": "2026-02-25T09:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T10:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026594893557350804"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 18,
+          "tag": "金剛力也像"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "872441382962511872",
+          "start": 3,
+          "username": "mirukurumi_V"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CCRWPpCQW9",
+          "end": 54,
+          "expanded_url": "https://x.com/mirukurumi_V/status/2026282584565756178/photo/1",
+          "media_key": "3_2026282581797507072",
+          "start": 31,
+          "url": "https://t.co/CCRWPpCQW9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026594893557350804",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 313
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026282584565756178",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mirukurumi_V: #金剛力也像 \n思想信条 https://t.co/CCRWPpCQW9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026282581797507072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7NRb6aEAAjwQr.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026282581797507072"
+          ],
+          "media_source_tweet_id": [
+            "2026282584565756178"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "2026594893557350804",
+        "created_at": "2026-02-25T09:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T10:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026594893557350804"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "金剛力也像"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "872441382962511872",
+              "start": 3,
+              "username": "mirukurumi_V"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CCRWPpCQW9",
+              "end": 54,
+              "expanded_url": "https://x.com/mirukurumi_V/status/2026282584565756178/photo/1",
+              "media_key": "3_2026282581797507072",
+              "start": 31,
+              "url": "https://t.co/CCRWPpCQW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026594893557350804",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 313
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026282584565756178",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mirukurumi_V: #金剛力也像 \n思想信条 https://t.co/CCRWPpCQW9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026282581797507072"
+          ]
+        },
+        "author_id": "872441382962511872",
+        "conversation_id": "2026282584565756178",
+        "created_at": "2026-02-24T13:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026282584565756178"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "金剛力也像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CCRWPpCQW9",
+              "end": 36,
+              "expanded_url": "https://x.com/mirukurumi_V/status/2026282584565756178/photo/1",
+              "media_key": "3_2026282581797507072",
+              "start": 13,
+              "url": "https://t.co/CCRWPpCQW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026282584565756178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 267,
+          "impression_count": 57553,
+          "like_count": 7767,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 313
+        },
+        "reply_settings": "everyone",
+        "text": "#金剛力也像 \n思想信条 https://t.co/CCRWPpCQW9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2026181607040925930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 155,
+          "like_count": 7643,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 1345
+        },
+        "username": "damniwokeup",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-07T13:13:29.000Z",
+        "description": "趣味で絵を描いています/にじさんじ⚔️🎶📚🗣︎♫💮リスナー/ウマ娘(ウマトレ♀)/素敵な相方様🫶(@xx7_shino)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "xx7_shino"
+              }
+            ]
+          }
+        },
+        "id": "872441382962511872",
+        "location": "ꘜ虚空教信者ꘜ/詩育ネキ",
+        "name": "みるくるみ",
+        "pinned_tweet_id": "1983551389101089006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022982904457089024/dQLGvjMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3664,
+          "following_count": 1468,
+          "like_count": 32278,
+          "listed_count": 93,
+          "media_count": 2711,
+          "tweet_count": 34564
+        },
+        "username": "mirukurumi_V",
+        "verified": false
+      }
+    ]
+  }
+}

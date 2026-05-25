@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876059917570002944"
+      ],
+      "media_source_tweet_id": [
+        "1876062122796368070"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1876104381323681868",
+    "created_at": "2025-01-06T03:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T04:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876104381323681868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1337576099140624387",
+          "start": 3,
+          "username": "perfectsunday2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XcIizQSthm",
+          "end": 46,
+          "expanded_url": "https://x.com/perfectsunday2/status/1876062122796368070/photo/1",
+          "media_key": "3_1876059917570002944",
+          "start": 23,
+          "url": "https://t.co/XcIizQSthm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876104381323681868",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876062122796368070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @perfectsunday2: 寒い https://t.co/XcIizQSthm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 818,
+        "media_key": "3_1876059917570002944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgkajiQb0AAL4Hm.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876059917570002944"
+          ],
+          "media_source_tweet_id": [
+            "1876062122796368070"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1876104381323681868",
+        "created_at": "2025-01-06T03:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T04:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876104381323681868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1337576099140624387",
+              "start": 3,
+              "username": "perfectsunday2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XcIizQSthm",
+              "end": 46,
+              "expanded_url": "https://x.com/perfectsunday2/status/1876062122796368070/photo/1",
+              "media_key": "3_1876059917570002944",
+              "start": 23,
+              "url": "https://t.co/XcIizQSthm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876104381323681868",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876062122796368070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @perfectsunday2: 寒い https://t.co/XcIizQSthm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876059917570002944"
+          ]
+        },
+        "author_id": "1337576099140624387",
+        "conversation_id": "1876062122796368070",
+        "created_at": "2025-01-06T00:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T01:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876062122796368070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XcIizQSthm",
+              "end": 26,
+              "expanded_url": "https://x.com/perfectsunday2/status/1876062122796368070/photo/1",
+              "media_key": "3_1876059917570002944",
+              "start": 3,
+              "url": "https://t.co/XcIizQSthm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876062122796368070",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 4109,
+          "like_count": 491,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "寒い https://t.co/XcIizQSthm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 151,
+          "like_count": 6551,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1279
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-12T01:52:56.000Z",
+        "description": "恋する水彩。たまに油彩。\n\nフォローすると、心に優しいイメージが、あなたのタイムラインに流れます。\n\nまとめ\nhttps://t.co/SOm2KG6Kft",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "perfectsunday.work",
+                "end": 78,
+                "expanded_url": "http://perfectsunday.work",
+                "start": 55,
+                "url": "https://t.co/SOm2KG6Kft"
+              }
+            ]
+          }
+        },
+        "id": "1337576099140624387",
+        "location": "无所谓",
+        "name": "パフェさん",
+        "pinned_tweet_id": "1723100217816301679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1438503030182187013/nIAiMnzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34403,
+          "following_count": 890,
+          "like_count": 95326,
+          "listed_count": 342,
+          "media_count": 1089,
+          "tweet_count": 13501
+        },
+        "username": "perfectsunday2",
+        "verified": true
+      }
+    ]
+  }
+}

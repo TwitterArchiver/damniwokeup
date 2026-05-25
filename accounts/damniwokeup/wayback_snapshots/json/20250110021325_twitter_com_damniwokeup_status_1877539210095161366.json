@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1877539210095161366",
+    "created_at": "2025-01-10T02:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T03:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877539210095161366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1082600293475397634",
+          "start": 3,
+          "username": "Kirakiradove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877539210095161366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860362120904474769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kirakiradove: 当我的小姑娘离开我的时候，我的确感觉有点懵，紧接着就是替她感到高兴。\n\n她终于找到自己的归宿了。\n\n我和她是高中同学，我比她大两岁，她是一个很疯的人，整个教室里面最闹的就是她。也就是她成绩好，不然早就被老班开回去不知道多少回了。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1877539210095161366",
+        "created_at": "2025-01-10T02:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T03:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877539210095161366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1082600293475397634",
+              "start": 3,
+              "username": "Kirakiradove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877539210095161366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860362120904474769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kirakiradove: 当我的小姑娘离开我的时候，我的确感觉有点懵，紧接着就是替她感到高兴。\n\n她终于找到自己的归宿了。\n\n我和她是高中同学，我比她大两岁，她是一个很疯的人，整个教室里面最闹的就是她。也就是她成绩好，不然早就被老班开回去不知道多少回了。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1082600293475397634",
+        "conversation_id": "1860362120904474769",
+        "created_at": "2024-11-23T16:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T17:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860362120904474769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860362120904474769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "当我的小姑娘离开我的时候，我的确感觉有点懵，紧接着就是替她感到高兴。\n\n她终于找到自己的归宿了。\n\n我和她是高中同学，我比她大两岁，她是一个很疯的人，整个教室里面最闹的就是她。也就是她成绩好，不然早就被老班开回去不知道多少回了。\n\n她大大咧咧的，没心没肺像个孩子。见到好看的小哥哥小姐姐就走不动道。为此我心平气和的和她谈了不知道多少次。\n\n“你是不是吃醋了”\n\n“我没有。”其实是有的，但是我不想承认。\n\n“哎呀哎呀我还不知道你，你就是一老坛酸醋，酸都酸死了。外面的凡夫俗子怎么能和你这朵高岭之花相提并论呢？他们不配，好了好了大美人儿快让爷香一个嘿嘿嘿。”\n\n真不知道她怎么想的。\n\n高二下学期，她成为我的同桌，那时候我们刚刚交往。她经常刷题刷到一半就盯着我发呆。直到我忍无可忍，侧过头来看她，她才嘿嘿一笑继续低下头写题。\n\n“没办法嘛，人家就是觉得你好好看啊，多看两眼而已啦。”\n\n直到有一次阴天，她抬起头，我以为她又在看我，我本想再好好和她谈谈注意力不集中的问题，但她这次没看我，她看向了窗外。\n\n我说不清楚那是一种什么样的表情，她的眼睛里出现了一种漠然的神色，悲伤却平静的看着窗外。她好像在走神，又好像在想事情，陷入了一个深渊一般。\n\n我愣住了。\n\n她其实很好看，皮肤很白，笑起来有两个梨涡，安静的时候其实看上去很温柔，眼里满是天真。\n\n我当时莫名其妙的一阵心慌，就是感觉很害怕。于是轻轻的拍了拍她，我想问一下她怎么了，她居然被吓了一跳，眼里突然就盛满了泪水，怔怔的看着我。\n\n现在我明白了，她的确是在回忆过去，而且是很不好的那种。我打断了她，结果就是她没缓过来，回忆与现实交织在一起了。\n\n她其实也就愣了一下，很快就平复下来了。然后一如既往地，好像什么都没发生一样的笑着看我\n\n“美人儿，你今天真好看。”\n\n“你怎么了？”\n\n“没事啊，就是觉得要是以后毕业了见不到你觉得很难过罢了。”\n\n我心里还是有点开心的。\n\n“不过中华儿女千千万，实在不行咱就换。我也不能在一棵树上吊死呀。”她耸耸肩，一副“老子风流倜傥”的样子屁颠屁颠的去接水了。\n\n“……”\n\n心态崩了。\n\n看着她离去的背影，我心里还是有疑问的，目光转移到她抽屉里的一个小角落。\n\n那里有一个药品分装盒。透明的包装可以清晰的看到每一格都塞满了药。\n\n我很早之前就看见了，当时问她她也只是说就是维C之类的营养品。现在看来，不止这么简单。\n\n谁家吃维C一天吃七八片？疯了吧？\n\n我看到有一个药上刻着几个字母，是什么我忘了，但是我把这几个字母用百度一搜，出现了我不曾想过的结果。\n\n本品用于治疗各种类型的抑郁症，包括伴有焦虑的抑郁症及反应性抑郁症。\n\n说不震惊是假的。我当时真的愣了半天。\n\n为什么呢？\n\n她明明是一个那么开朗的女孩。明明每天都是带给大家欢乐的小太阳啊。\n\n怎么会这样。不应该啊。\n\n我当时除了震惊之余，更多的还是心疼。我实在想不出来一个17岁的小姑娘经历过什么才会有这样可怕的心理疾病。\n\n这是会要命的。\n\n从很早我就看见她吃药，应该是高一军训的时候就发现了。\n\n也就是说她被抑郁症纠缠了两年之久，甚至更长的时间。\n\n我再也不敢细想。关掉了手机，把药放回盒子里，假装什么都不知道。静静的看着教室门口。\n\n我从来没有这样的想让她回到我的视线范围内。\n\n她终于回来了，带着装满水的杯子，不知道在和谁说着什么，突然开心的笑了。阳光正好打在她的头发上，像是镀了一层金。她的目光锁定了我，我们四目相对，她冲我微微一笑，眼里是我没见过的温柔。\n\n那是我见过的最好看的女孩。\n\n我用尽了全身的力气才压制住不跑过去把她抱在怀里的冲动。\n\n那样太傻了。\n\n我不是一个愿意和别人交流的人，大多时候我更喜欢一个人待着。\n\n其实说白了就是不知道怎么与人相处。我一紧张就会结巴，忘记自己事先准备好的台词。虽然在普通朋友面前还是可以做好一切，但是面对她，我真的不想在她面前显得那么笨。\n\n这使我足足从早上到下午放学一直没敢开口。\n\n终于，走在放学的路上，在她吃着冰淇淋，看着广场的小吃摊两眼发光的时，我终于忍不住把她拉到一个小角落里开了口。\n\n“你…你…你。”\n\n？？？\n\n“我我我怎么了哈哈哈笑死我了你为什么结巴了哈哈哈哈哈高岭之花你的人设崩了呀哈哈哈哈”\n\n她笑的眼泪都出来了\n\n我当时一点也笑不出来。\n\n有那么好笑吗？\n\n“你…你…你的药我…看见了，还好吗？”\n\n笑声戛然而止，只有远处的小吃店吆喝的声音。\n\n那一瞬间我感觉所有的肌肉都紧绷了，我突然不想听到她的回答了。\n\n我很害怕，我怕她生气了。怕她不愿意和我一起上下学了。怕她因为我知道了她最不愿提起的秘密从此疏远我。\n\n怕我最喜欢的女孩子讨厌我。\n\n但她什么都没说，只是安安静静的看着我。眼里都是胆怯与防备，就那样像个小刺猬一样盯着我看\n\n良久，她闭上眼，再睁开时又成了往日的她\n\n“就是你想的那样，惊不惊喜，意不意外，刺不刺激哈哈哈。没事没事都是小问题。”\n\n她挥了挥手，打算走出这个角落\n\n我就知道。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 8659,
+          "like_count": 107,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "当我的小姑娘离开我的时候，我的确感觉有点懵，紧接着就是替她感到高兴。\n\n她终于找到自己的归宿了。\n\n我和她是高中同学，我比她大两岁，她是一个很疯的人，整个教室里面最闹的就是她。也就是她成绩好，不然早就被老班开回去不知道多少回了。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 151,
+          "like_count": 6621,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1308
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T11:29:58.000Z",
+        "description": "我叫可可，希望你幸福。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Per.aspera.ad.astra.com",
+                "end": 23,
+                "expanded_url": "http://Per.aspera.ad.astra.com",
+                "start": 0,
+                "url": "https://t.co/kmvaJybPCp"
+              }
+            ]
+          }
+        },
+        "id": "1082600293475397634",
+        "location": "无性别",
+        "name": "うさココ",
+        "pinned_tweet_id": "1859467840635748539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514216529138696193/5YBbERgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6963,
+          "following_count": 0,
+          "like_count": 15450,
+          "listed_count": 14,
+          "media_count": 343,
+          "tweet_count": 10220
+        },
+        "url": "https://t.co/kmvaJybPCp",
+        "username": "Kirakiradove",
+        "verified": false
+      }
+    ]
+  }
+}

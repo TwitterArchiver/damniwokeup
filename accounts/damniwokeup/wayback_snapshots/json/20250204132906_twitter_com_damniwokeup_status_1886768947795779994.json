@@ -1,0 +1,744 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886298247012233216"
+      ],
+      "media_source_tweet_id": [
+        "1886298249751060619"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898900390707204",
+          "name": "JRPGs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1886768947795779994",
+    "created_at": "2025-02-04T13:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T14:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886768947795779994"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "明智吾郎"
+        },
+        {
+          "end": 31,
+          "start": 20,
+          "tag": "goroakechi"
+        },
+        {
+          "end": 36,
+          "start": 32,
+          "tag": "p5r"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1323098328444227589",
+          "start": 3,
+          "username": "corpseJ2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y42LjWjGmy",
+          "end": 65,
+          "expanded_url": "https://x.com/corpseJ2/status/1886298249751060619/photo/1",
+          "media_key": "3_1886298247012233216",
+          "start": 42,
+          "url": "https://t.co/Y42LjWjGmy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886768947795779994",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2266
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886298249751060619",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @corpseJ2: #明智吾郎\n#goroakechi\n#p5r\n0202 https://t.co/Y42LjWjGmy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1886298247012233216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi16QvmbMAAlonx.jpg",
+        "width": 1416
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886298247012233216"
+          ],
+          "media_source_tweet_id": [
+            "1886298249751060619"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1886768947795779994",
+        "created_at": "2025-02-04T13:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T14:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886768947795779994"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "明智吾郎"
+            },
+            {
+              "end": 31,
+              "start": 20,
+              "tag": "goroakechi"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "p5r"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1323098328444227589",
+              "start": 3,
+              "username": "corpseJ2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y42LjWjGmy",
+              "end": 65,
+              "expanded_url": "https://x.com/corpseJ2/status/1886298249751060619/photo/1",
+              "media_key": "3_1886298247012233216",
+              "start": 42,
+              "url": "https://t.co/Y42LjWjGmy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886768947795779994",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2266
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886298249751060619",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @corpseJ2: #明智吾郎\n#goroakechi\n#p5r\n0202 https://t.co/Y42LjWjGmy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886298247012233216"
+          ]
+        },
+        "author_id": "1323098328444227589",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1886298249751060619",
+        "created_at": "2025-02-03T06:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T07:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886298249751060619"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "明智吾郎"
+            },
+            {
+              "end": 17,
+              "start": 6,
+              "tag": "goroakechi"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "p5r"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y42LjWjGmy",
+              "end": 51,
+              "expanded_url": "https://x.com/corpseJ2/status/1886298249751060619/photo/1",
+              "media_key": "3_1886298247012233216",
+              "start": 28,
+              "url": "https://t.co/Y42LjWjGmy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886298249751060619",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2924,
+          "impression_count": 295379,
+          "like_count": 15888,
+          "quote_count": 60,
+          "reply_count": 9,
+          "retweet_count": 2266
+        },
+        "reply_settings": "everyone",
+        "text": "#明智吾郎\n#goroakechi\n#p5r\n0202 https://t.co/Y42LjWjGmy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 150,
+          "like_count": 6818,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1314
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-02T03:03:30.000Z",
+        "description": "19↑/🇨🇳/中文  i'm not good at english,I use a translator",
+        "id": "1323098328444227589",
+        "name": "🔪corpse🔪",
+        "pinned_tweet_id": "1796919645976527342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785670780292055041/Ls9wP1B8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8053,
+          "following_count": 289,
+          "like_count": 992,
+          "listed_count": 38,
+          "media_count": 59,
+          "tweet_count": 484
+        },
+        "username": "corpseJ2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942179887286194176"
+      ],
+      "media_source_tweet_id": [
+        "1942179889718980815"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1966910992413286522",
+    "created_at": "2025-09-13T17:04:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T18:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966910992413286522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1643908437494099968",
+          "start": 3,
+          "username": "hp__001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HPAW4nXh0l",
+          "end": 36,
+          "expanded_url": "https://x.com/hp__001/status/1942179889718980815/photo/1",
+          "media_key": "3_1942179887286194176",
+          "start": 13,
+          "url": "https://t.co/HPAW4nXh0l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966910992413286522",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 197
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942179889718980815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hp__001: https://t.co/HPAW4nXh0l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942179887286194176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvQCUT-aEAAFg-p.jpg",
+        "width": 1339
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942179887286194176"
+          ],
+          "media_source_tweet_id": [
+            "1942179889718980815"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1966910992413286522",
+        "created_at": "2025-09-13T17:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T18:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966910992413286522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1643908437494099968",
+              "start": 3,
+              "username": "hp__001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HPAW4nXh0l",
+              "end": 36,
+              "expanded_url": "https://x.com/hp__001/status/1942179889718980815/photo/1",
+              "media_key": "3_1942179887286194176",
+              "start": 13,
+              "url": "https://t.co/HPAW4nXh0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966910992413286522",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 197
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942179889718980815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hp__001: https://t.co/HPAW4nXh0l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942179887286194176"
+          ]
+        },
+        "author_id": "1643908437494099968",
+        "conversation_id": "1942179889718980815",
+        "created_at": "2025-07-07T11:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T12:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942179889718980815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HPAW4nXh0l",
+              "end": 23,
+              "expanded_url": "https://x.com/hp__001/status/1942179889718980815/photo/1",
+              "media_key": "3_1942179887286194176",
+              "start": 0,
+              "url": "https://t.co/HPAW4nXh0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942179889718980815",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 252,
+          "impression_count": 51464,
+          "like_count": 2957,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 197
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HPAW4nXh0l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Phoenix, AZ",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 141,
+          "like_count": 6950,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1249
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T09:28:45.000Z",
+        "description": "絵を描きます。skeb▶ https://t.co/a5lPfqg5vk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@hp__001",
+                "end": 36,
+                "expanded_url": "http://skeb.jp/@hp__001",
+                "start": 13,
+                "url": "https://t.co/a5lPfqg5vk"
+              }
+            ]
+          }
+        },
+        "id": "1643908437494099968",
+        "name": "ぐるる",
+        "pinned_tweet_id": "1942179889718980815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893313042022109184/vsZ-r68I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7242,
+          "following_count": 175,
+          "like_count": 3411,
+          "listed_count": 33,
+          "media_count": 86,
+          "tweet_count": 518
+        },
+        "username": "hp__001",
+        "verified": false
+      }
+    ]
+  }
+}

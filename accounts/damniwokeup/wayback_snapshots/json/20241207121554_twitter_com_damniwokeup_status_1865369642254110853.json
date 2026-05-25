@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1865143141126307840"
+      ],
+      "media_source_tweet_id": [
+        "1865143395959677431"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1865369642254110853",
+    "created_at": "2024-12-07T12:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T13:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865369642254110853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3331362597",
+          "start": 3,
+          "username": "GifsAnime_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ELuX7DwUfC",
+          "end": 60,
+          "expanded_url": "https://x.com/GifsAnime_/status/1865143395959677431/photo/1",
+          "media_key": "3_1865143141126307840",
+          "start": 37,
+          "url": "https://t.co/ELuX7DwUfC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865369642254110853",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865143395959677431",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GifsAnime_: Ryo Yamada\n🎨 : yakkl https://t.co/ELuX7DwUfC"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Anime : Bocchi The Rock ",
+        "height": 1062,
+        "media_key": "3_1865143141126307840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeJRzg4XAAAMtdb.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865143141126307840"
+          ],
+          "media_source_tweet_id": [
+            "1865143395959677431"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1865369642254110853",
+        "created_at": "2024-12-07T12:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T13:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865369642254110853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3331362597",
+              "start": 3,
+              "username": "GifsAnime_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ELuX7DwUfC",
+              "end": 60,
+              "expanded_url": "https://x.com/GifsAnime_/status/1865143395959677431/photo/1",
+              "media_key": "3_1865143141126307840",
+              "start": 37,
+              "url": "https://t.co/ELuX7DwUfC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865369642254110853",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865143395959677431",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GifsAnime_: Ryo Yamada\n🎨 : yakkl https://t.co/ELuX7DwUfC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865143141126307840"
+          ]
+        },
+        "author_id": "3331362597",
+        "conversation_id": "1865143395959677431",
+        "created_at": "2024-12-06T21:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T22:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865143395959677431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ELuX7DwUfC",
+              "end": 44,
+              "expanded_url": "https://x.com/GifsAnime_/status/1865143395959677431/photo/1",
+              "media_key": "3_1865143141126307840",
+              "start": 21,
+              "url": "https://t.co/ELuX7DwUfC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865143395959677431",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2797,
+          "like_count": 197,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "Ryo Yamada\n🎨 : yakkl https://t.co/ELuX7DwUfC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 145,
+          "like_count": 5673,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 956
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-17T15:13:11.000Z",
+        "description": "🇯🇵🏯 𝕏 Anime page about japanese culture🎏 and animation. Featured Gifs,videos,pictures,fan art,studio ghibli,culture threads,old school everyday. DM open ✍️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pinterest.fr/ludo_chan/",
+                "end": 23,
+                "expanded_url": "https://www.pinterest.fr/ludo_chan/",
+                "start": 0,
+                "url": "https://t.co/CDwTccEoXu"
+              }
+            ]
+          }
+        },
+        "id": "3331362597",
+        "location": "Kyoto",
+        "name": "Anime Pics & Gifs ツ",
+        "pinned_tweet_id": "1589746589266227201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/659338631744761856/kksklplx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366877,
+          "following_count": 5709,
+          "like_count": 160524,
+          "listed_count": 914,
+          "media_count": 63514,
+          "tweet_count": 71590
+        },
+        "url": "https://t.co/CDwTccEoXu",
+        "username": "GifsAnime_",
+        "verified": true
+      }
+    ]
+  }
+}

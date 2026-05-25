@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863009320499118080"
+      ],
+      "media_source_tweet_id": [
+        "1863599000701558951"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1863600123428888827",
+    "created_at": "2024-12-02T15:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T16:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863600123428888827"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "Saber",
+          "probability": 0.5794,
+          "start": 31,
+          "type": "Other"
+        },
+        {
+          "end": 52,
+          "normalized_text": "Fate",
+          "probability": 0.8094,
+          "start": 49,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 48,
+          "tag": "Fate"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753339639522590720",
+          "start": 3,
+          "username": "seraphu00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UjGAL4AkBu",
+          "end": 77,
+          "expanded_url": "https://x.com/seraphu00/status/1863599000701558951/photo/1",
+          "media_key": "3_1863009320499118080",
+          "start": 54,
+          "url": "https://t.co/UjGAL4AkBu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863600123428888827",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863599000701558951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seraphu00: Happy Birthday, Saber!\n『 12/03 』\n#Fate https://t.co/UjGAL4AkBu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2395,
+        "media_key": "3_1863009320499118080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdq9GzmXgAA0sm4.jpg",
+        "width": 2741
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863009320499118080"
+          ],
+          "media_source_tweet_id": [
+            "1863599000701558951"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1863600123428888827",
+        "created_at": "2024-12-02T15:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T16:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863600123428888827"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Saber",
+              "probability": 0.5794,
+              "start": 31,
+              "type": "Other"
+            },
+            {
+              "end": 52,
+              "normalized_text": "Fate",
+              "probability": 0.8094,
+              "start": 49,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "Fate"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753339639522590720",
+              "start": 3,
+              "username": "seraphu00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UjGAL4AkBu",
+              "end": 77,
+              "expanded_url": "https://x.com/seraphu00/status/1863599000701558951/photo/1",
+              "media_key": "3_1863009320499118080",
+              "start": 54,
+              "url": "https://t.co/UjGAL4AkBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863600123428888827",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863599000701558951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seraphu00: Happy Birthday, Saber!\n『 12/03 』\n#Fate https://t.co/UjGAL4AkBu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863009320499118080"
+          ]
+        },
+        "author_id": "1753339639522590720",
+        "conversation_id": "1863599000701558951",
+        "created_at": "2024-12-02T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863599000701558951"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Saber",
+              "probability": 0.5622,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 37,
+              "normalized_text": "Fate",
+              "probability": 0.8026,
+              "start": 34,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "Fate"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UjGAL4AkBu",
+              "end": 62,
+              "expanded_url": "https://x.com/seraphu00/status/1863599000701558951/photo/1",
+              "media_key": "3_1863009320499118080",
+              "start": 39,
+              "url": "https://t.co/UjGAL4AkBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863599000701558951",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 62,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Happy Birthday, Saber!\n『 12/03 』\n#Fate https://t.co/UjGAL4AkBu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 143,
+          "like_count": 5460,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 874
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T08:48:50.000Z",
+        "description": "✞ | 𝘛𝘠𝘗𝘌𝘔𝘖𝘖𝘕 𝘢𝘳𝘵𝘪𝘴𝘵, 𝘵𝘳𝘢𝘯𝘴𝘭𝘢𝘵𝘰𝘳 | @DailyArtoria\n📚 | Translating: Emiya Gohan Collab Cafe\n\n『Index of my work: https://t.co/OHO29XriSY』",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "DailyArtoria"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pastebin.com/7sjxAP04",
+                "end": 132,
+                "expanded_url": "http://pastebin.com/7sjxAP04",
+                "start": 109,
+                "url": "https://t.co/OHO29XriSY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/76853…",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/en/users/76853126",
+                "start": 0,
+                "url": "https://t.co/flYJC9oZlx"
+              }
+            ]
+          }
+        },
+        "id": "1753339639522590720",
+        "name": "セラフ・serafu✨",
+        "pinned_tweet_id": "1863021438313328936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863430012873150464/9CuKc_yq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 126,
+          "like_count": 9509,
+          "listed_count": 7,
+          "media_count": 1152,
+          "tweet_count": 6429
+        },
+        "url": "https://t.co/flYJC9oZlx",
+        "username": "seraphu00",
+        "verified": false
+      }
+    ]
+  }
+}

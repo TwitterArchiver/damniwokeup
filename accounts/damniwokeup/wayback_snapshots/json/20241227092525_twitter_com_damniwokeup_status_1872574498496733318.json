@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1872183886740103168"
+      ],
+      "media_source_tweet_id": [
+        "1872183944369823815"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1872574498496733318",
+    "created_at": "2024-12-27T09:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T10:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872574498496733318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1834463298823360512",
+          "start": 3,
+          "username": "YARIDEYARINAOSI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/65u2nCJlIY",
+          "end": 44,
+          "expanded_url": "https://x.com/YARIDEYARINAOSI/status/1872183944369823815/photo/1",
+          "media_key": "16_1872183886740103168",
+          "start": 21,
+          "url": "https://t.co/65u2nCJlIY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872574498496733318",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 245
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872183944369823815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YARIDEYARINAOSI: https://t.co/65u2nCJlIY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1250,
+        "media_key": "16_1872183886740103168",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GftVU2NaoAAaSYb.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GftVU2NaoAAaSYb.mp4"
+          }
+        ],
+        "width": 1250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1872183886740103168"
+          ],
+          "media_source_tweet_id": [
+            "1872183944369823815"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1872574498496733318",
+        "created_at": "2024-12-27T09:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T10:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872574498496733318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1834463298823360512",
+              "start": 3,
+              "username": "YARIDEYARINAOSI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/65u2nCJlIY",
+              "end": 44,
+              "expanded_url": "https://x.com/YARIDEYARINAOSI/status/1872183944369823815/photo/1",
+              "media_key": "16_1872183886740103168",
+              "start": 21,
+              "url": "https://t.co/65u2nCJlIY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872574498496733318",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 245
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872183944369823815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YARIDEYARINAOSI: https://t.co/65u2nCJlIY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1872183886740103168"
+          ]
+        },
+        "author_id": "1834463298823360512",
+        "conversation_id": "1872183944369823815",
+        "created_at": "2024-12-26T07:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T08:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872183944369823815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/65u2nCJlIY",
+              "end": 23,
+              "expanded_url": "https://x.com/YARIDEYARINAOSI/status/1872183944369823815/photo/1",
+              "media_key": "16_1872183886740103168",
+              "start": 0,
+              "url": "https://t.co/65u2nCJlIY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872183944369823815",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 17017,
+          "like_count": 1588,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 245
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/65u2nCJlIY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 149,
+          "like_count": 6400,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1226
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T05:25:18.000Z",
+        "description": "Q貞/53/531/31/成人済み/フォローリムブロN2ご自由に/フォロバお気遣いなく/🔞@sugoiya_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "sugoiya_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/8gx6lvjlq…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/8gx6lvjlqc6mglp8/",
+                "start": 0,
+                "url": "https://t.co/UHNOBBeeXr"
+              }
+            ]
+          }
+        },
+        "id": "1834463298823360512",
+        "location": "↑以外のcpは別垢かポイピク",
+        "name": "やりなおし",
+        "pinned_tweet_id": "1868821633320042707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867878650114359296/Z0-lgyxV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 81,
+          "like_count": 7961,
+          "listed_count": 3,
+          "media_count": 629,
+          "tweet_count": 3188
+        },
+        "url": "https://t.co/UHNOBBeeXr",
+        "username": "YARIDEYARINAOSI",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857703246560899073"
+      ],
+      "media_source_tweet_id": [
+        "1857703251078164887"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1857726350817218772",
+    "created_at": "2024-11-16T10:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T11:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857726350817218772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1725050329707036672",
+          "start": 3,
+          "username": "AS_buppa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Slnr67gRP1",
+          "end": 54,
+          "expanded_url": "https://x.com/AS_buppa/status/1857703251078164887/photo/1",
+          "media_key": "3_1857703246560899073",
+          "start": 31,
+          "url": "https://t.co/Slnr67gRP1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857726350817218772",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857703251078164887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AS_buppa: 枠なしバージョンも、アルヨ（笑） https://t.co/Slnr67gRP1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1857703246560899073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcfjQp1aMAEopse.jpg",
+        "width": 1418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857703246560899073"
+          ],
+          "media_source_tweet_id": [
+            "1857703251078164887"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1857726350817218772",
+        "created_at": "2024-11-16T10:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T11:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857726350817218772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1725050329707036672",
+              "start": 3,
+              "username": "AS_buppa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Slnr67gRP1",
+              "end": 54,
+              "expanded_url": "https://x.com/AS_buppa/status/1857703251078164887/photo/1",
+              "media_key": "3_1857703246560899073",
+              "start": 31,
+              "url": "https://t.co/Slnr67gRP1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857726350817218772",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857703251078164887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AS_buppa: 枠なしバージョンも、アルヨ（笑） https://t.co/Slnr67gRP1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857703246560899073"
+          ]
+        },
+        "author_id": "1725050329707036672",
+        "conversation_id": "1857703251078164887",
+        "created_at": "2024-11-16T08:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T09:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857703251078164887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Slnr67gRP1",
+              "end": 40,
+              "expanded_url": "https://x.com/AS_buppa/status/1857703251078164887/photo/1",
+              "media_key": "3_1857703246560899073",
+              "start": 17,
+              "url": "https://t.co/Slnr67gRP1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857703251078164887",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 6657,
+          "like_count": 545,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "枠なしバージョンも、アルヨ（笑） https://t.co/Slnr67gRP1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 125,
+          "like_count": 4824,
+          "listed_count": 0,
+          "tweet_count": 615
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-16T07:19:06.000Z",
+        "description": "俺はガブリアス 世界一のドラゴンさ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@AS_buppa",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@AS_buppa",
+                "start": 0,
+                "url": "https://t.co/VmMfhk39Wa"
+              }
+            ]
+          }
+        },
+        "id": "1725050329707036672",
+        "name": "AS",
+        "pinned_tweet_id": "1804733223517491626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844485181253746689/InaMuv8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9955,
+          "following_count": 644,
+          "like_count": 13274,
+          "listed_count": 83,
+          "tweet_count": 2504
+        },
+        "url": "https://t.co/VmMfhk39Wa",
+        "username": "AS_buppa",
+        "verified": false
+      }
+    ]
+  }
+}

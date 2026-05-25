@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1853826312022171648"
+      ],
+      "media_source_tweet_id": [
+        "1853826316421976573"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1853965263521415616",
+    "created_at": "2024-11-06T00:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T01:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853965263521415616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1465471990094249984",
+          "start": 3,
+          "username": "rurushugi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BGGH2t3ALU",
+          "end": 58,
+          "expanded_url": "https://x.com/rurushugi/status/1853826316421976573/photo/1",
+          "media_key": "3_1853826312022171648",
+          "start": 35,
+          "url": "https://t.co/BGGH2t3ALU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853965263521415616",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 206
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853826316421976573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rurushugi: 喜多セレクション(番外編)\nお気に入り https://t.co/BGGH2t3ALU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1853826312022171648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbodNXNaoAArSHF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853826312022171648"
+          ],
+          "media_source_tweet_id": [
+            "1853826316421976573"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1853965263521415616",
+        "created_at": "2024-11-06T00:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T01:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853965263521415616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1465471990094249984",
+              "start": 3,
+              "username": "rurushugi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BGGH2t3ALU",
+              "end": 58,
+              "expanded_url": "https://x.com/rurushugi/status/1853826316421976573/photo/1",
+              "media_key": "3_1853826312022171648",
+              "start": 35,
+              "url": "https://t.co/BGGH2t3ALU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853965263521415616",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853826316421976573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rurushugi: 喜多セレクション(番外編)\nお気に入り https://t.co/BGGH2t3ALU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853826312022171648"
+          ]
+        },
+        "author_id": "1465471990094249984",
+        "conversation_id": "1853826316421976573",
+        "created_at": "2024-11-05T15:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T16:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853826316421976573"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "喜多セレクション",
+              "probability": 0.305,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BGGH2t3ALU",
+              "end": 43,
+              "expanded_url": "https://x.com/rurushugi/status/1853826316421976573/photo/1",
+              "media_key": "3_1853826312022171648",
+              "start": 20,
+              "url": "https://t.co/BGGH2t3ALU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853826316421976573",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 23697,
+          "like_count": 1973,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 206
+        },
+        "reply_settings": "everyone",
+        "text": "喜多セレクション(番外編)\nお気に入り https://t.co/BGGH2t3ALU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 124,
+          "like_count": 4663,
+          "listed_count": 0,
+          "tweet_count": 531
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-30T00:05:41.000Z",
+        "description": "偶に、趣味で絵を描いたりします。(無断転載、自作発言、AIやめてね)倉庫(pixiv) みかづき荘が好きです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/78766942",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/78766942",
+                "start": 0,
+                "url": "https://t.co/wbFVFzKgcZ"
+              }
+            ]
+          }
+        },
+        "id": "1465471990094249984",
+        "name": "ﾙﾙｼｭ木さん",
+        "pinned_tweet_id": "1669659494216011776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465587342346178560/M0ND_xFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25898,
+          "following_count": 72,
+          "like_count": 9421,
+          "listed_count": 193,
+          "tweet_count": 5311
+        },
+        "url": "https://t.co/wbFVFzKgcZ",
+        "username": "rurushugi",
+        "verified": false
+      }
+    ]
+  }
+}

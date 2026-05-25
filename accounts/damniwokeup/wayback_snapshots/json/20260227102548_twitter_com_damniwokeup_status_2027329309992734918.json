@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027312857491361793"
+      ],
+      "media_source_tweet_id": [
+        "2027312863405289881"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "2027329309992734918",
+    "created_at": "2026-02-27T10:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T11:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027329309992734918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "970928600433111041",
+          "start": 3,
+          "username": "ak0k0ro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rPsX3Bjwrb",
+          "end": 53,
+          "expanded_url": "https://x.com/ak0k0ro/status/2027312863405289881/photo/1",
+          "media_key": "3_2027312857491361793",
+          "start": 30,
+          "url": "https://t.co/rPsX3Bjwrb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027329309992734918",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027312863405289881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ak0k0ro: Bad cherry 💿❤️‍🔥 https://t.co/rPsX3Bjwrb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027312857491361793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJ2TX9a0AEOkKF.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027312857491361793"
+          ],
+          "media_source_tweet_id": [
+            "2027312863405289881"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "2027329309992734918",
+        "created_at": "2026-02-27T10:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027329309992734918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "970928600433111041",
+              "start": 3,
+              "username": "ak0k0ro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rPsX3Bjwrb",
+              "end": 53,
+              "expanded_url": "https://x.com/ak0k0ro/status/2027312863405289881/photo/1",
+              "media_key": "3_2027312857491361793",
+              "start": 30,
+              "url": "https://t.co/rPsX3Bjwrb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027329309992734918",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027312863405289881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ak0k0ro: Bad cherry 💿❤️‍🔥 https://t.co/rPsX3Bjwrb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027312857491361793"
+          ]
+        },
+        "author_id": "970928600433111041",
+        "conversation_id": "2027312863405289881",
+        "created_at": "2026-02-27T09:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027312863405289881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rPsX3Bjwrb",
+              "end": 40,
+              "expanded_url": "https://x.com/ak0k0ro/status/2027312863405289881/photo/1",
+              "media_key": "3_2027312857491361793",
+              "start": 17,
+              "url": "https://t.co/rPsX3Bjwrb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027312863405289881",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 3777,
+          "like_count": 556,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "Bad cherry 💿❤️‍🔥 https://t.co/rPsX3Bjwrb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2026181607040925930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 155,
+          "like_count": 7741,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1367
+        },
+        "username": "damniwokeup",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-06T07:46:32.000Z",
+        "description": "～ OC nerd｜中文 / ENG ｜Drawing enthusiast｜ ～⚠️ NO AI ｜🚫DO NOT REUPLOAD",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/aaakokoro",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/aaakokoro",
+                "start": 0,
+                "url": "https://t.co/KmetdUwVid"
+              }
+            ]
+          }
+        },
+        "id": "970928600433111041",
+        "name": "💙aaakokoro💙",
+        "pinned_tweet_id": "1535972653751644162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1484177025661546496/5mCGTIiS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45573,
+          "following_count": 573,
+          "like_count": 6005,
+          "listed_count": 218,
+          "media_count": 146,
+          "tweet_count": 456
+        },
+        "url": "https://t.co/KmetdUwVid",
+        "username": "ak0k0ro",
+        "verified": false
+      }
+    ]
+  }
+}

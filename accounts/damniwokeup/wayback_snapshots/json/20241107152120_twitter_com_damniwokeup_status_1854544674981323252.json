@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1854503818324779008"
+      ],
+      "media_source_tweet_id": [
+        "1854503833491353902"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1854544674981323252",
+    "created_at": "2024-11-07T15:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T16:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854544674981323252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "768114722210062340",
+          "start": 3,
+          "username": "TELRU_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gJeIc0rNHD",
+          "end": 35,
+          "expanded_url": "https://x.com/TELRU_/status/1854503833491353902/photo/1",
+          "media_key": "3_1854503818324779008",
+          "start": 12,
+          "url": "https://t.co/gJeIc0rNHD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854544674981323252",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 636
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854503833491353902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TELRU_: https://t.co/gJeIc0rNHD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1854503818324779008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbyFZa3aoAALPgX.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854503818324779008"
+          ],
+          "media_source_tweet_id": [
+            "1854503833491353902"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1854544674981323252",
+        "created_at": "2024-11-07T15:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T16:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854544674981323252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "768114722210062340",
+              "start": 3,
+              "username": "TELRU_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJeIc0rNHD",
+              "end": 35,
+              "expanded_url": "https://x.com/TELRU_/status/1854503833491353902/photo/1",
+              "media_key": "3_1854503818324779008",
+              "start": 12,
+              "url": "https://t.co/gJeIc0rNHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854544674981323252",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 636
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854503833491353902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TELRU_: https://t.co/gJeIc0rNHD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854503818324779008"
+          ]
+        },
+        "author_id": "768114722210062340",
+        "conversation_id": "1854503833491353902",
+        "created_at": "2024-11-07T12:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T13:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854503833491353902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJeIc0rNHD",
+              "end": 23,
+              "expanded_url": "https://x.com/TELRU_/status/1854503833491353902/photo/1",
+              "media_key": "3_1854503818324779008",
+              "start": 0,
+              "url": "https://t.co/gJeIc0rNHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854503833491353902",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 321,
+          "impression_count": 34376,
+          "like_count": 3528,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 636
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gJeIc0rNHD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 125,
+          "like_count": 4723,
+          "listed_count": 0,
+          "tweet_count": 556
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-23T15:56:35.000Z",
+        "description": "contact: molybtelru@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=6148103",
+                "start": 0,
+                "url": "https://t.co/afQKlmP1hO"
+              }
+            ]
+          }
+        },
+        "id": "768114722210062340",
+        "name": "Molyb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609264937905590272/Z0ZXAM_b_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144522,
+          "following_count": 1197,
+          "like_count": 16272,
+          "listed_count": 834,
+          "tweet_count": 7657
+        },
+        "url": "https://t.co/afQKlmP1hO",
+        "username": "TELRU_",
+        "verified": true
+      }
+    ]
+  }
+}

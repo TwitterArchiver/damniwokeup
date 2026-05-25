@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862782845518794752"
+      ],
+      "media_source_tweet_id": [
+        "1862782849549828346"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1862883446143824187",
+    "created_at": "2024-11-30T15:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T16:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862883446143824187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1409039945403039746",
+          "start": 3,
+          "username": "boiledazukibean"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/92ayg6N1UE",
+          "end": 44,
+          "expanded_url": "https://x.com/boiledazukibean/status/1862782849549828346/photo/1",
+          "media_key": "3_1862782845518794752",
+          "start": 21,
+          "url": "https://t.co/92ayg6N1UE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862883446143824187",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862782849549828346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boiledazukibean: https://t.co/92ayg6N1UE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1862782845518794752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdnvIOjW0AATVi_.jpg",
+        "width": 1735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862782845518794752"
+          ],
+          "media_source_tweet_id": [
+            "1862782849549828346"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1862883446143824187",
+        "created_at": "2024-11-30T15:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T16:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862883446143824187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1409039945403039746",
+              "start": 3,
+              "username": "boiledazukibean"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/92ayg6N1UE",
+              "end": 44,
+              "expanded_url": "https://x.com/boiledazukibean/status/1862782849549828346/photo/1",
+              "media_key": "3_1862782845518794752",
+              "start": 21,
+              "url": "https://t.co/92ayg6N1UE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862883446143824187",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862782849549828346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boiledazukibean: https://t.co/92ayg6N1UE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862782845518794752"
+          ]
+        },
+        "author_id": "1409039945403039746",
+        "conversation_id": "1862782849549828346",
+        "created_at": "2024-11-30T08:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T09:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862782849549828346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/92ayg6N1UE",
+              "end": 23,
+              "expanded_url": "https://x.com/boiledazukibean/status/1862782849549828346/photo/1",
+              "media_key": "3_1862782845518794752",
+              "start": 0,
+              "url": "https://t.co/92ayg6N1UE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862782849549828346",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1090,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/92ayg6N1UE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 137,
+          "like_count": 5337,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 836
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-27T06:45:16.000Z",
+        "description": "ほぼ葬送。本誌派なのでご注意ください。青空にもいます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/70261510",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/70261510",
+                "start": 0,
+                "url": "https://t.co/MFTWb7r64N"
+              }
+            ]
+          }
+        },
+        "id": "1409039945403039746",
+        "name": "ゆで小豆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560239039646924801/shHJQ9IS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 30,
+          "like_count": 2597,
+          "listed_count": 5,
+          "media_count": 185,
+          "tweet_count": 1651
+        },
+        "url": "https://t.co/MFTWb7r64N",
+        "username": "boiledazukibean",
+        "verified": false
+      }
+    ]
+  }
+}

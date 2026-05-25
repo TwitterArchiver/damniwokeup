@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867003937204629504",
+        "3_1867003945131941888"
+      ],
+      "media_source_tweet_id": [
+        "1867003948395118782",
+        "1867003948395118782"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1867122995178946905",
+    "created_at": "2024-12-12T08:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T09:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867122995178946905"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Evangelion",
+          "probability": 0.5855,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1365444576530563080",
+          "start": 3,
+          "username": "retro_twt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3g4PSg52yC",
+          "end": 55,
+          "expanded_url": "https://x.com/retro_twt/status/1867003948395118782/photo/1",
+          "media_key": "3_1867003937204629504",
+          "start": 32,
+          "url": "https://t.co/3g4PSg52yC"
+        },
+        {
+          "display_url": "pic.x.com/3g4PSg52yC",
+          "end": 55,
+          "expanded_url": "https://x.com/retro_twt/status/1867003948395118782/photo/1",
+          "media_key": "3_1867003945131941888",
+          "start": 32,
+          "url": "https://t.co/3g4PSg52yC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867122995178946905",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 285
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867003948395118782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @retro_twt: Evangelion x Art https://t.co/3g4PSg52yC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1356,
+        "media_key": "3_1867003937204629504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GejuMGdWcAAJ8EU.jpg",
+        "width": 1154
+      },
+      {
+        "height": 1358,
+        "media_key": "3_1867003945131941888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GejuMj_XoAASMf4.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867003937204629504",
+            "3_1867003945131941888"
+          ],
+          "media_source_tweet_id": [
+            "1867003948395118782",
+            "1867003948395118782"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1867122995178946905",
+        "created_at": "2024-12-12T08:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T09:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867122995178946905"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Evangelion",
+              "probability": 0.5855,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1365444576530563080",
+              "start": 3,
+              "username": "retro_twt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3g4PSg52yC",
+              "end": 55,
+              "expanded_url": "https://x.com/retro_twt/status/1867003948395118782/photo/1",
+              "media_key": "3_1867003937204629504",
+              "start": 32,
+              "url": "https://t.co/3g4PSg52yC"
+            },
+            {
+              "display_url": "pic.x.com/3g4PSg52yC",
+              "end": 55,
+              "expanded_url": "https://x.com/retro_twt/status/1867003948395118782/photo/1",
+              "media_key": "3_1867003945131941888",
+              "start": 32,
+              "url": "https://t.co/3g4PSg52yC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867122995178946905",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 285
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867003948395118782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @retro_twt: Evangelion x Art https://t.co/3g4PSg52yC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867003937204629504",
+            "3_1867003945131941888"
+          ]
+        },
+        "author_id": "1365444576530563080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1867003948395118782",
+        "created_at": "2024-12-12T00:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T01:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867003948395118782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3g4PSg52yC",
+              "end": 40,
+              "expanded_url": "https://x.com/retro_twt/status/1867003948395118782/photo/1",
+              "media_key": "3_1867003937204629504",
+              "start": 17,
+              "url": "https://t.co/3g4PSg52yC"
+            },
+            {
+              "display_url": "pic.x.com/3g4PSg52yC",
+              "end": 40,
+              "expanded_url": "https://x.com/retro_twt/status/1867003948395118782/photo/1",
+              "media_key": "3_1867003945131941888",
+              "start": 17,
+              "url": "https://t.co/3g4PSg52yC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867003948395118782",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 253,
+          "impression_count": 74676,
+          "like_count": 3240,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 285
+        },
+        "reply_settings": "everyone",
+        "text": "Evangelion x Art https://t.co/3g4PSg52yC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 5889,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1043
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-26T23:32:26.000Z",
+        "description": "the golden age of anime",
+        "id": "1365444576530563080",
+        "name": "Retro Anime",
+        "pinned_tweet_id": "1864565406335148111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657231216142331905/wKeESPsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443372,
+          "following_count": 76,
+          "like_count": 3569,
+          "listed_count": 2395,
+          "media_count": 7763,
+          "tweet_count": 8168
+        },
+        "username": "retro_twt",
+        "verified": true
+      }
+    ]
+  }
+}

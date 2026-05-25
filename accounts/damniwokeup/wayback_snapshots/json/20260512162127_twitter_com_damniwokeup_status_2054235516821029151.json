@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "2054235516821029151",
+    "created_at": "2026-05-12T16:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054235516821029151"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054235516821029151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我曾形容她的文字和作品里有一种“生命力” 这是别的人没有的力量 \n现在 她用最多的生命力，描绘了最彻底的死亡\n她渴望死，正是因为她对生的强度、纯度、烈度有太高的要求。当生命无法匹配这个要求时，她宁可用死亡来完成最后一次燃烧。这不是对生的否定，而是对庸常生活的拒绝。\n她想要的不是消失，而是投进那片沸腾的、活着的星空——那本身就是一种永恒的生命形式——而对于一个诗人来说，那就是创造本身。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我曾形容她的文字和作品里有一种“生命力” 这是别的人没有的力量 \n现在 她用最多的生命力，描绘了最彻底的死亡\n她渴望死，正是因为她对生的强度、纯度、烈度有太高的要求。当生命无法匹配这个要求时，她宁可用死亡来完成最后一次燃烧。这不是对生的否定，而是对庸常生活的拒绝。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "2054235516821029151",
+        "created_at": "2026-05-12T16:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054235516821029151"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054235516821029151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我曾形容她的文字和作品里有一种“生命力” 这是别的人没有的力量 \n现在 她用最多的生命力，描绘了最彻底的死亡\n她渴望死，正是因为她对生的强度、纯度、烈度有太高的要求。当生命无法匹配这个要求时，她宁可用死亡来完成最后一次燃烧。这不是对生的否定，而是对庸常生活的拒绝。\n她想要的不是消失，而是投进那片沸腾的、活着的星空——那本身就是一种永恒的生命形式——而对于一个诗人来说，那就是创造本身。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我曾形容她的文字和作品里有一种“生命力” 这是别的人没有的力量 \n现在 她用最多的生命力，描绘了最彻底的死亡\n她渴望死，正是因为她对生的强度、纯度、烈度有太高的要求。当生命无法匹配这个要求时，她宁可用死亡来完成最后一次燃烧。这不是对生的否定，而是对庸常生活的拒绝。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "Per aspera ad astra",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2042979197816312219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 210,
+          "like_count": 8910,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1427
+        },
+        "username": "damniwokeup",
+        "verified": true
+      }
+    ]
+  }
+}

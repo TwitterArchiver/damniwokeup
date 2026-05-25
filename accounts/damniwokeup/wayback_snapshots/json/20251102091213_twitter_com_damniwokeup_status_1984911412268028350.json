@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984610163568099337"
+      ],
+      "media_source_tweet_id": [
+        "1984610174485872663"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1984911412268028350",
+    "created_at": "2025-11-02T09:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T10:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984911412268028350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1984308832361988100",
+          "start": 3,
+          "username": "Nyakxuhy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Iah145BZTy",
+          "end": 37,
+          "expanded_url": "https://x.com/Nyakxuhy/status/1984610174485872663/photo/1",
+          "media_key": "3_1984610163568099337",
+          "start": 14,
+          "url": "https://t.co/Iah145BZTy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984911412268028350",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5960
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984610174485872663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nyakxuhy: https://t.co/Iah145BZTy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1563,
+        "media_key": "3_1984610163568099337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4rAbckbQAkeCaB.jpg",
+        "width": 1986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984610163568099337"
+          ],
+          "media_source_tweet_id": [
+            "1984610174485872663"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1984911412268028350",
+        "created_at": "2025-11-02T09:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T10:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984911412268028350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1984308832361988100",
+              "start": 3,
+              "username": "Nyakxuhy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iah145BZTy",
+              "end": 37,
+              "expanded_url": "https://x.com/Nyakxuhy/status/1984610174485872663/photo/1",
+              "media_key": "3_1984610163568099337",
+              "start": 14,
+              "url": "https://t.co/Iah145BZTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984911412268028350",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5960
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984610174485872663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nyakxuhy: https://t.co/Iah145BZTy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984610163568099337"
+          ]
+        },
+        "author_id": "1984308832361988100",
+        "conversation_id": "1984610174485872663",
+        "created_at": "2025-11-01T13:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T14:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984610174485872663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iah145BZTy",
+              "end": 23,
+              "expanded_url": "https://x.com/Nyakxuhy/status/1984610174485872663/photo/1",
+              "media_key": "3_1984610163568099337",
+              "start": 0,
+              "url": "https://t.co/Iah145BZTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984610174485872663",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2843,
+          "impression_count": 279475,
+          "like_count": 42306,
+          "quote_count": 78,
+          "reply_count": 6,
+          "retweet_count": 5960
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Iah145BZTy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Phoenix, AZ",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 140,
+          "like_count": 6991,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1268
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T17:17:54.000Z",
+        "description": "별거다그림 | ⚠︎Do not repost or reuse | 🔕 | ✉️nyakecev@gmail.com",
+        "id": "1984308832361988100",
+        "location": "계옮했서요",
+        "name": "냨",
+        "pinned_tweet_id": "1984470877376033202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984322179006427136/LC608DGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2910,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 11,
+          "media_count": 10,
+          "tweet_count": 11
+        },
+        "username": "Nyakxuhy",
+        "verified": false
+      }
+    ]
+  }
+}

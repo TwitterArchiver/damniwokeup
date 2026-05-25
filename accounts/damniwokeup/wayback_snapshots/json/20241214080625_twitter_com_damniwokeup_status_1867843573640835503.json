@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1867147370728988672"
+      ],
+      "media_source_tweet_id": [
+        "1867147414270087479"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1867843573640835503",
+    "created_at": "2024-12-14T08:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T09:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867843573640835503"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "Honeypie",
+          "probability": 0.6472,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1321376541184421888",
+          "start": 3,
+          "username": "Konro_kon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xC25ofL1Rn",
+          "end": 51,
+          "expanded_url": "https://x.com/Konro_kon/status/1867147414270087479/video/1",
+          "media_key": "7_1867147370728988672",
+          "start": 28,
+          "url": "https://t.co/xC25ofL1Rn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867843573640835503",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7160
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867147414270087479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Konro_kon: Honeypie【OC】 https://t.co/xC25ofL1Rn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60000,
+        "height": 720,
+        "media_key": "7_1867147370728988672",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1867147370728988672/pu/img/Uin0pEx6vIR58ry9.jpg",
+        "public_metrics": {
+          "view_count": 394479
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1867147370728988672/pu/vid/avc1/360x270/ZcEg1_Xo4d2Qs-dG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1867147370728988672/pu/vid/avc1/480x360/nMwmyeGgbuKHdo9O.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1867147370728988672/pu/vid/avc1/960x720/EGTiQK60QHIUpEVv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1867147370728988672/pu/pl/nkCxFtENe2gnNl4W.m3u8?tag=12&v=053"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1867147370728988672"
+          ],
+          "media_source_tweet_id": [
+            "1867147414270087479"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1867843573640835503",
+        "created_at": "2024-12-14T08:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T09:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867843573640835503"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Honeypie",
+              "probability": 0.6472,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1321376541184421888",
+              "start": 3,
+              "username": "Konro_kon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xC25ofL1Rn",
+              "end": 51,
+              "expanded_url": "https://x.com/Konro_kon/status/1867147414270087479/video/1",
+              "media_key": "7_1867147370728988672",
+              "start": 28,
+              "url": "https://t.co/xC25ofL1Rn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867843573640835503",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7160
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867147414270087479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Konro_kon: Honeypie【OC】 https://t.co/xC25ofL1Rn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1867147370728988672"
+          ]
+        },
+        "author_id": "1321376541184421888",
+        "conversation_id": "1867147414270087479",
+        "created_at": "2024-12-12T10:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T11:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867147414270087479"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Honeypie",
+              "probability": 0.6347,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xC25ofL1Rn",
+              "end": 36,
+              "expanded_url": "https://x.com/Konro_kon/status/1867147414270087479/video/1",
+              "media_key": "7_1867147370728988672",
+              "start": 13,
+              "url": "https://t.co/xC25ofL1Rn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867147414270087479",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14480,
+          "impression_count": 724368,
+          "like_count": 56490,
+          "quote_count": 197,
+          "reply_count": 48,
+          "retweet_count": 7160
+        },
+        "reply_settings": "everyone",
+        "text": "Honeypie【OC】 https://t.co/xC25ofL1Rn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 146,
+          "like_count": 5960,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1065
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-28T09:01:48.000Z",
+        "description": "",
+        "id": "1321376541184421888",
+        "name": "こんろ",
+        "pinned_tweet_id": "1815341062971687223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863052155399077888/mlKB4ay8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10392,
+          "following_count": 268,
+          "like_count": 7020,
+          "listed_count": 58,
+          "media_count": 419,
+          "tweet_count": 2698
+        },
+        "username": "Konro_kon",
+        "verified": false
+      }
+    ]
+  }
+}

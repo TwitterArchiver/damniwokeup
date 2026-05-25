@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1854845986650333184"
+      ],
+      "media_source_tweet_id": [
+        "1855173493341540783"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1855297807391043766",
+    "created_at": "2024-11-09T17:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T18:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855297807391043766"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "紅紺華恋",
+          "probability": 0.241,
+          "start": 18,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1659642768350916608",
+          "start": 3,
+          "username": "chun_paretto"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UdqltpL1VW",
+          "end": 46,
+          "expanded_url": "https://x.com/chun_paretto/status/1855173493341540783/photo/1",
+          "media_key": "3_1854845986650333184",
+          "start": 23,
+          "url": "https://t.co/UdqltpL1VW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855297807391043766",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 160
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855173493341540783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chun_paretto: 紅紺華恋 https://t.co/UdqltpL1VW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1854845986650333184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gb28mPNaIAAtMrL.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854845986650333184"
+          ],
+          "media_source_tweet_id": [
+            "1855173493341540783"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1855297807391043766",
+        "created_at": "2024-11-09T17:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T18:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855297807391043766"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "紅紺華恋",
+              "probability": 0.241,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1659642768350916608",
+              "start": 3,
+              "username": "chun_paretto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UdqltpL1VW",
+              "end": 46,
+              "expanded_url": "https://x.com/chun_paretto/status/1855173493341540783/photo/1",
+              "media_key": "3_1854845986650333184",
+              "start": 23,
+              "url": "https://t.co/UdqltpL1VW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855297807391043766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 160
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855173493341540783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chun_paretto: 紅紺華恋 https://t.co/UdqltpL1VW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854845986650333184"
+          ]
+        },
+        "author_id": "1659642768350916608",
+        "conversation_id": "1855173493341540783",
+        "created_at": "2024-11-09T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855173493341540783"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "紅紺華恋",
+              "probability": 0.293,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UdqltpL1VW",
+              "end": 28,
+              "expanded_url": "https://x.com/chun_paretto/status/1855173493341540783/photo/1",
+              "media_key": "3_1854845986650333184",
+              "start": 5,
+              "url": "https://t.co/UdqltpL1VW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855173493341540783",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 32730,
+          "like_count": 1495,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "紅紺華恋 https://t.co/UdqltpL1VW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 126,
+          "like_count": 4765,
+          "listed_count": 0,
+          "tweet_count": 570
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-19T19:30:57.000Z",
+        "description": "🌼かわいい女の子や服装/ファンタジーの世界が大好きです🌼Stable diffusion＋nijijourney（AI）＋Photoshop（加筆）🖌️🎨返信が必要なご連絡はDMまでお願い致します📩",
+        "id": "1659642768350916608",
+        "name": "ことり🕊️",
+        "pinned_tweet_id": "1855173493341540783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665933205084729344/RA_d3CeA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95608,
+          "following_count": 425,
+          "like_count": 37169,
+          "listed_count": 675,
+          "tweet_count": 16479
+        },
+        "username": "chun_paretto",
+        "verified": true
+      }
+    ]
+  }
+}

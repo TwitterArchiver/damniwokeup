@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968494476567162880"
+      ],
+      "media_source_tweet_id": [
+        "1968494757853720725"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1968559675743625556",
+    "created_at": "2025-09-18T06:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T07:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968559675743625556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1200578060719779840",
+          "start": 3,
+          "username": "Dollllls2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gJczzkjTOY",
+          "end": 42,
+          "expanded_url": "https://x.com/Dollllls2/status/1968494757853720725/photo/1",
+          "media_key": "3_1968494476567162880",
+          "start": 19,
+          "url": "https://t.co/gJczzkjTOY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968559675743625556",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 469
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968494757853720725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dollllls2: →_→ https://t.co/gJczzkjTOY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2694,
+        "media_key": "3_1968494476567162880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1F_TAIasAARJHv.jpg",
+        "width": 1696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968494476567162880"
+          ],
+          "media_source_tweet_id": [
+            "1968494757853720725"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1968559675743625556",
+        "created_at": "2025-09-18T06:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T07:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968559675743625556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1200578060719779840",
+              "start": 3,
+              "username": "Dollllls2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJczzkjTOY",
+              "end": 42,
+              "expanded_url": "https://x.com/Dollllls2/status/1968494757853720725/photo/1",
+              "media_key": "3_1968494476567162880",
+              "start": 19,
+              "url": "https://t.co/gJczzkjTOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968559675743625556",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 469
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968494757853720725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dollllls2: →_→ https://t.co/gJczzkjTOY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968494476567162880"
+          ]
+        },
+        "author_id": "1200578060719779840",
+        "conversation_id": "1968494757853720725",
+        "created_at": "2025-09-18T01:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T02:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968494757853720725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJczzkjTOY",
+              "end": 27,
+              "expanded_url": "https://x.com/Dollllls2/status/1968494757853720725/photo/1",
+              "media_key": "3_1968494476567162880",
+              "start": 4,
+              "url": "https://t.co/gJczzkjTOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968494757853720725",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 510,
+          "impression_count": 37451,
+          "like_count": 4325,
+          "quote_count": 9,
+          "reply_count": 9,
+          "retweet_count": 469
+        },
+        "reply_settings": "everyone",
+        "text": "→_→ https://t.co/gJczzkjTOY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Phoenix, AZ",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 140,
+          "like_count": 6961,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1252
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-30T00:51:44.000Z",
+        "description": "🎨‖中文&Eng&日本語勉強中\nDraw till l die\nThank you for your like✨❤\n❌未经授权许可不要用我的图❌\n微博：Dollllls\nBest：@7oy7iger\n个人Q群：675026950",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 90,
+                "username": "7oy7iger"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/16562273",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/16562273",
+                "start": 0,
+                "url": "https://t.co/jx9TbC9mat"
+              }
+            ]
+          }
+        },
+        "id": "1200578060719779840",
+        "location": "裏",
+        "name": "Dollllls",
+        "pinned_tweet_id": "1631281487265009664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766336382090510336/oxWOI8LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102740,
+          "following_count": 372,
+          "like_count": 1623,
+          "listed_count": 398,
+          "media_count": 158,
+          "tweet_count": 886
+        },
+        "url": "https://t.co/jx9TbC9mat",
+        "username": "Dollllls2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867935796726243329"
+      ],
+      "media_source_tweet_id": [
+        "1867935808340316476"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1868251413249450260",
+    "created_at": "2024-12-15T11:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T12:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868251413249450260"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 31,
+          "tag": "アークナイツ版深夜の真剣お絵かき60分一本勝負"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1555504154411696128",
+          "start": 3,
+          "username": "__amnknakr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/az2HL9V04Z",
+          "end": 79,
+          "expanded_url": "https://x.com/__amnknakr/status/1867935808340316476/photo/1",
+          "media_key": "3_1867935796726243329",
+          "start": 56,
+          "url": "https://t.co/az2HL9V04Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868251413249450260",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867935808340316476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__amnknakr: お題【デーゲンブレヒャー】\n #アークナイツ版深夜の真剣お絵かき60分一本勝負 https://t.co/az2HL9V04Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1867935796726243329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gew9tdsaoAEAM_2.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867935796726243329"
+          ],
+          "media_source_tweet_id": [
+            "1867935808340316476"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1868251413249450260",
+        "created_at": "2024-12-15T11:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T12:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868251413249450260"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 31,
+              "tag": "アークナイツ版深夜の真剣お絵かき60分一本勝負"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1555504154411696128",
+              "start": 3,
+              "username": "__amnknakr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/az2HL9V04Z",
+              "end": 79,
+              "expanded_url": "https://x.com/__amnknakr/status/1867935808340316476/photo/1",
+              "media_key": "3_1867935796726243329",
+              "start": 56,
+              "url": "https://t.co/az2HL9V04Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868251413249450260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867935808340316476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__amnknakr: お題【デーゲンブレヒャー】\n #アークナイツ版深夜の真剣お絵かき60分一本勝負 https://t.co/az2HL9V04Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867935796726243329"
+          ]
+        },
+        "author_id": "1555504154411696128",
+        "conversation_id": "1867935808340316476",
+        "created_at": "2024-12-14T14:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T15:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867935808340316476"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 15,
+              "tag": "アークナイツ版深夜の真剣お絵かき60分一本勝負"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/az2HL9V04Z",
+              "end": 63,
+              "expanded_url": "https://x.com/__amnknakr/status/1867935808340316476/photo/1",
+              "media_key": "3_1867935796726243329",
+              "start": 40,
+              "url": "https://t.co/az2HL9V04Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867935808340316476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 6822,
+          "like_count": 666,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "お題【デーゲンブレヒャー】\n #アークナイツ版深夜の真剣お絵かき60分一本勝負 https://t.co/az2HL9V04Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 145,
+          "like_count": 6025,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1091
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T10:41:15.000Z",
+        "description": "20↑ｱｰｸﾅｲﾂ🔰/ﾃﾞｨﾐﾄﾘ実装お願いします… 🗝@tknknst116",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "tknknst116"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/5c1v5ukzy…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/5c1v5ukzy6iluhyd/",
+                "start": 0,
+                "url": "https://t.co/kn2aAESw4X"
+              }
+            ]
+          }
+        },
+        "id": "1555504154411696128",
+        "location": "gnsn fgo 💙アカ やってます",
+        "name": "𝟷𝟷𝟼",
+        "pinned_tweet_id": "1853415296423661859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855908911343398912/p8LLfuYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 126,
+          "like_count": 461,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 310
+        },
+        "url": "https://t.co/kn2aAESw4X",
+        "username": "__amnknakr",
+        "verified": false
+      }
+    ]
+  }
+}

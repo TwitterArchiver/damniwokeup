@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1855675834301886464"
+      ],
+      "media_source_tweet_id": [
+        "1855675848818311420"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1855772648669950254",
+    "created_at": "2024-11-11T00:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T01:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855772648669950254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1013375878489919488",
+          "start": 3,
+          "username": "D_Kumii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M6PcJlDn4h",
+          "end": 36,
+          "expanded_url": "https://x.com/D_Kumii/status/1855675848818311420/photo/1",
+          "media_key": "3_1855675834301886464",
+          "start": 13,
+          "url": "https://t.co/M6PcJlDn4h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855772648669950254",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1859
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855675848818311420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @D_Kumii: https://t.co/M6PcJlDn4h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_1855675834301886464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcCvVunXMAAupSs.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855675834301886464"
+          ],
+          "media_source_tweet_id": [
+            "1855675848818311420"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1855772648669950254",
+        "created_at": "2024-11-11T00:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T01:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855772648669950254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1013375878489919488",
+              "start": 3,
+              "username": "D_Kumii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M6PcJlDn4h",
+              "end": 36,
+              "expanded_url": "https://x.com/D_Kumii/status/1855675848818311420/photo/1",
+              "media_key": "3_1855675834301886464",
+              "start": 13,
+              "url": "https://t.co/M6PcJlDn4h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855772648669950254",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1859
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855675848818311420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @D_Kumii: https://t.co/M6PcJlDn4h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855675834301886464"
+          ]
+        },
+        "author_id": "1013375878489919488",
+        "conversation_id": "1855675848818311420",
+        "created_at": "2024-11-10T18:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T19:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855675848818311420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M6PcJlDn4h",
+              "end": 23,
+              "expanded_url": "https://x.com/D_Kumii/status/1855675848818311420/photo/1",
+              "media_key": "3_1855675834301886464",
+              "start": 0,
+              "url": "https://t.co/M6PcJlDn4h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855675848818311420",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 931,
+          "impression_count": 120250,
+          "like_count": 15271,
+          "quote_count": 29,
+          "reply_count": 7,
+          "retweet_count": 1859
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/M6PcJlDn4h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 126,
+          "like_count": 4794,
+          "listed_count": 0,
+          "tweet_count": 584
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-01T10:56:51.000Z",
+        "description": "I talk about Chainsaw Man and occasionally other stuff. Not spoiler free. priv: @kumi_alt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "kumi_alt"
+              }
+            ]
+          }
+        },
+        "id": "1013375878489919488",
+        "name": "Kumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851736188995997696/Jz8DOMz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79421,
+          "following_count": 395,
+          "like_count": 54035,
+          "listed_count": 244,
+          "tweet_count": 7041
+        },
+        "username": "D_Kumii",
+        "verified": false
+      }
+    ]
+  }
+}

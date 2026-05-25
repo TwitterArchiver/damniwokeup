@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867561837098938371"
+      ],
+      "media_source_tweet_id": [
+        "1867561846175412397"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1867596930718872006",
+    "created_at": "2024-12-13T15:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T16:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867596930718872006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1082600293475397634",
+          "start": 3,
+          "username": "Kirakiradove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8taflupUu0",
+          "end": 125,
+          "expanded_url": "https://x.com/Kirakiradove/status/1867561846175412397/photo/1",
+          "media_key": "3_1867561837098938371",
+          "start": 102,
+          "url": "https://t.co/8taflupUu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867596930718872006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867561846175412397",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kirakiradove: “白子在哪？”我问。\n“在哪？阿拜多斯？”同学猜。\n“夏莱呗！”朋友不屑。\n“不是在你床上么？”室友打趣。\n我没理他们，朝外面走去。\n“白子在哪？”我问一只知更鸟。… https://t.co/8taflupUu0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1867561837098938371",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GerpmJhbsAME9gi.jpg",
+        "width": 1424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867561837098938371"
+          ],
+          "media_source_tweet_id": [
+            "1867561846175412397"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1867596930718872006",
+        "created_at": "2024-12-13T15:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T16:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867596930718872006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1082600293475397634",
+              "start": 3,
+              "username": "Kirakiradove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8taflupUu0",
+              "end": 125,
+              "expanded_url": "https://x.com/Kirakiradove/status/1867561846175412397/photo/1",
+              "media_key": "3_1867561837098938371",
+              "start": 102,
+              "url": "https://t.co/8taflupUu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867596930718872006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867561846175412397",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kirakiradove: “白子在哪？”我问。\n“在哪？阿拜多斯？”同学猜。\n“夏莱呗！”朋友不屑。\n“不是在你床上么？”室友打趣。\n我没理他们，朝外面走去。\n“白子在哪？”我问一只知更鸟。… https://t.co/8taflupUu0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867561837098938371"
+          ]
+        },
+        "author_id": "1082600293475397634",
+        "conversation_id": "1867561846175412397",
+        "created_at": "2024-12-13T13:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T14:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867561846175412397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8taflupUu0",
+              "end": 107,
+              "expanded_url": "https://x.com/Kirakiradove/status/1867561846175412397/photo/1",
+              "media_key": "3_1867561837098938371",
+              "start": 84,
+              "url": "https://t.co/8taflupUu0"
+            },
+            {
+              "display_url": "x.com/vlthellolin/st…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/vlthellolin/status/1860333456905109757",
+              "start": 108,
+              "url": "https://t.co/MExkHwFk0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867561846175412397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“白子在哪？”我问。\n“在哪？阿拜多斯？”同学猜。\n“夏莱呗！”朋友不屑。\n“不是在你床上么？”室友打趣。\n我没理他们，朝外面走去。\n“白子在哪？”我问一只知更鸟。\n“白子吗？我在加州的一棵棕榈树下见过她。黄昏时刻，夕阳漫过天际线撒在了她的裙子上，她整个人都被染成了浪漫的金黄，比丰收时节的小麦还要动人，比草地上盛开的水仙还要唯美，去那找她吧！”\n“白子在哪？”我问一片白雪。\n“白子吗？我在瑞典的极光之间见过她。那晚的极光只宠幸她一人，那夜的雪花也只为她一人而飘落。绚丽多彩的光线比不过她优雅的眼眸，洁白无瑕的冰雪沾不湿她吹弹可破的肌肤，去那找她吧！”\n“白子在哪？”我问一朵浪花。\n“白子吗？我在马尔代夫的沙滩上见过她。她沿着海岸线缓缓漫步，赤脚踩在松软的沙子上，冰冰凉凉的海水一去一来，冲刷着她娇小可爱的脚，海风也识趣的轻轻撩起她的碎花长裙，去那找她吧！”\n“白子在哪？”我问一滴雨水。\n白子吗？我在江南的弄堂里见过她。细雨微醺，空气氤氲，她撑着一把油纸伞站在巷口，安静地听着雨滴落在青石板上的声音。似是在等人，又仿佛只是单纯的赏雨，去那找她吧！”\n可我只是我，平凡的不能再平凡，要怎么找到她呢？\n或许我能在后院采一束夕阳，暖暖的捧在手心，说：“嗨，白子。”\n或许我能在冰箱拂一抹白霜，细细搓揉直到化掉，说：“嗨，白子。”\n或许我能在池塘拾到一块圆润的鹅卵石，它依旧带有曾经长眠海底的温度。\n或许我能在雨季合伞，让杏花般的雨线落在我的脸上，感受吹面不寒的轻柔。\n原来就在这啊！我恍然大悟，原来白子从来就不在别的地方，白子一直住在我的心里呀！\n嘿，白子，你看！\n\n目光所及之处，皆是爱意满怀。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 638,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860333456905109757",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“白子在哪？”我问。\n“在哪？阿拜多斯？”同学猜。\n“夏莱呗！”朋友不屑。\n“不是在你床上么？”室友打趣。\n我没理他们，朝外面走去。\n“白子在哪？”我问一只知更鸟。… https://t.co/8taflupUu0 https://t.co/MExkHwFk0q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 146,
+          "like_count": 5934,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1057
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T11:29:58.000Z",
+        "description": "🉑🉑丨我是孤儿丨原因就是性别丨非男非女纯人间失格丨每周去麦当当打工还助学贷款丨能活到现在纯靠运气和好人援助交际丨有问题可以直接私信我但想要提要求请先支付宝口令丨vx门槛88接陪聊陪玩交明年学费丨重度药物依赖每天晚上都会发癫⚠️丨正常情况下超高频率和粉丝互动丨免费头像进度请点击媒体查看丨其他请看亮点丨感谢你们喜欢我",
+        "id": "1082600293475397634",
+        "location": "隨機",
+        "name": "うさココ",
+        "pinned_tweet_id": "1859467840635748539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514216529138696193/5YBbERgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3372,
+          "following_count": 0,
+          "like_count": 6890,
+          "listed_count": 7,
+          "media_count": 259,
+          "tweet_count": 4413
+        },
+        "username": "Kirakiradove",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860194943668748290"
+      ],
+      "media_source_tweet_id": [
+        "1860300516187582828"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1860302138469155048",
+    "created_at": "2024-11-23T12:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T13:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860302138469155048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1455930823",
+          "start": 3,
+          "username": "HoDaRaKe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3YGdsWMaOP",
+          "end": 47,
+          "expanded_url": "https://x.com/HoDaRaKe/status/1860300516187582828/photo/1",
+          "media_key": "3_1860194943668748290",
+          "start": 24,
+          "url": "https://t.co/3YGdsWMaOP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860302138469155048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860300516187582828",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HoDaRaKe: 制服セイバーオルタ https://t.co/3YGdsWMaOP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1860194943668748290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdC9cg5agAI8D89.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860194943668748290"
+          ],
+          "media_source_tweet_id": [
+            "1860300516187582828"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1860302138469155048",
+        "created_at": "2024-11-23T12:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T13:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860302138469155048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1455930823",
+              "start": 3,
+              "username": "HoDaRaKe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3YGdsWMaOP",
+              "end": 47,
+              "expanded_url": "https://x.com/HoDaRaKe/status/1860300516187582828/photo/1",
+              "media_key": "3_1860194943668748290",
+              "start": 24,
+              "url": "https://t.co/3YGdsWMaOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860302138469155048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860300516187582828",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HoDaRaKe: 制服セイバーオルタ https://t.co/3YGdsWMaOP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860194943668748290"
+          ]
+        },
+        "author_id": "1455930823",
+        "conversation_id": "1860300516187582828",
+        "created_at": "2024-11-23T12:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T13:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860300516187582828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3YGdsWMaOP",
+              "end": 33,
+              "expanded_url": "https://x.com/HoDaRaKe/status/1860300516187582828/photo/1",
+              "media_key": "3_1860194943668748290",
+              "start": 10,
+              "url": "https://t.co/3YGdsWMaOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860300516187582828",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2328,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "制服セイバーオルタ https://t.co/3YGdsWMaOP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 130,
+          "like_count": 5037,
+          "listed_count": 0,
+          "tweet_count": 711
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-25T03:37:44.000Z",
+        "description": "HoDaRaKe / tarte \nSub @HoDaRaKe3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "HoDaRaKe3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/HoDaRaKe",
+                "end": 23,
+                "expanded_url": "https://lit.link/HoDaRaKe",
+                "start": 0,
+                "url": "https://t.co/jZMVlu0OMz"
+              }
+            ]
+          }
+        },
+        "id": "1455930823",
+        "location": "New York, USA",
+        "name": "HoDaRaKe",
+        "pinned_tweet_id": "1858865598970904585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682385241049030656/kAzTtkgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757588,
+          "following_count": 3373,
+          "like_count": 33726,
+          "listed_count": 4332,
+          "tweet_count": 55439
+        },
+        "url": "https://t.co/jZMVlu0OMz",
+        "username": "HoDaRaKe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1861032567425859876",
+    "created_at": "2024-11-25T13:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T14:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861032567425859876"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 65,
+          "normalized_text": "ガールズバンドクライ",
+          "probability": 0.632,
+          "start": 56,
+          "type": "Other"
+        },
+        {
+          "end": 107,
+          "normalized_text": "2nd Anniversary LIVE TOKYO DOME CITY HALL",
+          "probability": 0.4643,
+          "start": 67,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1646013705874976768",
+          "start": 3,
+          "username": "girlsbandcry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861032567425859876",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2144
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861001904362553500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @girlsbandcry: 🎤ガールズバンドクライ ライブ情報🎸\n\n📅2025/4/27(日)\n『ガールズバンドクライ』2nd Anniversary LIVE\nTOKYO DOME CITY HALL\nティザービジュアル初公開✨\n\n🎫最速先行受付期間\n11/27(水)…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1861032567425859876",
+        "created_at": "2024-11-25T13:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T14:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861032567425859876"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "ガールズバンドクライ",
+              "probability": 0.632,
+              "start": 56,
+              "type": "Other"
+            },
+            {
+              "end": 107,
+              "normalized_text": "2nd Anniversary LIVE TOKYO DOME CITY HALL",
+              "probability": 0.4643,
+              "start": 67,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1646013705874976768",
+              "start": 3,
+              "username": "girlsbandcry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861032567425859876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2144
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861001904362553500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @girlsbandcry: 🎤ガールズバンドクライ ライブ情報🎸\n\n📅2025/4/27(日)\n『ガールズバンドクライ』2nd Anniversary LIVE\nTOKYO DOME CITY HALL\nティザービジュアル初公開✨\n\n🎫最速先行受付期間\n11/27(水)…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861001898784100352"
+          ]
+        },
+        "author_id": "1646013705874976768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1148328095914479616",
+              "name": "Blu-ray"
+            }
+          }
+        ],
+        "conversation_id": "1861001904362553500",
+        "created_at": "2024-11-25T11:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T12:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861001904362553500"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "ガールズバンドクライ",
+              "probability": 0.6521,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 89,
+              "normalized_text": "2nd Anniversary LIVE TOKYO DOME CITY HALL",
+              "probability": 0.4475,
+              "start": 49,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OyvHMsjBu3",
+              "end": 216,
+              "expanded_url": "https://x.com/girlsbandcry/status/1861001904362553500/photo/1",
+              "media_key": "3_1861001898784100352",
+              "start": 193,
+              "url": "https://t.co/OyvHMsjBu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861001904362553500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 222,
+                "start": 217,
+                "tag": "ガルクラ"
+              },
+              {
+                "end": 232,
+                "start": 223,
+                "tag": "トゲナシトゲアリ"
+              },
+              {
+                "end": 243,
+                "start": 233,
+                "tag": "ダイヤモンドダスト"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "girls-band-cry.com/live/post-10.h…",
+                "end": 215,
+                "expanded_url": "https://girls-band-cry.com/live/post-10.html",
+                "start": 192,
+                "url": "https://t.co/SGM9npeNuZ"
+              }
+            ]
+          },
+          "text": "🎤ガールズバンドクライ ライブ情報🎸\n\n📅2025/4/27(日)\n『ガールズバンドクライ』2nd Anniversary LIVE\nTOKYO DOME CITY HALL\nティザービジュアル初公開✨\n\n🎫最速先行受付期間\n11/27(水)10:00〜 2025/1/20(月)23:59\n申込券は11/27(水)発売のBlu-ray＆DVD第6巻に封入✨\n\n🔗ライブ詳細はこちら\nhttps://t.co/SGM9npeNuZ\n\n#ガルクラ #トゲナシトゲアリ #ダイヤモンドダスト"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 440,
+          "impression_count": 167957,
+          "like_count": 6416,
+          "quote_count": 338,
+          "reply_count": 18,
+          "retweet_count": 2144
+        },
+        "reply_settings": "everyone",
+        "text": "🎤ガールズバンドクライ ライブ情報🎸\n\n📅2025/4/27(日)\n『ガールズバンドクライ』2nd Anniversary LIVE\nTOKYO DOME CITY HALL\nティザービジュアル初公開✨\n\n🎫最速先行受付期間\n11/27(水)10:00〜 2025/1/20(月)23:59\n申込券は11/27(水)発売のBlu-ray＆DVD第6巻に封入✨\n\n🔗ライブ詳細はこちら… https://t.co/OyvHMsjBu3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 132,
+          "like_count": 5112,
+          "listed_count": 0,
+          "tweet_count": 750
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T04:53:52.000Z",
+        "description": "オリジナルTVアニメ『ガールズバンドクライ』公式アカウントです。各サービスにて全話配信中！原作・企画・製作：東映アニメーション／シリーズ構成：花田十輝／音楽プロデューサー：玉井健二 (agehasprings)／キャラクターデザイン：手島nari／シリーズディレクター：酒井和男　推奨ハッシュタグ【#ガルクラ】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 154,
+                "start": 149,
+                "tag": "ガルクラ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "girls-band-cry.com",
+                "end": 23,
+                "expanded_url": "https://girls-band-cry.com/",
+                "start": 0,
+                "url": "https://t.co/HKW89YsJ1J"
+              }
+            ]
+          }
+        },
+        "id": "1646013705874976768",
+        "name": "アニメ『ガールズバンドクライ』公式",
+        "pinned_tweet_id": "1819523579265831129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741475331314536448/-CMk_tHF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172007,
+          "following_count": 23,
+          "like_count": 3291,
+          "listed_count": 730,
+          "tweet_count": 3872
+        },
+        "url": "https://t.co/HKW89YsJ1J",
+        "username": "girlsbandcry",
+        "verified": true
+      }
+    ]
+  }
+}

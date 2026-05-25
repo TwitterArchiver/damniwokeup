@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1877748848187359555",
+    "created_at": "2025-01-10T16:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T17:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877748848187359555"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 69,
+          "normalized_text": "Bible",
+          "probability": 0.9133,
+          "start": 65,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1257792281614200834",
+          "start": 3,
+          "username": "Culture_Crit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877748848187359555",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4971
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877426358189457467",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Culture_Crit: This is what angels look like according to the Bible.\n\nA thread explaining the 9 types, and why they say when they appear…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1877748848187359555",
+        "created_at": "2025-01-10T16:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T17:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877748848187359555"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 69,
+              "normalized_text": "Bible",
+              "probability": 0.9133,
+              "start": 65,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1257792281614200834",
+              "start": 3,
+              "username": "Culture_Crit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877748848187359555",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4971
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877426358189457467",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Culture_Crit: This is what angels look like according to the Bible.\n\nA thread explaining the 9 types, and why they say when they appear…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877425176868007936"
+          ]
+        },
+        "author_id": "1257792281614200834",
+        "conversation_id": "1877426358189457467",
+        "created_at": "2025-01-09T18:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T19:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877426358189457467"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "Bible",
+              "probability": 0.9187,
+              "start": 47,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xO9Ch8FERn",
+              "end": 168,
+              "expanded_url": "https://x.com/Culture_Crit/status/1877426358189457467/photo/1",
+              "media_key": "3_1877425176868007936",
+              "start": 145,
+              "url": "https://t.co/xO9Ch8FERn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877426358189457467",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21846,
+          "impression_count": 5285500,
+          "like_count": 41198,
+          "quote_count": 432,
+          "reply_count": 919,
+          "retweet_count": 4971
+        },
+        "reply_settings": "everyone",
+        "text": "This is what angels look like according to the Bible.\n\nA thread explaining the 9 types, and why they say when they appear:\n\n\"Be not afraid\"... 🧵 https://t.co/xO9Ch8FERn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 152,
+          "like_count": 6642,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1313
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-05T22:00:32.000Z",
+        "description": "Tradition is not the worship of ashes, but the preservation of fire.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "culture-critic.com/welcome",
+                "end": 23,
+                "expanded_url": "https://www.culture-critic.com/welcome",
+                "start": 0,
+                "url": "https://t.co/NFdbVgKJFz"
+              }
+            ]
+          }
+        },
+        "id": "1257792281614200834",
+        "location": "Join 100,000+ readers →",
+        "name": "Culture Critic",
+        "pinned_tweet_id": "1877426358189457467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595924931002486786/ffRhSilk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607859,
+          "following_count": 1203,
+          "like_count": 53575,
+          "listed_count": 6335,
+          "media_count": 5310,
+          "tweet_count": 9473
+        },
+        "url": "https://t.co/NFdbVgKJFz",
+        "username": "Culture_Crit",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971198020923555850",
+        "3_1971198020969693185",
+        "3_1971198020919459840",
+        "3_1971198020915175424"
+      ],
+      "media_source_tweet_id": [
+        "1971198027395367062",
+        "1971198027395367062",
+        "1971198027395367062",
+        "1971198027395367062"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1971559115148480841",
+    "created_at": "2025-09-26T12:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T13:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971559115148480841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1015615979861114880",
+          "start": 3,
+          "username": "salty_fima"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GJCTdKpY3l",
+          "end": 49,
+          "expanded_url": "https://x.com/salty_fima/status/1971198027395367062/photo/1",
+          "media_key": "3_1971198020923555850",
+          "start": 26,
+          "url": "https://t.co/GJCTdKpY3l"
+        },
+        {
+          "display_url": "pic.x.com/GJCTdKpY3l",
+          "end": 49,
+          "expanded_url": "https://x.com/salty_fima/status/1971198027395367062/photo/1",
+          "media_key": "3_1971198020969693185",
+          "start": 26,
+          "url": "https://t.co/GJCTdKpY3l"
+        },
+        {
+          "display_url": "pic.x.com/GJCTdKpY3l",
+          "end": 49,
+          "expanded_url": "https://x.com/salty_fima/status/1971198027395367062/photo/1",
+          "media_key": "3_1971198020919459840",
+          "start": 26,
+          "url": "https://t.co/GJCTdKpY3l"
+        },
+        {
+          "display_url": "pic.x.com/GJCTdKpY3l",
+          "end": 49,
+          "expanded_url": "https://x.com/salty_fima/status/1971198027395367062/photo/1",
+          "media_key": "3_1971198020915175424",
+          "start": 26,
+          "url": "https://t.co/GJCTdKpY3l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971559115148480841",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 788
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971198027395367062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @salty_fima: レゼ色々再掲！💣💥 https://t.co/GJCTdKpY3l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1971198020923555850",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1saJ_saAAo9gJO.jpg",
+        "width": 1770
+      },
+      {
+        "height": 1800,
+        "media_key": "3_1971198020969693185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1saJ_3aAAEiEfS.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2000,
+        "media_key": "3_1971198020919459840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1saJ_rbgAA7hAY.jpg",
+        "width": 1500
+      },
+      {
+        "height": 1612,
+        "media_key": "3_1971198020915175424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1saJ_qaIAAg_Sj.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971198020923555850",
+            "3_1971198020969693185",
+            "3_1971198020919459840",
+            "3_1971198020915175424"
+          ],
+          "media_source_tweet_id": [
+            "1971198027395367062",
+            "1971198027395367062",
+            "1971198027395367062",
+            "1971198027395367062"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1971559115148480841",
+        "created_at": "2025-09-26T12:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T13:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971559115148480841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1015615979861114880",
+              "start": 3,
+              "username": "salty_fima"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJCTdKpY3l",
+              "end": 49,
+              "expanded_url": "https://x.com/salty_fima/status/1971198027395367062/photo/1",
+              "media_key": "3_1971198020923555850",
+              "start": 26,
+              "url": "https://t.co/GJCTdKpY3l"
+            },
+            {
+              "display_url": "pic.x.com/GJCTdKpY3l",
+              "end": 49,
+              "expanded_url": "https://x.com/salty_fima/status/1971198027395367062/photo/1",
+              "media_key": "3_1971198020969693185",
+              "start": 26,
+              "url": "https://t.co/GJCTdKpY3l"
+            },
+            {
+              "display_url": "pic.x.com/GJCTdKpY3l",
+              "end": 49,
+              "expanded_url": "https://x.com/salty_fima/status/1971198027395367062/photo/1",
+              "media_key": "3_1971198020919459840",
+              "start": 26,
+              "url": "https://t.co/GJCTdKpY3l"
+            },
+            {
+              "display_url": "pic.x.com/GJCTdKpY3l",
+              "end": 49,
+              "expanded_url": "https://x.com/salty_fima/status/1971198027395367062/photo/1",
+              "media_key": "3_1971198020915175424",
+              "start": 26,
+              "url": "https://t.co/GJCTdKpY3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971559115148480841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 788
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971198027395367062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @salty_fima: レゼ色々再掲！💣💥 https://t.co/GJCTdKpY3l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971198020923555850",
+            "3_1971198020969693185",
+            "3_1971198020919459840",
+            "3_1971198020915175424"
+          ]
+        },
+        "author_id": "1015615979861114880",
+        "conversation_id": "1971198027395367062",
+        "created_at": "2025-09-25T13:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T14:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971198027395367062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJCTdKpY3l",
+              "end": 33,
+              "expanded_url": "https://x.com/salty_fima/status/1971198027395367062/photo/1",
+              "media_key": "3_1971198020923555850",
+              "start": 10,
+              "url": "https://t.co/GJCTdKpY3l"
+            },
+            {
+              "display_url": "pic.x.com/GJCTdKpY3l",
+              "end": 33,
+              "expanded_url": "https://x.com/salty_fima/status/1971198027395367062/photo/1",
+              "media_key": "3_1971198020969693185",
+              "start": 10,
+              "url": "https://t.co/GJCTdKpY3l"
+            },
+            {
+              "display_url": "pic.x.com/GJCTdKpY3l",
+              "end": 33,
+              "expanded_url": "https://x.com/salty_fima/status/1971198027395367062/photo/1",
+              "media_key": "3_1971198020919459840",
+              "start": 10,
+              "url": "https://t.co/GJCTdKpY3l"
+            },
+            {
+              "display_url": "pic.x.com/GJCTdKpY3l",
+              "end": 33,
+              "expanded_url": "https://x.com/salty_fima/status/1971198027395367062/photo/1",
+              "media_key": "3_1971198020915175424",
+              "start": 10,
+              "url": "https://t.co/GJCTdKpY3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971198027395367062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1146,
+          "impression_count": 139423,
+          "like_count": 10192,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 788
+        },
+        "reply_settings": "everyone",
+        "text": "レゼ色々再掲！💣💥 https://t.co/GJCTdKpY3l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Phoenix, AZ",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 141,
+          "like_count": 6968,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1253
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-07T15:18:13.000Z",
+        "description": "M.O陸亀の避難所。",
+        "id": "1015615979861114880",
+        "location": "日本",
+        "name": "もりくがめ",
+        "pinned_tweet_id": "1968691511706456214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906973732297674752/OKkjPump_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 1,
+          "like_count": 157,
+          "listed_count": 6,
+          "media_count": 21,
+          "tweet_count": 59
+        },
+        "username": "salty_fima",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864122283507503107"
+      ],
+      "media_source_tweet_id": [
+        "1864122286212829363"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1864167989307953425",
+    "created_at": "2024-12-04T04:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T05:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864167989307953425"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "mygo"
+        },
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "ともさき"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1541813955416293376",
+          "start": 3,
+          "username": "azhi_nagi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1QReL9ke7w",
+          "end": 59,
+          "expanded_url": "https://x.com/azhi_nagi/status/1864122286212829363/photo/1",
+          "media_key": "3_1864122283507503107",
+          "start": 36,
+          "url": "https://t.co/1QReL9ke7w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864167989307953425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 306
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864122286212829363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azhi_nagi: #mygo\n#ともさき\n黑白琴键上绽放的 https://t.co/1QReL9ke7w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1864122283507503107",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd6xVx5a0AMBD0j.jpg",
+        "width": 1464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864122283507503107"
+          ],
+          "media_source_tweet_id": [
+            "1864122286212829363"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1864167989307953425",
+        "created_at": "2024-12-04T04:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T05:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864167989307953425"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "mygo"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "ともさき"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1541813955416293376",
+              "start": 3,
+              "username": "azhi_nagi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1QReL9ke7w",
+              "end": 59,
+              "expanded_url": "https://x.com/azhi_nagi/status/1864122286212829363/photo/1",
+              "media_key": "3_1864122283507503107",
+              "start": 36,
+              "url": "https://t.co/1QReL9ke7w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864167989307953425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 306
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864122286212829363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azhi_nagi: #mygo\n#ともさき\n黑白琴键上绽放的 https://t.co/1QReL9ke7w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864122283507503107"
+          ]
+        },
+        "author_id": "1541813955416293376",
+        "conversation_id": "1864122286212829363",
+        "created_at": "2024-12-04T01:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T02:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864122286212829363"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "mygo"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "ともさき"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1QReL9ke7w",
+              "end": 44,
+              "expanded_url": "https://x.com/azhi_nagi/status/1864122286212829363/photo/1",
+              "media_key": "3_1864122283507503107",
+              "start": 21,
+              "url": "https://t.co/1QReL9ke7w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864122286212829363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 13022,
+          "like_count": 1282,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 306
+        },
+        "reply_settings": "everyone",
+        "text": "#mygo\n#ともさき\n黑白琴键上绽放的 https://t.co/1QReL9ke7w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863961129996967936/qeynYxft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 143,
+          "like_count": 5534,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 895
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T16:01:16.000Z",
+        "description": "|无言关注 发图|低浮上|无授权转载🚫|推不常上请在微博找我",
+        "id": "1541813955416293376",
+        "location": "China",
+        "name": "なぎ",
+        "pinned_tweet_id": "1676675192037445632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679901070108278784/0eBPlZQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3491,
+          "following_count": 231,
+          "like_count": 212,
+          "listed_count": 21,
+          "media_count": 28,
+          "tweet_count": 34
+        },
+        "username": "azhi_nagi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1858756202496417995"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1859276783767711860",
+    "created_at": "2024-11-20T16:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T17:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859276783767711860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1492141471734337545",
+          "start": 3,
+          "username": "BocchiTheChurch"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HAy7Q3RvNz",
+          "end": 44,
+          "expanded_url": "https://x.com/BocchiTheChurch/status/1858756202496417995/photo/1",
+          "media_key": "3_1858756196548960256",
+          "start": 21,
+          "url": "https://t.co/HAy7Q3RvNz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859276783767711860",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 741
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858756202496417995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BocchiTheChurch: https://t.co/HAy7Q3RvNz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1858756202496417995"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1859276783767711860",
+        "created_at": "2024-11-20T16:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T17:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859276783767711860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1492141471734337545",
+              "start": 3,
+              "username": "BocchiTheChurch"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HAy7Q3RvNz",
+              "end": 44,
+              "expanded_url": "https://x.com/BocchiTheChurch/status/1858756202496417995/photo/1",
+              "media_key": "3_1858756196548960256",
+              "start": 21,
+              "url": "https://t.co/HAy7Q3RvNz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859276783767711860",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 741
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858756202496417995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BocchiTheChurch: https://t.co/HAy7Q3RvNz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858756196548960256"
+          ]
+        },
+        "author_id": "1492141471734337545",
+        "conversation_id": "1858756202496417995",
+        "created_at": "2024-11-19T06:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T07:15:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858756008060801232",
+          "1858756202496417995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HAy7Q3RvNz",
+              "end": 23,
+              "expanded_url": "https://x.com/BocchiTheChurch/status/1858756202496417995/photo/1",
+              "media_key": "3_1858756196548960256",
+              "start": 0,
+              "url": "https://t.co/HAy7Q3RvNz"
+            },
+            {
+              "display_url": "x.com/BocchiTheChurc…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/BocchiTheChurch/status/1858756008060801232",
+              "start": 24,
+              "url": "https://t.co/yshhSoITuD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858756202496417995",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 763,
+          "impression_count": 148915,
+          "like_count": 5234,
+          "quote_count": 44,
+          "reply_count": 37,
+          "retweet_count": 741
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858756008060801232",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/HAy7Q3RvNz https://t.co/yshhSoITuD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 128,
+          "like_count": 4967,
+          "listed_count": 0,
+          "tweet_count": 679
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T14:20:38.000Z",
+        "description": "Totally official Church of Bocchi ✨ All Hail Bocchi! ✨ Profile by @zetsuyochimayo ✨ Banner by @tenoo12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "zetsuyochimayo"
+              },
+              {
+                "end": 102,
+                "start": 94,
+                "username": "tenoo12"
+              }
+            ]
+          }
+        },
+        "id": "1492141471734337545",
+        "location": "Bocchi Heaven",
+        "name": "The Church of Bocchi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845064438589816835/0gTBBgRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2544,
+          "following_count": 67,
+          "like_count": 7199,
+          "listed_count": 2,
+          "tweet_count": 559
+        },
+        "username": "BocchiTheChurch",
+        "verified": false
+      }
+    ]
+  }
+}

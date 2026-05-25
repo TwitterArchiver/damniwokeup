@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1865990796719329319"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1866404132489412931",
+    "created_at": "2024-12-10T08:46:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T09:46:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866404132489412931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1823007819681169408",
+          "start": 3,
+          "username": "MercKill_X3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sJpmSgtHsq",
+          "end": 86,
+          "expanded_url": "https://x.com/MercKill_X3/status/1865990796719329319/photo/1",
+          "media_key": "3_1865990793502261248",
+          "start": 63,
+          "url": "https://t.co/sJpmSgtHsq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866404132489412931",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865990796719329319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MercKill_X3: WOAH!!!!!! HEHEHEHEHE!!!!!!! COOL ACCOUNT!!!! https://t.co/sJpmSgtHsq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1865990796719329319"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1866404132489412931",
+        "created_at": "2024-12-10T08:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T09:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866404132489412931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1823007819681169408",
+              "start": 3,
+              "username": "MercKill_X3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sJpmSgtHsq",
+              "end": 86,
+              "expanded_url": "https://x.com/MercKill_X3/status/1865990796719329319/photo/1",
+              "media_key": "3_1865990793502261248",
+              "start": 63,
+              "url": "https://t.co/sJpmSgtHsq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866404132489412931",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865990796719329319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MercKill_X3: WOAH!!!!!! HEHEHEHEHE!!!!!!! COOL ACCOUNT!!!! https://t.co/sJpmSgtHsq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865990793502261248"
+          ]
+        },
+        "author_id": "1823007819681169408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1865990796719329319",
+        "created_at": "2024-12-09T05:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T06:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865990796719329319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sJpmSgtHsq",
+              "end": 69,
+              "expanded_url": "https://x.com/MercKill_X3/status/1865990796719329319/photo/1",
+              "media_key": "3_1865990793502261248",
+              "start": 46,
+              "url": "https://t.co/sJpmSgtHsq"
+            },
+            {
+              "display_url": "x.com/KylaPicone9/st…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/KylaPicone9/status/1865851209011101968",
+              "start": 70,
+              "url": "https://t.co/9HJlGLucW6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865990796719329319",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 3177,
+          "like_count": 279,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865851209011101968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "WOAH!!!!!! HEHEHEHEHE!!!!!!! COOL ACCOUNT!!!! https://t.co/sJpmSgtHsq https://t.co/9HJlGLucW6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 5764,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 982
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T14:45:37.000Z",
+        "description": "",
+        "id": "1823007819681169408",
+        "name": "brady hartsfield",
+        "pinned_tweet_id": "1835109198830748097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823010781182799872/RMFjnmGF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 14,
+          "like_count": 29570,
+          "listed_count": 2,
+          "media_count": 391,
+          "tweet_count": 618
+        },
+        "username": "MercKill_X3",
+        "verified": false
+      }
+    ]
+  }
+}

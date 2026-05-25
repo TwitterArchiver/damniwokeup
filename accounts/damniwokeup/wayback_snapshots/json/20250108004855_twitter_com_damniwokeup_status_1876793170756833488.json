@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876674714115911680"
+      ],
+      "media_source_tweet_id": [
+        "1876674734144069865"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1876793170756833488",
+    "created_at": "2025-01-08T00:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T01:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876793170756833488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1533421462857469952",
+          "start": 3,
+          "username": "eliza_804"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lW17qXtQPb",
+          "end": 41,
+          "expanded_url": "https://x.com/eliza_804/status/1876674734144069865/photo/1",
+          "media_key": "3_1876674714115911680",
+          "start": 18,
+          "url": "https://t.co/lW17qXtQPb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876793170756833488",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876674734144069865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eliza_804: cm https://t.co/lW17qXtQPb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1543,
+        "media_key": "3_1876674714115911680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgtJtZ3WMAAPAnC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876674714115911680"
+          ],
+          "media_source_tweet_id": [
+            "1876674734144069865"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1876793170756833488",
+        "created_at": "2025-01-08T00:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T01:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876793170756833488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1533421462857469952",
+              "start": 3,
+              "username": "eliza_804"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lW17qXtQPb",
+              "end": 41,
+              "expanded_url": "https://x.com/eliza_804/status/1876674734144069865/photo/1",
+              "media_key": "3_1876674714115911680",
+              "start": 18,
+              "url": "https://t.co/lW17qXtQPb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876793170756833488",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876674734144069865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eliza_804: cm https://t.co/lW17qXtQPb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876674714115911680"
+          ]
+        },
+        "author_id": "1533421462857469952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1876674734144069865",
+        "created_at": "2025-01-07T16:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T17:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876674734144069865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lW17qXtQPb",
+              "end": 26,
+              "expanded_url": "https://x.com/eliza_804/status/1876674734144069865/photo/1",
+              "media_key": "3_1876674714115911680",
+              "start": 3,
+              "url": "https://t.co/lW17qXtQPb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876674734144069865",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 5100,
+          "like_count": 619,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "cm https://t.co/lW17qXtQPb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 151,
+          "like_count": 6587,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1293
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T12:12:31.000Z",
+        "description": "＝33🐙 | illus | 中 | ENG | 日\n*cm closed",
+        "id": "1533421462857469952",
+        "location": "dreamland",
+        "name": "Octopus33",
+        "pinned_tweet_id": "1754856602073751624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731584095015337984/8mbBJZL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40907,
+          "following_count": 472,
+          "like_count": 1841,
+          "listed_count": 281,
+          "media_count": 162,
+          "tweet_count": 1394
+        },
+        "username": "eliza_804",
+        "verified": false
+      }
+    ]
+  }
+}

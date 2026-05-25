@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1851546944847638528"
+      ],
+      "media_source_tweet_id": [
+        "1851546990884336109"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1851821041091514565",
+    "created_at": "2024-10-31T02:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T03:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851821041091514565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "901935837012680704",
+          "start": 3,
+          "username": "zx12R5624"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uHS7Tp1ggD",
+          "end": 86,
+          "expanded_url": "https://x.com/zx12R5624/status/1851546990884336109/photo/1",
+          "media_key": "3_1851546944847638528",
+          "start": 63,
+          "url": "https://t.co/uHS7Tp1ggD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851821041091514565",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851546990884336109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zx12R5624: おやすみ　水曜の日(ﾟ∀ﾟ)\n\n♪フリーアイコン  ♪フリーイラスト \n\n「より目のつもり♪」 https://t.co/uHS7Tp1ggD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1851546944847638528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbIEIuyacAAU8VK.jpg",
+        "width": 1543
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851546944847638528"
+          ],
+          "media_source_tweet_id": [
+            "1851546990884336109"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1851821041091514565",
+        "created_at": "2024-10-31T02:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T03:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851821041091514565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "901935837012680704",
+              "start": 3,
+              "username": "zx12R5624"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uHS7Tp1ggD",
+              "end": 86,
+              "expanded_url": "https://x.com/zx12R5624/status/1851546990884336109/photo/1",
+              "media_key": "3_1851546944847638528",
+              "start": 63,
+              "url": "https://t.co/uHS7Tp1ggD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851821041091514565",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851546990884336109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zx12R5624: おやすみ　水曜の日(ﾟ∀ﾟ)\n\n♪フリーアイコン  ♪フリーイラスト \n\n「より目のつもり♪」 https://t.co/uHS7Tp1ggD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851546944847638528"
+          ]
+        },
+        "author_id": "901935837012680704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1851546990884336109",
+        "created_at": "2024-10-30T08:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T09:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851546990884336109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uHS7Tp1ggD",
+              "end": 71,
+              "expanded_url": "https://x.com/zx12R5624/status/1851546990884336109/photo/1",
+              "media_key": "3_1851546944847638528",
+              "start": 48,
+              "url": "https://t.co/uHS7Tp1ggD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851546990884336109",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1947,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "おやすみ　水曜の日(ﾟ∀ﾟ)\n\n♪フリーアイコン  ♪フリーイラスト \n\n「より目のつもり♪」 https://t.co/uHS7Tp1ggD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847962644852162560/UJMfw11t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 121,
+          "like_count": 4445,
+          "listed_count": 0,
+          "tweet_count": 455
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-27T22:33:55.000Z",
+        "description": "AIイラストと作曲、ギターで遊んでいる道民です #ボカロ #作曲 ＃作詞 #札幌 ＃知声 #dtm #ギター #アニソン 好き AI使用にてイラスト作成(ﾟ∀ﾟ) niji＋S.D＋加筆 暗めの絵 ♀多め #フリーイラスト 明記はご自由に(ﾟ∀ﾟ) 使うって言ってくれたら喜ぶ・・・つかってくれてるの見つけると喜ぶ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 24,
+                "tag": "ボカロ"
+              },
+              {
+                "end": 32,
+                "start": 29,
+                "tag": "作曲"
+              },
+              {
+                "end": 36,
+                "start": 33,
+                "tag": "作詞"
+              },
+              {
+                "end": 40,
+                "start": 37,
+                "tag": "札幌"
+              },
+              {
+                "end": 44,
+                "start": 41,
+                "tag": "知声"
+              },
+              {
+                "end": 49,
+                "start": 45,
+                "tag": "dtm"
+              },
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "ギター"
+              },
+              {
+                "end": 60,
+                "start": 55,
+                "tag": "アニソン"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "tag": "フリーイラスト"
+              }
+            ]
+          }
+        },
+        "id": "901935837012680704",
+        "location": " 札幌市　自宅",
+        "name": "アタシ＝Ani→ AIイラストとDTMとギター",
+        "pinned_tweet_id": "1843938010720858397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831472598825209856/H0iL8BDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5282,
+          "following_count": 562,
+          "like_count": 56401,
+          "listed_count": 37,
+          "tweet_count": 4290
+        },
+        "username": "zx12R5624",
+        "verified": true
+      }
+    ]
+  }
+}

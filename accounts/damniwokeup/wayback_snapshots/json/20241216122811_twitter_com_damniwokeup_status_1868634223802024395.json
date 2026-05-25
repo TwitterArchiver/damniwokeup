@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868584827877982208"
+      ],
+      "media_source_tweet_id": [
+        "1868584839215276492"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1868634223802024395",
+    "created_at": "2024-12-16T12:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T13:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868634223802024395"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 17,
+          "tag": "今年も残りわずかなので今年一番伸びた絵を貼る"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1307358143064625153",
+          "start": 3,
+          "username": "Kana_Taka11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oeWJ3mxceR",
+          "end": 77,
+          "expanded_url": "https://x.com/Kana_Taka11/status/1868584839215276492/photo/1",
+          "media_key": "3_1868584827877982208",
+          "start": 54,
+          "url": "https://t.co/oeWJ3mxceR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868634223802024395",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 176
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868584839215276492",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kana_Taka11: #今年も残りわずかなので今年一番伸びた絵を貼る\nこれでした🏄‍♀️🌊🎆🍹 https://t.co/oeWJ3mxceR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1464,
+        "media_key": "3_1868584827877982208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge6MADJaAAApP75.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868584827877982208"
+          ],
+          "media_source_tweet_id": [
+            "1868584839215276492"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1868634223802024395",
+        "created_at": "2024-12-16T12:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T13:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868634223802024395"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 17,
+              "tag": "今年も残りわずかなので今年一番伸びた絵を貼る"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1307358143064625153",
+              "start": 3,
+              "username": "Kana_Taka11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oeWJ3mxceR",
+              "end": 77,
+              "expanded_url": "https://x.com/Kana_Taka11/status/1868584839215276492/photo/1",
+              "media_key": "3_1868584827877982208",
+              "start": 54,
+              "url": "https://t.co/oeWJ3mxceR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868634223802024395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 176
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868584839215276492",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kana_Taka11: #今年も残りわずかなので今年一番伸びた絵を貼る\nこれでした🏄‍♀️🌊🎆🍹 https://t.co/oeWJ3mxceR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868584827877982208"
+          ]
+        },
+        "author_id": "1307358143064625153",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1868584839215276492",
+        "created_at": "2024-12-16T09:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T10:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868584839215276492"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 0,
+              "tag": "今年も残りわずかなので今年一番伸びた絵を貼る"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oeWJ3mxceR",
+              "end": 60,
+              "expanded_url": "https://x.com/Kana_Taka11/status/1868584839215276492/photo/1",
+              "media_key": "3_1868584827877982208",
+              "start": 37,
+              "url": "https://t.co/oeWJ3mxceR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868584839215276492",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 18009,
+          "like_count": 1657,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "#今年も残りわずかなので今年一番伸びた絵を貼る\nこれでした🏄‍♀️🌊🎆🍹 https://t.co/oeWJ3mxceR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 145,
+          "like_count": 6088,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1113
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-19T16:37:41.000Z",
+        "description": "ぼっち・ざ・ろっく！に狂わされたひと。結束バンドキャスト、舞台も大好き/すごいマイペースです。ご依頼などあればDMまでお願いします。//Skeb▷▶︎ https://t.co/SbfEb0846w",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Kana_Taka11",
+                "end": 99,
+                "expanded_url": "https://skeb.jp/@Kana_Taka11",
+                "start": 76,
+                "url": "https://t.co/SbfEb0846w"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/60444940",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/60444940",
+                "start": 0,
+                "url": "https://t.co/IgNICZBYnr"
+              }
+            ]
+          }
+        },
+        "id": "1307358143064625153",
+        "location": "喫茶「街-かなりあ-角」竜宮島店",
+        "name": "鷹なゆ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742597036023951360/qUmWB_qx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81080,
+          "following_count": 926,
+          "like_count": 21627,
+          "listed_count": 663,
+          "media_count": 500,
+          "tweet_count": 10138
+        },
+        "url": "https://t.co/IgNICZBYnr",
+        "username": "Kana_Taka11",
+        "verified": false
+      }
+    ]
+  }
+}

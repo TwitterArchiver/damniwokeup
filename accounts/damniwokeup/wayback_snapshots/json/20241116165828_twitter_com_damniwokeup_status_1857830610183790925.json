@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857709616194531329"
+      ],
+      "media_source_tweet_id": [
+        "1857709620602745084"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "1857830610183790925",
+    "created_at": "2024-11-16T16:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T17:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857830610183790925"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 14,
+          "tag": "ぼっち・ざ・ろっく"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1670405260429643776",
+          "start": 3,
+          "username": "818_seki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yddLaMeTiW",
+          "end": 48,
+          "expanded_url": "https://x.com/818_seki/status/1857709620602745084/photo/1",
+          "media_key": "3_1857709616194531329",
+          "start": 25,
+          "url": "https://t.co/yddLaMeTiW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857830610183790925",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857709620602745084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @818_seki: #ぼっち・ざ・ろっく https://t.co/yddLaMeTiW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 982,
+        "media_key": "3_1857709616194531329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcfpDakaMAEUQyO.jpg",
+        "width": 694
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857709616194531329"
+          ],
+          "media_source_tweet_id": [
+            "1857709620602745084"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1857830610183790925",
+        "created_at": "2024-11-16T16:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T17:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857830610183790925"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 14,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1670405260429643776",
+              "start": 3,
+              "username": "818_seki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yddLaMeTiW",
+              "end": 48,
+              "expanded_url": "https://x.com/818_seki/status/1857709620602745084/photo/1",
+              "media_key": "3_1857709616194531329",
+              "start": 25,
+              "url": "https://t.co/yddLaMeTiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857830610183790925",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857709620602745084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @818_seki: #ぼっち・ざ・ろっく https://t.co/yddLaMeTiW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857709616194531329"
+          ]
+        },
+        "author_id": "1670405260429643776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          }
+        ],
+        "conversation_id": "1857709620602745084",
+        "created_at": "2024-11-16T08:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T09:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857709620602745084"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yddLaMeTiW",
+              "end": 34,
+              "expanded_url": "https://x.com/818_seki/status/1857709620602745084/photo/1",
+              "media_key": "3_1857709616194531329",
+              "start": 11,
+              "url": "https://t.co/yddLaMeTiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857709620602745084",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 15141,
+          "like_count": 1035,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "#ぼっち・ざ・ろっく https://t.co/yddLaMeTiW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 125,
+          "like_count": 4840,
+          "listed_count": 0,
+          "tweet_count": 619
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T12:17:39.000Z",
+        "description": "♂︎ | ご依頼はskebかDMにお願いします 🦋bluesky→ https://t.co/Bbh9llRR7x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/sekiya…",
+                "end": 57,
+                "expanded_url": "https://bsky.app/profile/sekiya818.bsky.social",
+                "start": 34,
+                "url": "https://t.co/Bbh9llRR7x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/sSgGj6TFItcC…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/sSgGj6TFItcCv8VeHagJaive1W43",
+                "start": 0,
+                "url": "https://t.co/4EvQcVzSCf"
+              }
+            ]
+          }
+        },
+        "id": "1670405260429643776",
+        "location": "依頼、その他→",
+        "name": "sekiya",
+        "pinned_tweet_id": "1857227849738113090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807859391515054080/8Sl_Cryj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21010,
+          "following_count": 475,
+          "like_count": 18368,
+          "listed_count": 104,
+          "tweet_count": 583
+        },
+        "url": "https://t.co/4EvQcVzSCf",
+        "username": "818_seki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1850760583026782208"
+      ],
+      "media_source_tweet_id": [
+        "1850760607181819998"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1850773292338073841",
+    "created_at": "2024-10-28T05:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-28T06:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850773292338073841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "16167014",
+          "start": 3,
+          "username": "Ixy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0il34eWhsX",
+          "end": 43,
+          "expanded_url": "https://x.com/Ixy/status/1850760607181819998/photo/1",
+          "media_key": "3_1850760583026782208",
+          "start": 20,
+          "url": "https://t.co/0il34eWhsX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850773292338073841",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 881
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850760607181819998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ixy: いまだけダブチ食べ美 https://t.co/0il34eWhsX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1850760583026782208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ga848cubMAABPuv.png",
+        "width": 547
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850760583026782208"
+          ],
+          "media_source_tweet_id": [
+            "1850760607181819998"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1850773292338073841",
+        "created_at": "2024-10-28T05:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T06:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850773292338073841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "16167014",
+              "start": 3,
+              "username": "Ixy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0il34eWhsX",
+              "end": 43,
+              "expanded_url": "https://x.com/Ixy/status/1850760607181819998/photo/1",
+              "media_key": "3_1850760583026782208",
+              "start": 20,
+              "url": "https://t.co/0il34eWhsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850773292338073841",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 881
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850760607181819998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ixy: いまだけダブチ食べ美 https://t.co/0il34eWhsX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850760583026782208"
+          ]
+        },
+        "author_id": "16167014",
+        "conversation_id": "1850760607181819998",
+        "created_at": "2024-10-28T04:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T05:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850760607181819998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0il34eWhsX",
+              "end": 34,
+              "expanded_url": "https://x.com/Ixy/status/1850760607181819998/photo/1",
+              "media_key": "3_1850760583026782208",
+              "start": 11,
+              "url": "https://t.co/0il34eWhsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850760607181819998",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 240,
+          "impression_count": 57904,
+          "like_count": 5307,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 881
+        },
+        "reply_settings": "everyone",
+        "text": "いまだけダブチ食べ美 https://t.co/0il34eWhsX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847962644852162560/UJMfw11t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 120,
+          "like_count": 4314,
+          "listed_count": 0,
+          "tweet_count": 438
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2008-09-07T06:40:50.000Z",
+        "description": "イラストやゲーム制作など　「Struggle F.O」「魔法闘姫リルスティア」\nブログ：https://t.co/LMLlupEegO ｜Web：https://t.co/drxZkd2dfH│#ixyv FAタグ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 102,
+                "start": 97,
+                "tag": "ixyv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ixy.blog.jp",
+                "end": 67,
+                "expanded_url": "https://ixy.blog.jp/",
+                "start": 44,
+                "url": "https://t.co/LMLlupEegO"
+              },
+              {
+                "display_url": "ixyis.com",
+                "end": 96,
+                "expanded_url": "http://ixyis.com",
+                "start": 73,
+                "url": "https://t.co/drxZkd2dfH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.be/@ixy",
+                "end": 23,
+                "expanded_url": "https://www.youtube.be/@ixy",
+                "start": 0,
+                "url": "https://t.co/B2WJbpISG6"
+              }
+            ]
+          }
+        },
+        "id": "16167014",
+        "location": "ご依頼用メール→ixyinfo333@gmail.com",
+        "name": "Ｉｘｙ（いくしー）",
+        "pinned_tweet_id": "1793581938852474920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771441741570469888/82ovY1dj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756883,
+          "following_count": 3097,
+          "like_count": 10492,
+          "listed_count": 7321,
+          "tweet_count": 18882
+        },
+        "url": "https://t.co/B2WJbpISG6",
+        "username": "Ixy",
+        "verified": true
+      }
+    ]
+  }
+}

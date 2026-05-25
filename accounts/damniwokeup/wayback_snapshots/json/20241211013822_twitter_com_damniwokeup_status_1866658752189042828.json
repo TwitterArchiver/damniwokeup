@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1866626979598041202"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1866658752189042828",
+    "created_at": "2024-12-11T01:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T02:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866658752189042828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1542751475461369856",
+          "start": 3,
+          "username": "ms_tsukii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cr11KvJMMc",
+          "end": 83,
+          "expanded_url": "https://x.com/ms_tsukii/status/1866626979598041202/photo/1",
+          "media_key": "3_1866626968588005376",
+          "start": 60,
+          "url": "https://t.co/cr11KvJMMc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866658752189042828",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 188
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866626979598041202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ms_tsukii: nothing will ever top this for me I think :) https://t.co/cr11KvJMMc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1866626979598041202"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1866658752189042828",
+        "created_at": "2024-12-11T01:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T02:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866658752189042828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1542751475461369856",
+              "start": 3,
+              "username": "ms_tsukii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cr11KvJMMc",
+              "end": 83,
+              "expanded_url": "https://x.com/ms_tsukii/status/1866626979598041202/photo/1",
+              "media_key": "3_1866626968588005376",
+              "start": 60,
+              "url": "https://t.co/cr11KvJMMc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866658752189042828",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866626979598041202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ms_tsukii: nothing will ever top this for me I think :) https://t.co/cr11KvJMMc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866626968588005376"
+          ]
+        },
+        "author_id": "1542751475461369856",
+        "conversation_id": "1866626979598041202",
+        "created_at": "2024-12-10T23:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T00:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866626979598041202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cr11KvJMMc",
+              "end": 68,
+              "expanded_url": "https://x.com/ms_tsukii/status/1866626979598041202/photo/1",
+              "media_key": "3_1866626968588005376",
+              "start": 45,
+              "url": "https://t.co/cr11KvJMMc"
+            },
+            {
+              "display_url": "x.com/synthevisuals/…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/synthevisuals/status/1865692488062620125",
+              "start": 69,
+              "url": "https://t.co/37HWwRSBPz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866626979598041202",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 174,
+          "impression_count": 21336,
+          "like_count": 2132,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 188
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865692488062620125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "nothing will ever top this for me I think :) https://t.co/cr11KvJMMc https://t.co/37HWwRSBPz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 5820,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1013
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T06:06:38.000Z",
+        "description": "ENG/ESP || 🇲🇽 elementary teacher || 19 || cmms OPEN DM || no ai ❌ || i like girls/mech || cms: https://t.co/PZoODdDi8M || 18+: https://t.co/xfAr9h9AKS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mstsucommissions.com",
+                "end": 118,
+                "expanded_url": "http://www.mstsucommissions.com",
+                "start": 95,
+                "url": "https://t.co/PZoODdDi8M"
+              },
+              {
+                "display_url": "patreon.com/mstsu",
+                "end": 150,
+                "expanded_url": "http://www.patreon.com/mstsu",
+                "start": 127,
+                "url": "https://t.co/xfAr9h9AKS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/mstsu",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/mstsu",
+                "start": 0,
+                "url": "https://t.co/EJMfu7qi3E"
+              }
+            ]
+          }
+        },
+        "id": "1542751475461369856",
+        "name": "ms. tsu",
+        "pinned_tweet_id": "1858935773136830638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756137480032804864/PxybiReA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102936,
+          "following_count": 942,
+          "like_count": 44375,
+          "listed_count": 405,
+          "media_count": 645,
+          "tweet_count": 9032
+        },
+        "url": "https://t.co/EJMfu7qi3E",
+        "username": "ms_tsukii",
+        "verified": true
+      }
+    ]
+  }
+}

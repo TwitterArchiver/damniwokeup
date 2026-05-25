@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864102545393672192"
+      ],
+      "media_source_tweet_id": [
+        "1864102561558474865"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1864232673746801036",
+    "created_at": "2024-12-04T08:57:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T09:57:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864232673746801036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1652104739478290433",
+          "start": 3,
+          "username": "bocchithegoth"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wJce5rUBVc",
+          "end": 42,
+          "expanded_url": "https://x.com/bocchithegoth/status/1864102561558474865/photo/1",
+          "media_key": "3_1864102545393672192",
+          "start": 19,
+          "url": "https://t.co/wJce5rUBVc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864232673746801036",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864102561558474865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bocchithegoth: https://t.co/wJce5rUBVc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1864102545393672192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd6fY3sXYAArXlS.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864102545393672192"
+          ],
+          "media_source_tweet_id": [
+            "1864102561558474865"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1864232673746801036",
+        "created_at": "2024-12-04T08:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T09:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864232673746801036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1652104739478290433",
+              "start": 3,
+              "username": "bocchithegoth"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wJce5rUBVc",
+              "end": 42,
+              "expanded_url": "https://x.com/bocchithegoth/status/1864102561558474865/photo/1",
+              "media_key": "3_1864102545393672192",
+              "start": 19,
+              "url": "https://t.co/wJce5rUBVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864232673746801036",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864102561558474865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bocchithegoth: https://t.co/wJce5rUBVc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864102545393672192"
+          ]
+        },
+        "author_id": "1652104739478290433",
+        "conversation_id": "1864102561558474865",
+        "created_at": "2024-12-04T00:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T01:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864102561558474865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wJce5rUBVc",
+              "end": 23,
+              "expanded_url": "https://x.com/bocchithegoth/status/1864102561558474865/photo/1",
+              "media_key": "3_1864102545393672192",
+              "start": 0,
+              "url": "https://t.co/wJce5rUBVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864102561558474865",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 3300,
+          "like_count": 483,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wJce5rUBVc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863961129996967936/qeynYxft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 143,
+          "like_count": 5552,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 901
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T00:17:27.000Z",
+        "description": "снг бочка всея руси // bochka",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/bocchithegoth",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/bocchithegoth",
+                "start": 0,
+                "url": "https://t.co/bjKI2v9Pje"
+              }
+            ]
+          }
+        },
+        "id": "1652104739478290433",
+        "name": "Goth Bocchi",
+        "pinned_tweet_id": "1840914031978127675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800294919723978752/6_xp4rLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12032,
+          "following_count": 101,
+          "like_count": 1161,
+          "listed_count": 21,
+          "media_count": 191,
+          "tweet_count": 415
+        },
+        "url": "https://t.co/bjKI2v9Pje",
+        "username": "bocchithegoth",
+        "verified": true
+      }
+    ]
+  }
+}

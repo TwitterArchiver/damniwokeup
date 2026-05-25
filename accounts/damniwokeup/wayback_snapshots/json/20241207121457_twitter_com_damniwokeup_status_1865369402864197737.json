@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1865302552713269248"
+      ],
+      "media_source_tweet_id": [
+        "1865302883291562249"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1865369402864197737",
+    "created_at": "2024-12-07T12:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T13:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865369402864197737"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 13,
+          "tag": "Skeb"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1295892998912278528",
+          "start": 3,
+          "username": "ema3art"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QtunGJ98Oj",
+          "end": 45,
+          "expanded_url": "https://x.com/ema3art/status/1865302883291562249/photo/1",
+          "media_key": "3_1865302552713269248",
+          "start": 22,
+          "url": "https://t.co/QtunGJ98Oj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865369402864197737",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865302883291562249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ema3art: #Skeb　💐🎀 https://t.co/QtunGJ98Oj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1865302552713269248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeLiyfUakAAaPHw.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865302552713269248"
+          ],
+          "media_source_tweet_id": [
+            "1865302883291562249"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1865369402864197737",
+        "created_at": "2024-12-07T12:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T13:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865369402864197737"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "Skeb"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1295892998912278528",
+              "start": 3,
+              "username": "ema3art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QtunGJ98Oj",
+              "end": 45,
+              "expanded_url": "https://x.com/ema3art/status/1865302883291562249/photo/1",
+              "media_key": "3_1865302552713269248",
+              "start": 22,
+              "url": "https://t.co/QtunGJ98Oj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865369402864197737",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865302883291562249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ema3art: #Skeb　💐🎀 https://t.co/QtunGJ98Oj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865302552713269248"
+          ]
+        },
+        "author_id": "1295892998912278528",
+        "conversation_id": "1865302883291562249",
+        "created_at": "2024-12-07T07:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T08:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865302883291562249"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "Skeb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QtunGJ98Oj",
+              "end": 32,
+              "expanded_url": "https://x.com/ema3art/status/1865302883291562249/photo/1",
+              "media_key": "3_1865302552713269248",
+              "start": 9,
+              "url": "https://t.co/QtunGJ98Oj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865302883291562249",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 10858,
+          "like_count": 705,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "#Skeb　💐🎀 https://t.co/QtunGJ98Oj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 145,
+          "like_count": 5672,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 955
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-19T01:25:17.000Z",
+        "description": "絵を描きます\n✧Mail：ema3art@gmail.com*来年5月以降納期のご依頼受付中\n✧Skeb：https://t.co/C1bdYJLnYD\n✧VGen：https://t.co/dfpyKDsJnw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ema3art",
+                "end": 76,
+                "expanded_url": "https://skeb.jp/@ema3art",
+                "start": 53,
+                "url": "https://t.co/C1bdYJLnYD"
+              },
+              {
+                "display_url": "vgen.co/ema3art",
+                "end": 106,
+                "expanded_url": "https://vgen.co/ema3art",
+                "start": 83,
+                "url": "https://t.co/dfpyKDsJnw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ema3art.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://ema3art.tumblr.com",
+                "start": 0,
+                "url": "https://t.co/FYgocDQ7os"
+              }
+            ]
+          }
+        },
+        "id": "1295892998912278528",
+        "location": "Do NOT repost/use my works.",
+        "name": "Ema3",
+        "pinned_tweet_id": "1524345668017410048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1532345587542028288/uVzIlIsf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16271,
+          "following_count": 191,
+          "like_count": 382,
+          "listed_count": 158,
+          "media_count": 176,
+          "tweet_count": 231
+        },
+        "url": "https://t.co/FYgocDQ7os",
+        "username": "ema3art",
+        "verified": false
+      }
+    ]
+  }
+}

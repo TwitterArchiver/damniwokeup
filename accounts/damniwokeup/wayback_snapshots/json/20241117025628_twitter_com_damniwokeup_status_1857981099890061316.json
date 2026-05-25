@@ -1,0 +1,611 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857788773691699201",
+        "3_1857788773704318976"
+      ],
+      "media_source_tweet_id": [
+        "1857788781333721256",
+        "1857788781333721256"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1857981099890061316",
+    "created_at": "2024-11-17T02:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T03:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857981099890061316"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 43,
+          "tag": "ア一クナイツ"
+        },
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "明日方舟"
+        },
+        {
+          "end": 67,
+          "start": 57,
+          "tag": "arknights"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2774970897",
+          "start": 3,
+          "username": "Akechi_Raster"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T88ccK1ptJ",
+          "end": 91,
+          "expanded_url": "https://x.com/Akechi_Raster/status/1857788781333721256/photo/1",
+          "media_key": "3_1857788773691699201",
+          "start": 68,
+          "url": "https://t.co/T88ccK1ptJ"
+        },
+        {
+          "display_url": "pic.x.com/T88ccK1ptJ",
+          "end": 91,
+          "expanded_url": "https://x.com/Akechi_Raster/status/1857788781333721256/photo/1",
+          "media_key": "3_1857788773704318976",
+          "start": 68,
+          "url": "https://t.co/T88ccK1ptJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857981099890061316",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 490
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857788781333721256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Akechi_Raster: Vulpisfoglia × Penance\n\n#ア一クナイツ #明日方舟 #arknights https://t.co/T88ccK1ptJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1857788773691699201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcgxC_OaMAE1TRY.jpg",
+        "width": 1258
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1857788773704318976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcgxC_RawAAi1zN.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857788773691699201",
+            "3_1857788773704318976"
+          ],
+          "media_source_tweet_id": [
+            "1857788781333721256",
+            "1857788781333721256"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1857981099890061316",
+        "created_at": "2024-11-17T02:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T03:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857981099890061316"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 43,
+              "tag": "ア一クナイツ"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 67,
+              "start": 57,
+              "tag": "arknights"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2774970897",
+              "start": 3,
+              "username": "Akechi_Raster"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T88ccK1ptJ",
+              "end": 91,
+              "expanded_url": "https://x.com/Akechi_Raster/status/1857788781333721256/photo/1",
+              "media_key": "3_1857788773691699201",
+              "start": 68,
+              "url": "https://t.co/T88ccK1ptJ"
+            },
+            {
+              "display_url": "pic.x.com/T88ccK1ptJ",
+              "end": 91,
+              "expanded_url": "https://x.com/Akechi_Raster/status/1857788781333721256/photo/1",
+              "media_key": "3_1857788773704318976",
+              "start": 68,
+              "url": "https://t.co/T88ccK1ptJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857981099890061316",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 490
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857788781333721256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Akechi_Raster: Vulpisfoglia × Penance\n\n#ア一クナイツ #明日方舟 #arknights https://t.co/T88ccK1ptJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857788773691699201",
+            "3_1857788773704318976"
+          ]
+        },
+        "author_id": "2774970897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1857788781333721256",
+        "created_at": "2024-11-16T14:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T15:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857788781333721256"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "ア一クナイツ"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 48,
+              "start": 38,
+              "tag": "arknights"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T88ccK1ptJ",
+              "end": 72,
+              "expanded_url": "https://x.com/Akechi_Raster/status/1857788781333721256/photo/1",
+              "media_key": "3_1857788773691699201",
+              "start": 49,
+              "url": "https://t.co/T88ccK1ptJ"
+            },
+            {
+              "display_url": "pic.x.com/T88ccK1ptJ",
+              "end": 72,
+              "expanded_url": "https://x.com/Akechi_Raster/status/1857788781333721256/photo/1",
+              "media_key": "3_1857788773704318976",
+              "start": 49,
+              "url": "https://t.co/T88ccK1ptJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857788781333721256",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 275,
+          "impression_count": 31438,
+          "like_count": 2900,
+          "quote_count": 8,
+          "reply_count": 2,
+          "retweet_count": 490
+        },
+        "reply_settings": "everyone",
+        "text": "Vulpisfoglia × Penance\n\n#ア一クナイツ #明日方舟 #arknights https://t.co/T88ccK1ptJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 125,
+          "like_count": 4856,
+          "listed_count": 0,
+          "tweet_count": 630
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-19T06:23:01.000Z",
+        "description": "LE SSERAFIM🦢🐍KAZUHA YUNJIN | Reverse1999 | Arknights Penance ⚖️人在weibo@NYAkechi ✨ 是个画画的🎨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/3545028277",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/3545028277",
+                "start": 0,
+                "url": "https://t.co/OXOZ94gDgE"
+              }
+            ]
+          }
+        },
+        "id": "2774970897",
+        "location": "牙仙的家",
+        "name": "NYAkechi不想加班",
+        "pinned_tweet_id": "1671163787066617858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840241478951653376/uNIF95AT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17596,
+          "following_count": 137,
+          "like_count": 878,
+          "listed_count": 83,
+          "tweet_count": 1750
+        },
+        "url": "https://t.co/OXOZ94gDgE",
+        "username": "Akechi_Raster",
+        "verified": false
+      }
+    ]
+  }
+}

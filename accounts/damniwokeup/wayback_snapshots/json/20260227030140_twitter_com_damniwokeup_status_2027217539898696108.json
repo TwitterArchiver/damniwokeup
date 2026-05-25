@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "2027111316322959839",
+    "created_at": "2026-02-27T03:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T04:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027217539898696108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558547901164318728",
+          "start": 0,
+          "username": "saiyadayoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027217539898696108",
+    "in_reply_to_user_id": "1558547901164318728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027111316322959839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saiyadayoo 第一次我去花了六百多吧，没有了原研药以后开药算上挂号费一次差不多一百"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "2027111316322959839",
+        "created_at": "2026-02-27T03:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027217539898696108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558547901164318728",
+              "start": 0,
+              "username": "saiyadayoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027217539898696108",
+        "in_reply_to_user_id": "1558547901164318728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027111316322959839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saiyadayoo 第一次我去花了六百多吧，没有了原研药以后开药算上挂号费一次差不多一百"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558547901164318728",
+        "conversation_id": "2027111316322959839",
+        "created_at": "2026-02-26T19:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T20:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027111316322959839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027111316322959839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 637,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在大陸看精神科要多少錢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2026181607040925930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 155,
+          "like_count": 7723,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1365
+        },
+        "username": "damniwokeup",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-13T20:16:01.000Z",
+        "description": "被丟掉了吧 大概",
+        "id": "1558547901164318728",
+        "location": "天堂",
+        "name": "ʚ✞ɞ",
+        "pinned_tweet_id": "2000234744479678542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873311243852976128/T-qCTONh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 385,
+          "like_count": 21382,
+          "listed_count": 0,
+          "media_count": 444,
+          "tweet_count": 10498
+        },
+        "username": "saiyadayoo",
+        "verified": false
+      }
+    ]
+  }
+}

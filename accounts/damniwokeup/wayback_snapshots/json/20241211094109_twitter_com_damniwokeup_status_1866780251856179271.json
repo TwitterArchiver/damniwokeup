@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1866778742120648925",
+    "created_at": "2024-12-11T09:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T10:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866780251856179271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1082600293475397634",
+          "start": 0,
+          "username": "Kirakiradove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866780251856179271",
+    "in_reply_to_user_id": "1082600293475397634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866778742120648925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirakiradove 我记住了你 又忘记了你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1866778742120648925",
+        "created_at": "2024-12-11T09:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T10:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866780251856179271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1082600293475397634",
+              "start": 0,
+              "username": "Kirakiradove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866780251856179271",
+        "in_reply_to_user_id": "1082600293475397634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866778742120648925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirakiradove 我记住了你 又忘记了你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866778735179132928"
+          ]
+        },
+        "author_id": "1082600293475397634",
+        "conversation_id": "1866778742120648925",
+        "created_at": "2024-12-11T09:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T10:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866778742120648925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rEVpSvpCoc",
+              "end": 62,
+              "expanded_url": "https://x.com/Kirakiradove/status/1866778742120648925/photo/1",
+              "media_key": "3_1866778735179132928",
+              "start": 39,
+              "url": "https://t.co/rEVpSvpCoc"
+            },
+            {
+              "display_url": "x.com/ex_bridgepicad…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/ex_bridgepicado/status/1862770965002035394",
+              "start": 63,
+              "url": "https://t.co/Cr17LNXSpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866778742120648925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862770965002035394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "左眼是为了忘记你，右眼是为了记住你。\n\n而我的左手用来呵护，右手用来\n\n打胶 https://t.co/rEVpSvpCoc https://t.co/Cr17LNXSpl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 147,
+          "like_count": 5845,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1022
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T11:29:58.000Z",
+        "description": "🉑🉑丨我是孤儿丨原因就是性别丨非男非女纯人间失格丨每周去麦当当打工还助学贷款丨能活到现在纯靠运气和好人援助交际丨有问题可以直接私信我但想要提要求请先支付宝口令丨vx门槛88接陪聊陪玩交明年学费丨重度药物依赖每天晚上都会发癫⚠️丨正常情况下超高频率和粉丝互动丨免费头像进度请点击媒体查看丨其他请看亮点丨感谢你们喜欢我",
+        "id": "1082600293475397634",
+        "location": "隨機",
+        "name": "うさココ",
+        "pinned_tweet_id": "1859467840635748539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514216529138696193/5YBbERgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3292,
+          "following_count": 0,
+          "like_count": 5604,
+          "listed_count": 7,
+          "media_count": 250,
+          "tweet_count": 3891
+        },
+        "username": "Kirakiradove",
+        "verified": true
+      }
+    ]
+  }
+}

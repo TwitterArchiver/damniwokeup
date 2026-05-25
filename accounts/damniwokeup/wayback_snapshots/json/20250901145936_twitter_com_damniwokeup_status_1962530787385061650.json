@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962099988022099968"
+      ],
+      "media_source_tweet_id": [
+        "1962099995701874920"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1962530787385061650",
+    "created_at": "2025-09-01T14:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962530787385061650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1795509714509533185",
+          "start": 3,
+          "username": "tetota_tettou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HWoNDJlgf0",
+          "end": 45,
+          "expanded_url": "https://x.com/tetota_tettou/status/1962099995701874920/photo/1",
+          "media_key": "3_1962099988022099968",
+          "start": 22,
+          "url": "https://t.co/HWoNDJlgf0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962530787385061650",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1383
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962099995701874920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @tetota_tettou: 医鯖 https://t.co/HWoNDJlgf0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1683,
+        "media_key": "3_1962099988022099968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzrHix_bAAARpYq.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962099988022099968"
+          ],
+          "media_source_tweet_id": [
+            "1962099995701874920"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1962530787385061650",
+        "created_at": "2025-09-01T14:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T15:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962530787385061650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1795509714509533185",
+              "start": 3,
+              "username": "tetota_tettou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HWoNDJlgf0",
+              "end": 45,
+              "expanded_url": "https://x.com/tetota_tettou/status/1962099995701874920/photo/1",
+              "media_key": "3_1962099988022099968",
+              "start": 22,
+              "url": "https://t.co/HWoNDJlgf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962530787385061650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1383
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962099995701874920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @tetota_tettou: 医鯖 https://t.co/HWoNDJlgf0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962099988022099968"
+          ]
+        },
+        "author_id": "1795509714509533185",
+        "conversation_id": "1962099995701874920",
+        "created_at": "2025-08-31T10:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T11:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962099995701874920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HWoNDJlgf0",
+              "end": 26,
+              "expanded_url": "https://x.com/tetota_tettou/status/1962099995701874920/photo/1",
+              "media_key": "3_1962099988022099968",
+              "start": 3,
+              "url": "https://t.co/HWoNDJlgf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962099995701874920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 999,
+          "impression_count": 189440,
+          "like_count": 13678,
+          "quote_count": 19,
+          "reply_count": 0,
+          "retweet_count": 1383
+        },
+        "reply_settings": "following",
+        "text": "医鯖 https://t.co/HWoNDJlgf0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 140,
+          "like_count": 6954,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1238
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T17:38:11.000Z",
+        "description": "二次創作をします",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/82899616",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/82899616",
+                "start": 0,
+                "url": "https://t.co/XCLE1pWvgS"
+              }
+            ]
+          }
+        },
+        "id": "1795509714509533185",
+        "location": "無断転載✖︎トレス✖︎",
+        "name": "鉄塔田",
+        "pinned_tweet_id": "1896094228285120667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896105718350295040/TOeMbYfC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15559,
+          "following_count": 0,
+          "like_count": 1546,
+          "listed_count": 53,
+          "media_count": 654,
+          "tweet_count": 3997
+        },
+        "url": "https://t.co/XCLE1pWvgS",
+        "username": "tetota_tettou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861699657350676480"
+      ],
+      "media_source_tweet_id": [
+        "1861699663596073120"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10054080790",
+          "name": "ハッピーシュガーライフ"
+        }
+      }
+    ],
+    "conversation_id": "1861791348262941117",
+    "created_at": "2024-11-27T15:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T16:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861791348262941117"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 15,
+          "tag": "ハッピーシュガーライフ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1702206716690264065",
+          "start": 3,
+          "username": "gadi44444"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kKQ9qqlj7P",
+          "end": 51,
+          "expanded_url": "https://x.com/gadi44444/status/1861699663596073120/photo/1",
+          "media_key": "3_1861699657350676480",
+          "start": 28,
+          "url": "https://t.co/kKQ9qqlj7P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861791348262941117",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861699663596073120",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gadi44444: #ハッピーシュガーライフ https://t.co/kKQ9qqlj7P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1744,
+        "media_key": "3_1861699657350676480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdYV-YLagAAJqum.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861699657350676480"
+          ],
+          "media_source_tweet_id": [
+            "1861699663596073120"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054080790",
+              "name": "ハッピーシュガーライフ"
+            }
+          }
+        ],
+        "conversation_id": "1861791348262941117",
+        "created_at": "2024-11-27T15:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T16:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861791348262941117"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 15,
+              "tag": "ハッピーシュガーライフ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1702206716690264065",
+              "start": 3,
+              "username": "gadi44444"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKQ9qqlj7P",
+              "end": 51,
+              "expanded_url": "https://x.com/gadi44444/status/1861699663596073120/photo/1",
+              "media_key": "3_1861699657350676480",
+              "start": 28,
+              "url": "https://t.co/kKQ9qqlj7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861791348262941117",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861699663596073120",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gadi44444: #ハッピーシュガーライフ https://t.co/kKQ9qqlj7P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861699657350676480"
+          ]
+        },
+        "author_id": "1702206716690264065",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054080790",
+              "name": "ハッピーシュガーライフ"
+            }
+          }
+        ],
+        "conversation_id": "1861699663596073120",
+        "created_at": "2024-11-27T09:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T10:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861699663596073120"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "ハッピーシュガーライフ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKQ9qqlj7P",
+              "end": 36,
+              "expanded_url": "https://x.com/gadi44444/status/1861699663596073120/photo/1",
+              "media_key": "3_1861699657350676480",
+              "start": 13,
+              "url": "https://t.co/kKQ9qqlj7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861699663596073120",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2147,
+          "like_count": 165,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "#ハッピーシュガーライフ https://t.co/kKQ9qqlj7P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 134,
+          "like_count": 5199,
+          "listed_count": 0,
+          "tweet_count": 780
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T06:24:53.000Z",
+        "description": "",
+        "id": "1702206716690264065",
+        "name": "가디",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846046507633725443/6VzVAMJ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 6
+        },
+        "username": "gadi44444",
+        "verified": false
+      }
+    ]
+  }
+}

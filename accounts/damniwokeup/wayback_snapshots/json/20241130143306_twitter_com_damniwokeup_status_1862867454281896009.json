@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862484571578568704",
+        "3_1862484571536699392"
+      ],
+      "media_source_tweet_id": [
+        "1862484575555133713",
+        "1862484575555133713"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1862867454281896009",
+    "created_at": "2024-11-30T14:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T15:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862867454281896009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1031206779844145152",
+          "start": 3,
+          "username": "REMSRAR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dEQ78pbiJt",
+          "end": 36,
+          "expanded_url": "https://x.com/REMSRAR/status/1862484575555133713/photo/1",
+          "media_key": "3_1862484571578568704",
+          "start": 13,
+          "url": "https://t.co/dEQ78pbiJt"
+        },
+        {
+          "display_url": "pic.x.com/dEQ78pbiJt",
+          "end": 36,
+          "expanded_url": "https://x.com/REMSRAR/status/1862484575555133713/photo/1",
+          "media_key": "3_1862484571536699392",
+          "start": 13,
+          "url": "https://t.co/dEQ78pbiJt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862867454281896009",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 446
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862484575555133713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @REMSRAR: https://t.co/dEQ78pbiJt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2686,
+        "media_key": "3_1862484571578568704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdjf2ZiWEAAlFvp.jpg",
+        "width": 3122
+      },
+      {
+        "height": 2010,
+        "media_key": "3_1862484571536699392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdjf2ZYXMAAin4F.jpg",
+        "width": 2952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862484571578568704",
+            "3_1862484571536699392"
+          ],
+          "media_source_tweet_id": [
+            "1862484575555133713",
+            "1862484575555133713"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1862867454281896009",
+        "created_at": "2024-11-30T14:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T15:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862867454281896009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1031206779844145152",
+              "start": 3,
+              "username": "REMSRAR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dEQ78pbiJt",
+              "end": 36,
+              "expanded_url": "https://x.com/REMSRAR/status/1862484575555133713/photo/1",
+              "media_key": "3_1862484571578568704",
+              "start": 13,
+              "url": "https://t.co/dEQ78pbiJt"
+            },
+            {
+              "display_url": "pic.x.com/dEQ78pbiJt",
+              "end": 36,
+              "expanded_url": "https://x.com/REMSRAR/status/1862484575555133713/photo/1",
+              "media_key": "3_1862484571536699392",
+              "start": 13,
+              "url": "https://t.co/dEQ78pbiJt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862867454281896009",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 446
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862484575555133713",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @REMSRAR: https://t.co/dEQ78pbiJt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862484571578568704",
+            "3_1862484571536699392"
+          ]
+        },
+        "author_id": "1031206779844145152",
+        "conversation_id": "1862484575555133713",
+        "created_at": "2024-11-29T13:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T14:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862484575555133713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dEQ78pbiJt",
+              "end": 23,
+              "expanded_url": "https://x.com/REMSRAR/status/1862484575555133713/photo/1",
+              "media_key": "3_1862484571578568704",
+              "start": 0,
+              "url": "https://t.co/dEQ78pbiJt"
+            },
+            {
+              "display_url": "pic.x.com/dEQ78pbiJt",
+              "end": 23,
+              "expanded_url": "https://x.com/REMSRAR/status/1862484575555133713/photo/1",
+              "media_key": "3_1862484571536699392",
+              "start": 0,
+              "url": "https://t.co/dEQ78pbiJt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862484575555133713",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 297,
+          "impression_count": 65244,
+          "like_count": 3301,
+          "quote_count": 11,
+          "reply_count": 0,
+          "retweet_count": 446
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dEQ78pbiJt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 137,
+          "like_count": 5333,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 834
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-19T15:50:30.000Z",
+        "description": "",
+        "id": "1031206779844145152",
+        "location": "I.@L0V3_DISAST3R/H.@NUEH_NANA",
+        "name": "ʀᴇᴍ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854368003523276800/Av1W75k7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91040,
+          "following_count": 151,
+          "like_count": 12018,
+          "listed_count": 442,
+          "media_count": 286,
+          "tweet_count": 1802
+        },
+        "username": "REMSRAR",
+        "verified": false
+      }
+    ]
+  }
+}

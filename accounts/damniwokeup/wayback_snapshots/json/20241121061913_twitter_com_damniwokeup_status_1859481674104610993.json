@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859251983892332546"
+      ],
+      "media_source_tweet_id": [
+        "1859252014548414815"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1859481674104610993",
+    "created_at": "2024-11-21T06:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T07:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859481674104610993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1851629315672403968",
+          "start": 3,
+          "username": "bluemosi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CwjKUzsoEf",
+          "end": 48,
+          "expanded_url": "https://x.com/bluemosi/status/1859252014548414815/photo/1",
+          "media_key": "3_1859251983892332546",
+          "start": 25,
+          "url": "https://t.co/CwjKUzsoEf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859481674104610993",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 301
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859252014548414815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bluemosi: twiyor wip https://t.co/CwjKUzsoEf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1968,
+        "media_key": "3_1859251983892332546",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc1j1B_XwAI3L4a.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859251983892332546"
+          ],
+          "media_source_tweet_id": [
+            "1859252014548414815"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1859481674104610993",
+        "created_at": "2024-11-21T06:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T07:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859481674104610993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1851629315672403968",
+              "start": 3,
+              "username": "bluemosi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CwjKUzsoEf",
+              "end": 48,
+              "expanded_url": "https://x.com/bluemosi/status/1859252014548414815/photo/1",
+              "media_key": "3_1859251983892332546",
+              "start": 25,
+              "url": "https://t.co/CwjKUzsoEf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859481674104610993",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 301
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859252014548414815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bluemosi: twiyor wip https://t.co/CwjKUzsoEf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859251983892332546"
+          ]
+        },
+        "author_id": "1851629315672403968",
+        "conversation_id": "1859252014548414815",
+        "created_at": "2024-11-20T15:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T16:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859252014548414815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CwjKUzsoEf",
+              "end": 34,
+              "expanded_url": "https://x.com/bluemosi/status/1859252014548414815/photo/1",
+              "media_key": "3_1859251983892332546",
+              "start": 11,
+              "url": "https://t.co/CwjKUzsoEf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859252014548414815",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 24222,
+          "like_count": 2808,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 301
+        },
+        "reply_settings": "everyone",
+        "text": "twiyor wip https://t.co/CwjKUzsoEf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 128,
+          "like_count": 4978,
+          "listed_count": 0,
+          "tweet_count": 682
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T14:17:06.000Z",
+        "description": "fanartist who likes dragonball, fairytail, spyxfamily and more",
+        "id": "1851629315672403968",
+        "name": "blu🐋🔞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851629787682340864/w2A5FWEs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 26,
+          "like_count": 50,
+          "listed_count": 3,
+          "tweet_count": 11
+        },
+        "username": "bluemosi",
+        "verified": false
+      }
+    ]
+  }
+}

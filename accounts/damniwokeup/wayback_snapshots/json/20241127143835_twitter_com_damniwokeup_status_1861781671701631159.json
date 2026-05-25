@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861392478676656128"
+      ],
+      "media_source_tweet_id": [
+        "1861392484783530397"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1861781671701631159",
+    "created_at": "2024-11-27T14:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T15:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861781671701631159"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "初音ミク",
+          "probability": 0.8272,
+          "start": 39,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 52,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "714345589937311745",
+          "start": 3,
+          "username": "Yoshiyuki_EVE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/emKwuzkNSH",
+          "end": 81,
+          "expanded_url": "https://x.com/Yoshiyuki_EVE/status/1861392484783530397/photo/1",
+          "media_key": "3_1861392478676656128",
+          "start": 58,
+          "url": "https://t.co/emKwuzkNSH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861781671701631159",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 265
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861392484783530397",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yoshiyuki_EVE: インターホン鳴ったから見てみたら\nなんか初音ミクが立ってる…？\n\n#初音ミク https://t.co/emKwuzkNSH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1861392478676656128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdT-mOcbIAAFtvk.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861392478676656128"
+          ],
+          "media_source_tweet_id": [
+            "1861392484783530397"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1861781671701631159",
+        "created_at": "2024-11-27T14:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T15:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861781671701631159"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "初音ミク",
+              "probability": 0.8272,
+              "start": 39,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "714345589937311745",
+              "start": 3,
+              "username": "Yoshiyuki_EVE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/emKwuzkNSH",
+              "end": 81,
+              "expanded_url": "https://x.com/Yoshiyuki_EVE/status/1861392484783530397/photo/1",
+              "media_key": "3_1861392478676656128",
+              "start": 58,
+              "url": "https://t.co/emKwuzkNSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861781671701631159",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 265
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861392484783530397",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yoshiyuki_EVE: インターホン鳴ったから見てみたら\nなんか初音ミクが立ってる…？\n\n#初音ミク https://t.co/emKwuzkNSH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861392478676656128"
+          ]
+        },
+        "author_id": "714345589937311745",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1861392484783530397",
+        "created_at": "2024-11-26T12:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T13:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861392484783530397"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "初音ミク",
+              "probability": 0.8198,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/emKwuzkNSH",
+              "end": 62,
+              "expanded_url": "https://x.com/Yoshiyuki_EVE/status/1861392484783530397/photo/1",
+              "media_key": "3_1861392478676656128",
+              "start": 39,
+              "url": "https://t.co/emKwuzkNSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861392484783530397",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 52481,
+          "like_count": 4114,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 265
+        },
+        "reply_settings": "everyone",
+        "text": "インターホン鳴ったから見てみたら\nなんか初音ミクが立ってる…？\n\n#初音ミク https://t.co/emKwuzkNSH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 133,
+          "like_count": 5198,
+          "listed_count": 0,
+          "tweet_count": 778
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-28T06:57:15.000Z",
+        "description": "ミク可不が推し。イラストも描くボカロP | プロジェクトセカイ「レイヤーノート」採用 | YouTube ▷ https://t.co/fiBfkEZ5e2 | niconico ▷ https://t.co/zBaYi3rwbg | #ドアスコミク",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 118,
+                "tag": "ドアスコミク"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "is.gd/1H1xGZ",
+                "end": 78,
+                "expanded_url": "http://is.gd/1H1xGZ",
+                "start": 55,
+                "url": "https://t.co/fiBfkEZ5e2"
+              },
+              {
+                "display_url": "is.gd/pzWFMV",
+                "end": 115,
+                "expanded_url": "https://is.gd/pzWFMV",
+                "start": 92,
+                "url": "https://t.co/zBaYi3rwbg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eveblend.booth.pm",
+                "end": 23,
+                "expanded_url": "https://eveblend.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/dEL57FZenQ"
+              }
+            ]
+          }
+        },
+        "id": "714345589937311745",
+        "location": "ご依頼ご相談はDMまで(平日は返事が遅れることがあります)",
+        "name": "吉田ヨシユキ | お絵描きボカロP",
+        "pinned_tweet_id": "1855943556734841033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774634016244981760/NnXjDYLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5185,
+          "following_count": 917,
+          "like_count": 54661,
+          "listed_count": 54,
+          "tweet_count": 36819
+        },
+        "url": "https://t.co/dEL57FZenQ",
+        "username": "Yoshiyuki_EVE",
+        "verified": false
+      }
+    ]
+  }
+}

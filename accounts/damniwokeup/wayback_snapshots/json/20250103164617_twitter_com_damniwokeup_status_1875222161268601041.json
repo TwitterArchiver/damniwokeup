@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875054825580486657"
+      ],
+      "media_source_tweet_id": [
+        "1875054830378758194"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1875222161268601041",
+    "created_at": "2025-01-03T16:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T17:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875222161268601041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "974281869016498177",
+          "start": 3,
+          "username": "LEV0972"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tSS5IvCKy8",
+          "end": 38,
+          "expanded_url": "https://x.com/LEV0972/status/1875054830378758194/photo/1",
+          "media_key": "3_1875054825580486657",
+          "start": 15,
+          "url": "https://t.co/tSS5IvCKy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875222161268601041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 480
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875054830378758194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LEV0972: 王 https://t.co/tSS5IvCKy8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1875054825580486657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgWIbe0bYAECz95.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875054825580486657"
+          ],
+          "media_source_tweet_id": [
+            "1875054830378758194"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1875222161268601041",
+        "created_at": "2025-01-03T16:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T17:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875222161268601041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "974281869016498177",
+              "start": 3,
+              "username": "LEV0972"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tSS5IvCKy8",
+              "end": 38,
+              "expanded_url": "https://x.com/LEV0972/status/1875054830378758194/photo/1",
+              "media_key": "3_1875054825580486657",
+              "start": 15,
+              "url": "https://t.co/tSS5IvCKy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875222161268601041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 480
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875054830378758194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LEV0972: 王 https://t.co/tSS5IvCKy8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875054825580486657"
+          ]
+        },
+        "author_id": "974281869016498177",
+        "conversation_id": "1875054830378758194",
+        "created_at": "2025-01-03T05:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T06:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875054830378758194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tSS5IvCKy8",
+              "end": 25,
+              "expanded_url": "https://x.com/LEV0972/status/1875054830378758194/photo/1",
+              "media_key": "3_1875054825580486657",
+              "start": 2,
+              "url": "https://t.co/tSS5IvCKy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875054830378758194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 240,
+          "impression_count": 28552,
+          "like_count": 2606,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 480
+        },
+        "reply_settings": "everyone",
+        "text": "王 https://t.co/tSS5IvCKy8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 149,
+          "like_count": 6521,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1273
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-15T13:51:13.000Z",
+        "description": "れぶorれゔです。AIなど知らん。諦めて絵を上げた人。 https://t.co/Gz74hjFxIR  FF14 @ZONE1587",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 58,
+                "username": "ZONE1587"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@LEV0972",
+                "end": 51,
+                "expanded_url": "https://skeb.jp/@LEV0972",
+                "start": 28,
+                "url": "https://t.co/Gz74hjFxIR"
+              }
+            ]
+          }
+        },
+        "id": "974281869016498177",
+        "location": "コントローラーの左スティックの隙間",
+        "name": "LEV",
+        "pinned_tweet_id": "1874108452408353124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874108870542712841/qHhDoWob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7122,
+          "following_count": 447,
+          "like_count": 15793,
+          "listed_count": 32,
+          "media_count": 5340,
+          "tweet_count": 36267
+        },
+        "username": "LEV0972",
+        "verified": false
+      }
+    ]
+  }
+}

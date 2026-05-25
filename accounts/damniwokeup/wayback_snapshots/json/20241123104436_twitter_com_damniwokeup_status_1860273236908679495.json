@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859876642870657028"
+      ],
+      "media_source_tweet_id": [
+        "1859877250705060211"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1860273236908679495",
+    "created_at": "2024-11-23T10:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T11:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860273236908679495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1161560881412493313",
+          "start": 3,
+          "username": "J02GGOgpQ6dueGu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xHpPuBH64l",
+          "end": 47,
+          "expanded_url": "https://x.com/J02GGOgpQ6dueGu/status/1859877250705060211/photo/1",
+          "media_key": "3_1859876642870657028",
+          "start": 24,
+          "url": "https://t.co/xHpPuBH64l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860273236908679495",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1989
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859877250705060211",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @J02GGOgpQ6dueGu: 💤💤 https://t.co/xHpPuBH64l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1700,
+        "media_key": "3_1859876642870657028",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc-b8-BaAAQQkf8.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859876642870657028"
+          ],
+          "media_source_tweet_id": [
+            "1859877250705060211"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1860273236908679495",
+        "created_at": "2024-11-23T10:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T11:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860273236908679495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1161560881412493313",
+              "start": 3,
+              "username": "J02GGOgpQ6dueGu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xHpPuBH64l",
+              "end": 47,
+              "expanded_url": "https://x.com/J02GGOgpQ6dueGu/status/1859877250705060211/photo/1",
+              "media_key": "3_1859876642870657028",
+              "start": 24,
+              "url": "https://t.co/xHpPuBH64l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860273236908679495",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1989
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859877250705060211",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @J02GGOgpQ6dueGu: 💤💤 https://t.co/xHpPuBH64l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859876642870657028"
+          ]
+        },
+        "author_id": "1161560881412493313",
+        "conversation_id": "1859877250705060211",
+        "created_at": "2024-11-22T08:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T09:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859877250705060211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xHpPuBH64l",
+              "end": 26,
+              "expanded_url": "https://x.com/J02GGOgpQ6dueGu/status/1859877250705060211/photo/1",
+              "media_key": "3_1859876642870657028",
+              "start": 3,
+              "url": "https://t.co/xHpPuBH64l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859877250705060211",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1164,
+          "impression_count": 202432,
+          "like_count": 16829,
+          "quote_count": 18,
+          "reply_count": 26,
+          "retweet_count": 1989
+        },
+        "reply_settings": "everyone",
+        "text": "💤💤 https://t.co/xHpPuBH64l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 130,
+          "like_count": 5025,
+          "listed_count": 0,
+          "tweet_count": 703
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-14T08:51:09.000Z",
+        "description": "２次創作を描いてます　隕鉄鳥推し　\n\n４１歳  　　　　BF民　本垢→ヤセバッタ",
+        "id": "1161560881412493313",
+        "location": "BF4国:ロッカー民",
+        "name": "ヤセハッタギ",
+        "pinned_tweet_id": "1834176593515987248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1379770410472902657/oEfsgCw7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37846,
+          "following_count": 2488,
+          "like_count": 48445,
+          "listed_count": 265,
+          "tweet_count": 25971
+        },
+        "username": "J02GGOgpQ6dueGu",
+        "verified": false
+      }
+    ]
+  }
+}

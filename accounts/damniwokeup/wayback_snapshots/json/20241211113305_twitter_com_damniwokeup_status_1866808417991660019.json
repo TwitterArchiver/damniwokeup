@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866759901747216384"
+      ],
+      "media_source_tweet_id": [
+        "1866759914615607554"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1866808417991660019",
+    "created_at": "2024-12-11T11:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T12:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866808417991660019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1363540463899279363",
+          "start": 3,
+          "username": "416sHusbandREAL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bk9Ntm62Sy",
+          "end": 50,
+          "expanded_url": "https://x.com/416sHusbandREAL/status/1866759914615607554/photo/1",
+          "media_key": "3_1866759901747216384",
+          "start": 27,
+          "url": "https://t.co/Bk9Ntm62Sy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866808417991660019",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 193
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866759914615607554",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @416sHusbandREAL: Wifey https://t.co/Bk9Ntm62Sy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1518,
+        "media_key": "3_1866759901747216384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GegQPXiWAAAB7_3.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866759901747216384"
+          ],
+          "media_source_tweet_id": [
+            "1866759914615607554"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1866808417991660019",
+        "created_at": "2024-12-11T11:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T12:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866808417991660019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1363540463899279363",
+              "start": 3,
+              "username": "416sHusbandREAL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bk9Ntm62Sy",
+              "end": 50,
+              "expanded_url": "https://x.com/416sHusbandREAL/status/1866759914615607554/photo/1",
+              "media_key": "3_1866759901747216384",
+              "start": 27,
+              "url": "https://t.co/Bk9Ntm62Sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866808417991660019",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 193
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866759914615607554",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @416sHusbandREAL: Wifey https://t.co/Bk9Ntm62Sy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866759901747216384"
+          ]
+        },
+        "author_id": "1363540463899279363",
+        "conversation_id": "1866759914615607554",
+        "created_at": "2024-12-11T08:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T09:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866759914615607554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bk9Ntm62Sy",
+              "end": 29,
+              "expanded_url": "https://x.com/416sHusbandREAL/status/1866759914615607554/photo/1",
+              "media_key": "3_1866759901747216384",
+              "start": 6,
+              "url": "https://t.co/Bk9Ntm62Sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866759914615607554",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 11103,
+          "like_count": 1046,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 193
+        },
+        "reply_settings": "everyone",
+        "text": "Wifey https://t.co/Bk9Ntm62Sy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 5855,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1032
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T17:26:04.000Z",
+        "description": "Follower of Christ. Anti abortion-Pro life. Pro White. Anti Porn. Anti government. So conservative it makes Republicans look like Democrats. Married to 416",
+        "id": "1363540463899279363",
+        "name": "416s husband",
+        "pinned_tweet_id": "1797819082412339567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866537676645519360/Bl5NNNk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 319,
+          "like_count": 33964,
+          "listed_count": 4,
+          "media_count": 989,
+          "tweet_count": 6682
+        },
+        "username": "416sHusbandREAL",
+        "verified": false
+      }
+    ]
+  }
+}

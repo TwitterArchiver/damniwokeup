@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868102622844264448"
+      ],
+      "media_source_tweet_id": [
+        "1868102686081745352"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1868659665598545931",
+    "created_at": "2024-12-16T14:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T15:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868659665598545931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1122422702675877889",
+          "start": 3,
+          "username": "dwangooooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5FG0SGYTYq",
+          "end": 54,
+          "expanded_url": "https://x.com/dwangooooo/status/1868102686081745352/photo/1",
+          "media_key": "3_1868102622844264448",
+          "start": 31,
+          "url": "https://t.co/5FG0SGYTYq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868659665598545931",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1071
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868102686081745352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dwangooooo: still this one https://t.co/5FG0SGYTYq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2574,
+        "media_key": "3_1868102622844264448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GezVcBaboAAvIM1.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868102622844264448"
+          ],
+          "media_source_tweet_id": [
+            "1868102686081745352"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1868659665598545931",
+        "created_at": "2024-12-16T14:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T15:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868659665598545931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1122422702675877889",
+              "start": 3,
+              "username": "dwangooooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5FG0SGYTYq",
+              "end": 54,
+              "expanded_url": "https://x.com/dwangooooo/status/1868102686081745352/photo/1",
+              "media_key": "3_1868102622844264448",
+              "start": 31,
+              "url": "https://t.co/5FG0SGYTYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868659665598545931",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1071
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868102686081745352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dwangooooo: still this one https://t.co/5FG0SGYTYq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868102622844264448"
+          ]
+        },
+        "author_id": "1122422702675877889",
+        "conversation_id": "1868102686081745352",
+        "created_at": "2024-12-15T01:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T02:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868102686081745352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5FG0SGYTYq",
+              "end": 38,
+              "expanded_url": "https://x.com/dwangooooo/status/1868102686081745352/photo/1",
+              "media_key": "3_1868102622844264448",
+              "start": 15,
+              "url": "https://t.co/5FG0SGYTYq"
+            },
+            {
+              "display_url": "x.com/vonixskulls/st…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/vonixskulls/status/1737686737600516459",
+              "start": 39,
+              "url": "https://t.co/AFY4oBYThc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868102686081745352",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1441,
+          "impression_count": 312509,
+          "like_count": 18654,
+          "quote_count": 8,
+          "reply_count": 68,
+          "retweet_count": 1071
+        },
+        "referenced_tweets": [
+          {
+            "id": "1737686737600516459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "still this one https://t.co/5FG0SGYTYq https://t.co/AFY4oBYThc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 145,
+          "like_count": 6103,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1117
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-28T08:50:00.000Z",
+        "description": "Sometimes I do 🔞, so beware || 2D&3D artist, doing worldbuilding and drawing pretty girls.",
+        "id": "1122422702675877889",
+        "location": "nonexistence ",
+        "name": "dwangwoooo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833835663822934016/BeJkVC8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18855,
+          "following_count": 792,
+          "like_count": 1716,
+          "listed_count": 76,
+          "media_count": 445,
+          "tweet_count": 1610
+        },
+        "username": "dwangooooo",
+        "verified": false
+      }
+    ]
+  }
+}

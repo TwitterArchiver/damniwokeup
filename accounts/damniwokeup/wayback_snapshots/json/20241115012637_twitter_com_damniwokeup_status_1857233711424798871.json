@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1857100793834274888",
+    "created_at": "2024-11-15T01:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T02:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857233711424798871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1621786046387335168",
+          "start": 0,
+          "username": "Oyasumi_yiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857233711424798871",
+    "in_reply_to_user_id": "1621786046387335168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857100793834274888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oyasumi_yiu 老师你还好么…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1857100793834274888",
+        "created_at": "2024-11-15T01:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T02:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857233711424798871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1621786046387335168",
+              "start": 0,
+              "username": "Oyasumi_yiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857233711424798871",
+        "in_reply_to_user_id": "1621786046387335168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857100793834274888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oyasumi_yiu 老师你还好么…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621786046387335168",
+        "conversation_id": "1857100793834274888",
+        "created_at": "2024-11-14T16:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T17:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857100793834274888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857100793834274888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真不会再笑了我妈现在一分钱也不给我 我今天一天就只喝了水一口固体食物都没有 她连饭都不给我吃。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 125,
+          "like_count": 4777,
+          "listed_count": 0,
+          "tweet_count": 598
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T08:21:48.000Z",
+        "description": "吐黑泥博主 发些自己喜欢的 不许打听我的墙内账号不然我会生气 不给我钱不许让我提供情绪价值",
+        "id": "1621786046387335168",
+        "name": "酩酊鬱ｽ_໒꒱· ﾟ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806356964525604864/2gMglyeH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 67,
+          "like_count": 664,
+          "listed_count": 0,
+          "tweet_count": 1689
+        },
+        "username": "Oyasumi_yiu",
+        "verified": false
+      }
+    ]
+  }
+}

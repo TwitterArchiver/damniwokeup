@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861401441384140800"
+      ],
+      "media_source_tweet_id": [
+        "1861401455976161445"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1861807467036086519",
+    "created_at": "2024-11-27T16:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T17:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861807467036086519"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "後藤ひとり",
+          "probability": 0.4438,
+          "start": 19,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1617855017914101762",
+          "start": 3,
+          "username": "Chiakicat1294"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JIocfNmWgn",
+          "end": 48,
+          "expanded_url": "https://x.com/Chiakicat1294/status/1861401455976161445/photo/1",
+          "media_key": "3_1861401441384140800",
+          "start": 25,
+          "url": "https://t.co/JIocfNmWgn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861807467036086519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861401455976161445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chiakicat1294: 後藤ひとり https://t.co/JIocfNmWgn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1861401441384140800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdUGv7IaEAAfkfl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861401441384140800"
+          ],
+          "media_source_tweet_id": [
+            "1861401455976161445"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1861807467036086519",
+        "created_at": "2024-11-27T16:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T17:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861807467036086519"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "後藤ひとり",
+              "probability": 0.4438,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1617855017914101762",
+              "start": 3,
+              "username": "Chiakicat1294"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JIocfNmWgn",
+              "end": 48,
+              "expanded_url": "https://x.com/Chiakicat1294/status/1861401455976161445/photo/1",
+              "media_key": "3_1861401441384140800",
+              "start": 25,
+              "url": "https://t.co/JIocfNmWgn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861807467036086519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861401455976161445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chiakicat1294: 後藤ひとり https://t.co/JIocfNmWgn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861401441384140800"
+          ]
+        },
+        "author_id": "1617855017914101762",
+        "conversation_id": "1861401455976161445",
+        "created_at": "2024-11-26T13:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T14:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861401455976161445"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "後藤ひとり",
+              "probability": 0.5096,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JIocfNmWgn",
+              "end": 29,
+              "expanded_url": "https://x.com/Chiakicat1294/status/1861401455976161445/photo/1",
+              "media_key": "3_1861401441384140800",
+              "start": 6,
+              "url": "https://t.co/JIocfNmWgn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861401455976161445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 8205,
+          "like_count": 477,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "後藤ひとり https://t.co/JIocfNmWgn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 134,
+          "like_count": 5210,
+          "listed_count": 0,
+          "tweet_count": 787
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T12:01:35.000Z",
+        "description": "20↑ 雑多垢。主に男女/女男/女女。⚠️無断転載、無断利用、AI学習等は禁止。⚠️ Do not reupload my art. Do not use my art for AI training. ⭐️マロ（https://t.co/k1bWV6onfd）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/82rdjvobyfqcx79",
+                "end": 130,
+                "expanded_url": "https://marshmallow-qa.com/82rdjvobyfqcx79",
+                "start": 107,
+                "url": "https://t.co/k1bWV6onfd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Chiakicat1294",
+                "end": 23,
+                "expanded_url": "https://lit.link/Chiakicat1294",
+                "start": 0,
+                "url": "https://t.co/2G8uqUJw4F"
+              }
+            ]
+          }
+        },
+        "id": "1617855017914101762",
+        "name": "千秋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772880765224980480/y9CeFOz__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10814,
+          "following_count": 380,
+          "like_count": 8617,
+          "listed_count": 50,
+          "tweet_count": 21155
+        },
+        "url": "https://t.co/2G8uqUJw4F",
+        "username": "Chiakicat1294",
+        "verified": false
+      }
+    ]
+  }
+}

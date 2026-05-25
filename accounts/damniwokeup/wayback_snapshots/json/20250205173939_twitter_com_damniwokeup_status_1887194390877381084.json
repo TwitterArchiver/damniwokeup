@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1887186691800420593",
+    "created_at": "2025-02-05T17:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T18:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887194390877381084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1082600293475397634",
+          "start": 0,
+          "username": "Kirakiradove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887194390877381084",
+    "in_reply_to_user_id": "1082600293475397634",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887186691800420593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirakiradove ココ you lighten up. It’s not your fault. You did what you could. Now let’s live life"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1887186691800420593",
+        "created_at": "2025-02-05T17:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T18:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887194390877381084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1082600293475397634",
+              "start": 0,
+              "username": "Kirakiradove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887194390877381084",
+        "in_reply_to_user_id": "1082600293475397634",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887186691800420593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirakiradove ココ you lighten up. It’s not your fault. You did what you could. Now let’s live life"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887186685349535746"
+          ]
+        },
+        "author_id": "1082600293475397634",
+        "conversation_id": "1887186691800420593",
+        "created_at": "2025-02-05T17:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T18:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887186691800420593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkkjxlo892",
+              "end": 60,
+              "expanded_url": "https://x.com/Kirakiradove/status/1887186691800420593/photo/1",
+              "media_key": "3_1887186685349535746",
+              "start": 37,
+              "url": "https://t.co/wkkjxlo892"
+            },
+            {
+              "display_url": "x.com/kirakiradove/s…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/kirakiradove/status/1866030436583174498",
+              "start": 61,
+              "url": "https://t.co/PtdMPHIuEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887186691800420593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2104,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866030436583174498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无法守护这么美好而又珍贵的孩子\n你们算什么父母？怎么有脸自称是爸爸... https://t.co/wkkjxlo892 https://t.co/PtdMPHIuEX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "Our very existence belongs to pride.",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 153,
+          "like_count": 6870,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1320
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T11:29:58.000Z",
+        "description": "看到这句话的人会永远幸福♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Per.aspera.ad.astra.com",
+                "end": 23,
+                "expanded_url": "http://Per.aspera.ad.astra.com",
+                "start": 0,
+                "url": "https://t.co/kmvaJybPCp"
+              }
+            ]
+          }
+        },
+        "id": "1082600293475397634",
+        "location": "1 億円欲しい🍥",
+        "name": "うさココ",
+        "pinned_tweet_id": "1859467840635748539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514216529138696193/5YBbERgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19117,
+          "following_count": 0,
+          "like_count": 19473,
+          "listed_count": 30,
+          "media_count": 375,
+          "tweet_count": 12389
+        },
+        "url": "https://t.co/kmvaJybPCp",
+        "username": "Kirakiradove",
+        "verified": false
+      }
+    ]
+  }
+}

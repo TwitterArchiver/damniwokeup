@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864308667002310658"
+      ],
+      "media_source_tweet_id": [
+        "1864308670970122577"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1864935809415336352",
+    "created_at": "2024-12-06T07:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T08:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864935809415336352"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 21,
+          "tag": "葬送のフリーレン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1259391348655878145",
+          "start": 3,
+          "username": "k_shiro3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vLQ48lg9BM",
+          "end": 54,
+          "expanded_url": "https://x.com/k_shiro3/status/1864308670970122577/photo/1",
+          "media_key": "3_1864308667002310658",
+          "start": 31,
+          "url": "https://t.co/vLQ48lg9BM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864935809415336352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 223
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864308670970122577",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k_shiro3: 夢を見ていた\n#葬送のフリーレン https://t.co/vLQ48lg9BM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1864308667002310658",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd9a2uha0AIQLao.jpg",
+        "width": 1266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864308667002310658"
+          ],
+          "media_source_tweet_id": [
+            "1864308670970122577"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1864935809415336352",
+        "created_at": "2024-12-06T07:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T08:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864935809415336352"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "葬送のフリーレン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1259391348655878145",
+              "start": 3,
+              "username": "k_shiro3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vLQ48lg9BM",
+              "end": 54,
+              "expanded_url": "https://x.com/k_shiro3/status/1864308670970122577/photo/1",
+              "media_key": "3_1864308667002310658",
+              "start": 31,
+              "url": "https://t.co/vLQ48lg9BM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864935809415336352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 223
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864308670970122577",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k_shiro3: 夢を見ていた\n#葬送のフリーレン https://t.co/vLQ48lg9BM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864308667002310658"
+          ]
+        },
+        "author_id": "1259391348655878145",
+        "conversation_id": "1864308670970122577",
+        "created_at": "2024-12-04T13:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T14:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864308670970122577"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 7,
+              "tag": "葬送のフリーレン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vLQ48lg9BM",
+              "end": 40,
+              "expanded_url": "https://x.com/k_shiro3/status/1864308670970122577/photo/1",
+              "media_key": "3_1864308667002310658",
+              "start": 17,
+              "url": "https://t.co/vLQ48lg9BM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864308670970122577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 21706,
+          "like_count": 1856,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 223
+        },
+        "reply_settings": "everyone",
+        "text": "夢を見ていた\n#葬送のフリーレン https://t.co/vLQ48lg9BM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 144,
+          "like_count": 5634,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 940
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-10T07:55:00.000Z",
+        "description": "Shiromi｜illustration｜Frieren",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/k_shiro3",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/k_shiro3",
+                "start": 0,
+                "url": "https://t.co/nqhubp4yEN"
+              }
+            ]
+          }
+        },
+        "id": "1259391348655878145",
+        "location": "リクエスト受け付けてません。",
+        "name": "白美",
+        "pinned_tweet_id": "1777285886935478381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771701596008947712/vwy-CvsY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2614,
+          "following_count": 308,
+          "like_count": 7987,
+          "listed_count": 60,
+          "media_count": 111,
+          "tweet_count": 6343
+        },
+        "url": "https://t.co/nqhubp4yEN",
+        "username": "k_shiro3",
+        "verified": false
+      }
+    ]
+  }
+}

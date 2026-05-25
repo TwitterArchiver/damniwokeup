@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868285706684252160"
+      ],
+      "media_source_tweet_id": [
+        "1868286056845672514"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1868291162626572591",
+    "created_at": "2024-12-15T13:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T14:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868291162626572591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1433296312812769283",
+          "start": 3,
+          "username": "machuuu68"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WKWXVHXrcf",
+          "end": 58,
+          "expanded_url": "https://x.com/machuuu68/status/1868286056845672514/photo/1",
+          "media_key": "3_1868285706684252160",
+          "start": 35,
+          "url": "https://t.co/WKWXVHXrcf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868291162626572591",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868286056845672514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @machuuu68: happy birthday!! 🍔👑 https://t.co/WKWXVHXrcf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1868285706684252160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge17853awAAF7Jw.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868285706684252160"
+          ],
+          "media_source_tweet_id": [
+            "1868286056845672514"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1868291162626572591",
+        "created_at": "2024-12-15T13:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T14:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868291162626572591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1433296312812769283",
+              "start": 3,
+              "username": "machuuu68"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WKWXVHXrcf",
+              "end": 58,
+              "expanded_url": "https://x.com/machuuu68/status/1868286056845672514/photo/1",
+              "media_key": "3_1868285706684252160",
+              "start": 35,
+              "url": "https://t.co/WKWXVHXrcf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868291162626572591",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868286056845672514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @machuuu68: happy birthday!! 🍔👑 https://t.co/WKWXVHXrcf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868285706684252160"
+          ]
+        },
+        "author_id": "1433296312812769283",
+        "conversation_id": "1868286056845672514",
+        "created_at": "2024-12-15T13:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T14:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868286056845672514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WKWXVHXrcf",
+              "end": 43,
+              "expanded_url": "https://x.com/machuuu68/status/1868286056845672514/photo/1",
+              "media_key": "3_1868285706684252160",
+              "start": 20,
+              "url": "https://t.co/WKWXVHXrcf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868286056845672514",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 955,
+          "like_count": 290,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "happy birthday!! 🍔👑 https://t.co/WKWXVHXrcf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 145,
+          "like_count": 6043,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1097
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-02T05:10:53.000Z",
+        "description": "I like ryo yamada ┊︎ commissions closed ✉️ ┊︎ alt: @machuuu69\nhttps://t.co/imzD9SC4nP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "machuuu69"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "machuuu68.carrd.co/#",
+                "end": 85,
+                "expanded_url": "https://machuuu68.carrd.co/#",
+                "start": 62,
+                "url": "https://t.co/imzD9SC4nP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/machuuu68",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/machuuu68",
+                "start": 0,
+                "url": "https://t.co/8eOObdMd9R"
+              }
+            ]
+          }
+        },
+        "id": "1433296312812769283",
+        "location": "🖤 only the most astig  🖤",
+        "name": "machuuu",
+        "pinned_tweet_id": "1709950358058143941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794806486247632896/Ggki6eGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46884,
+          "following_count": 1477,
+          "like_count": 19698,
+          "listed_count": 179,
+          "media_count": 417,
+          "tweet_count": 4623
+        },
+        "url": "https://t.co/8eOObdMd9R",
+        "username": "machuuu68",
+        "verified": false
+      }
+    ]
+  }
+}

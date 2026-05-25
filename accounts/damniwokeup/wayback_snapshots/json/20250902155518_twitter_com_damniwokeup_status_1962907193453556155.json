@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962692784521125893"
+      ],
+      "media_source_tweet_id": [
+        "1962692797640908885"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1962907193453556155",
+    "created_at": "2025-09-02T15:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T16:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962907193453556155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1059866615267770368",
+          "start": 3,
+          "username": "Hazuki_Kono"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kWpE3zUxrj",
+          "end": 40,
+          "expanded_url": "https://x.com/Hazuki_Kono/status/1962692797640908885/photo/1",
+          "media_key": "3_1962692784521125893",
+          "start": 17,
+          "url": "https://t.co/kWpE3zUxrj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962907193453556155",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 402
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962692797640908885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hazuki_Kono: https://t.co/kWpE3zUxrj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_1962692784521125893",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzzisFCaoAUcEM9.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962692784521125893"
+          ],
+          "media_source_tweet_id": [
+            "1962692797640908885"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1962907193453556155",
+        "created_at": "2025-09-02T15:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T16:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962907193453556155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1059866615267770368",
+              "start": 3,
+              "username": "Hazuki_Kono"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kWpE3zUxrj",
+              "end": 40,
+              "expanded_url": "https://x.com/Hazuki_Kono/status/1962692797640908885/photo/1",
+              "media_key": "3_1962692784521125893",
+              "start": 17,
+              "url": "https://t.co/kWpE3zUxrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962907193453556155",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 402
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962692797640908885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hazuki_Kono: https://t.co/kWpE3zUxrj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962692784521125893"
+          ]
+        },
+        "author_id": "1059866615267770368",
+        "conversation_id": "1962692797640908885",
+        "created_at": "2025-09-02T01:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T02:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962692797640908885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kWpE3zUxrj",
+              "end": 23,
+              "expanded_url": "https://x.com/Hazuki_Kono/status/1962692797640908885/photo/1",
+              "media_key": "3_1962692784521125893",
+              "start": 0,
+              "url": "https://t.co/kWpE3zUxrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962692797640908885",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 277,
+          "impression_count": 35243,
+          "like_count": 4120,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 402
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kWpE3zUxrj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 140,
+          "like_count": 6945,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1241
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-06T17:54:27.000Z",
+        "description": "【 illustration 】 気分次第で色んな絵柄に挑戦しちゃう雑食絵師です。commission → https://t.co/iCuF0bQuSW 詳細なご依頼はこちらから→ https://t.co/nFXGsfSmBt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Hazuki_Kono",
+                "end": 77,
+                "expanded_url": "http://skeb.jp/@Hazuki_Kono",
+                "start": 54,
+                "url": "https://t.co/iCuF0bQuSW"
+              },
+              {
+                "display_url": "skima.jp/profile?id=236…",
+                "end": 115,
+                "expanded_url": "https://skima.jp/profile?id=236862",
+                "start": 92,
+                "url": "https://t.co/nFXGsfSmBt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=31369457",
+                "start": 0,
+                "url": "https://t.co/PX6LLxfdO0"
+              }
+            ]
+          }
+        },
+        "id": "1059866615267770368",
+        "location": "イラストの無断転載、無断使用、AI学習禁止",
+        "name": "巴月",
+        "pinned_tweet_id": "1921436168421281957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676136106503606272/zxt6FruM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7456,
+          "following_count": 663,
+          "like_count": 31176,
+          "listed_count": 73,
+          "media_count": 772,
+          "tweet_count": 4238
+        },
+        "url": "https://t.co/PX6LLxfdO0",
+        "username": "Hazuki_Kono",
+        "verified": true
+      }
+    ]
+  }
+}

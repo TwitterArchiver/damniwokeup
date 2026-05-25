@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1866093071651549570",
+    "created_at": "2024-12-09T12:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T13:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866093645469999225"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "COCO",
+          "probability": 0.7603,
+          "start": 19,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1082600293475397634",
+          "start": 0,
+          "username": "Kirakiradove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866093645469999225",
+    "in_reply_to_user_id": "1082600293475397634",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866093071651549570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirakiradove 🙏🏻IN COCO WE TRUST"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1866093071651549570",
+        "created_at": "2024-12-09T12:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T13:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866093645469999225"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "COCO",
+              "probability": 0.7603,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1082600293475397634",
+              "start": 0,
+              "username": "Kirakiradove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866093645469999225",
+        "in_reply_to_user_id": "1082600293475397634",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866093071651549570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirakiradove 🙏🏻IN COCO WE TRUST"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1082600293475397634",
+        "conversation_id": "1866093071651549570",
+        "created_at": "2024-12-09T12:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T13:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866093071651549570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866093071651549570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死之前一定去定做几百个可可棉花娃娃给你们抽奖送了然后就成为超级无敌的绝版周边\n\n可门永存🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 5735,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 973
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T11:29:58.000Z",
+        "description": "🉑🉑丨我是孤儿丨原因就是性别丨非男非女纯人间失格丨每周去麦当当打工还助学贷款丨能活到现在纯靠运气和好人援助交际丨有问题可以直接私信我但想要提要求请先支付宝口令丨vx门槛88接陪聊陪玩交明年学费丨重度药物依赖每天晚上都会发癫⚠️丨正常情况下超高频率和粉丝互动丨免费头像进度请点击媒体查看丨其他请看亮点丨感谢你们喜欢我",
+        "id": "1082600293475397634",
+        "location": "隨機",
+        "name": "うさココ",
+        "pinned_tweet_id": "1859467840635748539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514216529138696193/5YBbERgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3093,
+          "following_count": 0,
+          "like_count": 4851,
+          "listed_count": 7,
+          "media_count": 240,
+          "tweet_count": 3506
+        },
+        "username": "Kirakiradove",
+        "verified": true
+      }
+    ]
+  }
+}

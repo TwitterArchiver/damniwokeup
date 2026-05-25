@@ -1,0 +1,507 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1974357152501542913"
+      ],
+      "media_source_tweet_id": [
+        "1974357232608489695"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1974633273847660732",
+    "created_at": "2025-10-05T00:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T01:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974633273847660732"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "チェンソーマン"
+        },
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "デンレゼ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1620535227159556098",
+          "start": 3,
+          "username": "esqn0ch"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jX9gHyUmTP",
+          "end": 56,
+          "expanded_url": "https://x.com/esqn0ch/status/1974357232608489695/video/1",
+          "media_key": "13_1974357152501542913",
+          "start": 33,
+          "url": "https://t.co/jX9gHyUmTP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974633273847660732",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3518
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974357232608489695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @esqn0ch: if  #チェンソーマン  #デンレゼ https://t.co/jX9gHyUmTP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32516,
+        "height": 720,
+        "media_key": "13_1974357152501542913",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1974357152501542913/img/-UvvtVD7c5Mp9vp2.jpg",
+        "public_metrics": {
+          "view_count": 156165
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974357152501542913/vid/avc1/360x270/nAN1b0_88Bm12gkX.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974357152501542913/vid/avc1/480x360/65vVRQcbYnGNJf1A.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974357152501542913/vid/avc1/960x720/tjZMyh2Z3Zp4wwlO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1974357152501542913/pl/m-8YEoZ-H8K1E8r_.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1974357152501542913"
+          ],
+          "media_source_tweet_id": [
+            "1974357232608489695"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1974633273847660732",
+        "created_at": "2025-10-05T00:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T01:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974633273847660732"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "チェンソーマン"
+            },
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "デンレゼ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1620535227159556098",
+              "start": 3,
+              "username": "esqn0ch"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jX9gHyUmTP",
+              "end": 56,
+              "expanded_url": "https://x.com/esqn0ch/status/1974357232608489695/video/1",
+              "media_key": "13_1974357152501542913",
+              "start": 33,
+              "url": "https://t.co/jX9gHyUmTP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974633273847660732",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3518
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974357232608489695",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @esqn0ch: if  #チェンソーマン  #デンレゼ https://t.co/jX9gHyUmTP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1974357152501542913"
+          ]
+        },
+        "author_id": "1620535227159556098",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1974357232608489695",
+        "created_at": "2025-10-04T06:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T07:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974357232608489695"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 4,
+              "tag": "チェンソーマン"
+            },
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "デンレゼ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jX9gHyUmTP",
+              "end": 43,
+              "expanded_url": "https://x.com/esqn0ch/status/1974357232608489695/video/1",
+              "media_key": "13_1974357152501542913",
+              "start": 20,
+              "url": "https://t.co/jX9gHyUmTP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974357232608489695",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4824,
+          "impression_count": 328674,
+          "like_count": 24883,
+          "quote_count": 256,
+          "reply_count": 28,
+          "retweet_count": 3518
+        },
+        "reply_settings": "everyone",
+        "text": "if  #チェンソーマン  #デンレゼ https://t.co/jX9gHyUmTP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Phoenix, AZ",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 140,
+          "like_count": 6975,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1256
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T21:31:29.000Z",
+        "description": "揺るがないセンスと個性がほしい‼️ 絵描きです‼️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@esqn0ch",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@esqn0ch",
+                "start": 0,
+                "url": "https://t.co/G5NA8OkuxY"
+              }
+            ]
+          }
+        },
+        "id": "1620535227159556098",
+        "name": "すいせい",
+        "pinned_tweet_id": "1972624249958674822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971939275559391237/o1Lps3lQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 90,
+          "like_count": 4773,
+          "listed_count": 5,
+          "media_count": 50,
+          "tweet_count": 187
+        },
+        "url": "https://t.co/G5NA8OkuxY",
+        "username": "esqn0ch",
+        "verified": false
+      }
+    ]
+  }
+}

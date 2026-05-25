@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876480876919562240"
+      ],
+      "media_source_tweet_id": [
+        "1876480905772253495"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1876815561088225696",
+    "created_at": "2025-01-08T02:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T03:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876815561088225696"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "Fate/GrandOrder",
+          "probability": 0.5062,
+          "start": 19,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "838413504012922880",
+          "start": 3,
+          "username": "syou_syumiaka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oU5TYAb2rY",
+          "end": 80,
+          "expanded_url": "https://x.com/syou_syumiaka/status/1876480905772253495/photo/1",
+          "media_key": "3_1876480876919562240",
+          "start": 57,
+          "url": "https://t.co/oU5TYAb2rY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876815561088225696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 965
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876480905772253495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @syou_syumiaka: Fate/GrandOrder\nA.D.1431  邪竜百年戦争オルレアン https://t.co/oU5TYAb2rY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_1876480876919562240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgqZamCaoAAhNsL.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876480876919562240"
+          ],
+          "media_source_tweet_id": [
+            "1876480905772253495"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1876815561088225696",
+        "created_at": "2025-01-08T02:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T03:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876815561088225696"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Fate/GrandOrder",
+              "probability": 0.5062,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "838413504012922880",
+              "start": 3,
+              "username": "syou_syumiaka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oU5TYAb2rY",
+              "end": 80,
+              "expanded_url": "https://x.com/syou_syumiaka/status/1876480905772253495/photo/1",
+              "media_key": "3_1876480876919562240",
+              "start": 57,
+              "url": "https://t.co/oU5TYAb2rY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876815561088225696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 965
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876480905772253495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @syou_syumiaka: Fate/GrandOrder\nA.D.1431  邪竜百年戦争オルレアン https://t.co/oU5TYAb2rY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876480876919562240"
+          ]
+        },
+        "author_id": "838413504012922880",
+        "conversation_id": "1876480905772253495",
+        "created_at": "2025-01-07T04:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T05:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876480905772253495"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Fate/GrandOrder A.D.",
+              "probability": 0.1986,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oU5TYAb2rY",
+              "end": 61,
+              "expanded_url": "https://x.com/syou_syumiaka/status/1876480905772253495/photo/1",
+              "media_key": "3_1876480876919562240",
+              "start": 38,
+              "url": "https://t.co/oU5TYAb2rY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876480905772253495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 490,
+          "impression_count": 91540,
+          "like_count": 5956,
+          "quote_count": 18,
+          "reply_count": 5,
+          "retweet_count": 965
+        },
+        "reply_settings": "everyone",
+        "text": "Fate/GrandOrder\nA.D.1431  邪竜百年戦争オルレアン https://t.co/oU5TYAb2rY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 151,
+          "like_count": 6596,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1297
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-05T15:38:51.000Z",
+        "description": "好きなジャンルの撮影しています。バニー撮影の案件待ってます☺️プロフのイラストはるおさん(@RuO_xxx_329)のです✨創作･フェチ垢は(@sousak_syo)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "RuO_xxx_329"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "sousak_syo"
+              }
+            ]
+          }
+        },
+        "id": "838413504012922880",
+        "location": "人理継続保障機関カルデア",
+        "name": "しょう",
+        "pinned_tweet_id": "1872135436560421084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874260168730644480/a8JdOZxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6584,
+          "following_count": 799,
+          "like_count": 67359,
+          "listed_count": 71,
+          "media_count": 2162,
+          "tweet_count": 29579
+        },
+        "username": "syou_syumiaka",
+        "verified": false
+      }
+    ]
+  }
+}

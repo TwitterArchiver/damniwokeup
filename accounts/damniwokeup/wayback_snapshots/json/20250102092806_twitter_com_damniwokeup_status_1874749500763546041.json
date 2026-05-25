@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871486817805205505"
+      ],
+      "media_source_tweet_id": [
+        "1874510901845581973"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1448422092655845378",
+          "name": "Tsukihime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1448422092655845378",
+          "name": "Tsukihime"
+        }
+      }
+    ],
+    "conversation_id": "1874749500763546041",
+    "created_at": "2025-01-02T09:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T10:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874749500763546041"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "月姫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1673282857094254593",
+          "start": 3,
+          "username": "Daily_Arcueid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PEs10oMWwc",
+          "end": 46,
+          "expanded_url": "https://x.com/Daily_Arcueid/status/1874510901845581973/photo/1",
+          "media_key": "3_1871486817805205505",
+          "start": 23,
+          "url": "https://t.co/PEs10oMWwc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874749500763546041",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 311
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874510901845581973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Daily_Arcueid: #月姫 https://t.co/PEs10oMWwc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1871486817805205505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfjbWGEbAAEOR-w.jpg",
+        "width": 2842
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871486817805205505"
+          ],
+          "media_source_tweet_id": [
+            "1874510901845581973"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1448422092655845378",
+              "name": "Tsukihime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448422092655845378",
+              "name": "Tsukihime"
+            }
+          }
+        ],
+        "conversation_id": "1874749500763546041",
+        "created_at": "2025-01-02T09:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T10:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874749500763546041"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "月姫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1673282857094254593",
+              "start": 3,
+              "username": "Daily_Arcueid"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PEs10oMWwc",
+              "end": 46,
+              "expanded_url": "https://x.com/Daily_Arcueid/status/1874510901845581973/photo/1",
+              "media_key": "3_1871486817805205505",
+              "start": 23,
+              "url": "https://t.co/PEs10oMWwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874749500763546041",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 311
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874510901845581973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Daily_Arcueid: #月姫 https://t.co/PEs10oMWwc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871486817805205505"
+          ]
+        },
+        "author_id": "1673282857094254593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1448422092655845378",
+              "name": "Tsukihime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448422092655845378",
+              "name": "Tsukihime"
+            }
+          }
+        ],
+        "conversation_id": "1874510901845581973",
+        "created_at": "2025-01-01T17:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T18:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874510901845581973"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "月姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PEs10oMWwc",
+              "end": 27,
+              "expanded_url": "https://x.com/Daily_Arcueid/status/1874510901845581973/photo/1",
+              "media_key": "3_1871486817805205505",
+              "start": 4,
+              "url": "https://t.co/PEs10oMWwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874510901845581973",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 349,
+          "impression_count": 33827,
+          "like_count": 2381,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 311
+        },
+        "reply_settings": "everyone",
+        "text": "#月姫 https://t.co/PEs10oMWwc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 149,
+          "like_count": 6506,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1264
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T10:51:49.000Z",
+        "description": "Daily pictures of our princess, Arcueid ✨️",
+        "id": "1673282857094254593",
+        "location": "Souya, Japan",
+        "name": "Daily Arcueid ✨️",
+        "pinned_tweet_id": "1747033607716340190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768186798600323072/PlfLnAlz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 24,
+          "like_count": 829,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 465
+        },
+        "username": "Daily_Arcueid",
+        "verified": false
+      }
+    ]
+  }
+}

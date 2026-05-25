@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864622705083076610"
+      ],
+      "media_source_tweet_id": [
+        "1864625796914319543"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1864955920687730744",
+    "created_at": "2024-12-06T08:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T09:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864955920687730744"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 43,
+          "tag": "フリーレン"
+        },
+        {
+          "end": 58,
+          "start": 50,
+          "tag": "フリーレンFA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "929623682716090368",
+          "start": 3,
+          "username": "Edgar_Syu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k0B7wzHsxD",
+          "end": 82,
+          "expanded_url": "https://x.com/Edgar_Syu/status/1864625796914319543/photo/1",
+          "media_key": "3_1864622705083076610",
+          "start": 59,
+          "url": "https://t.co/k0B7wzHsxD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864955920687730744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 436
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864625796914319543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Edgar_Syu: rgkg \n\n「あら~どうしたの？(*´∀`)~♥」\n\n#フリーレン #フリーレンFA https://t.co/k0B7wzHsxD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3500,
+        "media_key": "3_1864622705083076610",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeB4eJia0AIU_v9.jpg",
+        "width": 2596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864622705083076610"
+          ],
+          "media_source_tweet_id": [
+            "1864625796914319543"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1864955920687730744",
+        "created_at": "2024-12-06T08:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T09:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864955920687730744"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 43,
+              "tag": "フリーレン"
+            },
+            {
+              "end": 58,
+              "start": 50,
+              "tag": "フリーレンFA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "929623682716090368",
+              "start": 3,
+              "username": "Edgar_Syu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k0B7wzHsxD",
+              "end": 82,
+              "expanded_url": "https://x.com/Edgar_Syu/status/1864625796914319543/photo/1",
+              "media_key": "3_1864622705083076610",
+              "start": 59,
+              "url": "https://t.co/k0B7wzHsxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864955920687730744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 436
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864625796914319543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Edgar_Syu: rgkg \n\n「あら~どうしたの？(*´∀`)~♥」\n\n#フリーレン #フリーレンFA https://t.co/k0B7wzHsxD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864622705083076610"
+          ]
+        },
+        "author_id": "929623682716090368",
+        "conversation_id": "1864625796914319543",
+        "created_at": "2024-12-05T11:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T12:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864625796914319543"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "フリーレン"
+            },
+            {
+              "end": 43,
+              "start": 35,
+              "tag": "フリーレンFA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k0B7wzHsxD",
+              "end": 67,
+              "expanded_url": "https://x.com/Edgar_Syu/status/1864625796914319543/photo/1",
+              "media_key": "3_1864622705083076610",
+              "start": 44,
+              "url": "https://t.co/k0B7wzHsxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864625796914319543",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 264,
+          "impression_count": 23885,
+          "like_count": 2877,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 436
+        },
+        "reply_settings": "everyone",
+        "text": "rgkg \n\n「あら~どうしたの？(*´∀`)~♥」\n\n#フリーレン #フリーレンFA https://t.co/k0B7wzHsxD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 144,
+          "like_count": 5639,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 941
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-12T08:15:32.000Z",
+        "description": "Pixiv:https://t.co/kTK9bb5LOP\nIG:https://t.co/jPwYeQViT8\nblue sky:https://t.co/w1fkeIxO21",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/5833213",
+                "end": 29,
+                "expanded_url": "http://pixiv.net/users/5833213",
+                "start": 6,
+                "url": "https://t.co/kTK9bb5LOP"
+              },
+              {
+                "display_url": "instagram.com/art.edgarsyu/",
+                "end": 56,
+                "expanded_url": "http://instagram.com/art.edgarsyu/",
+                "start": 33,
+                "url": "https://t.co/jPwYeQViT8"
+              },
+              {
+                "display_url": "bsky.app/profile/edgars…",
+                "end": 89,
+                "expanded_url": "https://bsky.app/profile/edgarsyu.bsky.social",
+                "start": 66,
+                "url": "https://t.co/w1fkeIxO21"
+              }
+            ]
+          }
+        },
+        "id": "929623682716090368",
+        "name": "Edgar_syu",
+        "pinned_tweet_id": "1808818063011426427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/929627416544256000/5N9XEwAe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28135,
+          "following_count": 874,
+          "like_count": 205492,
+          "listed_count": 241,
+          "media_count": 679,
+          "tweet_count": 1939
+        },
+        "username": "Edgar_Syu",
+        "verified": true
+      }
+    ]
+  }
+}

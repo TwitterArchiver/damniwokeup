@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863966705812189184"
+      ],
+      "media_source_tweet_id": [
+        "1863966732945105101"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1864199221236388088",
+    "created_at": "2024-12-04T06:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T07:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864199221236388088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1788623708644376576",
+          "start": 3,
+          "username": "AltFrogi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AsHkNTIRfY",
+          "end": 37,
+          "expanded_url": "https://x.com/AltFrogi/status/1863966732945105101/photo/1",
+          "media_key": "3_1863966705812189184",
+          "start": 14,
+          "url": "https://t.co/AsHkNTIRfY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864199221236388088",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 102
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863966732945105101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AltFrogi: https://t.co/AsHkNTIRfY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 814,
+        "media_key": "3_1863966705812189184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd4j190XMAAmrwd.png",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863966705812189184"
+          ],
+          "media_source_tweet_id": [
+            "1863966732945105101"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1864199221236388088",
+        "created_at": "2024-12-04T06:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T07:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864199221236388088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1788623708644376576",
+              "start": 3,
+              "username": "AltFrogi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AsHkNTIRfY",
+              "end": 37,
+              "expanded_url": "https://x.com/AltFrogi/status/1863966732945105101/photo/1",
+              "media_key": "3_1863966705812189184",
+              "start": 14,
+              "url": "https://t.co/AsHkNTIRfY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864199221236388088",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 102
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863966732945105101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AltFrogi: https://t.co/AsHkNTIRfY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863966705812189184"
+          ]
+        },
+        "author_id": "1788623708644376576",
+        "conversation_id": "1863966732945105101",
+        "created_at": "2024-12-03T15:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T16:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863966732945105101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AsHkNTIRfY",
+              "end": 23,
+              "expanded_url": "https://x.com/AltFrogi/status/1863966732945105101/photo/1",
+              "media_key": "3_1863966705812189184",
+              "start": 0,
+              "url": "https://t.co/AsHkNTIRfY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863966732945105101",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 6521,
+          "like_count": 675,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AsHkNTIRfY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863961129996967936/qeynYxft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 143,
+          "like_count": 5540,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 898
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T17:35:02.000Z",
+        "description": "This is my less-serious alt account for @Frogirik and @Frogimation. I really just post what I want to here.\n\n(Also the #1 BoKita fan)\n\nPriv: @Frogiprivate",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "Frogirik"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "Frogimation"
+              },
+              {
+                "end": 154,
+                "start": 141,
+                "username": "Frogiprivate"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/BDrMGn75S9",
+                "end": 23,
+                "expanded_url": "https://discord.gg/BDrMGn75S9",
+                "start": 0,
+                "url": "https://t.co/oy8T6XhZCi"
+              }
+            ]
+          }
+        },
+        "id": "1788623708644376576",
+        "location": "Somewhere in my head",
+        "name": "Frogitwo",
+        "pinned_tweet_id": "1853499761262747998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862640187634831360/XpDk8rfB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 115,
+          "like_count": 8380,
+          "listed_count": 0,
+          "media_count": 794,
+          "tweet_count": 3161
+        },
+        "url": "https://t.co/oy8T6XhZCi",
+        "username": "AltFrogi",
+        "verified": false
+      }
+    ]
+  }
+}

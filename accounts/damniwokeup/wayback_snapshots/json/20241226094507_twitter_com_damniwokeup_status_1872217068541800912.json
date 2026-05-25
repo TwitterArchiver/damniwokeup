@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1872197049418199544",
+    "created_at": "2024-12-26T09:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T10:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872217068541800912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1082600293475397634",
+          "start": 0,
+          "username": "Kirakiradove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872217068541800912",
+    "in_reply_to_user_id": "1082600293475397634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872197049418199544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirakiradove 阐述你的梦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1872197049418199544",
+        "created_at": "2024-12-26T09:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T10:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872217068541800912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1082600293475397634",
+              "start": 0,
+              "username": "Kirakiradove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872217068541800912",
+        "in_reply_to_user_id": "1082600293475397634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872197049418199544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirakiradove 阐述你的梦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1082600293475397634",
+        "conversation_id": "1872197049418199544",
+        "created_at": "2024-12-26T08:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T09:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872197049418199544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872197049418199544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想画绘本"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 149,
+          "like_count": 6373,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1220
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T11:29:58.000Z",
+        "description": "我叫可可，希望你幸福。",
+        "id": "1082600293475397634",
+        "location": "无性别",
+        "name": "うさココ",
+        "pinned_tweet_id": "1859467840635748539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514216529138696193/5YBbERgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6639,
+          "following_count": 0,
+          "like_count": 12464,
+          "listed_count": 12,
+          "media_count": 312,
+          "tweet_count": 8143
+        },
+        "username": "Kirakiradove",
+        "verified": true
+      }
+    ]
+  }
+}

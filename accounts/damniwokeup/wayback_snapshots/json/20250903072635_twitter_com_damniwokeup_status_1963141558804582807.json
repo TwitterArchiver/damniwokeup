@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963123588162265088"
+      ],
+      "media_source_tweet_id": [
+        "1963123613634028027"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1963141558804582807",
+    "created_at": "2025-09-03T07:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T08:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963141558804582807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2453601319",
+          "start": 3,
+          "username": "Pa1mira_Moi01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tzCSOCuR4H",
+          "end": 42,
+          "expanded_url": "https://x.com/Pa1mira_Moi01/status/1963123613634028027/photo/1",
+          "media_key": "3_1963123588162265088",
+          "start": 19,
+          "url": "https://t.co/tzCSOCuR4H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963141558804582807",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 181
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963123613634028027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pa1mira_Moi01: https://t.co/tzCSOCuR4H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1020,
+        "media_key": "3_1963123588162265088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz5qgJqaIAAzrpt.jpg",
+        "width": 1729
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963123588162265088"
+          ],
+          "media_source_tweet_id": [
+            "1963123613634028027"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1963141558804582807",
+        "created_at": "2025-09-03T07:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T08:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963141558804582807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2453601319",
+              "start": 3,
+              "username": "Pa1mira_Moi01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tzCSOCuR4H",
+              "end": 42,
+              "expanded_url": "https://x.com/Pa1mira_Moi01/status/1963123613634028027/photo/1",
+              "media_key": "3_1963123588162265088",
+              "start": 19,
+              "url": "https://t.co/tzCSOCuR4H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963141558804582807",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 181
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963123613634028027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pa1mira_Moi01: https://t.co/tzCSOCuR4H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963123588162265088"
+          ]
+        },
+        "author_id": "2453601319",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1963123613634028027",
+        "created_at": "2025-09-03T06:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T07:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963123613634028027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tzCSOCuR4H",
+              "end": 23,
+              "expanded_url": "https://x.com/Pa1mira_Moi01/status/1963123613634028027/photo/1",
+              "media_key": "3_1963123588162265088",
+              "start": 0,
+              "url": "https://t.co/tzCSOCuR4H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963123613634028027",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 25305,
+          "like_count": 1571,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 181
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tzCSOCuR4H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 140,
+          "like_count": 6947,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1243
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-19T19:19:57.000Z",
+        "description": "型月大好き人間でファンアート描いています。\n\n【fanbox】https://t.co/kQb9oY478M",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "palmira.fanbox.cc",
+                "end": 54,
+                "expanded_url": "https://palmira.fanbox.cc/",
+                "start": 31,
+                "url": "https://t.co/kQb9oY478M"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/4733397",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/4733397",
+                "start": 0,
+                "url": "https://t.co/Y5aSajaj80"
+              }
+            ]
+          }
+        },
+        "id": "2453601319",
+        "name": "暁蕾",
+        "pinned_tweet_id": "1963123613634028027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771909983451615232/i7DQwAbG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196463,
+          "following_count": 0,
+          "like_count": 492,
+          "listed_count": 1344,
+          "media_count": 1033,
+          "tweet_count": 3464
+        },
+        "url": "https://t.co/Y5aSajaj80",
+        "username": "Pa1mira_Moi01",
+        "verified": true
+      }
+    ]
+  }
+}

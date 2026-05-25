@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1808206957096099841"
+      ],
+      "media_source_tweet_id": [
+        "1808206971516117184"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1870685631736959303",
+    "created_at": "2024-12-22T04:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T05:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870685631736959303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1345793001101041664",
+          "start": 3,
+          "username": "kozzz_y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1LMRSJWrHH",
+          "end": 36,
+          "expanded_url": "https://x.com/kozzz_y/status/1808206971516117184/photo/1",
+          "media_key": "3_1808206957096099841",
+          "start": 13,
+          "url": "https://t.co/1LMRSJWrHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870685631736959303",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8808
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808206971516117184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kozzz_y: https://t.co/1LMRSJWrHH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1832,
+        "media_key": "3_1808206957096099841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRgKpa4aYAER6KK.jpg",
+        "width": 2290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1808206957096099841"
+          ],
+          "media_source_tweet_id": [
+            "1808206971516117184"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1870685631736959303",
+        "created_at": "2024-12-22T04:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T05:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870685631736959303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1345793001101041664",
+              "start": 3,
+              "username": "kozzz_y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1LMRSJWrHH",
+              "end": 36,
+              "expanded_url": "https://x.com/kozzz_y/status/1808206971516117184/photo/1",
+              "media_key": "3_1808206957096099841",
+              "start": 13,
+              "url": "https://t.co/1LMRSJWrHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870685631736959303",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8808
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808206971516117184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kozzz_y: https://t.co/1LMRSJWrHH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1808206957096099841"
+          ]
+        },
+        "author_id": "1345793001101041664",
+        "conversation_id": "1808206971516117184",
+        "created_at": "2024-07-02T18:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T19:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808206971516117184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1LMRSJWrHH",
+              "end": 23,
+              "expanded_url": "https://x.com/kozzz_y/status/1808206971516117184/photo/1",
+              "media_key": "3_1808206957096099841",
+              "start": 0,
+              "url": "https://t.co/1LMRSJWrHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808206971516117184",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5069,
+          "impression_count": 1112118,
+          "like_count": 74717,
+          "quote_count": 60,
+          "reply_count": 37,
+          "retweet_count": 8808
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1LMRSJWrHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 147,
+          "like_count": 6253,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1166
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-03T18:03:59.000Z",
+        "description": "コスモス | ずっと何かを、誰かを探している。repost/profile OK with credit 💌 artkozmos18@gmail.com | 🖼️ prints: https://t.co/xAFikHpGlj | 🎨 commisions: full waitlist",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "inprnt.com/gallery/kozzzy/",
+                "end": 113,
+                "expanded_url": "http://inprnt.com/gallery/kozzzy/",
+                "start": 90,
+                "url": "https://t.co/xAFikHpGlj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kozzzy.carrd.co",
+                "end": 23,
+                "expanded_url": "http://kozzzy.carrd.co",
+                "start": 0,
+                "url": "https://t.co/acli5eLQdc"
+              }
+            ]
+          }
+        },
+        "id": "1345793001101041664",
+        "location": "everywhere nowhere somewhere",
+        "name": "kozzzy",
+        "pinned_tweet_id": "1862195552139845879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609848353260724224/dR03XRpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72707,
+          "following_count": 586,
+          "like_count": 11179,
+          "listed_count": 461,
+          "media_count": 670,
+          "tweet_count": 4022
+        },
+        "url": "https://t.co/acli5eLQdc",
+        "username": "kozzz_y",
+        "verified": false
+      }
+    ]
+  }
+}

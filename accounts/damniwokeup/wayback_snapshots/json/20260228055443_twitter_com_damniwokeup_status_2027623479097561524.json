@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027548935049646085"
+      ],
+      "media_source_tweet_id": [
+        "2027551050371371097"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027623479097561524",
+    "created_at": "2026-02-28T05:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T06:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027623479097561524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1438841836202643457",
+          "start": 3,
+          "username": "ireddragonicy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mjKqTi5fU0",
+          "end": 118,
+          "expanded_url": "https://x.com/ireddragonicy/status/2027551050371371097/photo/1",
+          "media_key": "3_2027548935049646085",
+          "start": 95,
+          "url": "https://t.co/mjKqTi5fU0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027623479097561524",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027551050371371097",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ireddragonicy: ███▓▒░▒░▒▒ ███\n▓d▒░is▓▓▓▓███\ng▒░█▓ ▓▒░▒░▒▒\n█▓▓us▒t█▓▓\n░░in░g███▓\n █▒░█▓███▓ https://t.co/mjKqTi5fU0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2027548935049646085",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCNNA5ZbEAUkZAT.jpg",
+        "width": 2286
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027548935049646085"
+          ],
+          "media_source_tweet_id": [
+            "2027551050371371097"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027623479097561524",
+        "created_at": "2026-02-28T05:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T06:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027623479097561524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1438841836202643457",
+              "start": 3,
+              "username": "ireddragonicy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjKqTi5fU0",
+              "end": 118,
+              "expanded_url": "https://x.com/ireddragonicy/status/2027551050371371097/photo/1",
+              "media_key": "3_2027548935049646085",
+              "start": 95,
+              "url": "https://t.co/mjKqTi5fU0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027623479097561524",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027551050371371097",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ireddragonicy: ███▓▒░▒░▒▒ ███\n▓d▒░is▓▓▓▓███\ng▒░█▓ ▓▒░▒░▒▒\n█▓▓us▒t█▓▓\n░░in░g███▓\n █▒░█▓███▓ https://t.co/mjKqTi5fU0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027548935049646085"
+          ]
+        },
+        "author_id": "1438841836202643457",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027551050371371097",
+        "created_at": "2026-02-28T01:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T02:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027551050371371097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjKqTi5fU0",
+              "end": 99,
+              "expanded_url": "https://x.com/ireddragonicy/status/2027551050371371097/photo/1",
+              "media_key": "3_2027548935049646085",
+              "start": 76,
+              "url": "https://t.co/mjKqTi5fU0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027551050371371097",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 11665,
+          "like_count": 1300,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "███▓▒░▒░▒▒ ███\n▓d▒░is▓▓▓▓███\ng▒░█▓ ▓▒░▒░▒▒\n█▓▓us▒t█▓▓\n░░in░g███▓\n █▒░█▓███▓ https://t.co/mjKqTi5fU0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2026181607040925930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 156,
+          "like_count": 7798,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1372
+        },
+        "username": "damniwokeup",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-17T12:29:09.000Z",
+        "description": "{\n  ''type''   : 2D,\n  ''paper'': ''Attention is All You Need'',\n  ''commission'' : True,\n  ''lang''            : ''Python''\n}",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ireddragonicy.vercel.app",
+                "end": 23,
+                "expanded_url": "https://ireddragonicy.vercel.app",
+                "start": 0,
+                "url": "https://t.co/NwYwsroS7d"
+              }
+            ]
+          }
+        },
+        "id": "1438841836202643457",
+        "location": "AIone",
+        "name": "ンディク",
+        "pinned_tweet_id": "1903734536133067121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960248443349446656/tXneboPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7649,
+          "following_count": 14,
+          "like_count": 2103,
+          "listed_count": 45,
+          "media_count": 1684,
+          "tweet_count": 2901
+        },
+        "url": "https://t.co/NwYwsroS7d",
+        "username": "ireddragonicy",
+        "verified": false
+      }
+    ]
+  }
+}

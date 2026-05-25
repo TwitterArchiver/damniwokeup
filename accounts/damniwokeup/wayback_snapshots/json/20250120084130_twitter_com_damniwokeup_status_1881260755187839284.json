@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880913444679147520"
+      ],
+      "media_source_tweet_id": [
+        "1880913449699672121"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1881260755187839284",
+    "created_at": "2025-01-20T08:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T09:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881260755187839284"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 19,
+          "tag": "フリーレンFA"
+        },
+        {
+          "end": 36,
+          "start": 28,
+          "tag": "frieren"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1859450032967315456",
+          "start": 3,
+          "username": "sarano_814"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o8od3Or9Xy",
+          "end": 60,
+          "expanded_url": "https://x.com/sarano_814/status/1880913449699672121/photo/1",
+          "media_key": "3_1880913444679147520",
+          "start": 37,
+          "url": "https://t.co/o8od3Or9Xy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881260755187839284",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 671
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880913449699672121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sarano_814: ☀️\n#フリーレンFA #frieren https://t.co/o8od3Or9Xy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1880913444679147520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhpYz_tbYAA7NSX.jpg",
+        "width": 1506
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880913444679147520"
+          ],
+          "media_source_tweet_id": [
+            "1880913449699672121"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1881260755187839284",
+        "created_at": "2025-01-20T08:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T09:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881260755187839284"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 19,
+              "tag": "フリーレンFA"
+            },
+            {
+              "end": 36,
+              "start": 28,
+              "tag": "frieren"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1859450032967315456",
+              "start": 3,
+              "username": "sarano_814"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o8od3Or9Xy",
+              "end": 60,
+              "expanded_url": "https://x.com/sarano_814/status/1880913449699672121/photo/1",
+              "media_key": "3_1880913444679147520",
+              "start": 37,
+              "url": "https://t.co/o8od3Or9Xy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881260755187839284",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 671
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880913449699672121",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sarano_814: ☀️\n#フリーレンFA #frieren https://t.co/o8od3Or9Xy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880913444679147520"
+          ]
+        },
+        "author_id": "1859450032967315456",
+        "conversation_id": "1880913449699672121",
+        "created_at": "2025-01-19T09:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T10:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880913449699672121"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 3,
+              "tag": "フリーレンFA"
+            },
+            {
+              "end": 20,
+              "start": 12,
+              "tag": "frieren"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o8od3Or9Xy",
+              "end": 44,
+              "expanded_url": "https://x.com/sarano_814/status/1880913449699672121/photo/1",
+              "media_key": "3_1880913444679147520",
+              "start": 21,
+              "url": "https://t.co/o8od3Or9Xy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880913449699672121",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 450,
+          "impression_count": 58581,
+          "like_count": 5666,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 671
+        },
+        "reply_settings": "everyone",
+        "text": "☀️\n#フリーレンFA #frieren https://t.co/o8od3Or9Xy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 152,
+          "like_count": 6701,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1303
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T04:13:51.000Z",
+        "description": "絵を描きます。無断転載、AI学習はお断りしています。",
+        "id": "1859450032967315456",
+        "name": "さらの破片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859608830012948480/2Yafp64r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 11,
+          "like_count": 820,
+          "listed_count": 5,
+          "media_count": 21,
+          "tweet_count": 71
+        },
+        "username": "sarano_814",
+        "verified": false
+      }
+    ]
+  }
+}

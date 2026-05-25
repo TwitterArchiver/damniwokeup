@@ -1,0 +1,655 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Aerospace",
+          "id": "872801340224806912",
+          "name": "Aerospace"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "SpaceX",
+          "id": "872801738394279936",
+          "name": "SpaceX"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "SpaceX",
+          "id": "872801738394279936",
+          "name": "SpaceX"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1352681651516567553",
+          "name": "Space agencies & companies"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2045853486144008267",
+    "created_at": "2026-04-19T13:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045853486144008267"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045853486144008267",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 1402,
+            "start": 1397,
+            "tag": "Mars"
+          },
+          {
+            "end": 1411,
+            "start": 1403,
+            "tag": "Tharsis"
+          },
+          {
+            "end": 1419,
+            "start": 1412,
+            "tag": "SpaceX"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 322,
+            "id": "1741993395910811648",
+            "start": 306,
+            "username": "AnIncandescence"
+          },
+          {
+            "end": 919,
+            "id": "1741993395910811648",
+            "start": 903,
+            "username": "AnIncandescence"
+          },
+          {
+            "end": 1386,
+            "id": "44196397",
+            "start": 1377,
+            "username": "elonmusk"
+          },
+          {
+            "end": 1394,
+            "id": "34743251",
+            "start": 1387,
+            "username": "SpaceX"
+          }
+        ]
+      },
+      "text": "Dear Elon and the SpaceX Team,\nMy name is RyougiShiki.\nI am writing with a heavy heart. Recently, a very dear friend of mine passed away after a long and painful battle with severe depression and Bertolotti syndrome, a congenital spinal condition that caused her immense suffering. She called herself 炽烈已极 @AnIncandescence. She deeply loved Mars, especially the Tharsis region — its vast volcanic plains and the magnificent shield volcanoes like Arsia Mons, Pavonis Mons, and Ascraeus Mons. She often dreamed of one day seeing or exploring that dramatic and awe-inspiring landscape.\nIf there is any possibility in the future Starship missions or Mars exploration plans that your team could land in or explore the Tharsis area, it would carry profound meaning for me and for everyone who loved her. It would be a beautiful and lasting way to honor her passion and her memory.\nAdditionally, her X account @AnIncandescence has been suspended. That account holds many precious memories we shared. If there is any way it could be reviewed and reinstated, it would mean a great deal to her friends who miss her terribly.\nThank you for your tireless work to make humanity a multi-planetary species. Your vision gave people like her something extraordinary to dream about, even in the darkest times. It continues to give all of us hope.\nWith sincere gratitude and support,\nRyougiShiki\n@elonmusk @SpaceX \n #Mars #Tharsis #SpaceX"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Dear Elon and the SpaceX Team,\nMy name is RyougiShiki.\nI am writing with a heavy heart. Recently, a very dear friend of mine passed away after a long and painful battle with severe depression and Bertolotti syndrome, a congenital spinal condition that caused her immense"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2045853486144008267",
+        "created_at": "2026-04-19T13:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045853486144008267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045853486144008267",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1402,
+                "start": 1397,
+                "tag": "Mars"
+              },
+              {
+                "end": 1411,
+                "start": 1403,
+                "tag": "Tharsis"
+              },
+              {
+                "end": 1419,
+                "start": 1412,
+                "tag": "SpaceX"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 322,
+                "id": "1741993395910811648",
+                "start": 306,
+                "username": "AnIncandescence"
+              },
+              {
+                "end": 919,
+                "id": "1741993395910811648",
+                "start": 903,
+                "username": "AnIncandescence"
+              },
+              {
+                "end": 1386,
+                "id": "44196397",
+                "start": 1377,
+                "username": "elonmusk"
+              },
+              {
+                "end": 1394,
+                "id": "34743251",
+                "start": 1387,
+                "username": "SpaceX"
+              }
+            ]
+          },
+          "text": "Dear Elon and the SpaceX Team,\nMy name is RyougiShiki.\nI am writing with a heavy heart. Recently, a very dear friend of mine passed away after a long and painful battle with severe depression and Bertolotti syndrome, a congenital spinal condition that caused her immense suffering. She called herself 炽烈已极 @AnIncandescence. She deeply loved Mars, especially the Tharsis region — its vast volcanic plains and the magnificent shield volcanoes like Arsia Mons, Pavonis Mons, and Ascraeus Mons. She often dreamed of one day seeing or exploring that dramatic and awe-inspiring landscape.\nIf there is any possibility in the future Starship missions or Mars exploration plans that your team could land in or explore the Tharsis area, it would carry profound meaning for me and for everyone who loved her. It would be a beautiful and lasting way to honor her passion and her memory.\nAdditionally, her X account @AnIncandescence has been suspended. That account holds many precious memories we shared. If there is any way it could be reviewed and reinstated, it would mean a great deal to her friends who miss her terribly.\nThank you for your tireless work to make humanity a multi-planetary species. Your vision gave people like her something extraordinary to dream about, even in the darkest times. It continues to give all of us hope.\nWith sincere gratitude and support,\nRyougiShiki\n@elonmusk @SpaceX \n #Mars #Tharsis #SpaceX"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Dear Elon and the SpaceX Team,\nMy name is RyougiShiki.\nI am writing with a heavy heart. Recently, a very dear friend of mine passed away after a long and painful battle with severe depression and Bertolotti syndrome, a congenital spinal condition that caused her immense"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "Per aspera ad astra",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2042979197816312219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 194,
+          "like_count": 8558,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1413
+        },
+        "username": "damniwokeup",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-02T20:12:29.000Z",
+        "description": "https://t.co/dDtDyVssfm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Terafab.ai",
+                "end": 23,
+                "expanded_url": "http://Terafab.ai",
+                "start": 0,
+                "url": "https://t.co/dDtDyVssfm"
+              }
+            ]
+          }
+        },
+        "id": "44196397",
+        "name": "Elon Musk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238483582,
+          "following_count": 1315,
+          "like_count": 223493,
+          "listed_count": 167992,
+          "media_count": 4455,
+          "tweet_count": 101522
+        },
+        "username": "elonmusk",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-23T21:53:30.000Z",
+        "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacex.com",
+                "end": 23,
+                "expanded_url": "http://spacex.com",
+                "start": 0,
+                "url": "https://t.co/VOJ6qEctND"
+              }
+            ]
+          }
+        },
+        "id": "34743251",
+        "location": "Earth",
+        "name": "SpaceX",
+        "pinned_tweet_id": "2035519125284380672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41496596,
+          "following_count": 127,
+          "like_count": 520,
+          "listed_count": 44504,
+          "media_count": 4386,
+          "tweet_count": 11221
+        },
+        "url": "https://t.co/VOJ6qEctND",
+        "username": "SpaceX",
+        "verified": true
+      }
+    ]
+  }
+}

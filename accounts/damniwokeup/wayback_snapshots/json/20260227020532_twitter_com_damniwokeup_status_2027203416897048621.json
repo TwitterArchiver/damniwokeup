@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026941457677127681",
+        "3_2026941457677053952",
+        "3_2026941457668681728",
+        "3_2026941457693843456"
+      ],
+      "media_source_tweet_id": [
+        "2026941462727041080",
+        "2026941462727041080",
+        "2026941462727041080",
+        "2026941462727041080"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "2027203416897048621",
+    "created_at": "2026-02-27T02:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T03:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027203416897048621"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "ﾘｮｼｭさん",
+          "probability": 0.7249,
+          "start": 23,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1497503361137971200",
+          "start": 3,
+          "username": "ssmr_rolling"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8CdbCwGRHP",
+          "end": 69,
+          "expanded_url": "https://x.com/ssmr_rolling/status/2026941462727041080/photo/1",
+          "media_key": "3_2026941457677127681",
+          "start": 46,
+          "url": "https://t.co/8CdbCwGRHP"
+        },
+        {
+          "display_url": "pic.x.com/8CdbCwGRHP",
+          "end": 69,
+          "expanded_url": "https://x.com/ssmr_rolling/status/2026941462727041080/photo/1",
+          "media_key": "3_2026941457677053952",
+          "start": 46,
+          "url": "https://t.co/8CdbCwGRHP"
+        },
+        {
+          "display_url": "pic.x.com/8CdbCwGRHP",
+          "end": 69,
+          "expanded_url": "https://x.com/ssmr_rolling/status/2026941462727041080/photo/1",
+          "media_key": "3_2026941457668681728",
+          "start": 46,
+          "url": "https://t.co/8CdbCwGRHP"
+        },
+        {
+          "display_url": "pic.x.com/8CdbCwGRHP",
+          "end": 69,
+          "expanded_url": "https://x.com/ssmr_rolling/status/2026941462727041080/photo/1",
+          "media_key": "3_2026941457693843456",
+          "start": 46,
+          "url": "https://t.co/8CdbCwGRHP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027203416897048621",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026941462727041080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ssmr_rolling: 最近描いたﾘｮｼｭさんの中で特に可愛いなってなった4枚 https://t.co/8CdbCwGRHP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 255,
+        "media_key": "3_2026941457677127681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEkhD1bkAE5EM6.jpg",
+        "width": 255
+      },
+      {
+        "height": 379,
+        "media_key": "3_2026941457677053952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEkhD1acAAwCRO.jpg",
+        "width": 379
+      },
+      {
+        "height": 397,
+        "media_key": "3_2026941457668681728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEkhDzasAAyivh.jpg",
+        "width": 397
+      },
+      {
+        "height": 352,
+        "media_key": "3_2026941457693843456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEkhD5aoAA5ltP.jpg",
+        "width": 352
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026941457677127681",
+            "3_2026941457677053952",
+            "3_2026941457668681728",
+            "3_2026941457693843456"
+          ],
+          "media_source_tweet_id": [
+            "2026941462727041080",
+            "2026941462727041080",
+            "2026941462727041080",
+            "2026941462727041080"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "2027203416897048621",
+        "created_at": "2026-02-27T02:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T03:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027203416897048621"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "ﾘｮｼｭさん",
+              "probability": 0.7249,
+              "start": 23,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1497503361137971200",
+              "start": 3,
+              "username": "ssmr_rolling"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8CdbCwGRHP",
+              "end": 69,
+              "expanded_url": "https://x.com/ssmr_rolling/status/2026941462727041080/photo/1",
+              "media_key": "3_2026941457677127681",
+              "start": 46,
+              "url": "https://t.co/8CdbCwGRHP"
+            },
+            {
+              "display_url": "pic.x.com/8CdbCwGRHP",
+              "end": 69,
+              "expanded_url": "https://x.com/ssmr_rolling/status/2026941462727041080/photo/1",
+              "media_key": "3_2026941457677053952",
+              "start": 46,
+              "url": "https://t.co/8CdbCwGRHP"
+            },
+            {
+              "display_url": "pic.x.com/8CdbCwGRHP",
+              "end": 69,
+              "expanded_url": "https://x.com/ssmr_rolling/status/2026941462727041080/photo/1",
+              "media_key": "3_2026941457668681728",
+              "start": 46,
+              "url": "https://t.co/8CdbCwGRHP"
+            },
+            {
+              "display_url": "pic.x.com/8CdbCwGRHP",
+              "end": 69,
+              "expanded_url": "https://x.com/ssmr_rolling/status/2026941462727041080/photo/1",
+              "media_key": "3_2026941457693843456",
+              "start": 46,
+              "url": "https://t.co/8CdbCwGRHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027203416897048621",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026941462727041080",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ssmr_rolling: 最近描いたﾘｮｼｭさんの中で特に可愛いなってなった4枚 https://t.co/8CdbCwGRHP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026941457677127681",
+            "3_2026941457677053952",
+            "3_2026941457668681728",
+            "3_2026941457693843456"
+          ]
+        },
+        "author_id": "1497503361137971200",
+        "conversation_id": "2026941462727041080",
+        "created_at": "2026-02-26T08:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026941462727041080"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "ﾘｮｼｭさん",
+              "probability": 0.6779,
+              "start": 5,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8CdbCwGRHP",
+              "end": 51,
+              "expanded_url": "https://x.com/ssmr_rolling/status/2026941462727041080/photo/1",
+              "media_key": "3_2026941457677127681",
+              "start": 28,
+              "url": "https://t.co/8CdbCwGRHP"
+            },
+            {
+              "display_url": "pic.x.com/8CdbCwGRHP",
+              "end": 51,
+              "expanded_url": "https://x.com/ssmr_rolling/status/2026941462727041080/photo/1",
+              "media_key": "3_2026941457677053952",
+              "start": 28,
+              "url": "https://t.co/8CdbCwGRHP"
+            },
+            {
+              "display_url": "pic.x.com/8CdbCwGRHP",
+              "end": 51,
+              "expanded_url": "https://x.com/ssmr_rolling/status/2026941462727041080/photo/1",
+              "media_key": "3_2026941457668681728",
+              "start": 28,
+              "url": "https://t.co/8CdbCwGRHP"
+            },
+            {
+              "display_url": "pic.x.com/8CdbCwGRHP",
+              "end": 51,
+              "expanded_url": "https://x.com/ssmr_rolling/status/2026941462727041080/photo/1",
+              "media_key": "3_2026941457693843456",
+              "start": 28,
+              "url": "https://t.co/8CdbCwGRHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026941462727041080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 182,
+          "impression_count": 12152,
+          "like_count": 1329,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "最近描いたﾘｮｼｭさんの中で特に可愛いなってなった4枚 https://t.co/8CdbCwGRHP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2026181607040925930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 155,
+          "like_count": 7722,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1363
+        },
+        "username": "damniwokeup",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-26T09:26:45.000Z",
+        "description": "🌙垢 ネタバレあり 落書き沢山 20↑ アイコン→坂田さん(@moth_ram) 無断転載･AI❌ 🚬推しの“右”固定派閥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "moth_ram"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@5TNzoUDhjk",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@5TNzoUDhjk",
+                "start": 0,
+                "url": "https://t.co/zN74FtqgE5"
+              }
+            ]
+          }
+        },
+        "id": "1497503361137971200",
+        "location": "9章にて致命傷を負いました",
+        "name": "笹村",
+        "pinned_tweet_id": "2005602475471233167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671514695185072128/TkVtrcya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8332,
+          "following_count": 26,
+          "like_count": 1439,
+          "listed_count": 27,
+          "media_count": 239,
+          "tweet_count": 478
+        },
+        "url": "https://t.co/zN74FtqgE5",
+        "username": "ssmr_rolling",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1869435501394161664"
+      ],
+      "media_source_tweet_id": [
+        "1869435510000955592"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1869539756943847792",
+    "created_at": "2024-12-19T00:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T01:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869539756943847792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1082600293475397634",
+          "start": 3,
+          "username": "Kirakiradove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jWrc8uHhtD",
+          "end": 50,
+          "expanded_url": "https://x.com/Kirakiradove/status/1869435510000955592/photo/1",
+          "media_key": "3_1869435501394161664",
+          "start": 27,
+          "url": "https://t.co/jWrc8uHhtD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869539756943847792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869435510000955592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kirakiradove: 花、炸弹，与电锯 https://t.co/jWrc8uHhtD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1869435501394161664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfGRrw8acAAITib.jpg",
+        "width": 1424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869435501394161664"
+          ],
+          "media_source_tweet_id": [
+            "1869435510000955592"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1869539756943847792",
+        "created_at": "2024-12-19T00:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T01:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869539756943847792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1082600293475397634",
+              "start": 3,
+              "username": "Kirakiradove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jWrc8uHhtD",
+              "end": 50,
+              "expanded_url": "https://x.com/Kirakiradove/status/1869435510000955592/photo/1",
+              "media_key": "3_1869435501394161664",
+              "start": 27,
+              "url": "https://t.co/jWrc8uHhtD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869539756943847792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869435510000955592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kirakiradove: 花、炸弹，与电锯 https://t.co/jWrc8uHhtD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869435501394161664"
+          ]
+        },
+        "author_id": "1082600293475397634",
+        "conversation_id": "1869435510000955592",
+        "created_at": "2024-12-18T17:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T18:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869435510000955592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jWrc8uHhtD",
+              "end": 32,
+              "expanded_url": "https://x.com/Kirakiradove/status/1869435510000955592/photo/1",
+              "media_key": "3_1869435501394161664",
+              "start": 9,
+              "url": "https://t.co/jWrc8uHhtD"
+            },
+            {
+              "display_url": "x.com/xuan_h9212/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/xuan_h9212/status/1869073479863308630",
+              "start": 33,
+              "url": "https://t.co/6YVQYIjeJc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869435510000955592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1858,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869073479863308630",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "花、炸弹，与电锯 https://t.co/jWrc8uHhtD https://t.co/6YVQYIjeJc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 6178,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1143
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T11:29:58.000Z",
+        "description": "我叫可可，希望你幸福。",
+        "id": "1082600293475397634",
+        "location": "无性别",
+        "name": "うさココ",
+        "pinned_tweet_id": "1859467840635748539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514216529138696193/5YBbERgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6358,
+          "following_count": 0,
+          "like_count": 9893,
+          "listed_count": 14,
+          "media_count": 287,
+          "tweet_count": 6245
+        },
+        "username": "Kirakiradove",
+        "verified": true
+      }
+    ]
+  }
+}

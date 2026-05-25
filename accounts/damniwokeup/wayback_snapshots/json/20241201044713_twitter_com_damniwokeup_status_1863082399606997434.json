@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863049978995679232"
+      ],
+      "media_source_tweet_id": [
+        "1863049990878507024"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1863082399606997434",
+    "created_at": "2024-12-01T04:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T05:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863082399606997434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1478979499400515585",
+          "start": 3,
+          "username": "somei2929"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uOu2CzgXnq",
+          "end": 47,
+          "expanded_url": "https://x.com/somei2929/status/1863049990878507024/photo/1",
+          "media_key": "3_1863049978995679232",
+          "start": 24,
+          "url": "https://t.co/uOu2CzgXnq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863082399606997434",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863049990878507024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @somei2929: 切り絵のヒンメル https://t.co/uOu2CzgXnq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1788,
+        "media_key": "3_1863049978995679232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdriFcTWIAA2CQU.jpg",
+        "width": 1368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863049978995679232"
+          ],
+          "media_source_tweet_id": [
+            "1863049990878507024"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1863082399606997434",
+        "created_at": "2024-12-01T04:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T05:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863082399606997434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1478979499400515585",
+              "start": 3,
+              "username": "somei2929"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uOu2CzgXnq",
+              "end": 47,
+              "expanded_url": "https://x.com/somei2929/status/1863049990878507024/photo/1",
+              "media_key": "3_1863049978995679232",
+              "start": 24,
+              "url": "https://t.co/uOu2CzgXnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863082399606997434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863049990878507024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @somei2929: 切り絵のヒンメル https://t.co/uOu2CzgXnq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863049978995679232"
+          ]
+        },
+        "author_id": "1478979499400515585",
+        "conversation_id": "1863049990878507024",
+        "created_at": "2024-12-01T02:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T03:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863049990878507024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uOu2CzgXnq",
+              "end": 32,
+              "expanded_url": "https://x.com/somei2929/status/1863049990878507024/photo/1",
+              "media_key": "3_1863049978995679232",
+              "start": 9,
+              "url": "https://t.co/uOu2CzgXnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863049990878507024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 851,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "切り絵のヒンメル https://t.co/uOu2CzgXnq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 139,
+          "like_count": 5368,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 845
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-06T06:40:03.000Z",
+        "description": "20↑地雷なし 無断転載禁止 本誌派 マシュマロ https://t.co/zQ05CH85yV ピ https://t.co/aqWjzuYh2U",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/rk0sndpg1uny8ja",
+                "end": 48,
+                "expanded_url": "https://marshmallow-qa.com/rk0sndpg1uny8ja",
+                "start": 25,
+                "url": "https://t.co/zQ05CH85yV"
+              },
+              {
+                "display_url": "pixiv.net/users/105896605",
+                "end": 74,
+                "expanded_url": "https://www.pixiv.net/users/105896605",
+                "start": 51,
+                "url": "https://t.co/aqWjzuYh2U"
+              }
+            ]
+          }
+        },
+        "id": "1478979499400515585",
+        "name": "染井",
+        "pinned_tweet_id": "1800169192802676940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830199408908218368/c8Y6F3gd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2237,
+          "following_count": 30,
+          "like_count": 8127,
+          "listed_count": 8,
+          "media_count": 1071,
+          "tweet_count": 11742
+        },
+        "username": "somei2929",
+        "verified": false
+      }
+    ]
+  }
+}

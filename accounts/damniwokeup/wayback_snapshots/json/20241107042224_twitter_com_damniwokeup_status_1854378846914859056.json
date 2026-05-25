@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1854029569486987597",
+        "1854029569486987597"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1849514207546355712",
+          "name": "2024 US Election Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1854378846914859056",
+    "created_at": "2024-11-07T04:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T05:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854378846914859056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "536338206",
+          "start": 3,
+          "username": "MangaShinigami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gy6ZQeR9rm",
+          "end": 66,
+          "expanded_url": "https://x.com/MangaShinigami/status/1854029569486987597/photo/1",
+          "media_key": "3_1854029566072770564",
+          "start": 43,
+          "url": "https://t.co/Gy6ZQeR9rm"
+        },
+        {
+          "display_url": "pic.x.com/Gy6ZQeR9rm",
+          "end": 66,
+          "expanded_url": "https://x.com/MangaShinigami/status/1854029569486987597/photo/1",
+          "media_key": "3_1854029566928400387",
+          "start": 43,
+          "url": "https://t.co/Gy6ZQeR9rm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854378846914859056",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1818
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854029569486987597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MangaShinigami: A shark you can trust! https://t.co/Gy6ZQeR9rm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1854029569486987597",
+            "1854029569486987597"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1849514207546355712",
+              "name": "2024 US Election Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1854378846914859056",
+        "created_at": "2024-11-07T04:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T05:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854378846914859056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "536338206",
+              "start": 3,
+              "username": "MangaShinigami"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gy6ZQeR9rm",
+              "end": 66,
+              "expanded_url": "https://x.com/MangaShinigami/status/1854029569486987597/photo/1",
+              "media_key": "3_1854029566072770564",
+              "start": 43,
+              "url": "https://t.co/Gy6ZQeR9rm"
+            },
+            {
+              "display_url": "pic.x.com/Gy6ZQeR9rm",
+              "end": 66,
+              "expanded_url": "https://x.com/MangaShinigami/status/1854029569486987597/photo/1",
+              "media_key": "3_1854029566928400387",
+              "start": 43,
+              "url": "https://t.co/Gy6ZQeR9rm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854378846914859056",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1818
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854029569486987597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MangaShinigami: A shark you can trust! https://t.co/Gy6ZQeR9rm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854029566072770564",
+            "3_1854029566928400387"
+          ]
+        },
+        "author_id": "536338206",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1849514207546355712",
+              "name": "2024 US Election Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1854029569486987597",
+        "created_at": "2024-11-06T05:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T06:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854029569486987597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gy6ZQeR9rm",
+              "end": 46,
+              "expanded_url": "https://x.com/MangaShinigami/status/1854029569486987597/photo/1",
+              "media_key": "3_1854029566072770564",
+              "start": 23,
+              "url": "https://t.co/Gy6ZQeR9rm"
+            },
+            {
+              "display_url": "pic.x.com/Gy6ZQeR9rm",
+              "end": 46,
+              "expanded_url": "https://x.com/MangaShinigami/status/1854029569486987597/photo/1",
+              "media_key": "3_1854029566928400387",
+              "start": 23,
+              "url": "https://t.co/Gy6ZQeR9rm"
+            },
+            {
+              "display_url": "x.com/Rev_says_desu/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/Rev_says_desu/status/1854018835537330209",
+              "start": 47,
+              "url": "https://t.co/A9M56Cn1lF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854029569486987597",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1296,
+          "impression_count": 265313,
+          "like_count": 19019,
+          "quote_count": 15,
+          "reply_count": 36,
+          "retweet_count": 1818
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854018835537330209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "A shark you can trust! https://t.co/Gy6ZQeR9rm https://t.co/A9M56Cn1lF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 124,
+          "like_count": 4694,
+          "listed_count": 0,
+          "tweet_count": 543
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-25T12:14:48.000Z",
+        "description": "Casual FGC Member.I mainly tweet about: Fate/GO, Current anime seasons, Fighting Games, and waifus. Pretty blunt, so beware!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCUJ-x…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCUJ-xZaSAuVWopmgTuBf-7w/featured",
+                "start": 0,
+                "url": "https://t.co/Xw1DmhFydd"
+              }
+            ]
+          }
+        },
+        "id": "536338206",
+        "location": "Knocking on Heaven's door",
+        "name": "Jin 🦊 || Vixen Connoisseur",
+        "pinned_tweet_id": "1854029569486987597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854110027491287040/OUEpo_CZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3188,
+          "following_count": 174,
+          "like_count": 99001,
+          "listed_count": 36,
+          "tweet_count": 182186
+        },
+        "url": "https://t.co/Xw1DmhFydd",
+        "username": "MangaShinigami",
+        "verified": false
+      }
+    ]
+  }
+}

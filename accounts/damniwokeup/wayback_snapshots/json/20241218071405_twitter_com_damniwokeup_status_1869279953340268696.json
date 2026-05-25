@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1869254315275366400",
+        "3_1869254320576983040",
+        "3_1869254732235325440",
+        "3_1869254695187005440"
+      ],
+      "media_source_tweet_id": [
+        "1869254753160671292",
+        "1869254753160671292",
+        "1869254753160671292",
+        "1869254753160671292"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1869279953340268696",
+    "created_at": "2024-12-18T07:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T08:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869279953340268696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753339639522590720",
+          "start": 3,
+          "username": "seraphu00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4ecnVOotF4",
+          "end": 38,
+          "expanded_url": "https://x.com/seraphu00/status/1869254753160671292/photo/1",
+          "media_key": "3_1869254315275366400",
+          "start": 15,
+          "url": "https://t.co/4ecnVOotF4"
+        },
+        {
+          "display_url": "pic.x.com/4ecnVOotF4",
+          "end": 38,
+          "expanded_url": "https://x.com/seraphu00/status/1869254753160671292/photo/1",
+          "media_key": "3_1869254320576983040",
+          "start": 15,
+          "url": "https://t.co/4ecnVOotF4"
+        },
+        {
+          "display_url": "pic.x.com/4ecnVOotF4",
+          "end": 38,
+          "expanded_url": "https://x.com/seraphu00/status/1869254753160671292/photo/1",
+          "media_key": "3_1869254732235325440",
+          "start": 15,
+          "url": "https://t.co/4ecnVOotF4"
+        },
+        {
+          "display_url": "pic.x.com/4ecnVOotF4",
+          "end": 38,
+          "expanded_url": "https://x.com/seraphu00/status/1869254753160671292/photo/1",
+          "media_key": "3_1869254695187005440",
+          "start": 15,
+          "url": "https://t.co/4ecnVOotF4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869279953340268696",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869254753160671292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seraphu00: https://t.co/4ecnVOotF4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_1869254315275366400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfDs5WDasAAQxA0.png",
+        "width": 360
+      },
+      {
+        "height": 360,
+        "media_key": "3_1869254320576983040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfDs5pza8AAvv6a.png",
+        "width": 360
+      },
+      {
+        "height": 442,
+        "media_key": "3_1869254732235325440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfDtRnWawAAu5dx.jpg",
+        "width": 442
+      },
+      {
+        "height": 360,
+        "media_key": "3_1869254695187005440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfDtPdVaQAAUTeV.png",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869254315275366400",
+            "3_1869254320576983040",
+            "3_1869254732235325440",
+            "3_1869254695187005440"
+          ],
+          "media_source_tweet_id": [
+            "1869254753160671292",
+            "1869254753160671292",
+            "1869254753160671292",
+            "1869254753160671292"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1869279953340268696",
+        "created_at": "2024-12-18T07:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T08:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869279953340268696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753339639522590720",
+              "start": 3,
+              "username": "seraphu00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ecnVOotF4",
+              "end": 38,
+              "expanded_url": "https://x.com/seraphu00/status/1869254753160671292/photo/1",
+              "media_key": "3_1869254315275366400",
+              "start": 15,
+              "url": "https://t.co/4ecnVOotF4"
+            },
+            {
+              "display_url": "pic.x.com/4ecnVOotF4",
+              "end": 38,
+              "expanded_url": "https://x.com/seraphu00/status/1869254753160671292/photo/1",
+              "media_key": "3_1869254320576983040",
+              "start": 15,
+              "url": "https://t.co/4ecnVOotF4"
+            },
+            {
+              "display_url": "pic.x.com/4ecnVOotF4",
+              "end": 38,
+              "expanded_url": "https://x.com/seraphu00/status/1869254753160671292/photo/1",
+              "media_key": "3_1869254732235325440",
+              "start": 15,
+              "url": "https://t.co/4ecnVOotF4"
+            },
+            {
+              "display_url": "pic.x.com/4ecnVOotF4",
+              "end": 38,
+              "expanded_url": "https://x.com/seraphu00/status/1869254753160671292/photo/1",
+              "media_key": "3_1869254695187005440",
+              "start": 15,
+              "url": "https://t.co/4ecnVOotF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869279953340268696",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869254753160671292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seraphu00: https://t.co/4ecnVOotF4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869254315275366400",
+            "3_1869254320576983040",
+            "3_1869254732235325440",
+            "3_1869254695187005440"
+          ]
+        },
+        "author_id": "1753339639522590720",
+        "conversation_id": "1869254753160671292",
+        "created_at": "2024-12-18T05:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T06:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869254753160671292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ecnVOotF4",
+              "end": 23,
+              "expanded_url": "https://x.com/seraphu00/status/1869254753160671292/photo/1",
+              "media_key": "3_1869254315275366400",
+              "start": 0,
+              "url": "https://t.co/4ecnVOotF4"
+            },
+            {
+              "display_url": "pic.x.com/4ecnVOotF4",
+              "end": 23,
+              "expanded_url": "https://x.com/seraphu00/status/1869254753160671292/photo/1",
+              "media_key": "3_1869254320576983040",
+              "start": 0,
+              "url": "https://t.co/4ecnVOotF4"
+            },
+            {
+              "display_url": "pic.x.com/4ecnVOotF4",
+              "end": 23,
+              "expanded_url": "https://x.com/seraphu00/status/1869254753160671292/photo/1",
+              "media_key": "3_1869254732235325440",
+              "start": 0,
+              "url": "https://t.co/4ecnVOotF4"
+            },
+            {
+              "display_url": "pic.x.com/4ecnVOotF4",
+              "end": 23,
+              "expanded_url": "https://x.com/seraphu00/status/1869254753160671292/photo/1",
+              "media_key": "3_1869254695187005440",
+              "start": 0,
+              "url": "https://t.co/4ecnVOotF4"
+            },
+            {
+              "display_url": "x.com/Arisv_Avgvstvs…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Arisv_Avgvstvs_/status/1869236296721600581",
+              "start": 24,
+              "url": "https://t.co/2jcxNHgQRX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869254753160671292",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 530,
+          "like_count": 49,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869236296721600581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/4ecnVOotF4 https://t.co/2jcxNHgQRX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 6168,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1139
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T08:48:50.000Z",
+        "description": "✞ | 𝘛𝘠𝘗𝘌𝘔𝘖𝘖𝘕 𝘢𝘳𝘵𝘪𝘴𝘵, 𝘵𝘳𝘢𝘯𝘴𝘭𝘢𝘵𝘰𝘳 | @DailyArtoria\n📚 | Translating: 衛宮さんちの今日のごはん コラボカフェ\n\n『Index of my work: https://t.co/OHO29XriSY』",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "DailyArtoria"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pastebin.com/7sjxAP04",
+                "end": 128,
+                "expanded_url": "http://pastebin.com/7sjxAP04",
+                "start": 105,
+                "url": "https://t.co/OHO29XriSY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/76853…",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/en/users/76853126",
+                "start": 0,
+                "url": "https://t.co/flYJC9oZlx"
+              }
+            ]
+          }
+        },
+        "id": "1753339639522590720",
+        "name": "セラフ・serafu✨",
+        "pinned_tweet_id": "1863599000701558951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863430012873150464/9CuKc_yq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2363,
+          "following_count": 105,
+          "like_count": 10170,
+          "listed_count": 8,
+          "media_count": 1234,
+          "tweet_count": 6842
+        },
+        "url": "https://t.co/flYJC9oZlx",
+        "username": "seraphu00",
+        "verified": true
+      }
+    ]
+  }
+}

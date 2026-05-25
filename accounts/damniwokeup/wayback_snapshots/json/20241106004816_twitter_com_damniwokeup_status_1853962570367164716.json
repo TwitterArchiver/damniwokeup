@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1853960709505527808"
+      ],
+      "media_source_tweet_id": [
+        "1853960714467365096"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1853962570367164716",
+    "created_at": "2024-11-06T00:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T01:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853962570367164716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1573091989129596928",
+          "start": 3,
+          "username": "tanixya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pEOzDVkk8M",
+          "end": 43,
+          "expanded_url": "https://x.com/tanixya/status/1853960714467365096/photo/1",
+          "media_key": "3_1853960709505527808",
+          "start": 20,
+          "url": "https://t.co/pEOzDVkk8M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853962570367164716",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853960714467365096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tanixya: おふぁよー🍞 https://t.co/pEOzDVkk8M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1344,
+        "media_key": "3_1853960709505527808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbqXcU2bsAABtqO.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853960709505527808"
+          ],
+          "media_source_tweet_id": [
+            "1853960714467365096"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1853962570367164716",
+        "created_at": "2024-11-06T00:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T01:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853962570367164716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1573091989129596928",
+              "start": 3,
+              "username": "tanixya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pEOzDVkk8M",
+              "end": 43,
+              "expanded_url": "https://x.com/tanixya/status/1853960714467365096/photo/1",
+              "media_key": "3_1853960709505527808",
+              "start": 20,
+              "url": "https://t.co/pEOzDVkk8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853962570367164716",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853960714467365096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tanixya: おふぁよー🍞 https://t.co/pEOzDVkk8M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853960709505527808"
+          ]
+        },
+        "author_id": "1573091989129596928",
+        "conversation_id": "1853960714467365096",
+        "created_at": "2024-11-06T00:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T01:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853960714467365096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pEOzDVkk8M",
+              "end": 30,
+              "expanded_url": "https://x.com/tanixya/status/1853960714467365096/photo/1",
+              "media_key": "3_1853960709505527808",
+              "start": 7,
+              "url": "https://t.co/pEOzDVkk8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853960714467365096",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 98,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "おふぁよー🍞 https://t.co/pEOzDVkk8M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 124,
+          "like_count": 4660,
+          "listed_count": 0,
+          "tweet_count": 530
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-22T23:29:01.000Z",
+        "description": "niji journyでAI絵生成+稀にibisPaint X加筆修正してます🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/tanixya",
+                "end": 23,
+                "expanded_url": "https://lit.link/tanixya",
+                "start": 0,
+                "url": "https://t.co/gsiwcPqvTR"
+              }
+            ]
+          }
+        },
+        "id": "1573091989129596928",
+        "location": "Tokyo-to, Japan",
+        "name": "たにゃ@AIart",
+        "pinned_tweet_id": "1853573142234693824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837897744004141056/xJlZ-TVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19228,
+          "following_count": 780,
+          "like_count": 12887,
+          "listed_count": 105,
+          "tweet_count": 5038
+        },
+        "url": "https://t.co/gsiwcPqvTR",
+        "username": "tanixya",
+        "verified": true
+      }
+    ]
+  }
+}

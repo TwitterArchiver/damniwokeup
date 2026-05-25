@@ -1,0 +1,482 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866256674497155072"
+      ],
+      "media_source_tweet_id": [
+        "1866256864964714894"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "1866492798096335116",
+    "created_at": "2024-12-10T14:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T15:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866492798096335116"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 18,
+          "tag": "ぼっち・ざ・ろっく"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1530744739997585408",
+          "start": 3,
+          "username": "syake_fureku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SRQKKDmXk4",
+          "end": 53,
+          "expanded_url": "https://x.com/syake_fureku/status/1866256864964714894/photo/1",
+          "media_key": "3_1866256674497155072",
+          "start": 30,
+          "url": "https://t.co/SRQKKDmXk4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866492798096335116",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 201
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866256864964714894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @syake_fureku: #ぼっち・ざ・ろっく！ https://t.co/SRQKKDmXk4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1866256674497155072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeZGjr8a0AAJKI2.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866256674497155072"
+          ],
+          "media_source_tweet_id": [
+            "1866256864964714894"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1866492798096335116",
+        "created_at": "2024-12-10T14:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T15:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866492798096335116"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1530744739997585408",
+              "start": 3,
+              "username": "syake_fureku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SRQKKDmXk4",
+              "end": 53,
+              "expanded_url": "https://x.com/syake_fureku/status/1866256864964714894/photo/1",
+              "media_key": "3_1866256674497155072",
+              "start": 30,
+              "url": "https://t.co/SRQKKDmXk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866492798096335116",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 201
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866256864964714894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @syake_fureku: #ぼっち・ざ・ろっく！ https://t.co/SRQKKDmXk4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866256674497155072"
+          ]
+        },
+        "author_id": "1530744739997585408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1866256864964714894",
+        "created_at": "2024-12-09T23:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T00:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866256864964714894"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SRQKKDmXk4",
+              "end": 35,
+              "expanded_url": "https://x.com/syake_fureku/status/1866256864964714894/photo/1",
+              "media_key": "3_1866256674497155072",
+              "start": 12,
+              "url": "https://t.co/SRQKKDmXk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866256864964714894",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 19252,
+          "like_count": 1829,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 201
+        },
+        "reply_settings": "everyone",
+        "text": "#ぼっち・ざ・ろっく！ https://t.co/SRQKKDmXk4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 5797,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1001
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-29T02:56:26.000Z",
+        "description": "お題箱→https://t.co/y9cxj1fENA\nBlusky→https://t.co/URbZF2RopZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/syake",
+                "end": 27,
+                "expanded_url": "http://odaibako.net/u/syake",
+                "start": 4,
+                "url": "https://t.co/y9cxj1fENA"
+              },
+              {
+                "display_url": "bsky.app/profile/syakeh…",
+                "end": 58,
+                "expanded_url": "http://bsky.app/profile/syakehure.bsky.social",
+                "start": 35,
+                "url": "https://t.co/URbZF2RopZ"
+              }
+            ]
+          }
+        },
+        "id": "1530744739997585408",
+        "name": "シャケフレ",
+        "pinned_tweet_id": "1669993654285660161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530756008427294720/BaYE0Eia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 274,
+          "like_count": 8849,
+          "listed_count": 6,
+          "media_count": 138,
+          "tweet_count": 945
+        },
+        "username": "syake_fureku",
+        "verified": false
+      }
+    ]
+  }
+}

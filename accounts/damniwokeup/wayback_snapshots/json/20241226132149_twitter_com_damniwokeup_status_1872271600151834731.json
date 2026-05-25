@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872250309231394816"
+      ],
+      "media_source_tweet_id": [
+        "1872250319528394918"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1872271600151834731",
+    "created_at": "2024-12-26T13:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T14:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872271600151834731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1436767041172631553",
+          "start": 3,
+          "username": "john_kafka02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e04u84igaN",
+          "end": 46,
+          "expanded_url": "https://x.com/john_kafka02/status/1872250319528394918/photo/1",
+          "media_key": "3_1872250309231394816",
+          "start": 23,
+          "url": "https://t.co/e04u84igaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872271600151834731",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 400
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872250319528394918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @john_kafka02: ⬜️🟥🟦 https://t.co/e04u84igaN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1872250309231394816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfuRvJRaQAAiOH0.jpg",
+        "width": 1532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872250309231394816"
+          ],
+          "media_source_tweet_id": [
+            "1872250319528394918"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1872271600151834731",
+        "created_at": "2024-12-26T13:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T14:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872271600151834731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1436767041172631553",
+              "start": 3,
+              "username": "john_kafka02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e04u84igaN",
+              "end": 46,
+              "expanded_url": "https://x.com/john_kafka02/status/1872250319528394918/photo/1",
+              "media_key": "3_1872250309231394816",
+              "start": 23,
+              "url": "https://t.co/e04u84igaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872271600151834731",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 400
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872250319528394918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @john_kafka02: ⬜️🟥🟦 https://t.co/e04u84igaN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872250309231394816"
+          ]
+        },
+        "author_id": "1436767041172631553",
+        "conversation_id": "1872250319528394918",
+        "created_at": "2024-12-26T11:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T12:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872250319528394918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e04u84igaN",
+              "end": 28,
+              "expanded_url": "https://x.com/john_kafka02/status/1872250319528394918/photo/1",
+              "media_key": "3_1872250309231394816",
+              "start": 5,
+              "url": "https://t.co/e04u84igaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872250319528394918",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 287,
+          "impression_count": 40532,
+          "like_count": 3524,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 400
+        },
+        "reply_settings": "everyone",
+        "text": "⬜️🟥🟦 https://t.co/e04u84igaN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 149,
+          "like_count": 6380,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1221
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-11T19:02:22.000Z",
+        "description": "illustrator/Designer ▪︎E-mail: johnkafka@naver.com ▪︎Instagram:https://t.co/lXxVG2UsZO ▪︎blue sky:https://t.co/PA02PVdEF7 EN/KR/JP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/john_kafka02/",
+                "end": 86,
+                "expanded_url": "http://instagram.com/john_kafka02/",
+                "start": 63,
+                "url": "https://t.co/lXxVG2UsZO"
+              },
+              {
+                "display_url": "johnkafka02.bsky.social",
+                "end": 121,
+                "expanded_url": "http://johnkafka02.bsky.social",
+                "start": 98,
+                "url": "https://t.co/PA02PVdEF7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/john_kafka02/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/john_kafka02/",
+                "start": 0,
+                "url": "https://t.co/lXxVG2UsZO"
+              }
+            ]
+          }
+        },
+        "id": "1436767041172631553",
+        "name": "John Kafka",
+        "pinned_tweet_id": "1856674493089161571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859943238981001216/vs2hOyfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377873,
+          "following_count": 3982,
+          "like_count": 23277,
+          "listed_count": 2394,
+          "media_count": 418,
+          "tweet_count": 8790
+        },
+        "url": "https://t.co/lXxVG2UsZO",
+        "username": "john_kafka02",
+        "verified": true
+      }
+    ]
+  }
+}

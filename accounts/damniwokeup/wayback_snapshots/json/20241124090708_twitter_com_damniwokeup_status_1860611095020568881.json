@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1859467840635748539",
+    "created_at": "2024-11-24T09:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T10:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860611095020568881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1082600293475397634",
+          "start": 0,
+          "username": "Kirakiradove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860611095020568881",
+    "in_reply_to_user_id": "1082600293475397634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860610278918074390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirakiradove 你就是我的超人🥹辛苦了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1859467840635748539",
+        "created_at": "2024-11-24T09:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T10:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860611095020568881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1082600293475397634",
+              "start": 0,
+              "username": "Kirakiradove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860611095020568881",
+        "in_reply_to_user_id": "1082600293475397634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860610278918074390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirakiradove 你就是我的超人🥹辛苦了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860610272567959552"
+          ]
+        },
+        "author_id": "1082600293475397634",
+        "conversation_id": "1859467840635748539",
+        "created_at": "2024-11-24T09:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T10:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860610278918074390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1081115542109380608",
+              "start": 0,
+              "username": "damniwokeup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qYWHArHQBv",
+              "end": 60,
+              "expanded_url": "https://x.com/Kirakiradove/status/1860610278918074390/photo/1",
+              "media_key": "3_1860610272567959552",
+              "start": 37,
+              "url": "https://t.co/qYWHArHQBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860610278918074390",
+        "in_reply_to_user_id": "1081115542109380608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860601452462534755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damniwokeup 我受不了了我还是再画一张藤本树的线真的好难画啊 https://t.co/qYWHArHQBv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 131,
+          "like_count": 5077,
+          "listed_count": 0,
+          "tweet_count": 736
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T11:29:58.000Z",
+        "description": "🉑🉑丨我是孤儿丨原因就是性别丨非男非女纯人间失格丨每周去麦当当打工还助学贷款丨能活到现在纯靠运气和好人援助交际丨非善意私信想要给我提要求请先支付宝口令丨vx门槛88接陪聊陪玩交明年学费丨重度药物依赖每天晚上都会发癫丨正常情况下超高频率和粉丝互动丨免费头像进度请点击媒体查看丨感谢你们喜欢我",
+        "id": "1082600293475397634",
+        "location": "隨機",
+        "name": "うさココ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514216529138696193/5YBbERgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2551,
+          "following_count": 1,
+          "like_count": 1783,
+          "listed_count": 5,
+          "tweet_count": 919
+        },
+        "username": "Kirakiradove",
+        "verified": false
+      }
+    ]
+  }
+}

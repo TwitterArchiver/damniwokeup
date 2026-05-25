@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863426212267433984",
+        "3_1863426212254924800",
+        "3_1863426212254945280",
+        "3_1863426212263297024"
+      ],
+      "media_source_tweet_id": [
+        "1863426232635011255",
+        "1863426232635011255",
+        "1863426232635011255",
+        "1863426232635011255"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1863606542572105761",
+    "created_at": "2024-12-02T15:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T16:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863606542572105761"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "ニゴ",
+          "probability": 0.5306,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1362068737713651714",
+          "start": 3,
+          "username": "AeRuVa_yes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rhAXISQg6Q",
+          "end": 42,
+          "expanded_url": "https://x.com/AeRuVa_yes/status/1863426232635011255/photo/1",
+          "media_key": "3_1863426212267433984",
+          "start": 19,
+          "url": "https://t.co/rhAXISQg6Q"
+        },
+        {
+          "display_url": "pic.x.com/rhAXISQg6Q",
+          "end": 42,
+          "expanded_url": "https://x.com/AeRuVa_yes/status/1863426232635011255/photo/1",
+          "media_key": "3_1863426212254924800",
+          "start": 19,
+          "url": "https://t.co/rhAXISQg6Q"
+        },
+        {
+          "display_url": "pic.x.com/rhAXISQg6Q",
+          "end": 42,
+          "expanded_url": "https://x.com/AeRuVa_yes/status/1863426232635011255/photo/1",
+          "media_key": "3_1863426212254945280",
+          "start": 19,
+          "url": "https://t.co/rhAXISQg6Q"
+        },
+        {
+          "display_url": "pic.x.com/rhAXISQg6Q",
+          "end": 42,
+          "expanded_url": "https://x.com/AeRuVa_yes/status/1863426232635011255/photo/1",
+          "media_key": "3_1863426212263297024",
+          "start": 19,
+          "url": "https://t.co/rhAXISQg6Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863606542572105761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2337
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863426232635011255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AeRuVa_yes: ニゴ https://t.co/rhAXISQg6Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1863426212267433984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdw4RGdaIAABDSK.jpg",
+        "width": 1614
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1863426212254924800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdw4RGabQAAxc5n.jpg",
+        "width": 1614
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1863426212254945280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdw4RGabkAAR4X6.jpg",
+        "width": 1614
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1863426212263297024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdw4RGcbAAAS9OK.jpg",
+        "width": 1614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863426212267433984",
+            "3_1863426212254924800",
+            "3_1863426212254945280",
+            "3_1863426212263297024"
+          ],
+          "media_source_tweet_id": [
+            "1863426232635011255",
+            "1863426232635011255",
+            "1863426232635011255",
+            "1863426232635011255"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1863606542572105761",
+        "created_at": "2024-12-02T15:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T16:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863606542572105761"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "ニゴ",
+              "probability": 0.5306,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1362068737713651714",
+              "start": 3,
+              "username": "AeRuVa_yes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rhAXISQg6Q",
+              "end": 42,
+              "expanded_url": "https://x.com/AeRuVa_yes/status/1863426232635011255/photo/1",
+              "media_key": "3_1863426212267433984",
+              "start": 19,
+              "url": "https://t.co/rhAXISQg6Q"
+            },
+            {
+              "display_url": "pic.x.com/rhAXISQg6Q",
+              "end": 42,
+              "expanded_url": "https://x.com/AeRuVa_yes/status/1863426232635011255/photo/1",
+              "media_key": "3_1863426212254924800",
+              "start": 19,
+              "url": "https://t.co/rhAXISQg6Q"
+            },
+            {
+              "display_url": "pic.x.com/rhAXISQg6Q",
+              "end": 42,
+              "expanded_url": "https://x.com/AeRuVa_yes/status/1863426232635011255/photo/1",
+              "media_key": "3_1863426212254945280",
+              "start": 19,
+              "url": "https://t.co/rhAXISQg6Q"
+            },
+            {
+              "display_url": "pic.x.com/rhAXISQg6Q",
+              "end": 42,
+              "expanded_url": "https://x.com/AeRuVa_yes/status/1863426232635011255/photo/1",
+              "media_key": "3_1863426212263297024",
+              "start": 19,
+              "url": "https://t.co/rhAXISQg6Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863606542572105761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2337
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863426232635011255",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AeRuVa_yes: ニゴ https://t.co/rhAXISQg6Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863426212267433984",
+            "3_1863426212254924800",
+            "3_1863426212254945280",
+            "3_1863426212263297024"
+          ]
+        },
+        "author_id": "1362068737713651714",
+        "conversation_id": "1863426232635011255",
+        "created_at": "2024-12-02T03:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T04:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863426232635011255"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "ニゴ",
+              "probability": 0.5821,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rhAXISQg6Q",
+              "end": 26,
+              "expanded_url": "https://x.com/AeRuVa_yes/status/1863426232635011255/photo/1",
+              "media_key": "3_1863426212267433984",
+              "start": 3,
+              "url": "https://t.co/rhAXISQg6Q"
+            },
+            {
+              "display_url": "pic.x.com/rhAXISQg6Q",
+              "end": 26,
+              "expanded_url": "https://x.com/AeRuVa_yes/status/1863426232635011255/photo/1",
+              "media_key": "3_1863426212254924800",
+              "start": 3,
+              "url": "https://t.co/rhAXISQg6Q"
+            },
+            {
+              "display_url": "pic.x.com/rhAXISQg6Q",
+              "end": 26,
+              "expanded_url": "https://x.com/AeRuVa_yes/status/1863426232635011255/photo/1",
+              "media_key": "3_1863426212254945280",
+              "start": 3,
+              "url": "https://t.co/rhAXISQg6Q"
+            },
+            {
+              "display_url": "pic.x.com/rhAXISQg6Q",
+              "end": 26,
+              "expanded_url": "https://x.com/AeRuVa_yes/status/1863426232635011255/photo/1",
+              "media_key": "3_1863426212263297024",
+              "start": 3,
+              "url": "https://t.co/rhAXISQg6Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863426232635011255",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1462,
+          "impression_count": 170848,
+          "like_count": 13884,
+          "quote_count": 17,
+          "reply_count": 1,
+          "retweet_count": 2337
+        },
+        "reply_settings": "everyone",
+        "text": "ニゴ https://t.co/rhAXISQg6Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 143,
+          "like_count": 5468,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 878
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-17T15:58:06.000Z",
+        "description": "❄️❄️goodddddd～",
+        "id": "1362068737713651714",
+        "name": "Aeruva",
+        "pinned_tweet_id": "1790638917190045772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585932150867603456/zceuW2_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7162,
+          "following_count": 369,
+          "like_count": 12553,
+          "listed_count": 19,
+          "media_count": 183,
+          "tweet_count": 270
+        },
+        "username": "AeRuVa_yes",
+        "verified": false
+      }
+    ]
+  }
+}

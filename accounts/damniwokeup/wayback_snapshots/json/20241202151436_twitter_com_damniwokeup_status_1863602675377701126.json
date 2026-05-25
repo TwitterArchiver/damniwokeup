@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862879979995856896",
+        "3_1862879980461391872",
+        "3_1862879980247564288"
+      ],
+      "media_source_tweet_id": [
+        "1862879982495952933",
+        "1862879982495952933",
+        "1862879982495952933"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1863602675377701126",
+    "created_at": "2024-12-02T15:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T16:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863602675377701126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1809436118569693184",
+          "start": 3,
+          "username": "ssssshinosasa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qWWsl7M5lG",
+          "end": 51,
+          "expanded_url": "https://x.com/ssssshinosasa/status/1862879982495952933/photo/1",
+          "media_key": "3_1862879979995856896",
+          "start": 28,
+          "url": "https://t.co/qWWsl7M5lG"
+        },
+        {
+          "display_url": "pic.x.com/qWWsl7M5lG",
+          "end": 51,
+          "expanded_url": "https://x.com/ssssshinosasa/status/1862879982495952933/photo/1",
+          "media_key": "3_1862879980461391872",
+          "start": 28,
+          "url": "https://t.co/qWWsl7M5lG"
+        },
+        {
+          "display_url": "pic.x.com/qWWsl7M5lG",
+          "end": 51,
+          "expanded_url": "https://x.com/ssssshinosasa/status/1862879982495952933/photo/1",
+          "media_key": "3_1862879980247564288",
+          "start": 28,
+          "url": "https://t.co/qWWsl7M5lG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863602675377701126",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 113
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862879982495952933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ssssshinosasa: 再掲ファリン詰め https://t.co/qWWsl7M5lG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 719,
+        "media_key": "3_1862879979995856896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdpHeMrXAAA3XR2.jpg",
+        "width": 900
+      },
+      {
+        "height": 860,
+        "media_key": "3_1862879980461391872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdpHeOaWgAAQbux.jpg",
+        "width": 600
+      },
+      {
+        "height": 823,
+        "media_key": "3_1862879980247564288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdpHeNnXwAAGmdF.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862879979995856896",
+            "3_1862879980461391872",
+            "3_1862879980247564288"
+          ],
+          "media_source_tweet_id": [
+            "1862879982495952933",
+            "1862879982495952933",
+            "1862879982495952933"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1863602675377701126",
+        "created_at": "2024-12-02T15:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T16:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863602675377701126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1809436118569693184",
+              "start": 3,
+              "username": "ssssshinosasa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qWWsl7M5lG",
+              "end": 51,
+              "expanded_url": "https://x.com/ssssshinosasa/status/1862879982495952933/photo/1",
+              "media_key": "3_1862879979995856896",
+              "start": 28,
+              "url": "https://t.co/qWWsl7M5lG"
+            },
+            {
+              "display_url": "pic.x.com/qWWsl7M5lG",
+              "end": 51,
+              "expanded_url": "https://x.com/ssssshinosasa/status/1862879982495952933/photo/1",
+              "media_key": "3_1862879980461391872",
+              "start": 28,
+              "url": "https://t.co/qWWsl7M5lG"
+            },
+            {
+              "display_url": "pic.x.com/qWWsl7M5lG",
+              "end": 51,
+              "expanded_url": "https://x.com/ssssshinosasa/status/1862879982495952933/photo/1",
+              "media_key": "3_1862879980247564288",
+              "start": 28,
+              "url": "https://t.co/qWWsl7M5lG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863602675377701126",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 113
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862879982495952933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ssssshinosasa: 再掲ファリン詰め https://t.co/qWWsl7M5lG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862879979995856896",
+            "3_1862879980461391872",
+            "3_1862879980247564288"
+          ]
+        },
+        "author_id": "1809436118569693184",
+        "conversation_id": "1862879982495952933",
+        "created_at": "2024-11-30T15:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T16:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862879982495952933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qWWsl7M5lG",
+              "end": 32,
+              "expanded_url": "https://x.com/ssssshinosasa/status/1862879982495952933/photo/1",
+              "media_key": "3_1862879979995856896",
+              "start": 9,
+              "url": "https://t.co/qWWsl7M5lG"
+            },
+            {
+              "display_url": "pic.x.com/qWWsl7M5lG",
+              "end": 32,
+              "expanded_url": "https://x.com/ssssshinosasa/status/1862879982495952933/photo/1",
+              "media_key": "3_1862879980461391872",
+              "start": 9,
+              "url": "https://t.co/qWWsl7M5lG"
+            },
+            {
+              "display_url": "pic.x.com/qWWsl7M5lG",
+              "end": 32,
+              "expanded_url": "https://x.com/ssssshinosasa/status/1862879982495952933/photo/1",
+              "media_key": "3_1862879980247564288",
+              "start": 9,
+              "url": "https://t.co/qWWsl7M5lG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862879982495952933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 12027,
+          "like_count": 894,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "再掲ファリン詰め https://t.co/qWWsl7M5lG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 143,
+          "like_count": 5463,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 875
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T03:56:15.000Z",
+        "description": "雑多垢。ノンCP2次と日常用。たまに絵を上げるオタク。ダンジョン飯（兄妹多め）、FGOその他諸々。画像の無断転載、使用禁止/Repost is prohibited.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/ebr5f1v92…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/ebr5f1v92xqh2biu/",
+                "start": 0,
+                "url": "https://t.co/cJG0donZPf"
+              }
+            ]
+          }
+        },
+        "id": "1809436118569693184",
+        "name": "しのささ",
+        "pinned_tweet_id": "1845632984743067961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811052178431528960/lm-DfZhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 32,
+          "like_count": 1187,
+          "listed_count": 4,
+          "media_count": 7,
+          "tweet_count": 1193
+        },
+        "url": "https://t.co/cJG0donZPf",
+        "username": "ssssshinosasa",
+        "verified": false
+      }
+    ]
+  }
+}

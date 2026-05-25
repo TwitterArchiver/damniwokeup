@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1865585540034400256"
+      ],
+      "media_source_tweet_id": [
+        "1865585545369489544"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1865615928081502558",
+    "created_at": "2024-12-08T04:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T05:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865615928081502558"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "oc"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1829000727475433472",
+          "start": 3,
+          "username": "m_emu_xo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zp8oqFxmcH",
+          "end": 41,
+          "expanded_url": "https://x.com/m_emu_xo/status/1865585545369489544/photo/1",
+          "media_key": "3_1865585540034400256",
+          "start": 18,
+          "url": "https://t.co/zp8oqFxmcH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865615928081502558",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865585545369489544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @m_emu_xo: #oc https://t.co/zp8oqFxmcH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 717,
+        "media_key": "3_1865585540034400256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GePkKhPbEAAD5mD.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865585540034400256"
+          ],
+          "media_source_tweet_id": [
+            "1865585545369489544"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1865615928081502558",
+        "created_at": "2024-12-08T04:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T05:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865615928081502558"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "oc"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1829000727475433472",
+              "start": 3,
+              "username": "m_emu_xo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zp8oqFxmcH",
+              "end": 41,
+              "expanded_url": "https://x.com/m_emu_xo/status/1865585545369489544/photo/1",
+              "media_key": "3_1865585540034400256",
+              "start": 18,
+              "url": "https://t.co/zp8oqFxmcH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865615928081502558",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865585545369489544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @m_emu_xo: #oc https://t.co/zp8oqFxmcH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865585540034400256"
+          ]
+        },
+        "author_id": "1829000727475433472",
+        "conversation_id": "1865585545369489544",
+        "created_at": "2024-12-08T02:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T03:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865585545369489544"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "oc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zp8oqFxmcH",
+              "end": 27,
+              "expanded_url": "https://x.com/m_emu_xo/status/1865585545369489544/photo/1",
+              "media_key": "3_1865585540034400256",
+              "start": 4,
+              "url": "https://t.co/zp8oqFxmcH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865585545369489544",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1465,
+          "like_count": 242,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "#oc https://t.co/zp8oqFxmcH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 145,
+          "like_count": 5701,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 968
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T03:38:57.000Z",
+        "description": "練習中",
+        "id": "1829000727475433472",
+        "location": "胃内",
+        "name": "移行するかもしれない予備アカウント",
+        "pinned_tweet_id": "1863747414500442588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864232652326514688/1kfhgnFh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2658,
+          "following_count": 24,
+          "like_count": 310,
+          "listed_count": 20,
+          "media_count": 24,
+          "tweet_count": 164
+        },
+        "username": "m_emu_xo",
+        "verified": false
+      }
+    ]
+  }
+}

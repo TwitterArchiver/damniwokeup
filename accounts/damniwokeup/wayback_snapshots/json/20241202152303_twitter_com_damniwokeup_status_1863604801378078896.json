@@ -1,0 +1,616 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863500379163648000"
+      ],
+      "media_source_tweet_id": [
+        "1863500383919935879"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "1863604801378078896",
+    "created_at": "2024-12-02T15:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T16:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863604801378078896"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "クリスマスの魔女",
+          "probability": 0.7782,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1052540080848424961",
+          "start": 3,
+          "username": "Qooo003"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xgLdATZ1nt",
+          "end": 47,
+          "expanded_url": "https://x.com/Qooo003/status/1863500383919935879/photo/1",
+          "media_key": "3_1863500379163648000",
+          "start": 24,
+          "url": "https://t.co/xgLdATZ1nt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863604801378078896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 271
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863500383919935879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qooo003: 「クリスマスの魔女」 https://t.co/xgLdATZ1nt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1863500379163648000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdx7uLra4AACa1u.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863500379163648000"
+          ],
+          "media_source_tweet_id": [
+            "1863500383919935879"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "1863604801378078896",
+        "created_at": "2024-12-02T15:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T16:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863604801378078896"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "クリスマスの魔女",
+              "probability": 0.7782,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1052540080848424961",
+              "start": 3,
+              "username": "Qooo003"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xgLdATZ1nt",
+              "end": 47,
+              "expanded_url": "https://x.com/Qooo003/status/1863500383919935879/photo/1",
+              "media_key": "3_1863500379163648000",
+              "start": 24,
+              "url": "https://t.co/xgLdATZ1nt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863604801378078896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 271
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863500383919935879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Qooo003: 「クリスマスの魔女」 https://t.co/xgLdATZ1nt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863500379163648000"
+          ]
+        },
+        "author_id": "1052540080848424961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "1863500383919935879",
+        "created_at": "2024-12-02T08:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T09:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863500383919935879"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "クリスマスの魔女",
+              "probability": 0.832,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xgLdATZ1nt",
+              "end": 34,
+              "expanded_url": "https://x.com/Qooo003/status/1863500383919935879/photo/1",
+              "media_key": "3_1863500379163648000",
+              "start": 11,
+              "url": "https://t.co/xgLdATZ1nt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863500383919935879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 31046,
+          "like_count": 1810,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 271
+        },
+        "reply_settings": "everyone",
+        "text": "「クリスマスの魔女」 https://t.co/xgLdATZ1nt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 143,
+          "like_count": 5465,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 877
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-17T12:41:25.000Z",
+        "description": "異国情緒や季節の移ろいを描く。■お仕事のご相談→✉️buchi.qoo3@gmail.com ■商業作品集 →https://t.co/eMKdtizNvp■リットリンク→https://t.co/cGLCJOsvsv■skeb→ https://t.co/qh5NCL70CQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amzn.asia/d/hTr3Dq8",
+                "end": 78,
+                "expanded_url": "https://amzn.asia/d/hTr3Dq8",
+                "start": 55,
+                "url": "https://t.co/eMKdtizNvp"
+              },
+              {
+                "display_url": "lit.link/Qooo003",
+                "end": 109,
+                "expanded_url": "https://lit.link/Qooo003",
+                "start": 86,
+                "url": "https://t.co/cGLCJOsvsv"
+              },
+              {
+                "display_url": "skeb.jp/@Qooo003",
+                "end": 139,
+                "expanded_url": "https://skeb.jp/@Qooo003",
+                "start": 116,
+                "url": "https://t.co/qh5NCL70CQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buchi-qoo3.com",
+                "end": 23,
+                "expanded_url": "https://buchi-qoo3.com/",
+                "start": 0,
+                "url": "https://t.co/jAGg6SZea7"
+              }
+            ]
+          }
+        },
+        "id": "1052540080848424961",
+        "location": "京都→東京",
+        "name": "淵゛(ぶち)",
+        "pinned_tweet_id": "1796491663868899526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1501589429491990530/esO1YYvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207997,
+          "following_count": 1033,
+          "like_count": 35824,
+          "listed_count": 2273,
+          "media_count": 867,
+          "tweet_count": 22224
+        },
+        "url": "https://t.co/jAGg6SZea7",
+        "username": "Qooo003",
+        "verified": true
+      }
+    ]
+  }
+}

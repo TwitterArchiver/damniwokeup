@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859209837353246721"
+      ],
+      "media_source_tweet_id": [
+        "1859209847549374622"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1859213564793491536",
+    "created_at": "2024-11-20T12:33:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T13:33:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859213564793491536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1492141471734337545",
+          "start": 3,
+          "username": "BocchiTheChurch"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/30Ag8MeUYJ",
+          "end": 55,
+          "expanded_url": "https://x.com/BocchiTheChurch/status/1859209847549374622/photo/1",
+          "media_key": "3_1859209837353246721",
+          "start": 32,
+          "url": "https://t.co/30Ag8MeUYJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859213564793491536",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859209847549374622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BocchiTheChurch: I see her… https://t.co/30Ag8MeUYJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1512,
+        "media_key": "3_1859209837353246721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc09fx5aIAEHNeS.jpg",
+        "width": 1007
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859209837353246721"
+          ],
+          "media_source_tweet_id": [
+            "1859209847549374622"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1859213564793491536",
+        "created_at": "2024-11-20T12:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T13:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859213564793491536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1492141471734337545",
+              "start": 3,
+              "username": "BocchiTheChurch"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/30Ag8MeUYJ",
+              "end": 55,
+              "expanded_url": "https://x.com/BocchiTheChurch/status/1859209847549374622/photo/1",
+              "media_key": "3_1859209837353246721",
+              "start": 32,
+              "url": "https://t.co/30Ag8MeUYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859213564793491536",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859209847549374622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BocchiTheChurch: I see her… https://t.co/30Ag8MeUYJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859209837353246721"
+          ]
+        },
+        "author_id": "1492141471734337545",
+        "conversation_id": "1859209847549374622",
+        "created_at": "2024-11-20T12:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T13:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859209847549374622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/30Ag8MeUYJ",
+              "end": 34,
+              "expanded_url": "https://x.com/BocchiTheChurch/status/1859209847549374622/photo/1",
+              "media_key": "3_1859209837353246721",
+              "start": 11,
+              "url": "https://t.co/30Ag8MeUYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859209847549374622",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 53,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "I see her… https://t.co/30Ag8MeUYJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 128,
+          "like_count": 4957,
+          "listed_count": 0,
+          "tweet_count": 676
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T14:20:38.000Z",
+        "description": "Totally official Church of Bocchi ✨ All Hail Bocchi! ✨ Profile by @zetsuyochimayo ✨ Banner by @tenoo12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "zetsuyochimayo"
+              },
+              {
+                "end": 102,
+                "start": 94,
+                "username": "tenoo12"
+              }
+            ]
+          }
+        },
+        "id": "1492141471734337545",
+        "location": "Bocchi Heaven",
+        "name": "The Church of Bocchi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845064438589816835/0gTBBgRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2515,
+          "following_count": 67,
+          "like_count": 7186,
+          "listed_count": 2,
+          "tweet_count": 559
+        },
+        "username": "BocchiTheChurch",
+        "verified": false
+      }
+    ]
+  }
+}

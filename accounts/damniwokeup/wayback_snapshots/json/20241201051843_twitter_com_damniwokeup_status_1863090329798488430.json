@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862814487893434368"
+      ],
+      "media_source_tweet_id": [
+        "1862814569430913376"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1863090329798488430",
+    "created_at": "2024-12-01T05:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T06:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863090329798488430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1755226981409693696",
+          "start": 3,
+          "username": "ffgh_5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jGySOejZ3g",
+          "end": 35,
+          "expanded_url": "https://x.com/ffgh_5/status/1862814569430913376/photo/1",
+          "media_key": "3_1862814487893434368",
+          "start": 12,
+          "url": "https://t.co/jGySOejZ3g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863090329798488430",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 628
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862814569430913376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ffgh_5: https://t.co/jGySOejZ3g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1862814487893434368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdoL6DlW4AAJ3Mq.png",
+        "width": 565
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862814487893434368"
+          ],
+          "media_source_tweet_id": [
+            "1862814569430913376"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1863090329798488430",
+        "created_at": "2024-12-01T05:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T06:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863090329798488430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1755226981409693696",
+              "start": 3,
+              "username": "ffgh_5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jGySOejZ3g",
+              "end": 35,
+              "expanded_url": "https://x.com/ffgh_5/status/1862814569430913376/photo/1",
+              "media_key": "3_1862814487893434368",
+              "start": 12,
+              "url": "https://t.co/jGySOejZ3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863090329798488430",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 628
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862814569430913376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ffgh_5: https://t.co/jGySOejZ3g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862814487893434368"
+          ]
+        },
+        "author_id": "1755226981409693696",
+        "conversation_id": "1862814569430913376",
+        "created_at": "2024-11-30T11:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T12:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862814569430913376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jGySOejZ3g",
+              "end": 23,
+              "expanded_url": "https://x.com/ffgh_5/status/1862814569430913376/photo/1",
+              "media_key": "3_1862814487893434368",
+              "start": 0,
+              "url": "https://t.co/jGySOejZ3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862814569430913376",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 909,
+          "impression_count": 89596,
+          "like_count": 7463,
+          "quote_count": 15,
+          "reply_count": 9,
+          "retweet_count": 628
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jGySOejZ3g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 139,
+          "like_count": 5374,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 846
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T13:48:46.000Z",
+        "description": "（淫夢要素）ないです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/ywl2vt1smhvt4m…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/ywl2vt1smhvt4mq?t=O2Ri4C&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/YC78Wo7Xxd"
+              }
+            ]
+          }
+        },
+        "id": "1755226981409693696",
+        "location": "インターネットしょしんしゃ",
+        "name": "イャーブス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770332942524706816/ahtaQG0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5541,
+          "following_count": 19,
+          "like_count": 2581,
+          "listed_count": 19,
+          "media_count": 85,
+          "tweet_count": 396
+        },
+        "url": "https://t.co/YC78Wo7Xxd",
+        "username": "ffgh_5",
+        "verified": false
+      }
+    ]
+  }
+}

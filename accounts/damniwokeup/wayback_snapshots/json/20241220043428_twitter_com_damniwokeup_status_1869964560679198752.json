@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1869936132752084992"
+      ],
+      "media_source_tweet_id": [
+        "1869936138510795103"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1869964560679198752",
+    "created_at": "2024-12-20T04:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T05:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869964560679198752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1481742185871835136",
+          "start": 3,
+          "username": "nueeeeeeun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DVWNigGqr5",
+          "end": 39,
+          "expanded_url": "https://x.com/nueeeeeeun/status/1869936138510795103/photo/1",
+          "media_key": "3_1869936132752084992",
+          "start": 16,
+          "url": "https://t.co/DVWNigGqr5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869964560679198752",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 345
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869936138510795103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nueeeeeeun: https://t.co/DVWNigGqr5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1869936132752084992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfNZAWFbEAANVZx.jpg",
+        "width": 1026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869936132752084992"
+          ],
+          "media_source_tweet_id": [
+            "1869936138510795103"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1869964560679198752",
+        "created_at": "2024-12-20T04:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T05:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869964560679198752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1481742185871835136",
+              "start": 3,
+              "username": "nueeeeeeun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DVWNigGqr5",
+              "end": 39,
+              "expanded_url": "https://x.com/nueeeeeeun/status/1869936138510795103/photo/1",
+              "media_key": "3_1869936132752084992",
+              "start": 16,
+              "url": "https://t.co/DVWNigGqr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869964560679198752",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 345
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869936138510795103",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nueeeeeeun: https://t.co/DVWNigGqr5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869936132752084992"
+          ]
+        },
+        "author_id": "1481742185871835136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1869936138510795103",
+        "created_at": "2024-12-20T02:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T03:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869936138510795103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DVWNigGqr5",
+              "end": 23,
+              "expanded_url": "https://x.com/nueeeeeeun/status/1869936138510795103/photo/1",
+              "media_key": "3_1869936132752084992",
+              "start": 0,
+              "url": "https://t.co/DVWNigGqr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869936138510795103",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 16296,
+          "like_count": 1629,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 345
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DVWNigGqr5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 6204,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1157
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-13T21:37:28.000Z",
+        "description": "nueegochi@gmail.com\n\nweibo : https://t.co/t3N5aWHDVQ\npixiv : https://t.co/Zl2RMVcjSj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/7917717572",
+                "end": 52,
+                "expanded_url": "https://weibo.com/u/7917717572",
+                "start": 29,
+                "url": "https://t.co/t3N5aWHDVQ"
+              },
+              {
+                "display_url": "pixiv.net/users/31290532",
+                "end": 84,
+                "expanded_url": "https://www.pixiv.net/users/31290532",
+                "start": 61,
+                "url": "https://t.co/Zl2RMVcjSj"
+              }
+            ]
+          }
+        },
+        "id": "1481742185871835136",
+        "name": "Nuee / 12서코 CG_26",
+        "pinned_tweet_id": "1858943059217838520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690291286518185985/QEHfZk1n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18400,
+          "following_count": 519,
+          "like_count": 4384,
+          "listed_count": 148,
+          "media_count": 150,
+          "tweet_count": 696
+        },
+        "username": "nueeeeeeun",
+        "verified": false
+      }
+    ]
+  }
+}

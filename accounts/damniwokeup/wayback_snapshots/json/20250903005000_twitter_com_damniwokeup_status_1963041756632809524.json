@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962669634068647936"
+      ],
+      "media_source_tweet_id": [
+        "1962669717422002621"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1963041756632809524",
+    "created_at": "2025-09-03T00:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T01:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963041756632809524"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 16,
+          "tag": "ManhattanCafe"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1561882578713321473",
+          "start": 3,
+          "username": "umage_info"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p2aPILU6KZ",
+          "end": 54,
+          "expanded_url": "https://x.com/umage_info/status/1962669717422002621/photo/1",
+          "media_key": "3_1962669634068647936",
+          "start": 31,
+          "url": "https://t.co/p2aPILU6KZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963041756632809524",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 549
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962669717422002621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @umage_info: #ManhattanCafe https://t.co/p2aPILU6KZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_1962669634068647936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzzNoi4bkAAWifb.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962669634068647936"
+          ],
+          "media_source_tweet_id": [
+            "1962669717422002621"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1963041756632809524",
+        "created_at": "2025-09-03T00:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T01:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963041756632809524"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 16,
+              "tag": "ManhattanCafe"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1561882578713321473",
+              "start": 3,
+              "username": "umage_info"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p2aPILU6KZ",
+              "end": 54,
+              "expanded_url": "https://x.com/umage_info/status/1962669717422002621/photo/1",
+              "media_key": "3_1962669634068647936",
+              "start": 31,
+              "url": "https://t.co/p2aPILU6KZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963041756632809524",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 549
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962669717422002621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @umage_info: #ManhattanCafe https://t.co/p2aPILU6KZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962669634068647936"
+          ]
+        },
+        "author_id": "1561882578713321473",
+        "conversation_id": "1962669717422002621",
+        "created_at": "2025-09-02T00:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T01:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962669717422002621"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "ManhattanCafe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p2aPILU6KZ",
+              "end": 38,
+              "expanded_url": "https://x.com/umage_info/status/1962669717422002621/photo/1",
+              "media_key": "3_1962669634068647936",
+              "start": 15,
+              "url": "https://t.co/p2aPILU6KZ"
+            },
+            {
+              "display_url": "x.com/umage_info/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/umage_info/status/1961550536672776532",
+              "start": 39,
+              "url": "https://t.co/K5Ox9E32Zr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962669717422002621",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 634,
+          "impression_count": 88305,
+          "like_count": 5327,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 549
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961550536672776532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#ManhattanCafe https://t.co/p2aPILU6KZ https://t.co/K5Ox9E32Zr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 140,
+          "like_count": 6946,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1242
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-23T01:06:55.000Z",
+        "description": "🎀Fashion design for #ウマ娘 👗 Personal Color × Body Type × Fashion Analysis 💎 supported GenAI 💻",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 20,
+                "tag": "ウマ娘"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/ymk_ai/n/n84d7…",
+                "end": 23,
+                "expanded_url": "https://note.com/ymk_ai/n/n84d7669a53db",
+                "start": 0,
+                "url": "https://t.co/BwFYGnuFnA"
+              }
+            ]
+          }
+        },
+        "id": "1561882578713321473",
+        "location": "🇯🇵JAPAN",
+        "name": "KaWai",
+        "pinned_tweet_id": "1962107415392067999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788544075857358848/esUgs-2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12994,
+          "following_count": 655,
+          "like_count": 13351,
+          "listed_count": 93,
+          "media_count": 2670,
+          "tweet_count": 9514
+        },
+        "url": "https://t.co/BwFYGnuFnA",
+        "username": "umage_info",
+        "verified": true
+      }
+    ]
+  }
+}

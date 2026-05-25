@@ -1,0 +1,489 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1858081537386065920"
+      ],
+      "media_source_tweet_id": [
+        "1858081553857020075"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "1858142521618026999",
+    "created_at": "2024-11-17T13:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T14:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858142521618026999"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 30,
+          "tag": "ぼっち·ざ·ろっく"
+        },
+        {
+          "end": 46,
+          "start": 42,
+          "tag": "ぼざろ"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "喜多郁代"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1785926588678467584",
+          "start": 3,
+          "username": "fragile4642"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g9zTJEurtj",
+          "end": 76,
+          "expanded_url": "https://x.com/fragile4642/status/1858081553857020075/photo/1",
+          "media_key": "3_1858081537386065920",
+          "start": 53,
+          "url": "https://t.co/g9zTJEurtj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858142521618026999",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 185
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858081553857020075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fragile4642: グッドナイト・ツチノコ\n\n#ぼっち·ざ·ろっく  #ぼざろ\n#喜多郁代 https://t.co/g9zTJEurtj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1695,
+        "media_key": "3_1858081537386065920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gck7UE-bsAAO0FI.jpg",
+        "width": 1128
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858081537386065920"
+          ],
+          "media_source_tweet_id": [
+            "1858081553857020075"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1858142521618026999",
+        "created_at": "2024-11-17T13:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T14:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858142521618026999"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 30,
+              "tag": "ぼっち·ざ·ろっく"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "ぼざろ"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "喜多郁代"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1785926588678467584",
+              "start": 3,
+              "username": "fragile4642"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g9zTJEurtj",
+              "end": 76,
+              "expanded_url": "https://x.com/fragile4642/status/1858081553857020075/photo/1",
+              "media_key": "3_1858081537386065920",
+              "start": 53,
+              "url": "https://t.co/g9zTJEurtj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858142521618026999",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 185
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858081553857020075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fragile4642: グッドナイト・ツチノコ\n\n#ぼっち·ざ·ろっく  #ぼざろ\n#喜多郁代 https://t.co/g9zTJEurtj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858081537386065920"
+          ]
+        },
+        "author_id": "1785926588678467584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1858081553857020075",
+        "created_at": "2024-11-17T09:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T10:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858081553857020075"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 13,
+              "tag": "ぼっち·ざ·ろっく"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "ぼざろ"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "喜多郁代"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g9zTJEurtj",
+              "end": 59,
+              "expanded_url": "https://x.com/fragile4642/status/1858081553857020075/photo/1",
+              "media_key": "3_1858081537386065920",
+              "start": 36,
+              "url": "https://t.co/g9zTJEurtj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858081553857020075",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 18517,
+          "like_count": 1258,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 185
+        },
+        "reply_settings": "everyone",
+        "text": "グッドナイト・ツチノコ\n\n#ぼっち·ざ·ろっく  #ぼざろ\n#喜多郁代 https://t.co/g9zTJEurtj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 125,
+          "like_count": 4868,
+          "listed_count": 0,
+          "tweet_count": 634
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T06:57:44.000Z",
+        "description": "ぼざろで何か作っています。気軽にフォローしてください！",
+        "id": "1785926588678467584",
+        "name": "ふらじゃいる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819247673750573058/UPeavHRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9339,
+          "following_count": 270,
+          "like_count": 2374,
+          "listed_count": 62,
+          "tweet_count": 376
+        },
+        "username": "fragile4642",
+        "verified": false
+      }
+    ]
+  }
+}

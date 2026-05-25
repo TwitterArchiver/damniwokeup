@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861371785259950084"
+      ],
+      "media_source_tweet_id": [
+        "1861379384575180909"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1861569074255536586",
+    "created_at": "2024-11-27T00:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T01:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861569074255536586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752300234510888960",
+          "start": 3,
+          "username": "kon301738"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kD4ugChk9y",
+          "end": 45,
+          "expanded_url": "https://x.com/kon301738/status/1861379384575180909/photo/1",
+          "media_key": "3_1861371785259950084",
+          "start": 22,
+          "url": "https://t.co/kD4ugChk9y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861569074255536586",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861379384575180909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kon301738: メイドぼっち https://t.co/kD4ugChk9y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1861371785259950084",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdTrxtdaoAQasm_.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861371785259950084"
+          ],
+          "media_source_tweet_id": [
+            "1861379384575180909"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1861569074255536586",
+        "created_at": "2024-11-27T00:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T01:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861569074255536586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752300234510888960",
+              "start": 3,
+              "username": "kon301738"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kD4ugChk9y",
+              "end": 45,
+              "expanded_url": "https://x.com/kon301738/status/1861379384575180909/photo/1",
+              "media_key": "3_1861371785259950084",
+              "start": 22,
+              "url": "https://t.co/kD4ugChk9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861569074255536586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861379384575180909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kon301738: メイドぼっち https://t.co/kD4ugChk9y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861371785259950084"
+          ]
+        },
+        "author_id": "1752300234510888960",
+        "conversation_id": "1861379384575180909",
+        "created_at": "2024-11-26T12:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T13:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861379384575180909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kD4ugChk9y",
+              "end": 30,
+              "expanded_url": "https://x.com/kon301738/status/1861379384575180909/photo/1",
+              "media_key": "3_1861371785259950084",
+              "start": 7,
+              "url": "https://t.co/kD4ugChk9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861379384575180909",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 15990,
+          "like_count": 1812,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "メイドぼっち https://t.co/kD4ugChk9y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 133,
+          "like_count": 5169,
+          "listed_count": 0,
+          "tweet_count": 771
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T11:58:44.000Z",
+        "description": "AI加筆あり/ぼっちざろっく/終わりのセラフ/このすば/とある科学の超電磁砲/灼眼のシャナ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/konart",
+                "end": 23,
+                "expanded_url": "https://lit.link/konart",
+                "start": 0,
+                "url": "https://t.co/zvXSrt8MLv"
+              }
+            ]
+          }
+        },
+        "id": "1752300234510888960",
+        "name": "こんくら猫",
+        "pinned_tweet_id": "1832718561145688474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773756042180198400/GvMF_x-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6225,
+          "following_count": 12,
+          "like_count": 306,
+          "listed_count": 41,
+          "tweet_count": 508
+        },
+        "url": "https://t.co/zvXSrt8MLv",
+        "username": "kon301738",
+        "verified": false
+      }
+    ]
+  }
+}

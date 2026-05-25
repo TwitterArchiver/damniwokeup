@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862123890782371840"
+      ],
+      "media_source_tweet_id": [
+        "1862123894343385144"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1862145726026858586",
+    "created_at": "2024-11-28T14:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T15:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862145726026858586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1403021607178702850",
+          "start": 3,
+          "username": "pong__o0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DB7sC38men",
+          "end": 39,
+          "expanded_url": "https://x.com/pong__o0/status/1862123894343385144/photo/1",
+          "media_key": "3_1862123890782371840",
+          "start": 16,
+          "url": "https://t.co/DB7sC38men"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862145726026858586",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 452
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862123894343385144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pong__o0: 🐾 https://t.co/DB7sC38men"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1952,
+        "media_key": "3_1862123890782371840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdeX0A3aAAAc2uC.jpg",
+        "width": 2418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862123890782371840"
+          ],
+          "media_source_tweet_id": [
+            "1862123894343385144"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1862145726026858586",
+        "created_at": "2024-11-28T14:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T15:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862145726026858586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1403021607178702850",
+              "start": 3,
+              "username": "pong__o0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DB7sC38men",
+              "end": 39,
+              "expanded_url": "https://x.com/pong__o0/status/1862123894343385144/photo/1",
+              "media_key": "3_1862123890782371840",
+              "start": 16,
+              "url": "https://t.co/DB7sC38men"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862145726026858586",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 452
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862123894343385144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pong__o0: 🐾 https://t.co/DB7sC38men"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862123890782371840"
+          ]
+        },
+        "author_id": "1403021607178702850",
+        "conversation_id": "1862123894343385144",
+        "created_at": "2024-11-28T13:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T14:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862123894343385144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DB7sC38men",
+              "end": 25,
+              "expanded_url": "https://x.com/pong__o0/status/1862123894343385144/photo/1",
+              "media_key": "3_1862123890782371840",
+              "start": 2,
+              "url": "https://t.co/DB7sC38men"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862123894343385144",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 222,
+          "impression_count": 26376,
+          "like_count": 2661,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 452
+        },
+        "reply_settings": "everyone",
+        "text": "🐾 https://t.co/DB7sC38men"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 134,
+          "like_count": 5229,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 796
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-10T16:10:08.000Z",
+        "description": "がんばります a korean student~  |  mail: pongpongpong0314@gmail.com   |  担当v子: https://t.co/pIuHUXoASb  |  class: https://t.co/yOMqd1enZL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@like_u",
+                "end": 96,
+                "expanded_url": "https://youtube.com/@like_u",
+                "start": 73,
+                "url": "https://t.co/pIuHUXoASb"
+              },
+              {
+                "display_url": "cafe.naver.com/raumartacademy…",
+                "end": 131,
+                "expanded_url": "https://cafe.naver.com/raumartacademy/9396",
+                "start": 108,
+                "url": "https://t.co/yOMqd1enZL"
+              }
+            ]
+          }
+        },
+        "id": "1403021607178702850",
+        "location": "ai学習禁止",
+        "name": "pong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817256561167024128/bCzz6Bsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92266,
+          "following_count": 62,
+          "like_count": 2635,
+          "listed_count": 577,
+          "media_count": 107,
+          "tweet_count": 332
+        },
+        "username": "pong__o0",
+        "verified": false
+      }
+    ]
+  }
+}

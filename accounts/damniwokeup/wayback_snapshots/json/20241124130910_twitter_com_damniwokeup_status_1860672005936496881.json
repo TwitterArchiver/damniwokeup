@@ -1,0 +1,535 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860475511740465154",
+        "3_1860475511744659456",
+        "3_1860475511748853760"
+      ],
+      "media_source_tweet_id": [
+        "1860475525153849491",
+        "1860475525153849491",
+        "1860475525153849491"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "1860672005936496881",
+    "created_at": "2024-11-24T13:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T14:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860672005936496881"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 29,
+          "tag": "ぼっち・ざ・ろっく"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1393112340342579202",
+          "start": 3,
+          "username": "Hayate_ROGO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2TllmeRyLa",
+          "end": 64,
+          "expanded_url": "https://x.com/Hayate_ROGO/status/1860475525153849491/photo/1",
+          "media_key": "3_1860475511740465154",
+          "start": 41,
+          "url": "https://t.co/2TllmeRyLa"
+        },
+        {
+          "display_url": "pic.x.com/2TllmeRyLa",
+          "end": 64,
+          "expanded_url": "https://x.com/Hayate_ROGO/status/1860475525153849491/photo/1",
+          "media_key": "3_1860475511744659456",
+          "start": 41,
+          "url": "https://t.co/2TllmeRyLa"
+        },
+        {
+          "display_url": "pic.x.com/2TllmeRyLa",
+          "end": 64,
+          "expanded_url": "https://x.com/Hayate_ROGO/status/1860475525153849491/photo/1",
+          "media_key": "3_1860475511748853760",
+          "start": 41,
+          "url": "https://t.co/2TllmeRyLa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860672005936496881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860475525153849491",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hayate_ROGO: 過去絵：結束バンド\n\n #ぼっち・ざ・ろっく！ https://t.co/2TllmeRyLa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1015,
+        "media_key": "3_1860475511740465154",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdG8nuaagAIhw6N.jpg",
+        "width": 1515
+      },
+      {
+        "height": 1578,
+        "media_key": "3_1860475511744659456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdG8nubagAAF-fb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1860475511748853760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdG8nucagAA-FRt.jpg",
+        "width": 1650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860475511740465154",
+            "3_1860475511744659456",
+            "3_1860475511748853760"
+          ],
+          "media_source_tweet_id": [
+            "1860475525153849491",
+            "1860475525153849491",
+            "1860475525153849491"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1860672005936496881",
+        "created_at": "2024-11-24T13:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T14:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860672005936496881"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 29,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1393112340342579202",
+              "start": 3,
+              "username": "Hayate_ROGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2TllmeRyLa",
+              "end": 64,
+              "expanded_url": "https://x.com/Hayate_ROGO/status/1860475525153849491/photo/1",
+              "media_key": "3_1860475511740465154",
+              "start": 41,
+              "url": "https://t.co/2TllmeRyLa"
+            },
+            {
+              "display_url": "pic.x.com/2TllmeRyLa",
+              "end": 64,
+              "expanded_url": "https://x.com/Hayate_ROGO/status/1860475525153849491/photo/1",
+              "media_key": "3_1860475511744659456",
+              "start": 41,
+              "url": "https://t.co/2TllmeRyLa"
+            },
+            {
+              "display_url": "pic.x.com/2TllmeRyLa",
+              "end": 64,
+              "expanded_url": "https://x.com/Hayate_ROGO/status/1860475525153849491/photo/1",
+              "media_key": "3_1860475511748853760",
+              "start": 41,
+              "url": "https://t.co/2TllmeRyLa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860672005936496881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860475525153849491",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hayate_ROGO: 過去絵：結束バンド\n\n #ぼっち・ざ・ろっく！ https://t.co/2TllmeRyLa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860475511740465154",
+            "3_1860475511744659456",
+            "3_1860475511748853760"
+          ]
+        },
+        "author_id": "1393112340342579202",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1860475525153849491",
+        "created_at": "2024-11-24T00:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T01:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860475525153849491"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 12,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2TllmeRyLa",
+              "end": 47,
+              "expanded_url": "https://x.com/Hayate_ROGO/status/1860475525153849491/photo/1",
+              "media_key": "3_1860475511740465154",
+              "start": 24,
+              "url": "https://t.co/2TllmeRyLa"
+            },
+            {
+              "display_url": "pic.x.com/2TllmeRyLa",
+              "end": 47,
+              "expanded_url": "https://x.com/Hayate_ROGO/status/1860475525153849491/photo/1",
+              "media_key": "3_1860475511744659456",
+              "start": 24,
+              "url": "https://t.co/2TllmeRyLa"
+            },
+            {
+              "display_url": "pic.x.com/2TllmeRyLa",
+              "end": 47,
+              "expanded_url": "https://x.com/Hayate_ROGO/status/1860475525153849491/photo/1",
+              "media_key": "3_1860475511748853760",
+              "start": 24,
+              "url": "https://t.co/2TllmeRyLa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860475525153849491",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 5982,
+          "like_count": 273,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "過去絵：結束バンド\n\n #ぼっち・ざ・ろっく！ https://t.co/2TllmeRyLa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 132,
+          "like_count": 5087,
+          "listed_count": 0,
+          "tweet_count": 740
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-14T07:56:58.000Z",
+        "description": "絵上手くなる/練習多め/Apple Pencil故障中/ぼっち・ざ・ろっく!/メディア欄をご覧下さい/無断転載禁止❌",
+        "id": "1393112340342579202",
+        "location": "ぼっち・ざ・ろっく！",
+        "name": "颯",
+        "pinned_tweet_id": "1787262518051942450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855263468552933376/5JWv2Znf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1322,
+          "following_count": 742,
+          "like_count": 57351,
+          "listed_count": 6,
+          "tweet_count": 2201
+        },
+        "username": "Hayate_ROGO",
+        "verified": false
+      }
+    ]
+  }
+}

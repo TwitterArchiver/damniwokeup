@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876823777914306561"
+      ],
+      "media_source_tweet_id": [
+        "1876823852178632879"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1877004810022490479",
+    "created_at": "2025-01-08T14:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T15:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877004810022490479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1584375940196536326",
+          "start": 3,
+          "username": "baku_mbu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zrk3cce4cR",
+          "end": 37,
+          "expanded_url": "https://x.com/baku_mbu/status/1876823852178632879/photo/1",
+          "media_key": "3_1876823777914306561",
+          "start": 14,
+          "url": "https://t.co/Zrk3cce4cR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877004810022490479",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 362
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876823852178632879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baku_mbu: https://t.co/Zrk3cce4cR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1876823777914306561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgvRSDyWwAEcGi8.jpg",
+        "width": 2346
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876823777914306561"
+          ],
+          "media_source_tweet_id": [
+            "1876823852178632879"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1877004810022490479",
+        "created_at": "2025-01-08T14:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T15:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877004810022490479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1584375940196536326",
+              "start": 3,
+              "username": "baku_mbu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zrk3cce4cR",
+              "end": 37,
+              "expanded_url": "https://x.com/baku_mbu/status/1876823852178632879/photo/1",
+              "media_key": "3_1876823777914306561",
+              "start": 14,
+              "url": "https://t.co/Zrk3cce4cR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877004810022490479",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 362
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876823852178632879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baku_mbu: https://t.co/Zrk3cce4cR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876823777914306561"
+          ]
+        },
+        "author_id": "1584375940196536326",
+        "conversation_id": "1876823852178632879",
+        "created_at": "2025-01-08T02:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T03:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876823852178632879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zrk3cce4cR",
+              "end": 23,
+              "expanded_url": "https://x.com/baku_mbu/status/1876823852178632879/photo/1",
+              "media_key": "3_1876823777914306561",
+              "start": 0,
+              "url": "https://t.co/Zrk3cce4cR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876823852178632879",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 250,
+          "impression_count": 21324,
+          "like_count": 2759,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 362
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Zrk3cce4cR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 151,
+          "like_count": 6608,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1299
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-24T02:47:22.000Z",
+        "description": "18\n\nenjoy experimenting with different techniques \n\ncomms closed\n\nemail: bakumbu17@gmail.com \n\ndon't use images without credits or edit them\n\n🥤",
+        "id": "1584375940196536326",
+        "name": "baku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876417771942109184/aKNRdN3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8607,
+          "following_count": 2085,
+          "like_count": 38644,
+          "listed_count": 27,
+          "media_count": 975,
+          "tweet_count": 6669
+        },
+        "username": "baku_mbu",
+        "verified": false
+      }
+    ]
+  }
+}

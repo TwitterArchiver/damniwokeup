@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859863532520734721"
+      ],
+      "media_source_tweet_id": [
+        "1859863535666561215"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1860157043375472898",
+    "created_at": "2024-11-23T03:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T04:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860157043375472898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1788410714190938112",
+          "start": 3,
+          "username": "hamstarrockstar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NWtKJ9PryH",
+          "end": 48,
+          "expanded_url": "https://x.com/hamstarrockstar/status/1859863535666561215/photo/1",
+          "media_key": "3_1859863532520734721",
+          "start": 25,
+          "url": "https://t.co/NWtKJ9PryH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860157043375472898",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 363
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859863535666561215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hamstarrockstar: 보키타 https://t.co/NWtKJ9PryH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1859863532520734721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc-QB2KaAAE62go.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859863532520734721"
+          ],
+          "media_source_tweet_id": [
+            "1859863535666561215"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1860157043375472898",
+        "created_at": "2024-11-23T03:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T04:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860157043375472898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1788410714190938112",
+              "start": 3,
+              "username": "hamstarrockstar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NWtKJ9PryH",
+              "end": 48,
+              "expanded_url": "https://x.com/hamstarrockstar/status/1859863535666561215/photo/1",
+              "media_key": "3_1859863532520734721",
+              "start": 25,
+              "url": "https://t.co/NWtKJ9PryH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860157043375472898",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 363
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859863535666561215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hamstarrockstar: 보키타 https://t.co/NWtKJ9PryH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859863532520734721"
+          ]
+        },
+        "author_id": "1788410714190938112",
+        "conversation_id": "1859863535666561215",
+        "created_at": "2024-11-22T07:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T08:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859863535666561215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NWtKJ9PryH",
+              "end": 27,
+              "expanded_url": "https://x.com/hamstarrockstar/status/1859863535666561215/photo/1",
+              "media_key": "3_1859863532520734721",
+              "start": 4,
+              "url": "https://t.co/NWtKJ9PryH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859863535666561215",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 26505,
+          "like_count": 2606,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 363
+        },
+        "reply_settings": "everyone",
+        "text": "보키타 https://t.co/NWtKJ9PryH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 130,
+          "like_count": 5015,
+          "listed_count": 0,
+          "tweet_count": 697
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T03:28:44.000Z",
+        "description": "commission\nhttps://t.co/ppeniBPr5n",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kre.pe/OWUZ",
+                "end": 34,
+                "expanded_url": "https://kre.pe/OWUZ",
+                "start": 11,
+                "url": "https://t.co/ppeniBPr5n"
+              }
+            ]
+          }
+        },
+        "id": "1788410714190938112",
+        "name": "햄락",
+        "pinned_tweet_id": "1857808632471236834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845810506021629952/wpkMo-5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 49,
+          "like_count": 1989,
+          "listed_count": 4,
+          "tweet_count": 745
+        },
+        "username": "hamstarrockstar",
+        "verified": false
+      }
+    ]
+  }
+}

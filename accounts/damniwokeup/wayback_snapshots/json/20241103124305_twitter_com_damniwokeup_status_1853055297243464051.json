@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1852887864654376960"
+      ],
+      "media_source_tweet_id": [
+        "1852887902575063500"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1853055297243464051",
+    "created_at": "2024-11-03T12:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T13:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853055297243464051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1821004052395913219",
+          "start": 3,
+          "username": "0__11Xx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wewvapy45U",
+          "end": 45,
+          "expanded_url": "https://x.com/0__11Xx/status/1852887902575063500/photo/1",
+          "media_key": "3_1852887864654376960",
+          "start": 22,
+          "url": "https://t.co/wewvapy45U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853055297243464051",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852887902575063500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0__11Xx: 絶望シンドローム https://t.co/wewvapy45U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1852887864654376960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbbHsiVbMAAxFQj.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852887864654376960"
+          ],
+          "media_source_tweet_id": [
+            "1852887902575063500"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1853055297243464051",
+        "created_at": "2024-11-03T12:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T13:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853055297243464051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1821004052395913219",
+              "start": 3,
+              "username": "0__11Xx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wewvapy45U",
+              "end": 45,
+              "expanded_url": "https://x.com/0__11Xx/status/1852887902575063500/photo/1",
+              "media_key": "3_1852887864654376960",
+              "start": 22,
+              "url": "https://t.co/wewvapy45U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853055297243464051",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852887902575063500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0__11Xx: 絶望シンドローム https://t.co/wewvapy45U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852887864654376960"
+          ]
+        },
+        "author_id": "1821004052395913219",
+        "conversation_id": "1852887902575063500",
+        "created_at": "2024-11-03T01:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T02:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852887902575063500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wewvapy45U",
+              "end": 32,
+              "expanded_url": "https://x.com/0__11Xx/status/1852887902575063500/photo/1",
+              "media_key": "3_1852887864654376960",
+              "start": 9,
+              "url": "https://t.co/wewvapy45U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852887902575063500",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 10038,
+          "like_count": 1048,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "絶望シンドローム https://t.co/wewvapy45U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847962644852162560/UJMfw11t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 122,
+          "like_count": 4572,
+          "listed_count": 0,
+          "tweet_count": 497
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T02:03:05.000Z",
+        "description": "夢と現実の狭間で空想に耽る",
+        "id": "1821004052395913219",
+        "location": "Gen AI.",
+        "name": "夢鬱つ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849034032463622144/17nfV682_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6076,
+          "following_count": 12,
+          "like_count": 88,
+          "listed_count": 44,
+          "tweet_count": 116
+        },
+        "username": "0__11Xx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867983616795660288"
+      ],
+      "media_source_tweet_id": [
+        "1867983621426131380"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1868147341104119851",
+    "created_at": "2024-12-15T04:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T05:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868147341104119851"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "frieren",
+          "probability": 0.4498,
+          "start": 13,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "390635737",
+          "start": 3,
+          "username": "yueko__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wq2pNFJ7Dc",
+          "end": 54,
+          "expanded_url": "https://x.com/yueko__/status/1867983621426131380/photo/1",
+          "media_key": "3_1867983616795660288",
+          "start": 31,
+          "url": "https://t.co/Wq2pNFJ7Dc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868147341104119851",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1008
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867983621426131380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yueko__: frieren for sure! https://t.co/Wq2pNFJ7Dc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1867983616795660288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GexpM9Va0AAmG2H.jpg",
+        "width": 954
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867983616795660288"
+          ],
+          "media_source_tweet_id": [
+            "1867983621426131380"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1868147341104119851",
+        "created_at": "2024-12-15T04:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T05:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868147341104119851"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "frieren",
+              "probability": 0.4498,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "390635737",
+              "start": 3,
+              "username": "yueko__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wq2pNFJ7Dc",
+              "end": 54,
+              "expanded_url": "https://x.com/yueko__/status/1867983621426131380/photo/1",
+              "media_key": "3_1867983616795660288",
+              "start": 31,
+              "url": "https://t.co/Wq2pNFJ7Dc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868147341104119851",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1008
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867983621426131380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yueko__: frieren for sure! https://t.co/Wq2pNFJ7Dc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867983616795660288"
+          ]
+        },
+        "author_id": "390635737",
+        "conversation_id": "1867983621426131380",
+        "created_at": "2024-12-14T17:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T18:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867983621426131380"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "frieren",
+              "probability": 0.4122,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wq2pNFJ7Dc",
+              "end": 41,
+              "expanded_url": "https://x.com/yueko__/status/1867983621426131380/photo/1",
+              "media_key": "3_1867983616795660288",
+              "start": 18,
+              "url": "https://t.co/Wq2pNFJ7Dc"
+            },
+            {
+              "display_url": "x.com/vonixskulls/st…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/vonixskulls/status/1737686737600516459",
+              "start": 42,
+              "url": "https://t.co/IplvIBG1cB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867983621426131380",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 840,
+          "impression_count": 175530,
+          "like_count": 10249,
+          "quote_count": 7,
+          "reply_count": 13,
+          "retweet_count": 1008
+        },
+        "referenced_tweets": [
+          {
+            "id": "1737686737600516459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "frieren for sure! https://t.co/Wq2pNFJ7Dc https://t.co/IplvIBG1cB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 146,
+          "like_count": 5989,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1073
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-14T08:54:13.000Z",
+        "description": "yueko / illustrator \nshop: https://t.co/XBJbytxSOF\nstream: https://t.co/byezsjcsra \nemail: yueko.art@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shop.yueko.com",
+                "end": 50,
+                "expanded_url": "http://www.shop.yueko.com",
+                "start": 27,
+                "url": "https://t.co/XBJbytxSOF"
+              },
+              {
+                "display_url": "twitch.tv/yueko",
+                "end": 82,
+                "expanded_url": "http://twitch.tv/yueko",
+                "start": 59,
+                "url": "https://t.co/byezsjcsra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yueko.com",
+                "end": 23,
+                "expanded_url": "https://www.yueko.com/",
+                "start": 0,
+                "url": "https://t.co/TRsEnFVjTt"
+              }
+            ]
+          }
+        },
+        "id": "390635737",
+        "name": "yue",
+        "pinned_tweet_id": "1732222723219509664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612989726340022272/qOdzPrVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345402,
+          "following_count": 1407,
+          "like_count": 34431,
+          "listed_count": 2642,
+          "media_count": 603,
+          "tweet_count": 5309
+        },
+        "url": "https://t.co/TRsEnFVjTt",
+        "username": "yueko__",
+        "verified": true
+      }
+    ]
+  }
+}

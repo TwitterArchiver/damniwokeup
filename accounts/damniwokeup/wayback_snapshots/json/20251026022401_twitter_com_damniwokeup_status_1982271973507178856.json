@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982026592139272192"
+      ],
+      "media_source_tweet_id": [
+        "1982026619058577892"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1982271973507178856",
+    "created_at": "2025-10-26T02:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T03:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982271973507178856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2177042852",
+          "start": 3,
+          "username": "KyeZzzz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TJafgodmJ6",
+          "end": 36,
+          "expanded_url": "https://x.com/KyeZzzz/status/1982026619058577892/photo/1",
+          "media_key": "3_1982026592139272192",
+          "start": 13,
+          "url": "https://t.co/TJafgodmJ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982271973507178856",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1785
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982026619058577892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KyeZzzz: https://t.co/TJafgodmJ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1982026592139272192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4GSry_W4AAG8DN.jpg",
+        "width": 2252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982026592139272192"
+          ],
+          "media_source_tweet_id": [
+            "1982026619058577892"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1982271973507178856",
+        "created_at": "2025-10-26T02:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T03:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982271973507178856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2177042852",
+              "start": 3,
+              "username": "KyeZzzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TJafgodmJ6",
+              "end": 36,
+              "expanded_url": "https://x.com/KyeZzzz/status/1982026619058577892/photo/1",
+              "media_key": "3_1982026592139272192",
+              "start": 13,
+              "url": "https://t.co/TJafgodmJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982271973507178856",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1785
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982026619058577892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KyeZzzz: https://t.co/TJafgodmJ6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982026592139272192"
+          ]
+        },
+        "author_id": "2177042852",
+        "conversation_id": "1982026619058577892",
+        "created_at": "2025-10-25T10:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T11:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982026619058577892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TJafgodmJ6",
+              "end": 23,
+              "expanded_url": "https://x.com/KyeZzzz/status/1982026619058577892/photo/1",
+              "media_key": "3_1982026592139272192",
+              "start": 0,
+              "url": "https://t.co/TJafgodmJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982026619058577892",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1266,
+          "impression_count": 139101,
+          "like_count": 18796,
+          "quote_count": 12,
+          "reply_count": 17,
+          "retweet_count": 1785
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TJafgodmJ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Phoenix, AZ",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 140,
+          "like_count": 6984,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1264
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-06T00:10:59.000Z",
+        "description": "DM for Commission! https://t.co/nZJ3NR1ktl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/kyezzzz",
+                "end": 42,
+                "expanded_url": "https://www.twitch.tv/kyezzzz",
+                "start": 19,
+                "url": "https://t.co/nZJ3NR1ktl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inprnt.com/gallery/kyezzz/",
+                "end": 23,
+                "expanded_url": "https://inprnt.com/gallery/kyezzz/",
+                "start": 0,
+                "url": "https://t.co/qMa1OxUTTi"
+              }
+            ]
+          }
+        },
+        "id": "2177042852",
+        "location": "n/a",
+        "name": "k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978842809642745858/PwtIJuso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94129,
+          "following_count": 1515,
+          "like_count": 29286,
+          "listed_count": 311,
+          "media_count": 1679,
+          "tweet_count": 9226
+        },
+        "url": "https://t.co/qMa1OxUTTi",
+        "username": "KyeZzzz",
+        "verified": false
+      }
+    ]
+  }
+}

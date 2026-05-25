@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1854949031866515458"
+      ],
+      "media_source_tweet_id": [
+        "1855188586267578626"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1855492522812018975",
+    "created_at": "2024-11-10T06:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T07:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855492522812018975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1178489828263858176",
+          "start": 3,
+          "username": "oxxsexxto"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Bz0CnolWo",
+          "end": 42,
+          "expanded_url": "https://x.com/oxxsexxto/status/1855188586267578626/photo/1",
+          "media_key": "3_1854949031866515458",
+          "start": 19,
+          "url": "https://t.co/2Bz0CnolWo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855492522812018975",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 248
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855188586267578626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oxxsexxto: 星の墓 https://t.co/2Bz0CnolWo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_1854949031866515458",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gb4aUQjbwAIGnv_.jpg",
+        "width": 1768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854949031866515458"
+          ],
+          "media_source_tweet_id": [
+            "1855188586267578626"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1855492522812018975",
+        "created_at": "2024-11-10T06:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T07:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855492522812018975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1178489828263858176",
+              "start": 3,
+              "username": "oxxsexxto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Bz0CnolWo",
+              "end": 42,
+              "expanded_url": "https://x.com/oxxsexxto/status/1855188586267578626/photo/1",
+              "media_key": "3_1854949031866515458",
+              "start": 19,
+              "url": "https://t.co/2Bz0CnolWo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855492522812018975",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 248
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855188586267578626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oxxsexxto: 星の墓 https://t.co/2Bz0CnolWo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854949031866515458"
+          ]
+        },
+        "author_id": "1178489828263858176",
+        "conversation_id": "1855188586267578626",
+        "created_at": "2024-11-09T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855188586267578626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Bz0CnolWo",
+              "end": 27,
+              "expanded_url": "https://x.com/oxxsexxto/status/1855188586267578626/photo/1",
+              "media_key": "3_1854949031866515458",
+              "start": 4,
+              "url": "https://t.co/2Bz0CnolWo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855188586267578626",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 24168,
+          "like_count": 1948,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 248
+        },
+        "reply_settings": "everyone",
+        "text": "星の墓 https://t.co/2Bz0CnolWo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 126,
+          "like_count": 4781,
+          "listed_count": 0,
+          "tweet_count": 577
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-30T02:00:52.000Z",
+        "description": "◆絵◆土日更新◆ ご依頼はこちらから▶︎ https://t.co/WJKdYPac0s",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/50Ts8",
+                "end": 44,
+                "expanded_url": "https://x.gd/50Ts8",
+                "start": 21,
+                "url": "https://t.co/WJKdYPac0s"
+              }
+            ]
+          }
+        },
+        "id": "1178489828263858176",
+        "location": "◆2025年3月中頃〜納期のご依頼から受付可能です",
+        "name": "おせと",
+        "pinned_tweet_id": "1814601140497211631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486352124745498626/_JOehOVN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38850,
+          "following_count": 137,
+          "like_count": 1829,
+          "listed_count": 442,
+          "tweet_count": 1794
+        },
+        "username": "oxxsexxto",
+        "verified": true
+      }
+    ]
+  }
+}

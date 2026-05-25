@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1854842896190783489",
+        "3_1854842896186589190",
+        "3_1854842896123674624",
+        "3_1854842896140451841"
+      ],
+      "media_source_tweet_id": [
+        "1854842966231417077",
+        "1854842966231417077",
+        "1854842966231417077",
+        "1854842966231417077"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1854923555785654779",
+    "created_at": "2024-11-08T16:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T17:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854923555785654779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1456476433275322368",
+          "start": 3,
+          "username": "NAKA_u_MA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aO5ooIeftF",
+          "end": 41,
+          "expanded_url": "https://x.com/NAKA_u_MA/status/1854842966231417077/photo/1",
+          "media_key": "16_1854842896190783489",
+          "start": 18,
+          "url": "https://t.co/aO5ooIeftF"
+        },
+        {
+          "display_url": "pic.x.com/aO5ooIeftF",
+          "end": 41,
+          "expanded_url": "https://x.com/NAKA_u_MA/status/1854842966231417077/photo/1",
+          "media_key": "3_1854842896186589190",
+          "start": 18,
+          "url": "https://t.co/aO5ooIeftF"
+        },
+        {
+          "display_url": "pic.x.com/aO5ooIeftF",
+          "end": 41,
+          "expanded_url": "https://x.com/NAKA_u_MA/status/1854842966231417077/photo/1",
+          "media_key": "3_1854842896123674624",
+          "start": 18,
+          "url": "https://t.co/aO5ooIeftF"
+        },
+        {
+          "display_url": "pic.x.com/aO5ooIeftF",
+          "end": 41,
+          "expanded_url": "https://x.com/NAKA_u_MA/status/1854842966231417077/photo/1",
+          "media_key": "3_1854842896140451841",
+          "start": 18,
+          "url": "https://t.co/aO5ooIeftF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854923555785654779",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7293
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854842966231417077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NAKA_u_MA: 💐✨ https://t.co/aO5ooIeftF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "16_1854842896190783489",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gb25yWWbwAEufEh.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gb25yWWbwAEufEh.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1854842896186589190",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gb25yWVbwAYdj1N.jpg",
+        "width": 2304
+      },
+      {
+        "height": 3500,
+        "media_key": "3_1854842896123674624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gb25yWGbwAAuGwq.jpg",
+        "width": 2303
+      },
+      {
+        "height": 3500,
+        "media_key": "3_1854842896140451841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gb25yWKbwAEdtwP.jpg",
+        "width": 2303
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1854842896190783489",
+            "3_1854842896186589190",
+            "3_1854842896123674624",
+            "3_1854842896140451841"
+          ],
+          "media_source_tweet_id": [
+            "1854842966231417077",
+            "1854842966231417077",
+            "1854842966231417077",
+            "1854842966231417077"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1854923555785654779",
+        "created_at": "2024-11-08T16:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T17:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854923555785654779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1456476433275322368",
+              "start": 3,
+              "username": "NAKA_u_MA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aO5ooIeftF",
+              "end": 41,
+              "expanded_url": "https://x.com/NAKA_u_MA/status/1854842966231417077/photo/1",
+              "media_key": "16_1854842896190783489",
+              "start": 18,
+              "url": "https://t.co/aO5ooIeftF"
+            },
+            {
+              "display_url": "pic.x.com/aO5ooIeftF",
+              "end": 41,
+              "expanded_url": "https://x.com/NAKA_u_MA/status/1854842966231417077/photo/1",
+              "media_key": "3_1854842896186589190",
+              "start": 18,
+              "url": "https://t.co/aO5ooIeftF"
+            },
+            {
+              "display_url": "pic.x.com/aO5ooIeftF",
+              "end": 41,
+              "expanded_url": "https://x.com/NAKA_u_MA/status/1854842966231417077/photo/1",
+              "media_key": "3_1854842896123674624",
+              "start": 18,
+              "url": "https://t.co/aO5ooIeftF"
+            },
+            {
+              "display_url": "pic.x.com/aO5ooIeftF",
+              "end": 41,
+              "expanded_url": "https://x.com/NAKA_u_MA/status/1854842966231417077/photo/1",
+              "media_key": "3_1854842896140451841",
+              "start": 18,
+              "url": "https://t.co/aO5ooIeftF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854923555785654779",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7293
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854842966231417077",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NAKA_u_MA: 💐✨ https://t.co/aO5ooIeftF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1854842896190783489",
+            "3_1854842896186589190",
+            "3_1854842896123674624",
+            "3_1854842896140451841"
+          ]
+        },
+        "author_id": "1456476433275322368",
+        "conversation_id": "1854842966231417077",
+        "created_at": "2024-11-08T11:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T12:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854842966231417077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aO5ooIeftF",
+              "end": 26,
+              "expanded_url": "https://x.com/NAKA_u_MA/status/1854842966231417077/photo/1",
+              "media_key": "16_1854842896190783489",
+              "start": 3,
+              "url": "https://t.co/aO5ooIeftF"
+            },
+            {
+              "display_url": "pic.x.com/aO5ooIeftF",
+              "end": 26,
+              "expanded_url": "https://x.com/NAKA_u_MA/status/1854842966231417077/photo/1",
+              "media_key": "3_1854842896186589190",
+              "start": 3,
+              "url": "https://t.co/aO5ooIeftF"
+            },
+            {
+              "display_url": "pic.x.com/aO5ooIeftF",
+              "end": 26,
+              "expanded_url": "https://x.com/NAKA_u_MA/status/1854842966231417077/photo/1",
+              "media_key": "3_1854842896123674624",
+              "start": 3,
+              "url": "https://t.co/aO5ooIeftF"
+            },
+            {
+              "display_url": "pic.x.com/aO5ooIeftF",
+              "end": 26,
+              "expanded_url": "https://x.com/NAKA_u_MA/status/1854842966231417077/photo/1",
+              "media_key": "3_1854842896140451841",
+              "start": 3,
+              "url": "https://t.co/aO5ooIeftF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854842966231417077",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4362,
+          "impression_count": 476251,
+          "like_count": 33638,
+          "quote_count": 192,
+          "reply_count": 33,
+          "retweet_count": 7293
+        },
+        "reply_settings": "everyone",
+        "text": "💐✨ https://t.co/aO5ooIeftF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 126,
+          "like_count": 4754,
+          "listed_count": 0,
+          "tweet_count": 564
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-05T04:20:31.000Z",
+        "description": "illustration | 万年修行中 | Instagram▶︎ https://t.co/UeHJpRIeoe | Bluesky▶︎ https://t.co/529epdpkDu | pixiv▶︎ https://t.co/JAxveS1XRi | works▶︎MVイラスト(https://t.co/XB12VttXyQ)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/XHDtc",
+                "end": 58,
+                "expanded_url": "https://x.gd/XHDtc",
+                "start": 35,
+                "url": "https://t.co/UeHJpRIeoe"
+              },
+              {
+                "display_url": "x.gd/CIGjc",
+                "end": 94,
+                "expanded_url": "https://x.gd/CIGjc",
+                "start": 71,
+                "url": "https://t.co/529epdpkDu"
+              },
+              {
+                "display_url": "x.gd/Q7BDA",
+                "end": 128,
+                "expanded_url": "https://x.gd/Q7BDA",
+                "start": 105,
+                "url": "https://t.co/JAxveS1XRi"
+              },
+              {
+                "display_url": "x.gd/TLd2r",
+                "end": 168,
+                "expanded_url": "https://x.gd/TLd2r",
+                "start": 145,
+                "url": "https://t.co/XB12VttXyQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/nakauma",
+                "end": 23,
+                "expanded_url": "https://potofu.me/nakauma",
+                "start": 0,
+                "url": "https://t.co/dvXY7MYl3B"
+              }
+            ]
+          }
+        },
+        "id": "1456476433275322368",
+        "location": "▼お仕事のご連絡は下記HPをご覧ください",
+        "name": "なかゥま/NAKAuMA",
+        "pinned_tweet_id": "1854842966231417077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755221325319446528/tZvwfYP__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33099,
+          "following_count": 210,
+          "like_count": 3496,
+          "listed_count": 210,
+          "tweet_count": 2348
+        },
+        "url": "https://t.co/dvXY7MYl3B",
+        "username": "NAKA_u_MA",
+        "verified": false
+      }
+    ]
+  }
+}

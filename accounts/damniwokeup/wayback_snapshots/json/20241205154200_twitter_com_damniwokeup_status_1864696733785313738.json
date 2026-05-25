@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864671050157707269"
+      ],
+      "media_source_tweet_id": [
+        "1864671099805683909"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1864696733785313738",
+    "created_at": "2024-12-05T15:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T16:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864696733785313738"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "ガルクラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1134278190510161920",
+          "start": 3,
+          "username": "YDPFALION"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S3nv8hLeuL",
+          "end": 52,
+          "expanded_url": "https://x.com/YDPFALION/status/1864671099805683909/photo/1",
+          "media_key": "3_1864671050157707269",
+          "start": 29,
+          "url": "https://t.co/S3nv8hLeuL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864696733785313738",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 218
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864671099805683909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YDPFALION: #ガルクラ \nバンド練の後 https://t.co/S3nv8hLeuL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1728,
+        "media_key": "3_1864671050157707269",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeCkcM-a0AUZCH2.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864671050157707269"
+          ],
+          "media_source_tweet_id": [
+            "1864671099805683909"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1864696733785313738",
+        "created_at": "2024-12-05T15:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T16:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864696733785313738"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "ガルクラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1134278190510161920",
+              "start": 3,
+              "username": "YDPFALION"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S3nv8hLeuL",
+              "end": 52,
+              "expanded_url": "https://x.com/YDPFALION/status/1864671099805683909/photo/1",
+              "media_key": "3_1864671050157707269",
+              "start": 29,
+              "url": "https://t.co/S3nv8hLeuL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864696733785313738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 218
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864671099805683909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YDPFALION: #ガルクラ \nバンド練の後 https://t.co/S3nv8hLeuL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864671050157707269"
+          ]
+        },
+        "author_id": "1134278190510161920",
+        "conversation_id": "1864671099805683909",
+        "created_at": "2024-12-05T14:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T15:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864671099805683909"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ガルクラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S3nv8hLeuL",
+              "end": 37,
+              "expanded_url": "https://x.com/YDPFALION/status/1864671099805683909/photo/1",
+              "media_key": "3_1864671050157707269",
+              "start": 14,
+              "url": "https://t.co/S3nv8hLeuL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864671099805683909",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 10164,
+          "like_count": 1008,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 218
+        },
+        "reply_settings": "everyone",
+        "text": "#ガルクラ \nバンド練の後 https://t.co/S3nv8hLeuL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 144,
+          "like_count": 5617,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 931
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-31T01:59:29.000Z",
+        "description": "GBCすき！キノすき!東方すき!二次元美少女すき!描くわ!\n【图没有特殊说明可自存自用👌，但禁止🚫未经我授权擅自转载甚至大量打印制品、商用等且不署名我，谢谢】\n约稿请来b站或米画师联系我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/21390329",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/21390329",
+                "start": 0,
+                "url": "https://t.co/e6Ccd1wl8M"
+              }
+            ]
+          }
+        },
+        "id": "1134278190510161920",
+        "location": "中国",
+        "name": "YDPFa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832421133666414597/L4MAZiEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10871,
+          "following_count": 727,
+          "like_count": 6877,
+          "listed_count": 45,
+          "media_count": 300,
+          "tweet_count": 422
+        },
+        "url": "https://t.co/e6Ccd1wl8M",
+        "username": "YDPFALION",
+        "verified": false
+      }
+    ]
+  }
+}

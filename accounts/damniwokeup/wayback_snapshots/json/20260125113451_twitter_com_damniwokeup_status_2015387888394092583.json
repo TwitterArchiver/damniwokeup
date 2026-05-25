@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015116834744274944"
+      ],
+      "media_source_tweet_id": [
+        "2015116840687509882"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "2015387888394092583",
+    "created_at": "2026-01-25T11:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T12:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015387888394092583"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "ghg"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1949508774521085952",
+          "start": 3,
+          "username": "heitaodaily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iRih7EJjxr",
+          "end": 45,
+          "expanded_url": "https://x.com/heitaodaily/status/2015116840687509882/photo/1",
+          "media_key": "3_2015116834744274944",
+          "start": 22,
+          "url": "https://t.co/iRih7EJjxr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015387888394092583",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 254
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015116840687509882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @heitaodaily: #ghg https://t.co/iRih7EJjxr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1499,
+        "media_key": "3_2015116834744274944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ciFavXkAAEY9J.jpg",
+        "width": 998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015116834744274944"
+          ],
+          "media_source_tweet_id": [
+            "2015116840687509882"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "2015387888394092583",
+        "created_at": "2026-01-25T11:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T12:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015387888394092583"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "ghg"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1949508774521085952",
+              "start": 3,
+              "username": "heitaodaily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iRih7EJjxr",
+              "end": 45,
+              "expanded_url": "https://x.com/heitaodaily/status/2015116840687509882/photo/1",
+              "media_key": "3_2015116834744274944",
+              "start": 22,
+              "url": "https://t.co/iRih7EJjxr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015387888394092583",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 254
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015116840687509882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @heitaodaily: #ghg https://t.co/iRih7EJjxr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015116834744274944"
+          ]
+        },
+        "author_id": "1949508774521085952",
+        "conversation_id": "2015116840687509882",
+        "created_at": "2026-01-24T17:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T18:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015116840687509882"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "ghg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iRih7EJjxr",
+              "end": 28,
+              "expanded_url": "https://x.com/heitaodaily/status/2015116840687509882/photo/1",
+              "media_key": "3_2015116834744274944",
+              "start": 5,
+              "url": "https://t.co/iRih7EJjxr"
+            },
+            {
+              "display_url": "x.com/solisolsoli/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/solisolsoli/status/2012902801672728824",
+              "start": 29,
+              "url": "https://t.co/RAjmkPxh0g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015116840687509882",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 240,
+          "impression_count": 16727,
+          "like_count": 1063,
+          "quote_count": 16,
+          "reply_count": 7,
+          "retweet_count": 254
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012902801672728824",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#ghg https://t.co/iRih7EJjxr https://t.co/RAjmkPxh0g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Phoenix, AZ",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 149,
+          "like_count": 7075,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1304
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T16:35:14.000Z",
+        "description": "",
+        "id": "1949508774521085952",
+        "name": "spades impregnator2000 🦎♠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978165499906125825/eKzLhqwC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 31,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 146
+        },
+        "username": "heitaodaily",
+        "verified": false
+      }
+    ]
+  }
+}

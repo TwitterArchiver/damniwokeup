@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868611958448300032"
+      ],
+      "media_source_tweet_id": [
+        "1868612021291507970"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1868656869922980189",
+    "created_at": "2024-12-16T13:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T14:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868656869922980189"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "士剣"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "鞘剣"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1564107000585129985",
+          "start": 3,
+          "username": "Blue_Phoenixofb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ejgHNfu91D",
+          "end": 86,
+          "expanded_url": "https://x.com/Blue_Phoenixofb/status/1868612021291507970/photo/1",
+          "media_key": "3_1868611958448300032",
+          "start": 63,
+          "url": "https://t.co/ejgHNfu91D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868656869922980189",
+    "lang": "et",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868612021291507970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Blue_Phoenixofb: ShirouSaber  Last Episode\nFateルート #士剣 #鞘剣 https://t.co/ejgHNfu91D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1868611958448300032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge6krQZboAAkyip.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868611958448300032"
+          ],
+          "media_source_tweet_id": [
+            "1868612021291507970"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1868656869922980189",
+        "created_at": "2024-12-16T13:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T14:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868656869922980189"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "士剣"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "鞘剣"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1564107000585129985",
+              "start": 3,
+              "username": "Blue_Phoenixofb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ejgHNfu91D",
+              "end": 86,
+              "expanded_url": "https://x.com/Blue_Phoenixofb/status/1868612021291507970/photo/1",
+              "media_key": "3_1868611958448300032",
+              "start": 63,
+              "url": "https://t.co/ejgHNfu91D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868656869922980189",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868612021291507970",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Blue_Phoenixofb: ShirouSaber  Last Episode\nFateルート #士剣 #鞘剣 https://t.co/ejgHNfu91D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868611958448300032"
+          ]
+        },
+        "author_id": "1564107000585129985",
+        "conversation_id": "1868612021291507970",
+        "created_at": "2024-12-16T10:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T11:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868612021291507970"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "士剣"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "鞘剣"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ejgHNfu91D",
+              "end": 65,
+              "expanded_url": "https://x.com/Blue_Phoenixofb/status/1868612021291507970/photo/1",
+              "media_key": "3_1868611958448300032",
+              "start": 42,
+              "url": "https://t.co/ejgHNfu91D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868612021291507970",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 1806,
+          "like_count": 227,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "ShirouSaber  Last Episode\nFateルート #士剣 #鞘剣 https://t.co/ejgHNfu91D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 145,
+          "like_count": 6100,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1115
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-29T04:26:16.000Z",
+        "description": "I talk about a lot things\nLove making edits\nWanna make good contents\nLet's be friends\n#FGO #TYPEMOON #ARKNIGHTS #WutheringWaves #Anime #Games",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 86,
+                "tag": "FGO"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "tag": "TYPEMOON"
+              },
+              {
+                "end": 111,
+                "start": 101,
+                "tag": "ARKNIGHTS"
+              },
+              {
+                "end": 127,
+                "start": 112,
+                "tag": "WutheringWaves"
+              },
+              {
+                "end": 134,
+                "start": 128,
+                "tag": "Anime"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "Games"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ObserversFrom…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@ObserversFromBeyond?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/NuxeS0XE2W"
+              }
+            ]
+          }
+        },
+        "id": "1564107000585129985",
+        "location": "Mother Earth",
+        "name": "Observers from Beyond",
+        "pinned_tweet_id": "1861473656972644747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850236652498927616/8wltOL_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1818,
+          "following_count": 1977,
+          "like_count": 71777,
+          "listed_count": 7,
+          "media_count": 3681,
+          "tweet_count": 38953
+        },
+        "url": "https://t.co/NuxeS0XE2W",
+        "username": "Blue_Phoenixofb",
+        "verified": false
+      }
+    ]
+  }
+}

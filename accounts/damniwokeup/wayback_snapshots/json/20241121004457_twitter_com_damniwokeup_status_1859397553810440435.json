@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1859283550128001024"
+      ],
+      "media_source_tweet_id": [
+        "1859283561439953230"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1859397553810440435",
+    "created_at": "2024-11-21T00:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T01:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859397553810440435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1839841420439629826",
+          "start": 3,
+          "username": "echidna_kobo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bvtNVN2wce",
+          "end": 41,
+          "expanded_url": "https://x.com/echidna_kobo/status/1859283561439953230/photo/1",
+          "media_key": "16_1859283550128001024",
+          "start": 18,
+          "url": "https://t.co/bvtNVN2wce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859397553810440435",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 721
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859283561439953230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @echidna_kobo: https://t.co/bvtNVN2wce"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1684,
+        "media_key": "16_1859283550128001024",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gc2AibYbUAApmMV.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gc2AibYbUAApmMV.mp4"
+          }
+        ],
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1859283550128001024"
+          ],
+          "media_source_tweet_id": [
+            "1859283561439953230"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1859397553810440435",
+        "created_at": "2024-11-21T00:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T01:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859397553810440435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1839841420439629826",
+              "start": 3,
+              "username": "echidna_kobo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvtNVN2wce",
+              "end": 41,
+              "expanded_url": "https://x.com/echidna_kobo/status/1859283561439953230/photo/1",
+              "media_key": "16_1859283550128001024",
+              "start": 18,
+              "url": "https://t.co/bvtNVN2wce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859397553810440435",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 721
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859283561439953230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @echidna_kobo: https://t.co/bvtNVN2wce"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1859283550128001024"
+          ]
+        },
+        "author_id": "1839841420439629826",
+        "conversation_id": "1859283561439953230",
+        "created_at": "2024-11-20T17:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T18:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859283561439953230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvtNVN2wce",
+              "end": 23,
+              "expanded_url": "https://x.com/echidna_kobo/status/1859283561439953230/photo/1",
+              "media_key": "16_1859283550128001024",
+              "start": 0,
+              "url": "https://t.co/bvtNVN2wce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859283561439953230",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 586,
+          "impression_count": 45294,
+          "like_count": 4376,
+          "quote_count": 9,
+          "reply_count": 6,
+          "retweet_count": 721
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bvtNVN2wce"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 128,
+          "like_count": 4970,
+          "listed_count": 0,
+          "tweet_count": 680
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T01:36:48.000Z",
+        "description": "https://t.co/2Z5wPE1cLt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/echidna_kobo2",
+                "end": 23,
+                "expanded_url": "https://x.com/echidna_kobo2",
+                "start": 0,
+                "url": "https://t.co/2Z5wPE1cLt"
+              }
+            ]
+          }
+        },
+        "id": "1839841420439629826",
+        "name": "えきどな",
+        "pinned_tweet_id": "1839940580442550777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839937300266106880/N3hhhYfY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 4,
+          "tweet_count": 13
+        },
+        "username": "echidna_kobo",
+        "verified": false
+      }
+    ]
+  }
+}

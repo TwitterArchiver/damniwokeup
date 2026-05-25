@@ -1,0 +1,538 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861088926167187456"
+      ],
+      "media_source_tweet_id": [
+        "1861088962116493368"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1861334532378763412",
+    "created_at": "2024-11-26T09:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T10:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861334532378763412"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 54,
+          "normalized_text": "chainsawman",
+          "probability": 0.4761,
+          "start": 44,
+          "type": "Other"
+        },
+        {
+          "end": 71,
+          "normalized_text": "mitaka",
+          "probability": 0.3936,
+          "start": 66,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 43,
+          "tag": "chainsawman"
+        },
+        {
+          "end": 64,
+          "start": 56,
+          "tag": "チェンソーマン"
+        },
+        {
+          "end": 72,
+          "start": 65,
+          "tag": "mitaka"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1096311736196509696",
+          "start": 3,
+          "username": "kumah_dessu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8TNWymtE5f",
+          "end": 96,
+          "expanded_url": "https://x.com/kumah_dessu/status/1861088962116493368/photo/1",
+          "media_key": "3_1861088926167187456",
+          "start": 73,
+          "url": "https://t.co/8TNWymtE5f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861334532378763412",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 369
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861088962116493368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kumah_dessu: For a moment, it was real #chainsawman #チェンソーマン #mitaka https://t.co/8TNWymtE5f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 971,
+        "media_key": "3_1861088926167187456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdPqhJObwAAEBSs.jpg",
+        "width": 2346
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861088926167187456"
+          ],
+          "media_source_tweet_id": [
+            "1861088962116493368"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1861334532378763412",
+        "created_at": "2024-11-26T09:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T10:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861334532378763412"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "chainsawman",
+              "probability": 0.4761,
+              "start": 44,
+              "type": "Other"
+            },
+            {
+              "end": 71,
+              "normalized_text": "mitaka",
+              "probability": 0.3936,
+              "start": 66,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 43,
+              "tag": "chainsawman"
+            },
+            {
+              "end": 64,
+              "start": 56,
+              "tag": "チェンソーマン"
+            },
+            {
+              "end": 72,
+              "start": 65,
+              "tag": "mitaka"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1096311736196509696",
+              "start": 3,
+              "username": "kumah_dessu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8TNWymtE5f",
+              "end": 96,
+              "expanded_url": "https://x.com/kumah_dessu/status/1861088962116493368/photo/1",
+              "media_key": "3_1861088926167187456",
+              "start": 73,
+              "url": "https://t.co/8TNWymtE5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861334532378763412",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 369
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861088962116493368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kumah_dessu: For a moment, it was real #chainsawman #チェンソーマン #mitaka https://t.co/8TNWymtE5f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861088926167187456"
+          ]
+        },
+        "author_id": "1096311736196509696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1861088962116493368",
+        "created_at": "2024-11-25T16:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T17:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861088962116493368"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "chainsawman",
+              "probability": 0.4431,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 54,
+              "normalized_text": "mitaka",
+              "probability": 0.404,
+              "start": 49,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 26,
+              "tag": "chainsawman"
+            },
+            {
+              "end": 47,
+              "start": 39,
+              "tag": "チェンソーマン"
+            },
+            {
+              "end": 55,
+              "start": 48,
+              "tag": "mitaka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8TNWymtE5f",
+              "end": 79,
+              "expanded_url": "https://x.com/kumah_dessu/status/1861088962116493368/photo/1",
+              "media_key": "3_1861088926167187456",
+              "start": 56,
+              "url": "https://t.co/8TNWymtE5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861088962116493368",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 296,
+          "impression_count": 33139,
+          "like_count": 2924,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 369
+        },
+        "reply_settings": "everyone",
+        "text": "For a moment, it was real #chainsawman #チェンソーマン #mitaka https://t.co/8TNWymtE5f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 132,
+          "like_count": 5149,
+          "listed_count": 0,
+          "tweet_count": 763
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-15T07:34:21.000Z",
+        "description": "i luv csm girls/freelance illust 💙 https://t.co/YdHeN4uJmy…\n❌Dont repost or edit this w/o permission \n✉:kumahdessu@gmail.com\nhttps://t.co/X2f6fkBiax",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/43909",
+                "end": 58,
+                "expanded_url": "http://pixiv.net/en/users/43909",
+                "start": 35,
+                "url": "https://t.co/YdHeN4uJmy"
+              },
+              {
+                "display_url": "vgen.co/Kumahdessu",
+                "end": 148,
+                "expanded_url": "https://vgen.co/Kumahdessu",
+                "start": 125,
+                "url": "https://t.co/X2f6fkBiax"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kumahdessu.carrd.co",
+                "end": 23,
+                "expanded_url": "https://kumahdessu.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/OhsDwCOmn3"
+              }
+            ]
+          }
+        },
+        "id": "1096311736196509696",
+        "location": "【Commission open】",
+        "name": "KUMAH🧸 VGen COMMISSION OPEN",
+        "pinned_tweet_id": "1811275828543590556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861089423557042180/3OfZJRK4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18713,
+          "following_count": 3301,
+          "like_count": 20582,
+          "listed_count": 164,
+          "tweet_count": 2714
+        },
+        "url": "https://t.co/OhsDwCOmn3",
+        "username": "kumah_dessu",
+        "verified": false
+      }
+    ]
+  }
+}

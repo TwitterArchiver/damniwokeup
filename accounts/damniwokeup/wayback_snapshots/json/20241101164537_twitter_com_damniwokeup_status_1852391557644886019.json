@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1852262345445150746",
+    "created_at": "2024-11-01T16:45:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T17:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852391557644886019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1786771245750755328",
+          "start": 0,
+          "username": "Atropine_SuAn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852391557644886019",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852262345445150746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Atropine_SuAn 我下班了倒是想赶紧离开办公室一分钟也不愿意逗留"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1852262345445150746",
+        "created_at": "2024-11-01T16:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T17:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852391557644886019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Atropine_SuAn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852391557644886019",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852262345445150746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Atropine_SuAn 我下班了倒是想赶紧离开办公室一分钟也不愿意逗留"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "1852262345445150746",
+        "created_at": "2024-11-01T08:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T09:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852262345445150746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1852262345445150746",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么就周五下午了。。这地方明天就没有我的容身之所了我又得回家了 然后家长也回家了😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847962644852162560/UJMfw11t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 122,
+          "like_count": 4487,
+          "listed_count": 0,
+          "tweet_count": 469
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/双相 焦虑 强迫 服药中…/不登校/日本留学考试备考中/无门槛 不缺钱 不加墙内联系方式 请大家和我互关吧！",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1804878356229525510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845524119770800128/c10vN9jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 102,
+          "like_count": 174,
+          "listed_count": 0,
+          "tweet_count": 814
+        },
+        "username": "Atropine_SuAn",
+        "verified": false
+      }
+    ]
+  }
+}

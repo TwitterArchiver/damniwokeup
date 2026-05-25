@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861078716811812864"
+      ],
+      "media_source_tweet_id": [
+        "1861171253437927758"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1861290105790701947",
+    "created_at": "2024-11-26T06:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T07:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861290105790701947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2766725377",
+          "start": 3,
+          "username": "748cm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/padwzGnWpT",
+          "end": 39,
+          "expanded_url": "https://x.com/748cm/status/1861171253437927758/photo/1",
+          "media_key": "3_1861078716811812864",
+          "start": 16,
+          "url": "https://t.co/padwzGnWpT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861290105790701947",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861171253437927758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @748cm: よあけ。 https://t.co/padwzGnWpT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1861078716811812864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdPhO4aboAAXK_1.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861078716811812864"
+          ],
+          "media_source_tweet_id": [
+            "1861171253437927758"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1861290105790701947",
+        "created_at": "2024-11-26T06:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T07:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861290105790701947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2766725377",
+              "start": 3,
+              "username": "748cm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/padwzGnWpT",
+              "end": 39,
+              "expanded_url": "https://x.com/748cm/status/1861171253437927758/photo/1",
+              "media_key": "3_1861078716811812864",
+              "start": 16,
+              "url": "https://t.co/padwzGnWpT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861290105790701947",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861171253437927758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @748cm: よあけ。 https://t.co/padwzGnWpT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861078716811812864"
+          ]
+        },
+        "author_id": "2766725377",
+        "conversation_id": "1861171253437927758",
+        "created_at": "2024-11-25T22:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T23:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861171253437927758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/padwzGnWpT",
+              "end": 28,
+              "expanded_url": "https://x.com/748cm/status/1861171253437927758/photo/1",
+              "media_key": "3_1861078716811812864",
+              "start": 5,
+              "url": "https://t.co/padwzGnWpT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861171253437927758",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 8318,
+          "like_count": 341,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "よあけ。 https://t.co/padwzGnWpT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 132,
+          "like_count": 5143,
+          "listed_count": 0,
+          "tweet_count": 757
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-25T15:18:15.000Z",
+        "description": "Malice🎀| 鬱 x エモ / AI illustration / 君の吐く耳障りのいい言葉は嘘ばっかりで。 / 依頼はDMで🧸🔪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Malice",
+                "end": 23,
+                "expanded_url": "https://lit.link/Malice",
+                "start": 0,
+                "url": "https://t.co/NjAwFj5laW"
+              }
+            ]
+          }
+        },
+        "id": "2766725377",
+        "location": "Created by \"AI\" 100%",
+        "name": "惡意",
+        "pinned_tweet_id": "1838896301263528294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721901431568138240/QnROGByH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93047,
+          "following_count": 237,
+          "like_count": 15090,
+          "listed_count": 457,
+          "tweet_count": 10355
+        },
+        "url": "https://t.co/NjAwFj5laW",
+        "username": "748cm",
+        "verified": true
+      }
+    ]
+  }
+}

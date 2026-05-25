@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1854921905540927840",
+    "created_at": "2024-11-08T16:20:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T17:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854921905540927840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1732732999903358976",
+          "start": 3,
+          "username": "R4INC4NDYU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854921905540927840",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1472
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854509619588026817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R4INC4NDYU: but i love you more than i hate living"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1854921905540927840",
+        "created_at": "2024-11-08T16:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T17:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854921905540927840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1732732999903358976",
+              "start": 3,
+              "username": "R4INC4NDYU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854921905540927840",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1472
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854509619588026817",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @R4INC4NDYU: but i love you more than i hate living"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732732999903358976",
+        "conversation_id": "1854509619588026817",
+        "created_at": "2024-11-07T13:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T14:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854509619588026817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854509619588026817",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 373,
+          "impression_count": 71165,
+          "like_count": 3584,
+          "quote_count": 70,
+          "reply_count": 8,
+          "retweet_count": 1472
+        },
+        "reply_settings": "everyone",
+        "text": "but i love you more than i hate living"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 126,
+          "like_count": 4752,
+          "listed_count": 0,
+          "tweet_count": 563
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T12:05:31.000Z",
+        "description": "feel like dying except when i'm with my favorite / aren't you at fault for sniffing me? ꒰ᐢ. .ᐢ꒱ ⑅ᐢ..ᐢ₎ ♡.°₊ˎˊ˗",
+        "id": "1732732999903358976",
+        "location": "i ♡ my favorite ",
+        "name": "˚‧⁺༝꒰ა ໒꒱ིྀ༝⁺‧˚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776600940507783168/TM4oHaCT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26113,
+          "following_count": 15,
+          "like_count": 3312,
+          "listed_count": 27,
+          "tweet_count": 3331
+        },
+        "username": "R4INC4NDYU",
+        "verified": false
+      }
+    ]
+  }
+}

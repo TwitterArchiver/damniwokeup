@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868364627895369728",
+        "3_1868366308330602496"
+      ],
+      "media_source_tweet_id": [
+        "1868366500689817848",
+        "1868366500689817848"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1868582079245713769",
+    "created_at": "2024-12-16T09:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T10:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868582079245713769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1623592767564976135",
+          "start": 3,
+          "username": "DABlN_HL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FtuHxRpOsx",
+          "end": 42,
+          "expanded_url": "https://x.com/DABlN_HL/status/1868366500689817848/photo/1",
+          "media_key": "3_1868364627895369728",
+          "start": 19,
+          "url": "https://t.co/FtuHxRpOsx"
+        },
+        {
+          "display_url": "pic.x.com/FtuHxRpOsx",
+          "end": 42,
+          "expanded_url": "https://x.com/DABlN_HL/status/1868366500689817848/photo/1",
+          "media_key": "3_1868366308330602496",
+          "start": 19,
+          "url": "https://t.co/FtuHxRpOsx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868582079245713769",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 280
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868366500689817848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @DABlN_HL: ㅎㅁㅍㄹ https://t.co/FtuHxRpOsx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2444,
+        "media_key": "3_1868364627895369728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge3DuuSbwAATY6r.jpg",
+        "width": 1798
+      },
+      {
+        "height": 2391,
+        "media_key": "3_1868366308330602496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge3FQiZagAAIjQh.jpg",
+        "width": 2747
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868364627895369728",
+            "3_1868366308330602496"
+          ],
+          "media_source_tweet_id": [
+            "1868366500689817848",
+            "1868366500689817848"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1868582079245713769",
+        "created_at": "2024-12-16T09:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T10:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868582079245713769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1623592767564976135",
+              "start": 3,
+              "username": "DABlN_HL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FtuHxRpOsx",
+              "end": 42,
+              "expanded_url": "https://x.com/DABlN_HL/status/1868366500689817848/photo/1",
+              "media_key": "3_1868364627895369728",
+              "start": 19,
+              "url": "https://t.co/FtuHxRpOsx"
+            },
+            {
+              "display_url": "pic.x.com/FtuHxRpOsx",
+              "end": 42,
+              "expanded_url": "https://x.com/DABlN_HL/status/1868366500689817848/photo/1",
+              "media_key": "3_1868366308330602496",
+              "start": 19,
+              "url": "https://t.co/FtuHxRpOsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868582079245713769",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 280
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868366500689817848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @DABlN_HL: ㅎㅁㅍㄹ https://t.co/FtuHxRpOsx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868364627895369728",
+            "3_1868366308330602496"
+          ]
+        },
+        "author_id": "1623592767564976135",
+        "conversation_id": "1868366500689817848",
+        "created_at": "2024-12-15T18:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T19:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868366500689817848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FtuHxRpOsx",
+              "end": 28,
+              "expanded_url": "https://x.com/DABlN_HL/status/1868366500689817848/photo/1",
+              "media_key": "3_1868364627895369728",
+              "start": 5,
+              "url": "https://t.co/FtuHxRpOsx"
+            },
+            {
+              "display_url": "pic.x.com/FtuHxRpOsx",
+              "end": 28,
+              "expanded_url": "https://x.com/DABlN_HL/status/1868366500689817848/photo/1",
+              "media_key": "3_1868366308330602496",
+              "start": 5,
+              "url": "https://t.co/FtuHxRpOsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868366500689817848",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 23960,
+          "like_count": 1800,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 280
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "ㅎㅁㅍㄹ https://t.co/FtuHxRpOsx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 145,
+          "like_count": 6065,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1106
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-09T08:01:09.000Z",
+        "description": "🕯",
+        "id": "1623592767564976135",
+        "name": "다빈",
+        "pinned_tweet_id": "1812056135060672884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810642924763557888/jAC2Uorv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41051,
+          "following_count": 4,
+          "like_count": 852,
+          "listed_count": 99,
+          "media_count": 357,
+          "tweet_count": 745
+        },
+        "username": "DABlN_HL",
+        "verified": false
+      }
+    ]
+  }
+}

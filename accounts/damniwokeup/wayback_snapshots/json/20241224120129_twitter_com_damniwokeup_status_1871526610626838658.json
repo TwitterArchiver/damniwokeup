@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871446083723030528",
+        "3_1871446083551002625",
+        "3_1871446083538419712"
+      ],
+      "media_source_tweet_id": [
+        "1871446090362540082",
+        "1871446090362540082",
+        "1871446090362540082"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1871526610626838658",
+    "created_at": "2024-12-24T12:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T13:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871526610626838658"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 13,
+          "tag": "ガールズバンドクライ"
+        },
+        {
+          "end": 38,
+          "start": 25,
+          "tag": "GirlsBandCry"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1082862022453121024",
+          "start": 3,
+          "username": "Yumuto5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6NN7zPOvMh",
+          "end": 71,
+          "expanded_url": "https://x.com/Yumuto5/status/1871446090362540082/photo/1",
+          "media_key": "3_1871446083723030528",
+          "start": 48,
+          "url": "https://t.co/6NN7zPOvMh"
+        },
+        {
+          "display_url": "pic.x.com/6NN7zPOvMh",
+          "end": 71,
+          "expanded_url": "https://x.com/Yumuto5/status/1871446090362540082/photo/1",
+          "media_key": "3_1871446083551002625",
+          "start": 48,
+          "url": "https://t.co/6NN7zPOvMh"
+        },
+        {
+          "display_url": "pic.x.com/6NN7zPOvMh",
+          "end": 71,
+          "expanded_url": "https://x.com/Yumuto5/status/1871446090362540082/photo/1",
+          "media_key": "3_1871446083538419712",
+          "start": 48,
+          "url": "https://t.co/6NN7zPOvMh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871526610626838658",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 193
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871446090362540082",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yumuto5: #ガールズバンドクライ #GirlsBandCry \n(*´I`*) https://t.co/6NN7zPOvMh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1193,
+        "media_key": "3_1871446083723030528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gfi2TDybcAAHMu5.jpg",
+        "width": 961
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1871446083551002625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gfi2TDJagAEI5fw.jpg",
+        "width": 1242
+      },
+      {
+        "height": 717,
+        "media_key": "3_1871446083538419712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gfi2TDGagAAiizc.jpg",
+        "width": 681
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871446083723030528",
+            "3_1871446083551002625",
+            "3_1871446083538419712"
+          ],
+          "media_source_tweet_id": [
+            "1871446090362540082",
+            "1871446090362540082",
+            "1871446090362540082"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1871526610626838658",
+        "created_at": "2024-12-24T12:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T13:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871526610626838658"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 13,
+              "tag": "ガールズバンドクライ"
+            },
+            {
+              "end": 38,
+              "start": 25,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1082862022453121024",
+              "start": 3,
+              "username": "Yumuto5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6NN7zPOvMh",
+              "end": 71,
+              "expanded_url": "https://x.com/Yumuto5/status/1871446090362540082/photo/1",
+              "media_key": "3_1871446083723030528",
+              "start": 48,
+              "url": "https://t.co/6NN7zPOvMh"
+            },
+            {
+              "display_url": "pic.x.com/6NN7zPOvMh",
+              "end": 71,
+              "expanded_url": "https://x.com/Yumuto5/status/1871446090362540082/photo/1",
+              "media_key": "3_1871446083551002625",
+              "start": 48,
+              "url": "https://t.co/6NN7zPOvMh"
+            },
+            {
+              "display_url": "pic.x.com/6NN7zPOvMh",
+              "end": 71,
+              "expanded_url": "https://x.com/Yumuto5/status/1871446090362540082/photo/1",
+              "media_key": "3_1871446083538419712",
+              "start": 48,
+              "url": "https://t.co/6NN7zPOvMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871526610626838658",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 193
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871446090362540082",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yumuto5: #ガールズバンドクライ #GirlsBandCry \n(*´I`*) https://t.co/6NN7zPOvMh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871446083723030528",
+            "3_1871446083551002625",
+            "3_1871446083538419712"
+          ]
+        },
+        "author_id": "1082862022453121024",
+        "conversation_id": "1871446090362540082",
+        "created_at": "2024-12-24T06:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T07:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871446090362540082"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "ガールズバンドクライ"
+            },
+            {
+              "end": 25,
+              "start": 12,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6NN7zPOvMh",
+              "end": 58,
+              "expanded_url": "https://x.com/Yumuto5/status/1871446090362540082/photo/1",
+              "media_key": "3_1871446083723030528",
+              "start": 35,
+              "url": "https://t.co/6NN7zPOvMh"
+            },
+            {
+              "display_url": "pic.x.com/6NN7zPOvMh",
+              "end": 58,
+              "expanded_url": "https://x.com/Yumuto5/status/1871446090362540082/photo/1",
+              "media_key": "3_1871446083551002625",
+              "start": 35,
+              "url": "https://t.co/6NN7zPOvMh"
+            },
+            {
+              "display_url": "pic.x.com/6NN7zPOvMh",
+              "end": 58,
+              "expanded_url": "https://x.com/Yumuto5/status/1871446090362540082/photo/1",
+              "media_key": "3_1871446083538419712",
+              "start": 35,
+              "url": "https://t.co/6NN7zPOvMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871446090362540082",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 15559,
+          "like_count": 1147,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 193
+        },
+        "reply_settings": "everyone",
+        "text": "#ガールズバンドクライ #GirlsBandCry \n(*´I`*) https://t.co/6NN7zPOvMh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 148,
+          "like_count": 6303,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1187
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-09T04:49:59.000Z",
+        "description": "⭐星詠み⭐  ガルクラ🎵「中国語注意」",
+        "id": "1082862022453121024",
+        "name": "Yumuto",
+        "pinned_tweet_id": "1807276895039357189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868855173529190404/nIiPl5Aa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11337,
+          "following_count": 761,
+          "like_count": 2816,
+          "listed_count": 90,
+          "media_count": 130,
+          "tweet_count": 1115
+        },
+        "username": "Yumuto5",
+        "verified": false
+      }
+    ]
+  }
+}

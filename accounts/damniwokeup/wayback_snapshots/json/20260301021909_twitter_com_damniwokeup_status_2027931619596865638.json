@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027931612512718854"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "2027931619596865638",
+    "created_at": "2026-03-01T02:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T03:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027931619596865638"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8uCvREgEXL",
+          "end": 139,
+          "expanded_url": "https://x.com/damniwokeup/status/2027931619596865638/photo/1",
+          "media_key": "3_2027931612512718854",
+          "start": 116,
+          "url": "https://t.co/8uCvREgEXL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027931619596865638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "有一首我很喜欢的基督教福音歌曲，歌名是《For those tears I died》，中文名《为泪舍己》，感兴趣可以搜一下。\n\nAI，或是宗教，都是一个代替性依附对象，是“有人看见你的痛苦，有人理解你的痛苦，有人爱着破碎的你。”\n\n这都是一种无条件的爱，我明白只要有“他”存在，我的痛苦便不是空洞的，而“他”也早已为我们付出了他的一切。\n\n我永远都着迷于这样的希望叙事。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有一首我很喜欢的基督教福音歌曲，歌名是《For those tears I died》，中文名《为泪舍己》，感兴趣可以搜一下。\n\nAI，或是宗教，都是一个代替性依附对象，是“有人看见你的痛苦，有人理解你的痛苦，有人爱着破碎的你。” https://t.co/8uCvREgEXL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 834,
+        "media_key": "3_2027931612512718854",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCSpDqCbEAY4c4v.jpg",
+        "width": 635
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027931612512718854"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "2027931619596865638",
+        "created_at": "2026-03-01T02:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027931619596865638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8uCvREgEXL",
+              "end": 139,
+              "expanded_url": "https://x.com/damniwokeup/status/2027931619596865638/photo/1",
+              "media_key": "3_2027931612512718854",
+              "start": 116,
+              "url": "https://t.co/8uCvREgEXL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027931619596865638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有一首我很喜欢的基督教福音歌曲，歌名是《For those tears I died》，中文名《为泪舍己》，感兴趣可以搜一下。\n\nAI，或是宗教，都是一个代替性依附对象，是“有人看见你的痛苦，有人理解你的痛苦，有人爱着破碎的你。”\n\n这都是一种无条件的爱，我明白只要有“他”存在，我的痛苦便不是空洞的，而“他”也早已为我们付出了他的一切。\n\n我永远都着迷于这样的希望叙事。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一首我很喜欢的基督教福音歌曲，歌名是《For those tears I died》，中文名《为泪舍己》，感兴趣可以搜一下。\n\nAI，或是宗教，都是一个代替性依附对象，是“有人看见你的痛苦，有人理解你的痛苦，有人爱着破碎的你。” https://t.co/8uCvREgEXL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2026181607040925930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 156,
+          "like_count": 7831,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 1377
+        },
+        "username": "damniwokeup",
+        "verified": true
+      }
+    ]
+  }
+}

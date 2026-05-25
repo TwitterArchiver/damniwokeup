@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1886412475660468224"
+      ],
+      "media_source_tweet_id": [
+        "1886412553863168333"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1886811102434222190",
+    "created_at": "2025-02-04T16:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T17:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886811102434222190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1515546527141347329",
+          "start": 3,
+          "username": "otaku_meme_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GeV28Coyon",
+          "end": 69,
+          "expanded_url": "https://x.com/otaku_meme_/status/1886412553863168333/photo/1",
+          "media_key": "16_1886412475660468224",
+          "start": 46,
+          "url": "https://t.co/GeV28Coyon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886811102434222190",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3827
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886412553863168333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @otaku_meme_: 잘 만든 애니 캐릭터는 어느 각도에서 봐도 일정하다 https://t.co/GeV28Coyon"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 266,
+        "media_key": "16_1886412475660468224",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gi3iJuebgAAkbUg.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gi3iJuebgAAkbUg.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1886412475660468224"
+          ],
+          "media_source_tweet_id": [
+            "1886412553863168333"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1886811102434222190",
+        "created_at": "2025-02-04T16:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T17:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886811102434222190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1515546527141347329",
+              "start": 3,
+              "username": "otaku_meme_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GeV28Coyon",
+              "end": 69,
+              "expanded_url": "https://x.com/otaku_meme_/status/1886412553863168333/photo/1",
+              "media_key": "16_1886412475660468224",
+              "start": 46,
+              "url": "https://t.co/GeV28Coyon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886811102434222190",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3827
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886412553863168333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @otaku_meme_: 잘 만든 애니 캐릭터는 어느 각도에서 봐도 일정하다 https://t.co/GeV28Coyon"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1886412475660468224"
+          ]
+        },
+        "author_id": "1515546527141347329",
+        "conversation_id": "1886412553863168333",
+        "created_at": "2025-02-03T13:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T14:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886412553863168333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GeV28Coyon",
+              "end": 52,
+              "expanded_url": "https://x.com/otaku_meme_/status/1886412553863168333/photo/1",
+              "media_key": "16_1886412475660468224",
+              "start": 29,
+              "url": "https://t.co/GeV28Coyon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886412553863168333",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2617,
+          "impression_count": 656401,
+          "like_count": 22728,
+          "quote_count": 416,
+          "reply_count": 0,
+          "retweet_count": 3827
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "잘 만든 애니 캐릭터는 어느 각도에서 봐도 일정하다 https://t.co/GeV28Coyon"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 151,
+          "like_count": 6828,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1315
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-17T04:24:34.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.kakao.com/o/sfaSNt1f",
+                "end": 23,
+                "expanded_url": "https://open.kakao.com/o/sfaSNt1f",
+                "start": 0,
+                "url": "https://t.co/YMdDXW23Qz"
+              }
+            ]
+          }
+        },
+        "id": "1515546527141347329",
+        "location": "삭제요청 / 문의 / 제보 오픈카톡",
+        "name": "오타쿠 밈",
+        "pinned_tweet_id": "1716039818348785681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515547093108097032/rUX2PaCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53684,
+          "following_count": 0,
+          "like_count": 29,
+          "listed_count": 76,
+          "media_count": 1013,
+          "tweet_count": 1041
+        },
+        "url": "https://t.co/YMdDXW23Qz",
+        "username": "otaku_meme_",
+        "verified": false
+      }
+    ]
+  }
+}

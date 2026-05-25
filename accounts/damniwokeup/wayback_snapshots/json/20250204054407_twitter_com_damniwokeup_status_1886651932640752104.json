@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886046752731435008"
+      ],
+      "media_source_tweet_id": [
+        "1886141287205659052"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1886651932640752104",
+    "created_at": "2025-02-04T05:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T06:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886651932640752104"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "kronillust",
+          "probability": 0.6829,
+          "start": 36,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 35,
+          "tag": "kronillust"
+        },
+        {
+          "end": 53,
+          "start": 47,
+          "tag": "クロニーラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1062840948542054401",
+          "start": 3,
+          "username": "Drowzzi_boi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EWHOfMbOru",
+          "end": 77,
+          "expanded_url": "https://x.com/Drowzzi_boi/status/1886141287205659052/photo/1",
+          "media_key": "3_1886046752731435008",
+          "start": 54,
+          "url": "https://t.co/EWHOfMbOru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886651932640752104",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1046
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886141287205659052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Drowzzi_boi: year of the snake #kronillust #クロニーラ https://t.co/EWHOfMbOru"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2310,
+        "media_key": "3_1886046752731435008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiyVh2ZWEAA_jJN.jpg",
+        "width": 1634
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886046752731435008"
+          ],
+          "media_source_tweet_id": [
+            "1886141287205659052"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1886651932640752104",
+        "created_at": "2025-02-04T05:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T06:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886651932640752104"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "kronillust",
+              "probability": 0.6829,
+              "start": 36,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 35,
+              "tag": "kronillust"
+            },
+            {
+              "end": 53,
+              "start": 47,
+              "tag": "クロニーラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1062840948542054401",
+              "start": 3,
+              "username": "Drowzzi_boi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EWHOfMbOru",
+              "end": 77,
+              "expanded_url": "https://x.com/Drowzzi_boi/status/1886141287205659052/photo/1",
+              "media_key": "3_1886046752731435008",
+              "start": 54,
+              "url": "https://t.co/EWHOfMbOru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886651932640752104",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1046
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886141287205659052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Drowzzi_boi: year of the snake #kronillust #クロニーラ https://t.co/EWHOfMbOru"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886046752731435008"
+          ]
+        },
+        "author_id": "1062840948542054401",
+        "conversation_id": "1886141287205659052",
+        "created_at": "2025-02-02T19:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T20:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886141287205659052"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "kronillust",
+              "probability": 0.6544,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 18,
+              "tag": "kronillust"
+            },
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "クロニーラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EWHOfMbOru",
+              "end": 60,
+              "expanded_url": "https://x.com/Drowzzi_boi/status/1886141287205659052/photo/1",
+              "media_key": "3_1886046752731435008",
+              "start": 37,
+              "url": "https://t.co/EWHOfMbOru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886141287205659052",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 713,
+          "impression_count": 113309,
+          "like_count": 9822,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1046
+        },
+        "reply_settings": "everyone",
+        "text": "year of the snake #kronillust #クロニーラ https://t.co/EWHOfMbOru"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 151,
+          "like_count": 6804,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1309
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-14T22:53:23.000Z",
+        "description": "Illustrator + Concept Artist |\nCM info: https://t.co/2eXVueIl3Z |\nPatreon: https://t.co/ATPgyG7i4o |\n✉  drowzzicontact@gmail.com |",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "drowzzi.wixsite.com/commission",
+                "end": 63,
+                "expanded_url": "https://drowzzi.wixsite.com/commission",
+                "start": 40,
+                "url": "https://t.co/2eXVueIl3Z"
+              },
+              {
+                "display_url": "patreon.com/drowzzi",
+                "end": 98,
+                "expanded_url": "https://www.patreon.com/drowzzi",
+                "start": 75,
+                "url": "https://t.co/ATPgyG7i4o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Drowzzi",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/Drowzzi",
+                "start": 0,
+                "url": "https://t.co/MX7J25h5og"
+              }
+            ]
+          }
+        },
+        "id": "1062840948542054401",
+        "location": "🇬🇧🇨🇳",
+        "name": "Drowzzi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721629447932063745/g9cDQCnM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14655,
+          "following_count": 894,
+          "like_count": 61960,
+          "listed_count": 115,
+          "media_count": 236,
+          "tweet_count": 3028
+        },
+        "url": "https://t.co/MX7J25h5og",
+        "username": "Drowzzi_boi",
+        "verified": false
+      }
+    ]
+  }
+}

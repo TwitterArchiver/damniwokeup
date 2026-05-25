@@ -1,0 +1,550 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876635408366456832"
+      ],
+      "media_source_tweet_id": [
+        "1876635414355907036"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1309272406897258496",
+          "name": "Nier: Automata"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1309272406897258496",
+          "name": "Nier: Automata"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899346412994570",
+          "name": "Open world games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "1876789040864784546",
+    "created_at": "2025-01-08T00:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T01:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876789040864784546"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 22,
+          "tag": "NieR"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1163044453470179329",
+          "start": 3,
+          "username": "reiartdayo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o4HLFlhj5B",
+          "end": 51,
+          "expanded_url": "https://x.com/reiartdayo/status/1876635414355907036/photo/1",
+          "media_key": "3_1876635408366456832",
+          "start": 28,
+          "url": "https://t.co/o4HLFlhj5B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876789040864784546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 523
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876635414355907036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @reiartdayo: 2b 再掲\n#NieR https://t.co/o4HLFlhj5B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1876635408366456832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ggsl9giaUAAwyz1.jpg",
+        "width": 1428
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876635408366456832"
+          ],
+          "media_source_tweet_id": [
+            "1876635414355907036"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1309272406897258496",
+              "name": "Nier: Automata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1309272406897258496",
+              "name": "Nier: Automata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899346412994570",
+              "name": "Open world games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1876789040864784546",
+        "created_at": "2025-01-08T00:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T01:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876789040864784546"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "NieR"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1163044453470179329",
+              "start": 3,
+              "username": "reiartdayo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o4HLFlhj5B",
+              "end": 51,
+              "expanded_url": "https://x.com/reiartdayo/status/1876635414355907036/photo/1",
+              "media_key": "3_1876635408366456832",
+              "start": 28,
+              "url": "https://t.co/o4HLFlhj5B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876789040864784546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 523
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876635414355907036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @reiartdayo: 2b 再掲\n#NieR https://t.co/o4HLFlhj5B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876635408366456832"
+          ]
+        },
+        "author_id": "1163044453470179329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1309272406897258496",
+              "name": "Nier: Automata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1309272406897258496",
+              "name": "Nier: Automata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899346412994570",
+              "name": "Open world games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1876635414355907036",
+        "created_at": "2025-01-07T14:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T15:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876635414355907036"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "NieR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o4HLFlhj5B",
+              "end": 35,
+              "expanded_url": "https://x.com/reiartdayo/status/1876635414355907036/photo/1",
+              "media_key": "3_1876635408366456832",
+              "start": 12,
+              "url": "https://t.co/o4HLFlhj5B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876635414355907036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 367,
+          "impression_count": 29353,
+          "like_count": 3594,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 523
+        },
+        "reply_settings": "everyone",
+        "text": "2b 再掲\n#NieR https://t.co/o4HLFlhj5B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 151,
+          "like_count": 6586,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1293
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-18T11:06:29.000Z",
+        "description": "https://t.co/NVSJT7QIXH 【有償依頼】DM or reiartdayo@gmail.com までお願い致します 【欲芋】https://t.co/uB3rKZudHs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@reiart127",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@reiart127",
+                "start": 0,
+                "url": "https://t.co/NVSJT7QIXH"
+              },
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 94,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/IVZ1IZ7H1RSJ?ref_=wl_share",
+                "start": 71,
+                "url": "https://t.co/uB3rKZudHs"
+              }
+            ]
+          }
+        },
+        "id": "1163044453470179329",
+        "name": "れい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573849792521728000/AqIZeMHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5254,
+          "following_count": 155,
+          "like_count": 4778,
+          "listed_count": 37,
+          "media_count": 63,
+          "tweet_count": 328
+        },
+        "username": "reiartdayo",
+        "verified": false
+      }
+    ]
+  }
+}

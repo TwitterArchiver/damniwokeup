@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876951651892015104"
+      ],
+      "media_source_tweet_id": [
+        "1876951657461825609"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1877315389073354761",
+    "created_at": "2025-01-09T11:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T12:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877315389073354761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1785376109032591360",
+          "start": 3,
+          "username": "ikatokai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Arsuq32Kez",
+          "end": 40,
+          "expanded_url": "https://x.com/ikatokai/status/1876951657461825609/photo/1",
+          "media_key": "3_1876951651892015104",
+          "start": 17,
+          "url": "https://t.co/Arsuq32Kez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877315389073354761",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 508
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876951657461825609",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ikatokai: ✴︎ https://t.co/Arsuq32Kez"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1639,
+        "media_key": "3_1876951651892015104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgxFlTebMAAIQPb.jpg",
+        "width": 1829
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876951651892015104"
+          ],
+          "media_source_tweet_id": [
+            "1876951657461825609"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1877315389073354761",
+        "created_at": "2025-01-09T11:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T12:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877315389073354761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1785376109032591360",
+              "start": 3,
+              "username": "ikatokai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Arsuq32Kez",
+              "end": 40,
+              "expanded_url": "https://x.com/ikatokai/status/1876951657461825609/photo/1",
+              "media_key": "3_1876951651892015104",
+              "start": 17,
+              "url": "https://t.co/Arsuq32Kez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877315389073354761",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 508
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876951657461825609",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ikatokai: ✴︎ https://t.co/Arsuq32Kez"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876951651892015104"
+          ]
+        },
+        "author_id": "1785376109032591360",
+        "conversation_id": "1876951657461825609",
+        "created_at": "2025-01-08T11:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T12:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876951657461825609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Arsuq32Kez",
+              "end": 26,
+              "expanded_url": "https://x.com/ikatokai/status/1876951657461825609/photo/1",
+              "media_key": "3_1876951651892015104",
+              "start": 3,
+              "url": "https://t.co/Arsuq32Kez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876951657461825609",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 416,
+          "impression_count": 57609,
+          "like_count": 4700,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 508
+        },
+        "reply_settings": "everyone",
+        "text": "✴︎ https://t.co/Arsuq32Kez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 151,
+          "like_count": 6614,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1303
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T18:30:20.000Z",
+        "description": "惑溺",
+        "id": "1785376109032591360",
+        "name": "🉁:コ三",
+        "pinned_tweet_id": "1876951657461825609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873623154683469824/C1DJW8JT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 69,
+          "like_count": 8903,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 612
+        },
+        "username": "ikatokai",
+        "verified": false
+      }
+    ]
+  }
+}

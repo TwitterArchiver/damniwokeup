@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015153443468423168"
+      ],
+      "media_source_tweet_id": [
+        "2015153449281650866"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "2015388339462193179",
+    "created_at": "2026-01-25T11:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T12:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015388339462193179"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "stsg"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1462098545343971328",
+          "start": 3,
+          "username": "sugurulover23"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X0ORxbkK7r",
+          "end": 48,
+          "expanded_url": "https://x.com/sugurulover23/status/2015153449281650866/photo/1",
+          "media_key": "3_2015153443468423168",
+          "start": 25,
+          "url": "https://t.co/X0ORxbkK7r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015388339462193179",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9496
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015153449281650866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sugurulover23: #stsg https://t.co/X0ORxbkK7r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015153443468423168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_dDYU3XMAA5gRq.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015153443468423168"
+          ],
+          "media_source_tweet_id": [
+            "2015153449281650866"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "2015388339462193179",
+        "created_at": "2026-01-25T11:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T12:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015388339462193179"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "stsg"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1462098545343971328",
+              "start": 3,
+              "username": "sugurulover23"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X0ORxbkK7r",
+              "end": 48,
+              "expanded_url": "https://x.com/sugurulover23/status/2015153449281650866/photo/1",
+              "media_key": "3_2015153443468423168",
+              "start": 25,
+              "url": "https://t.co/X0ORxbkK7r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015388339462193179",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9496
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015153449281650866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sugurulover23: #stsg https://t.co/X0ORxbkK7r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015153443468423168"
+          ]
+        },
+        "author_id": "1462098545343971328",
+        "conversation_id": "2015153449281650866",
+        "created_at": "2026-01-24T20:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T21:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015153449281650866"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "stsg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X0ORxbkK7r",
+              "end": 29,
+              "expanded_url": "https://x.com/sugurulover23/status/2015153449281650866/photo/1",
+              "media_key": "3_2015153443468423168",
+              "start": 6,
+              "url": "https://t.co/X0ORxbkK7r"
+            },
+            {
+              "display_url": "x.com/solisolsoli/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/solisolsoli/status/2012902801672728824",
+              "start": 30,
+              "url": "https://t.co/xaGKa1y9Mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015153449281650866",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3566,
+          "impression_count": 505245,
+          "like_count": 43825,
+          "quote_count": 210,
+          "reply_count": 50,
+          "retweet_count": 9496
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012902801672728824",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#stsg https://t.co/X0ORxbkK7r https://t.co/xaGKa1y9Mi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Phoenix, AZ",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 149,
+          "like_count": 7075,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1305
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T16:40:44.000Z",
+        "description": "Don’t repost my art | ↓ Comms & Prints info",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sugurulover23.carrd.co/#",
+                "end": 23,
+                "expanded_url": "https://sugurulover23.carrd.co/#",
+                "start": 0,
+                "url": "https://t.co/O2Ya9Slb5i"
+              }
+            ]
+          }
+        },
+        "id": "1462098545343971328",
+        "location": "Comm Closed",
+        "name": "kessi",
+        "pinned_tweet_id": "1965038567371178303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999991397814870016/x8pYwqjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6150,
+          "following_count": 145,
+          "like_count": 75444,
+          "listed_count": 23,
+          "media_count": 728,
+          "tweet_count": 17832
+        },
+        "url": "https://t.co/O2Ya9Slb5i",
+        "username": "sugurulover23",
+        "verified": false
+      }
+    ]
+  }
+}

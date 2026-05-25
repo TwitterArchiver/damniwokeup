@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866691094102081537"
+      ],
+      "media_source_tweet_id": [
+        "1866691601239535962"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1866807146253603033",
+    "created_at": "2024-12-11T11:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T12:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866807146253603033"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 14,
+          "tag": "bandoriart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1436801564417613832",
+          "start": 3,
+          "username": "Rookie_9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vWvCaN9N7p",
+          "end": 49,
+          "expanded_url": "https://x.com/Rookie_9/status/1866691601239535962/photo/1",
+          "media_key": "3_1866691094102081537",
+          "start": 26,
+          "url": "https://t.co/vWvCaN9N7p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866807146253603033",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 340
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866691601239535962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rookie_9: #bandoriart https://t.co/vWvCaN9N7p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2236,
+        "media_key": "3_1866691094102081537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GefRqPFXAAEXa9z.jpg",
+        "width": 3491
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866691094102081537"
+          ],
+          "media_source_tweet_id": [
+            "1866691601239535962"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1866807146253603033",
+        "created_at": "2024-12-11T11:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T12:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866807146253603033"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 14,
+              "tag": "bandoriart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1436801564417613832",
+              "start": 3,
+              "username": "Rookie_9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWvCaN9N7p",
+              "end": 49,
+              "expanded_url": "https://x.com/Rookie_9/status/1866691601239535962/photo/1",
+              "media_key": "3_1866691094102081537",
+              "start": 26,
+              "url": "https://t.co/vWvCaN9N7p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866807146253603033",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 340
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866691601239535962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rookie_9: #bandoriart https://t.co/vWvCaN9N7p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866691094102081537"
+          ]
+        },
+        "author_id": "1436801564417613832",
+        "conversation_id": "1866691601239535962",
+        "created_at": "2024-12-11T03:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T04:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866691601239535962"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "bandoriart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWvCaN9N7p",
+              "end": 35,
+              "expanded_url": "https://x.com/Rookie_9/status/1866691601239535962/photo/1",
+              "media_key": "3_1866691094102081537",
+              "start": 12,
+              "url": "https://t.co/vWvCaN9N7p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866691601239535962",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 31987,
+          "like_count": 1634,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 340
+        },
+        "reply_settings": "everyone",
+        "text": "#bandoriart https://t.co/vWvCaN9N7p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 5854,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1031
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-11T21:19:33.000Z",
+        "description": "illust｜College Student ｜ 中文/English ok",
+        "id": "1436801564417613832",
+        "name": "神奇的9君",
+        "pinned_tweet_id": "1709406256715239761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1436848339740499971/JAFJuBxS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89111,
+          "following_count": 2243,
+          "like_count": 4580,
+          "listed_count": 724,
+          "media_count": 176,
+          "tweet_count": 1096
+        },
+        "username": "Rookie_9",
+        "verified": false
+      }
+    ]
+  }
+}

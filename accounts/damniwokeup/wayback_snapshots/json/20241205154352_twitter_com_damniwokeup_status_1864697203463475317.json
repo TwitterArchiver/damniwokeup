@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864338623031857156"
+      ],
+      "media_source_tweet_id": [
+        "1864338627985330533"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1864697203463475317",
+    "created_at": "2024-12-05T15:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T16:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864697203463475317"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 13,
+          "tag": "AveMujica"
+        },
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1775209626709184512",
+          "start": 3,
+          "username": "_lirzz_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r7oDtvqZzZ",
+          "end": 53,
+          "expanded_url": "https://x.com/_lirzz_/status/1864338627985330533/photo/1",
+          "media_key": "3_1864338623031857156",
+          "start": 30,
+          "url": "https://t.co/r7oDtvqZzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864697203463475317",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 812
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864338627985330533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_lirzz_: #AveMujica #MyGO https://t.co/r7oDtvqZzZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1864338623031857156",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd92GZba0AQUQMJ.jpg",
+        "width": 1752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864338623031857156"
+          ],
+          "media_source_tweet_id": [
+            "1864338627985330533"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1864697203463475317",
+        "created_at": "2024-12-05T15:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T16:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864697203463475317"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 13,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1775209626709184512",
+              "start": 3,
+              "username": "_lirzz_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7oDtvqZzZ",
+              "end": 53,
+              "expanded_url": "https://x.com/_lirzz_/status/1864338627985330533/photo/1",
+              "media_key": "3_1864338623031857156",
+              "start": 30,
+              "url": "https://t.co/r7oDtvqZzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864697203463475317",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 812
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864338627985330533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_lirzz_: #AveMujica #MyGO https://t.co/r7oDtvqZzZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864338623031857156"
+          ]
+        },
+        "author_id": "1775209626709184512",
+        "conversation_id": "1864338627985330533",
+        "created_at": "2024-12-04T15:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T16:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864338627985330533"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7oDtvqZzZ",
+              "end": 40,
+              "expanded_url": "https://x.com/_lirzz_/status/1864338627985330533/photo/1",
+              "media_key": "3_1864338623031857156",
+              "start": 17,
+              "url": "https://t.co/r7oDtvqZzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864338627985330533",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 369,
+          "impression_count": 69642,
+          "like_count": 4608,
+          "quote_count": 11,
+          "reply_count": 2,
+          "retweet_count": 812
+        },
+        "reply_settings": "everyone",
+        "text": "#AveMujica #MyGO https://t.co/r7oDtvqZzZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 144,
+          "like_count": 5620,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 933
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T17:13:01.000Z",
+        "description": "アニメゲームの絵 @lrz_sub_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "lrz_sub_"
+              }
+            ]
+          }
+        },
+        "id": "1775209626709184512",
+        "name": "𝙇𝙞𝙧𝙯𝙯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858228933709451265/N0UdVYkZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 12,
+          "like_count": 106,
+          "listed_count": 10,
+          "media_count": 6,
+          "tweet_count": 20
+        },
+        "username": "_lirzz_",
+        "verified": false
+      }
+    ]
+  }
+}

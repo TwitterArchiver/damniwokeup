@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861419148368322567"
+      ],
+      "media_source_tweet_id": [
+        "1861419204387447290"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1861781778442424483",
+    "created_at": "2024-11-27T14:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T15:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861781778442424483"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "ニーナ",
+          "probability": 0.5646,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "ガルクラ"
+        },
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "井芹仁菜"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1344592715191787522",
+          "start": 3,
+          "username": "wano49"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2jFgvJN7re",
+          "end": 56,
+          "expanded_url": "https://x.com/wano49/status/1861419204387447290/photo/1",
+          "media_key": "3_1861419148368322567",
+          "start": 33,
+          "url": "https://t.co/2jFgvJN7re"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861781778442424483",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 639
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861419204387447290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wano49: ニーナかわいい！\n#ガルクラ #井芹仁菜 https://t.co/2jFgvJN7re"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1630,
+        "media_key": "3_1861419148368322567",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdUW2myaoAcR_JC.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861419148368322567"
+          ],
+          "media_source_tweet_id": [
+            "1861419204387447290"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1861781778442424483",
+        "created_at": "2024-11-27T14:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T15:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861781778442424483"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "ニーナ",
+              "probability": 0.5646,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "井芹仁菜"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1344592715191787522",
+              "start": 3,
+              "username": "wano49"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2jFgvJN7re",
+              "end": 56,
+              "expanded_url": "https://x.com/wano49/status/1861419204387447290/photo/1",
+              "media_key": "3_1861419148368322567",
+              "start": 33,
+              "url": "https://t.co/2jFgvJN7re"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861781778442424483",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 639
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861419204387447290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wano49: ニーナかわいい！\n#ガルクラ #井芹仁菜 https://t.co/2jFgvJN7re"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861419148368322567"
+          ]
+        },
+        "author_id": "1344592715191787522",
+        "conversation_id": "1861419204387447290",
+        "created_at": "2024-11-26T14:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T15:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861419204387447290"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "井芹仁菜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2jFgvJN7re",
+              "end": 44,
+              "expanded_url": "https://x.com/wano49/status/1861419204387447290/photo/1",
+              "media_key": "3_1861419148368322567",
+              "start": 21,
+              "url": "https://t.co/2jFgvJN7re"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861419204387447290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 60499,
+          "like_count": 3731,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 639
+        },
+        "reply_settings": "everyone",
+        "text": "ニーナかわいい！\n#ガルクラ #井芹仁菜 https://t.co/2jFgvJN7re"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 133,
+          "like_count": 5199,
+          "listed_count": 0,
+          "tweet_count": 779
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-31T10:34:46.000Z",
+        "description": "お絵描き5年目→退職→漫画描いてます！┊漫画家/Illustrator(28歳)┊KADOKAWA連載中「本物のカノジョにしたくなるまで~」┊ウルジャン第62回奨励賞&読切「あいどるあんどあんどろいど！」┊ 同人サークル:ふたりぼっちのSolitude┊ ※AI学習禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.gd/9hQQA",
+                "end": 23,
+                "expanded_url": "http://x.gd/9hQQA",
+                "start": 0,
+                "url": "https://t.co/XcVUMqrz4k"
+              }
+            ]
+          }
+        },
+        "id": "1344592715191787522",
+        "location": " ✉️▶wano49contact@gmail.com",
+        "name": "𝙬𝙖𝙣𝙤🌟連載中C105月曜東4モ02ab",
+        "pinned_tweet_id": "1816430333073788988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696673169212583936/I85gpqb1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17089,
+          "following_count": 290,
+          "like_count": 9457,
+          "listed_count": 182,
+          "tweet_count": 2485
+        },
+        "url": "https://t.co/XcVUMqrz4k",
+        "username": "wano49",
+        "verified": true
+      }
+    ]
+  }
+}

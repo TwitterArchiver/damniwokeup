@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861682241325408261"
+      ],
+      "media_source_tweet_id": [
+        "1861682246073086367"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1862162551964111321",
+    "created_at": "2024-11-28T15:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T16:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862162551964111321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1758536726526771200",
+          "start": 3,
+          "username": "bananafish1111_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wWbZ5rG2Np",
+          "end": 48,
+          "expanded_url": "https://x.com/bananafish1111_/status/1861682246073086367/photo/1",
+          "media_key": "3_1861682241325408261",
+          "start": 25,
+          "url": "https://t.co/wWbZ5rG2Np"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862162551964111321",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 638
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861682246073086367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bananafish1111_: 大収穫 https://t.co/wWbZ5rG2Np"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1861682241325408261",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdYGIobaoAUnfE7.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861682241325408261"
+          ],
+          "media_source_tweet_id": [
+            "1861682246073086367"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1862162551964111321",
+        "created_at": "2024-11-28T15:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T16:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862162551964111321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1758536726526771200",
+              "start": 3,
+              "username": "bananafish1111_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wWbZ5rG2Np",
+              "end": 48,
+              "expanded_url": "https://x.com/bananafish1111_/status/1861682246073086367/photo/1",
+              "media_key": "3_1861682241325408261",
+              "start": 25,
+              "url": "https://t.co/wWbZ5rG2Np"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862162551964111321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 638
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861682246073086367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bananafish1111_: 大収穫 https://t.co/wWbZ5rG2Np"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861682241325408261"
+          ]
+        },
+        "author_id": "1758536726526771200",
+        "conversation_id": "1861682246073086367",
+        "created_at": "2024-11-27T08:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T09:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861682246073086367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wWbZ5rG2Np",
+              "end": 27,
+              "expanded_url": "https://x.com/bananafish1111_/status/1861682246073086367/photo/1",
+              "media_key": "3_1861682241325408261",
+              "start": 4,
+              "url": "https://t.co/wWbZ5rG2Np"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861682246073086367",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 268,
+          "impression_count": 59881,
+          "like_count": 7372,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 638
+        },
+        "reply_settings": "everyone",
+        "text": "大収穫 https://t.co/wWbZ5rG2Np"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 134,
+          "like_count": 5242,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 803
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T17:00:16.000Z",
+        "description": "お仕事のご連絡はこちら▶bananafish1111a@gmail.com \n実績はこちら▶https://t.co/ldQIZJDtWV【YouTube】▶https://t.co/autCthAMvc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "foriio.com/bananafish1111a",
+                "end": 69,
+                "expanded_url": "http://foriio.com/bananafish1111a",
+                "start": 46,
+                "url": "https://t.co/ldQIZJDtWV"
+              },
+              {
+                "display_url": "youtube.com/channel/UCoEha…",
+                "end": 102,
+                "expanded_url": "https://www.youtube.com/channel/UCoEhaDTTCt2QNyCaVo1l-eA",
+                "start": 79,
+                "url": "https://t.co/autCthAMvc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bananafish1111a.wixsite.com/my-site",
+                "end": 23,
+                "expanded_url": "https://bananafish1111a.wixsite.com/my-site",
+                "start": 0,
+                "url": "https://t.co/BiA8pKC43V"
+              }
+            ]
+          }
+        },
+        "id": "1758536726526771200",
+        "name": "ばななふぃっしゅ",
+        "pinned_tweet_id": "1854463800185073912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816064646937497600/TbUPMtfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27915,
+          "following_count": 87,
+          "like_count": 3495,
+          "listed_count": 113,
+          "media_count": 101,
+          "tweet_count": 400
+        },
+        "url": "https://t.co/BiA8pKC43V",
+        "username": "bananafish1111_",
+        "verified": true
+      }
+    ]
+  }
+}

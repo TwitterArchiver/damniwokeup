@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982184870995484672"
+      ],
+      "media_source_tweet_id": [
+        "1982214839696048278"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1982693845004603799",
+    "created_at": "2025-10-27T06:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T07:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982693845004603799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "934230543352217601",
+          "start": 3,
+          "username": "ksk_nonrotation"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uXTIeUl27H",
+          "end": 44,
+          "expanded_url": "https://x.com/ksk_nonrotation/status/1982214839696048278/photo/1",
+          "media_key": "3_1982184870995484672",
+          "start": 21,
+          "url": "https://t.co/uXTIeUl27H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982693845004603799",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6486
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982214839696048278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ksk_nonrotation: https://t.co/uXTIeUl27H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1601,
+        "media_key": "3_1982184870995484672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Iio1rW4AAeab1.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982184870995484672"
+          ],
+          "media_source_tweet_id": [
+            "1982214839696048278"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1982693845004603799",
+        "created_at": "2025-10-27T06:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T07:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982693845004603799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "934230543352217601",
+              "start": 3,
+              "username": "ksk_nonrotation"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uXTIeUl27H",
+              "end": 44,
+              "expanded_url": "https://x.com/ksk_nonrotation/status/1982214839696048278/photo/1",
+              "media_key": "3_1982184870995484672",
+              "start": 21,
+              "url": "https://t.co/uXTIeUl27H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982693845004603799",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6486
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982214839696048278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ksk_nonrotation: https://t.co/uXTIeUl27H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982184870995484672"
+          ]
+        },
+        "author_id": "934230543352217601",
+        "conversation_id": "1982214839696048278",
+        "created_at": "2025-10-25T22:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T23:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982214839696048278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uXTIeUl27H",
+              "end": 23,
+              "expanded_url": "https://x.com/ksk_nonrotation/status/1982214839696048278/photo/1",
+              "media_key": "3_1982184870995484672",
+              "start": 0,
+              "url": "https://t.co/uXTIeUl27H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982214839696048278",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4337,
+          "impression_count": 1703576,
+          "like_count": 68070,
+          "quote_count": 302,
+          "reply_count": 116,
+          "retweet_count": 6486
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uXTIeUl27H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Phoenix, AZ",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 140,
+          "like_count": 6985,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1265
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-25T01:21:33.000Z",
+        "description": "DMにてネタ募集中📩　採用≫👍不採用≫スタンプ無し",
+        "id": "934230543352217601",
+        "name": "何やってんだお前ェっ‼︎‼︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667054657276088321/e6J4wlHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284009,
+          "following_count": 0,
+          "like_count": 3538,
+          "listed_count": 426,
+          "media_count": 3144,
+          "tweet_count": 3657
+        },
+        "username": "ksk_nonrotation",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860973927595651075"
+      ],
+      "media_source_tweet_id": [
+        "1860973937808793994"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1861211459512086765",
+    "created_at": "2024-11-26T00:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T01:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861211459512086765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1547446101930053632",
+          "start": 3,
+          "username": "nirvana_EX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZVp3lbVcwQ",
+          "end": 42,
+          "expanded_url": "https://x.com/nirvana_EX/status/1860973937808793994/photo/1",
+          "media_key": "3_1860973927595651075",
+          "start": 19,
+          "url": "https://t.co/ZVp3lbVcwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861211459512086765",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1767
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860973937808793994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nirvana_EX: ✴︎ https://t.co/ZVp3lbVcwQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2896,
+        "media_key": "3_1860973927595651075",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdOB7WKaMAMBScA.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860973927595651075"
+          ],
+          "media_source_tweet_id": [
+            "1860973937808793994"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1861211459512086765",
+        "created_at": "2024-11-26T00:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T01:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861211459512086765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547446101930053632",
+              "start": 3,
+              "username": "nirvana_EX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZVp3lbVcwQ",
+              "end": 42,
+              "expanded_url": "https://x.com/nirvana_EX/status/1860973937808793994/photo/1",
+              "media_key": "3_1860973927595651075",
+              "start": 19,
+              "url": "https://t.co/ZVp3lbVcwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861211459512086765",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1767
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860973937808793994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nirvana_EX: ✴︎ https://t.co/ZVp3lbVcwQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860973927595651075"
+          ]
+        },
+        "author_id": "1547446101930053632",
+        "conversation_id": "1860973937808793994",
+        "created_at": "2024-11-25T09:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T10:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860973937808793994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZVp3lbVcwQ",
+              "end": 26,
+              "expanded_url": "https://x.com/nirvana_EX/status/1860973937808793994/photo/1",
+              "media_key": "3_1860973927595651075",
+              "start": 3,
+              "url": "https://t.co/ZVp3lbVcwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860973937808793994",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1729,
+          "impression_count": 260846,
+          "like_count": 17804,
+          "quote_count": 16,
+          "reply_count": 3,
+          "retweet_count": 1767
+        },
+        "reply_settings": "everyone",
+        "text": "✴︎ https://t.co/ZVp3lbVcwQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 132,
+          "like_count": 5129,
+          "listed_count": 0,
+          "tweet_count": 753
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-14T05:01:24.000Z",
+        "description": "(nirvana.renie@gmail.com)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nirvana_renie?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nirvana_renie?igsh=ZTc5NDJ3djRuczhl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/dtzHa5mqmb"
+              }
+            ]
+          }
+        },
+        "id": "1547446101930053632",
+        "location": "🕳️",
+        "name": "れにえ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836263665068314627/DZkybbq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2608,
+          "following_count": 455,
+          "like_count": 5855,
+          "listed_count": 27,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/dtzHa5mqmb",
+        "username": "nirvana_EX",
+        "verified": false
+      }
+    ]
+  }
+}

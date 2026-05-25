@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868333332729409536"
+      ],
+      "media_source_tweet_id": [
+        "1868333336390988093"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1868659436111471093",
+    "created_at": "2024-12-16T14:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T15:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868659436111471093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1363685774734946306",
+          "start": 3,
+          "username": "sasakiii10"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fKhT3FrLW3",
+          "end": 46,
+          "expanded_url": "https://x.com/sasakiii10/status/1868333336390988093/photo/1",
+          "media_key": "3_1868333332729409536",
+          "start": 23,
+          "url": "https://t.co/fKhT3FrLW3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868659436111471093",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 217
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868333336390988093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sasakiii10: เขินอะ https://t.co/fKhT3FrLW3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1868333332729409536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge2nRGtbsAApiL3.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868333332729409536"
+          ],
+          "media_source_tweet_id": [
+            "1868333336390988093"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1868659436111471093",
+        "created_at": "2024-12-16T14:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T15:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868659436111471093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1363685774734946306",
+              "start": 3,
+              "username": "sasakiii10"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fKhT3FrLW3",
+              "end": 46,
+              "expanded_url": "https://x.com/sasakiii10/status/1868333336390988093/photo/1",
+              "media_key": "3_1868333332729409536",
+              "start": 23,
+              "url": "https://t.co/fKhT3FrLW3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868659436111471093",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 217
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868333336390988093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sasakiii10: เขินอะ https://t.co/fKhT3FrLW3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868333332729409536"
+          ]
+        },
+        "author_id": "1363685774734946306",
+        "conversation_id": "1868333336390988093",
+        "created_at": "2024-12-15T16:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T17:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868333336390988093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fKhT3FrLW3",
+              "end": 30,
+              "expanded_url": "https://x.com/sasakiii10/status/1868333336390988093/photo/1",
+              "media_key": "3_1868333332729409536",
+              "start": 7,
+              "url": "https://t.co/fKhT3FrLW3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868333336390988093",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 41325,
+          "like_count": 1196,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 217
+        },
+        "reply_settings": "everyone",
+        "text": "เขินอะ https://t.co/fKhT3FrLW3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 145,
+          "like_count": 6102,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1116
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T03:03:34.000Z",
+        "description": "Mɪɴᴛ/มิ้นต์  |18Y |infp |multifandom                    \n                  🚫Don't repost/save/use🚫   แอครอง:@sasakiiii11 \n                𒊹︎︎︎cms ☞︎︎︎ close",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 108,
+                "username": "sasakiiii11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/titirat.khunpr…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/titirat.khunpreechakul.9?mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/LLwAdufwW6"
+              }
+            ]
+          }
+        },
+        "id": "1363685774734946306",
+        "name": "Titi",
+        "pinned_tweet_id": "1846789329571794987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860276267561680902/DFDkCpF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7665,
+          "following_count": 405,
+          "like_count": 152984,
+          "listed_count": 10,
+          "media_count": 2048,
+          "tweet_count": 24790
+        },
+        "url": "https://t.co/LLwAdufwW6",
+        "username": "sasakiii10",
+        "verified": false
+      }
+    ]
+  }
+}

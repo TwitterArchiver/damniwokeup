@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966786197541580802"
+      ],
+      "media_source_tweet_id": [
+        "1966786584348393908"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1966918592374731013",
+    "created_at": "2025-09-13T17:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T18:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966918592374731013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4375067772",
+          "start": 3,
+          "username": "atie1225"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r7KhIIHAYs",
+          "end": 49,
+          "expanded_url": "https://x.com/atie1225/status/1966786584348393908/photo/1",
+          "media_key": "3_1966786197541580802",
+          "start": 26,
+          "url": "https://t.co/r7KhIIHAYs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966918592374731013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1380
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966786584348393908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @atie1225: 🍄~摇摆~猫狗~☘🎷🎺 https://t.co/r7KhIIHAYs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1737,
+        "media_key": "3_1966786197541580802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ttoE2bcAIZao4.jpg",
+        "width": 2453
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966786197541580802"
+          ],
+          "media_source_tweet_id": [
+            "1966786584348393908"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1966918592374731013",
+        "created_at": "2025-09-13T17:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T18:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966918592374731013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4375067772",
+              "start": 3,
+              "username": "atie1225"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7KhIIHAYs",
+              "end": 49,
+              "expanded_url": "https://x.com/atie1225/status/1966786584348393908/photo/1",
+              "media_key": "3_1966786197541580802",
+              "start": 26,
+              "url": "https://t.co/r7KhIIHAYs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966918592374731013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1380
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966786584348393908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @atie1225: 🍄~摇摆~猫狗~☘🎷🎺 https://t.co/r7KhIIHAYs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966786197541580802"
+          ]
+        },
+        "author_id": "4375067772",
+        "conversation_id": "1966786584348393908",
+        "created_at": "2025-09-13T08:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T09:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966786584348393908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7KhIIHAYs",
+              "end": 35,
+              "expanded_url": "https://x.com/atie1225/status/1966786584348393908/photo/1",
+              "media_key": "3_1966786197541580802",
+              "start": 12,
+              "url": "https://t.co/r7KhIIHAYs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966786584348393908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 946,
+          "impression_count": 123093,
+          "like_count": 9160,
+          "quote_count": 21,
+          "reply_count": 7,
+          "retweet_count": 1380
+        },
+        "reply_settings": "everyone",
+        "text": "🍄~摇摆~猫狗~☘🎷🎺 https://t.co/r7KhIIHAYs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Phoenix, AZ",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 141,
+          "like_count": 6953,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1250
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-27T07:23:33.000Z",
+        "description": "🇨🇳中文/下品 色鬼🔞🔞🔞❤🖤",
+        "id": "4375067772",
+        "location": "China",
+        "name": "鉄🦔",
+        "pinned_tweet_id": "1956353468115128671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1282884703175884806/A81yhQMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388211,
+          "following_count": 362,
+          "like_count": 19538,
+          "listed_count": 2017,
+          "media_count": 1353,
+          "tweet_count": 7802
+        },
+        "username": "atie1225",
+        "verified": false
+      }
+    ]
+  }
+}

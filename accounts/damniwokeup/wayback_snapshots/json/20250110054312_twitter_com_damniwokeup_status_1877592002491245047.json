@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1877198497201664000"
+      ],
+      "media_source_tweet_id": [
+        "1877198500930187593"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1877592002491245047",
+    "created_at": "2025-01-10T05:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T06:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877592002491245047"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 20,
+          "tag": "ダンジョン飯"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1733920952021655552",
+          "start": 3,
+          "username": "ChristineE1153"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TgarmPsdlU",
+          "end": 56,
+          "expanded_url": "https://x.com/ChristineE1153/status/1877198500930187593/photo/1",
+          "media_key": "3_1877198497201664000",
+          "start": 33,
+          "url": "https://t.co/TgarmPsdlU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877592002491245047",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877198500930187593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChristineE1153: #ダンジョン飯 迷宫之主 https://t.co/TgarmPsdlU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1877198497201664000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg0mFl6aMAA5AP_.jpg",
+        "width": 1345
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877198497201664000"
+          ],
+          "media_source_tweet_id": [
+            "1877198500930187593"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1877592002491245047",
+        "created_at": "2025-01-10T05:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T06:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877592002491245047"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "ダンジョン飯"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1733920952021655552",
+              "start": 3,
+              "username": "ChristineE1153"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TgarmPsdlU",
+              "end": 56,
+              "expanded_url": "https://x.com/ChristineE1153/status/1877198500930187593/photo/1",
+              "media_key": "3_1877198497201664000",
+              "start": 33,
+              "url": "https://t.co/TgarmPsdlU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877592002491245047",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877198500930187593",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChristineE1153: #ダンジョン飯 迷宫之主 https://t.co/TgarmPsdlU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877198497201664000"
+          ]
+        },
+        "author_id": "1733920952021655552",
+        "conversation_id": "1877198500930187593",
+        "created_at": "2025-01-09T03:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T04:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877198500930187593"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "ダンジョン飯"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TgarmPsdlU",
+              "end": 36,
+              "expanded_url": "https://x.com/ChristineE1153/status/1877198500930187593/photo/1",
+              "media_key": "3_1877198497201664000",
+              "start": 13,
+              "url": "https://t.co/TgarmPsdlU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877198500930187593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 11233,
+          "like_count": 1133,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "#ダンジョン飯 迷宫之主 https://t.co/TgarmPsdlU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 151,
+          "like_count": 6627,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1309
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T18:45:52.000Z",
+        "description": "cn:sona 低浮上、杂图堆放处；大概会出现：迷宫饭/2434",
+        "id": "1733920952021655552",
+        "name": "囚洋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876866464608931840/FTbp_YYN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 27,
+          "like_count": 360,
+          "listed_count": 4,
+          "media_count": 9,
+          "tweet_count": 39
+        },
+        "username": "ChristineE1153",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871840899493462016"
+      ],
+      "media_source_tweet_id": [
+        "1871840904107233525"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1871898132214399330",
+    "created_at": "2024-12-25T12:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T13:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871898132214399330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1465471990094249984",
+          "start": 3,
+          "username": "rurushugi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m1GC869MPf",
+          "end": 42,
+          "expanded_url": "https://x.com/rurushugi/status/1871840904107233525/photo/1",
+          "media_key": "3_1871840899493462016",
+          "start": 19,
+          "url": "https://t.co/m1GC869MPf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871898132214399330",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871840904107233525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rurushugi: ぼっち https://t.co/m1GC869MPf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1871840899493462016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfodYXJbAAAh3DT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871840899493462016"
+          ],
+          "media_source_tweet_id": [
+            "1871840904107233525"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1871898132214399330",
+        "created_at": "2024-12-25T12:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T13:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871898132214399330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1465471990094249984",
+              "start": 3,
+              "username": "rurushugi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m1GC869MPf",
+              "end": 42,
+              "expanded_url": "https://x.com/rurushugi/status/1871840904107233525/photo/1",
+              "media_key": "3_1871840899493462016",
+              "start": 19,
+              "url": "https://t.co/m1GC869MPf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871898132214399330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871840904107233525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rurushugi: ぼっち https://t.co/m1GC869MPf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871840899493462016"
+          ]
+        },
+        "author_id": "1465471990094249984",
+        "conversation_id": "1871840904107233525",
+        "created_at": "2024-12-25T08:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T09:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871840904107233525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m1GC869MPf",
+              "end": 27,
+              "expanded_url": "https://x.com/rurushugi/status/1871840904107233525/photo/1",
+              "media_key": "3_1871840899493462016",
+              "start": 4,
+              "url": "https://t.co/m1GC869MPf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871840904107233525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 7285,
+          "like_count": 682,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "ぼっち https://t.co/m1GC869MPf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 148,
+          "like_count": 6342,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1207
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-30T00:05:41.000Z",
+        "description": "偶に、趣味で絵を描いたりします。(無断転載、自作発言、AIやめてね)倉庫(pixiv) みかづき荘が好きです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/78766942",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/78766942",
+                "start": 0,
+                "url": "https://t.co/wbFVFzKgcZ"
+              }
+            ]
+          }
+        },
+        "id": "1465471990094249984",
+        "name": "ﾙﾙｼｭ木さん",
+        "pinned_tweet_id": "1669659494216011776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465587342346178560/M0ND_xFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26521,
+          "following_count": 75,
+          "like_count": 9741,
+          "listed_count": 193,
+          "media_count": 651,
+          "tweet_count": 5706
+        },
+        "url": "https://t.co/wbFVFzKgcZ",
+        "username": "rurushugi",
+        "verified": false
+      }
+    ]
+  }
+}

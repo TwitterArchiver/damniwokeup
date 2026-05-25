@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859184001145286656"
+      ],
+      "media_source_tweet_id": [
+        "1859184362899878183"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1859202053282861245",
+    "created_at": "2024-11-20T11:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T12:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859202053282861245"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 14,
+          "tag": "いい太ももの日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "951474536540659712",
+          "start": 3,
+          "username": "egoshiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pkOsb7u1YR",
+          "end": 46,
+          "expanded_url": "https://x.com/egoshiki/status/1859184362899878183/photo/1",
+          "media_key": "3_1859184001145286656",
+          "start": 23,
+          "url": "https://t.co/pkOsb7u1YR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859202053282861245",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 168
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859184362899878183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @egoshiki: #いい太ももの日 https://t.co/pkOsb7u1YR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1751,
+        "media_key": "3_1859184001145286656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc0l_6hasAAIlv5.jpg",
+        "width": 1171
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859184001145286656"
+          ],
+          "media_source_tweet_id": [
+            "1859184362899878183"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1859202053282861245",
+        "created_at": "2024-11-20T11:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T12:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859202053282861245"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 14,
+              "tag": "いい太ももの日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "951474536540659712",
+              "start": 3,
+              "username": "egoshiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pkOsb7u1YR",
+              "end": 46,
+              "expanded_url": "https://x.com/egoshiki/status/1859184362899878183/photo/1",
+              "media_key": "3_1859184001145286656",
+              "start": 23,
+              "url": "https://t.co/pkOsb7u1YR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859202053282861245",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 168
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859184362899878183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @egoshiki: #いい太ももの日 https://t.co/pkOsb7u1YR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859184001145286656"
+          ]
+        },
+        "author_id": "951474536540659712",
+        "conversation_id": "1859184362899878183",
+        "created_at": "2024-11-20T10:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T11:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859184362899878183"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "いい太ももの日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pkOsb7u1YR",
+              "end": 32,
+              "expanded_url": "https://x.com/egoshiki/status/1859184362899878183/photo/1",
+              "media_key": "3_1859184001145286656",
+              "start": 9,
+              "url": "https://t.co/pkOsb7u1YR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859184362899878183",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 9127,
+          "like_count": 1042,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 168
+        },
+        "reply_settings": "everyone",
+        "text": "#いい太ももの日 https://t.co/pkOsb7u1YR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 128,
+          "like_count": 4951,
+          "listed_count": 0,
+          "tweet_count": 674
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-11T15:23:01.000Z",
+        "description": "イラスト描いてます。■AI学習、転載、使用の全てを禁止。AI learning, use, and reproduction are prohibited.｜ ご依頼、お仕事はegoshiki00@gmail.com またはDMにお願いします。【skeb】https://t.co/yBiaf0PSOs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@egoshiki",
+                "end": 151,
+                "expanded_url": "http://skeb.jp/@egoshiki",
+                "start": 128,
+                "url": "https://t.co/yBiaf0PSOs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/user_ytdg8528",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/user_ytdg8528",
+                "start": 0,
+                "url": "https://t.co/Mv6vDUInuS"
+              }
+            ]
+          }
+        },
+        "id": "951474536540659712",
+        "name": "えご。C105 日曜日 東h08b",
+        "pinned_tweet_id": "1857612697749303597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794888845982584832/1owf_MD7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55122,
+          "following_count": 382,
+          "like_count": 37251,
+          "listed_count": 350,
+          "tweet_count": 5637
+        },
+        "url": "https://t.co/Mv6vDUInuS",
+        "username": "egoshiki",
+        "verified": false
+      }
+    ]
+  }
+}

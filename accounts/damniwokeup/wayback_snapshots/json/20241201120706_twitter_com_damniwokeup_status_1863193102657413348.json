@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862803116246052864"
+      ],
+      "media_source_tweet_id": [
+        "1862803125821948376"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1863193102657413348",
+    "created_at": "2024-12-01T12:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T13:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863193102657413348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1687376706229895168",
+          "start": 3,
+          "username": "mct_016"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I28ukoJlmL",
+          "end": 43,
+          "expanded_url": "https://x.com/mct_016/status/1862803125821948376/photo/1",
+          "media_key": "3_1862803116246052864",
+          "start": 20,
+          "url": "https://t.co/I28ukoJlmL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863193102657413348",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 521
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862803125821948376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mct_016: カムランの丘 https://t.co/I28ukoJlmL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1862803116246052864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdoBkI5WMAAgmVj.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862803116246052864"
+          ],
+          "media_source_tweet_id": [
+            "1862803125821948376"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1863193102657413348",
+        "created_at": "2024-12-01T12:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T13:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863193102657413348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1687376706229895168",
+              "start": 3,
+              "username": "mct_016"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I28ukoJlmL",
+              "end": 43,
+              "expanded_url": "https://x.com/mct_016/status/1862803125821948376/photo/1",
+              "media_key": "3_1862803116246052864",
+              "start": 20,
+              "url": "https://t.co/I28ukoJlmL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863193102657413348",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 521
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862803125821948376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mct_016: カムランの丘 https://t.co/I28ukoJlmL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862803116246052864"
+          ]
+        },
+        "author_id": "1687376706229895168",
+        "conversation_id": "1862803125821948376",
+        "created_at": "2024-11-30T10:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T11:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862803125821948376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I28ukoJlmL",
+              "end": 30,
+              "expanded_url": "https://x.com/mct_016/status/1862803125821948376/photo/1",
+              "media_key": "3_1862803116246052864",
+              "start": 7,
+              "url": "https://t.co/I28ukoJlmL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862803125821948376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 309,
+          "impression_count": 42201,
+          "like_count": 3488,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 521
+        },
+        "reply_settings": "everyone",
+        "text": "カムランの丘 https://t.co/I28ukoJlmL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 141,
+          "like_count": 5427,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 861
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T08:15:59.000Z",
+        "description": "fate（言峰・士郎推し）■腐向け垢/成人済/F以外通知OFF■しぶ（前垢のイラストもあります）→https://t.co/3Y5jPG2Xoj ■マロは感想用※リクは受け付けていません",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/40929476",
+                "end": 72,
+                "expanded_url": "https://www.pixiv.net/users/40929476",
+                "start": 49,
+                "url": "https://t.co/3Y5jPG2Xoj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/u70i8e19baq8u7…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/u70i8e19baq8u7z?t",
+                "start": 0,
+                "url": "https://t.co/vWZaUfgmSA"
+              }
+            ]
+          }
+        },
+        "id": "1687376706229895168",
+        "name": "mct",
+        "pinned_tweet_id": "1813539319287853184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824279577944047616/taf_dmZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 164,
+          "like_count": 6056,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1317
+        },
+        "url": "https://t.co/vWZaUfgmSA",
+        "username": "mct_016",
+        "verified": false
+      }
+    ]
+  }
+}

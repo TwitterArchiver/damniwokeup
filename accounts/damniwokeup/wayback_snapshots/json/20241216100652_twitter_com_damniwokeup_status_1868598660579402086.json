@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868417789448642560"
+      ],
+      "media_source_tweet_id": [
+        "1868417795471577540"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1868598660579402086",
+    "created_at": "2024-12-16T10:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T11:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868598660579402086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1359784423135219712",
+          "start": 3,
+          "username": "purokiti"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L1GgLsDQpZ",
+          "end": 60,
+          "expanded_url": "https://x.com/purokiti/status/1868417795471577540/photo/1",
+          "media_key": "3_1868417789448642560",
+          "start": 37,
+          "url": "https://t.co/L1GgLsDQpZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868598660579402086",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868417795471577540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @purokiti: おはようございまし〜\n早朝のお絵描きをどうぞ https://t.co/L1GgLsDQpZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1868417789448642560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge30FIgbYAA-LlL.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868417789448642560"
+          ],
+          "media_source_tweet_id": [
+            "1868417795471577540"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1868598660579402086",
+        "created_at": "2024-12-16T10:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T11:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868598660579402086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1359784423135219712",
+              "start": 3,
+              "username": "purokiti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L1GgLsDQpZ",
+              "end": 60,
+              "expanded_url": "https://x.com/purokiti/status/1868417795471577540/photo/1",
+              "media_key": "3_1868417789448642560",
+              "start": 37,
+              "url": "https://t.co/L1GgLsDQpZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868598660579402086",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868417795471577540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @purokiti: おはようございまし〜\n早朝のお絵描きをどうぞ https://t.co/L1GgLsDQpZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868417789448642560"
+          ]
+        },
+        "author_id": "1359784423135219712",
+        "conversation_id": "1868417795471577540",
+        "created_at": "2024-12-15T22:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T23:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868417795471577540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L1GgLsDQpZ",
+              "end": 46,
+              "expanded_url": "https://x.com/purokiti/status/1868417795471577540/photo/1",
+              "media_key": "3_1868417789448642560",
+              "start": 23,
+              "url": "https://t.co/L1GgLsDQpZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868417795471577540",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3237,
+          "like_count": 189,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "おはようございまし〜\n早朝のお絵描きをどうぞ https://t.co/L1GgLsDQpZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 145,
+          "like_count": 6067,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1108
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-11T08:40:58.000Z",
+        "description": "アニメーションとイラストを描いてます ︎ ✧ご連絡はこちらから⇒purokiti56@gmail.com",
+        "id": "1359784423135219712",
+        "location": "AI学習･無断転載禁止",
+        "name": "ぷろきち/purokiti",
+        "pinned_tweet_id": "1757349912331931904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847075212921393152/sYyHhfYr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 139,
+          "like_count": 15243,
+          "listed_count": 19,
+          "media_count": 136,
+          "tweet_count": 4346
+        },
+        "username": "purokiti",
+        "verified": false
+      }
+    ]
+  }
+}

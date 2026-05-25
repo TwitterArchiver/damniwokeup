@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868614056560766976"
+      ],
+      "media_source_tweet_id": [
+        "1868614227491262593"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1868631516886278403",
+    "created_at": "2024-12-16T12:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T13:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868631516886278403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "951474536540659712",
+          "start": 3,
+          "username": "egoshiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3zKWCWMGaR",
+          "end": 41,
+          "expanded_url": "https://x.com/egoshiki/status/1868614227491262593/photo/1",
+          "media_key": "3_1868614056560766976",
+          "start": 18,
+          "url": "https://t.co/3zKWCWMGaR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868631516886278403",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 707
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868614227491262593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @egoshiki: 両儀式 https://t.co/3zKWCWMGaR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1771,
+        "media_key": "3_1868614056560766976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge6mlYebMAAj4-Q.jpg",
+        "width": 1251
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868614056560766976"
+          ],
+          "media_source_tweet_id": [
+            "1868614227491262593"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1868631516886278403",
+        "created_at": "2024-12-16T12:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T13:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868631516886278403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "951474536540659712",
+              "start": 3,
+              "username": "egoshiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3zKWCWMGaR",
+              "end": 41,
+              "expanded_url": "https://x.com/egoshiki/status/1868614227491262593/photo/1",
+              "media_key": "3_1868614056560766976",
+              "start": 18,
+              "url": "https://t.co/3zKWCWMGaR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868631516886278403",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 707
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868614227491262593",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @egoshiki: 両儀式 https://t.co/3zKWCWMGaR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868614056560766976"
+          ]
+        },
+        "author_id": "951474536540659712",
+        "conversation_id": "1868614227491262593",
+        "created_at": "2024-12-16T11:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T12:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868614227491262593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3zKWCWMGaR",
+              "end": 27,
+              "expanded_url": "https://x.com/egoshiki/status/1868614227491262593/photo/1",
+              "media_key": "3_1868614056560766976",
+              "start": 4,
+              "url": "https://t.co/3zKWCWMGaR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868614227491262593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 308,
+          "impression_count": 26836,
+          "like_count": 2886,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 707
+        },
+        "reply_settings": "everyone",
+        "text": "両儀式 https://t.co/3zKWCWMGaR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 145,
+          "like_count": 6086,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1111
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-11T15:23:01.000Z",
+        "description": "イラスト描いてます。■AI学習、転載、使用の全てを禁止。AI learning, use, and reproduction are prohibited.｜ ご依頼、お仕事はegoshiki00@gmail.com またはDMにお願いします。【skeb】https://t.co/yBiaf0PSOs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@egoshiki",
+                "end": 151,
+                "expanded_url": "http://skeb.jp/@egoshiki",
+                "start": 128,
+                "url": "https://t.co/yBiaf0PSOs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/user_ytdg8528",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/user_ytdg8528",
+                "start": 0,
+                "url": "https://t.co/Mv6vDUInuS"
+              }
+            ]
+          }
+        },
+        "id": "951474536540659712",
+        "name": "えご。C105 日曜日 東h08b",
+        "pinned_tweet_id": "1857612697749303597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794888845982584832/1owf_MD7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58029,
+          "following_count": 385,
+          "like_count": 38404,
+          "listed_count": 372,
+          "media_count": 309,
+          "tweet_count": 5670
+        },
+        "url": "https://t.co/Mv6vDUInuS",
+        "username": "egoshiki",
+        "verified": false
+      }
+    ]
+  }
+}

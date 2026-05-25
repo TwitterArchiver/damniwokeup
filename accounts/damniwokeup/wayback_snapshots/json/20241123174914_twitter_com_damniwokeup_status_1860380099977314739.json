@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860259165329063941"
+      ],
+      "media_source_tweet_id": [
+        "1860259168659382623"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1860380099977314739",
+    "created_at": "2024-11-23T17:49:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T18:49:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860380099977314739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1542272753398878208",
+          "start": 3,
+          "username": "rurubusandayo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WMb7fowY48",
+          "end": 45,
+          "expanded_url": "https://x.com/rurubusandayo/status/1860259168659382623/photo/1",
+          "media_key": "3_1860259165329063941",
+          "start": 22,
+          "url": "https://t.co/WMb7fowY48"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860380099977314739",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860259168659382623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rurubusandayo: 妖妃 https://t.co/WMb7fowY48"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1860259165329063941",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdD32tOagAUSy_3.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860259165329063941"
+          ],
+          "media_source_tweet_id": [
+            "1860259168659382623"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1860380099977314739",
+        "created_at": "2024-11-23T17:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T18:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860380099977314739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1542272753398878208",
+              "start": 3,
+              "username": "rurubusandayo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WMb7fowY48",
+              "end": 45,
+              "expanded_url": "https://x.com/rurubusandayo/status/1860259168659382623/photo/1",
+              "media_key": "3_1860259165329063941",
+              "start": 22,
+              "url": "https://t.co/WMb7fowY48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860380099977314739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860259168659382623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rurubusandayo: 妖妃 https://t.co/WMb7fowY48"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860259165329063941"
+          ]
+        },
+        "author_id": "1542272753398878208",
+        "conversation_id": "1860259168659382623",
+        "created_at": "2024-11-23T09:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T10:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860259168659382623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WMb7fowY48",
+              "end": 26,
+              "expanded_url": "https://x.com/rurubusandayo/status/1860259168659382623/photo/1",
+              "media_key": "3_1860259165329063941",
+              "start": 3,
+              "url": "https://t.co/WMb7fowY48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860259168659382623",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1640,
+          "like_count": 168,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "妖妃 https://t.co/WMb7fowY48"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 130,
+          "like_count": 5063,
+          "listed_count": 0,
+          "tweet_count": 728
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-29T22:24:26.000Z",
+        "description": "るるぶとよんでください。絵はよくきえる。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/lwa4qim5on9f…",
+                "end": 23,
+                "expanded_url": "https://odaibako.net/u/lwa4qim5on9fgfbl",
+                "start": 0,
+                "url": "https://t.co/BDBygaDONV"
+              }
+            ]
+          }
+        },
+        "id": "1542272753398878208",
+        "location": "葬式カラー絵bot",
+        "name": "ルールブック",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850495326773538816/5Y07s_xn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 15,
+          "like_count": 418,
+          "listed_count": 10,
+          "tweet_count": 159
+        },
+        "url": "https://t.co/BDBygaDONV",
+        "username": "rurubusandayo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "2029377150084939929",
+    "created_at": "2026-03-05T02:03:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T03:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029377150084939929"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "NEEDY GIRL OVERDOSE -OVERTURE-",
+          "probability": 0.3878,
+          "start": 13,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1296001658250342400",
+          "start": 3,
+          "username": "x_x02_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029377150084939929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 359
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029212836111716799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @x_x02_: 「NEEDY GIRL OVERDOSE -OVERTURE-」\n\n試写会にご招待いただきました。\nこれはちょっとしたファンアートです。\nいちばん\"リアル\"をやっている作品です。\n目を逸らせない、逸らしてはいけないこの作品に呪われ、そして救われてください…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029212829665116173",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCk2UT3awA0T0Hk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "2029377150084939929",
+        "created_at": "2026-03-05T02:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T03:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029377150084939929"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "NEEDY GIRL OVERDOSE -OVERTURE-",
+              "probability": 0.3878,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1296001658250342400",
+              "start": 3,
+              "username": "x_x02_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029377150084939929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 359
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029212836111716799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @x_x02_: 「NEEDY GIRL OVERDOSE -OVERTURE-」\n\n試写会にご招待いただきました。\nこれはちょっとしたファンアートです。\nいちばん\"リアル\"をやっている作品です。\n目を逸らせない、逸らしてはいけないこの作品に呪われ、そして救われてください…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029212829665116173"
+          ]
+        },
+        "author_id": "1296001658250342400",
+        "conversation_id": "2029212836111716799",
+        "created_at": "2026-03-04T15:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T16:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029212836111716799"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "NEEDY GIRL OVERDOSE -OVERTURE-",
+              "probability": 0.4042,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 136,
+              "tag": "ニディガ"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "PR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jDHIpjHoAb",
+              "end": 169,
+              "expanded_url": "https://x.com/x_x02_/status/2029212836111716799/photo/1",
+              "media_key": "3_2029212829665116173",
+              "start": 146,
+              "url": "https://t.co/jDHIpjHoAb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029212836111716799",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 219,
+          "impression_count": 31126,
+          "like_count": 2212,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 359
+        },
+        "reply_settings": "following",
+        "text": "「NEEDY GIRL OVERDOSE -OVERTURE-」\n\n試写会にご招待いただきました。\nこれはちょっとしたファンアートです。\nいちばん\"リアル\"をやっている作品です。\n目を逸らせない、逸らしてはいけないこの作品に呪われ、そして救われてください。\n\n†昇天†\n\n#ニディガ #PR https://t.co/jDHIpjHoAb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2026181607040925930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 157,
+          "like_count": 7981,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 1383
+        },
+        "username": "damniwokeup",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-19T08:30:59.000Z",
+        "description": "📂Comm https://t.co/8TNkrVFUXX 🛒https://t.co/ejZlA3X62A︎ ︎",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@x_x02_",
+                "end": 29,
+                "expanded_url": "https://skeb.jp/@x_x02_",
+                "start": 6,
+                "url": "https://t.co/8TNkrVFUXX"
+              },
+              {
+                "display_url": "suzuri.jp/x_x02_",
+                "end": 54,
+                "expanded_url": "https://suzuri.jp/x_x02_",
+                "start": 31,
+                "url": "https://t.co/ejZlA3X62A"
+              }
+            ]
+          }
+        },
+        "id": "1296001658250342400",
+        "location": "nia0521xx@gmail.com",
+        "name": "Nia",
+        "pinned_tweet_id": "2023301777140154467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973638485677580292/g_JdPm4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77638,
+          "following_count": 116,
+          "like_count": 3995,
+          "listed_count": 553,
+          "media_count": 77,
+          "tweet_count": 153
+        },
+        "username": "x_x02_",
+        "verified": true
+      }
+    ]
+  }
+}

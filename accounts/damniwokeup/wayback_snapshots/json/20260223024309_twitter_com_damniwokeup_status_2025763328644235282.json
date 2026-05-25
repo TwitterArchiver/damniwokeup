@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2025561197723172864"
+      ],
+      "media_source_tweet_id": [
+        "2025693330785616083"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025763328644235282",
+    "created_at": "2026-02-23T02:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T03:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025763328644235282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1054723548021997569",
+          "start": 3,
+          "username": "symbxl_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BllXfuF3WA",
+          "end": 70,
+          "expanded_url": "https://x.com/symbxl_/status/2025693330785616083/video/1",
+          "media_key": "13_2025561197723172864",
+          "start": 47,
+          "url": "https://t.co/BllXfuF3WA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025763328644235282",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025693330785616083",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @symbxl_: //.&gt;𝚜𝚢𝚜𝚝𝚎𝚖 𝚎𝚎𝚛𝚛𝚘𝚛𝚛𝚛\n(𝘴𝘰𝘶𝘯𝘥 𝘰𝘯) https://t.co/BllXfuF3WA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23080,
+        "height": 1110,
+        "media_key": "13_2025561197723172864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025561197723172864/img/60c7-iQSZXwRB9--.jpg",
+        "public_metrics": {
+          "view_count": 2761
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025561197723172864/vid/avc1/320x328/zyJmNximZIorJQlv.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025561197723172864/vid/avc1/1080x1110/ir2jylytqH7nCge1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025561197723172864/vid/avc1/480x492/OgF9SQtn7RwKk1-j.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025561197723172864/pl/-mGEhwW6Uy7kdJ4D.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025561197723172864/vid/avc1/720x740/4kqnsfjImwDR2DYM.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025561197723172864"
+          ],
+          "media_source_tweet_id": [
+            "2025693330785616083"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025763328644235282",
+        "created_at": "2026-02-23T02:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T03:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025763328644235282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1054723548021997569",
+              "start": 3,
+              "username": "symbxl_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BllXfuF3WA",
+              "end": 70,
+              "expanded_url": "https://x.com/symbxl_/status/2025693330785616083/video/1",
+              "media_key": "13_2025561197723172864",
+              "start": 47,
+              "url": "https://t.co/BllXfuF3WA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025763328644235282",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025693330785616083",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @symbxl_: //.&gt;𝚜𝚢𝚜𝚝𝚎𝚖 𝚎𝚎𝚛𝚛𝚘𝚛𝚛𝚛\n(𝘴𝘰𝘶𝘯𝘥 𝘰𝘯) https://t.co/BllXfuF3WA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025561197723172864"
+          ]
+        },
+        "author_id": "1054723548021997569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025693330785616083",
+        "created_at": "2026-02-22T22:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T23:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025693330785616083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BllXfuF3WA",
+              "end": 57,
+              "expanded_url": "https://x.com/symbxl_/status/2025693330785616083/video/1",
+              "media_key": "13_2025561197723172864",
+              "start": 34,
+              "url": "https://t.co/BllXfuF3WA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025693330785616083",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 8768,
+          "like_count": 1012,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "//.&gt;𝚜𝚢𝚜𝚝𝚎𝚖 𝚎𝚎𝚛𝚛𝚘𝚛𝚛𝚛\n(𝘴𝘰𝘶𝘯𝘥 𝘰𝘯) https://t.co/BllXfuF3WA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 153,
+          "like_count": 7567,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 1340
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-23T13:17:44.000Z",
+        "description": "𝒂 𝒈𝒊𝒓𝒍 𝒇𝒂𝒊𝒍 𝒘𝒉𝒐 𝒇𝒆𝒍𝒍 𝒊𝒏𝒕𝒐 𝒕𝒉𝒆 𝒃𝒂𝒄𝒌𝒓𝒐𝒐𝒎𝒔 𝒂𝒏𝒅 𝒄𝒂𝒏'𝒕 𝒆𝒔𝒄𝒂𝒑𝒆.. ʚ♡ɞ | Twitch Partner ♡ banner: @tamag0666 ♡ rig: @vaempy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "tamag0666"
+              },
+              {
+                "end": 115,
+                "start": 108,
+                "username": "vaempy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@symbxl_xx",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@symbxl_xx",
+                "start": 0,
+                "url": "https://t.co/IiXJJlUK0A"
+              }
+            ]
+          }
+        },
+        "id": "1054723548021997569",
+        "location": "𝚝𝚑𝚎 𝚋𝚊𝚌𝚔𝚛𝚘𝚘𝚖𝚜",
+        "name": "𝒔𝒚𝒎𝒃𝒙𝒍 ₊˚⊹ ᰔ【 𝗩𝗩𝗲𝗯𝗰𝗼𝗿𝗲 】",
+        "pinned_tweet_id": "1991657816134996222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962151730629767168/EKLv_Vd-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19144,
+          "following_count": 848,
+          "like_count": 16518,
+          "listed_count": 45,
+          "media_count": 549,
+          "tweet_count": 6129
+        },
+        "url": "https://t.co/IiXJJlUK0A",
+        "username": "symbxl_",
+        "verified": true
+      }
+    ]
+  }
+}

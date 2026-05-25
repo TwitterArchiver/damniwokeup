@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868640749535068162"
+      ],
+      "media_source_tweet_id": [
+        "1868640756396912992"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1868654333270872458",
+    "created_at": "2024-12-16T13:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T14:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868654333270872458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1017119060",
+          "start": 3,
+          "username": "Kitunenosousuke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TBpjZLYPRX",
+          "end": 44,
+          "expanded_url": "https://x.com/Kitunenosousuke/status/1868640756396912992/photo/1",
+          "media_key": "3_1868640749535068162",
+          "start": 21,
+          "url": "https://t.co/TBpjZLYPRX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868654333270872458",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868640756396912992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Kitunenosousuke: https://t.co/TBpjZLYPRX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1271,
+        "media_key": "3_1868640749535068162",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge6-3HjbgAI8WkX.jpg",
+        "width": 1017
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868640749535068162"
+          ],
+          "media_source_tweet_id": [
+            "1868640756396912992"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1868654333270872458",
+        "created_at": "2024-12-16T13:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T14:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868654333270872458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1017119060",
+              "start": 3,
+              "username": "Kitunenosousuke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TBpjZLYPRX",
+              "end": 44,
+              "expanded_url": "https://x.com/Kitunenosousuke/status/1868640756396912992/photo/1",
+              "media_key": "3_1868640749535068162",
+              "start": 21,
+              "url": "https://t.co/TBpjZLYPRX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868654333270872458",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868640756396912992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @Kitunenosousuke: https://t.co/TBpjZLYPRX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868640749535068162"
+          ]
+        },
+        "author_id": "1017119060",
+        "conversation_id": "1868640756396912992",
+        "created_at": "2024-12-16T12:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T13:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868640756396912992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TBpjZLYPRX",
+              "end": 23,
+              "expanded_url": "https://x.com/Kitunenosousuke/status/1868640756396912992/photo/1",
+              "media_key": "3_1868640749535068162",
+              "start": 0,
+              "url": "https://t.co/TBpjZLYPRX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868640756396912992",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1174,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/TBpjZLYPRX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 145,
+          "like_count": 6099,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1114
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-17T09:57:22.000Z",
+        "description": "",
+        "id": "1017119060",
+        "location": "線路沿い",
+        "name": "蒼足鷸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728078209135357952/XNYfT19w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4185,
+          "following_count": 2,
+          "like_count": 13809,
+          "listed_count": 50,
+          "media_count": 9598,
+          "tweet_count": 15499
+        },
+        "username": "Kitunenosousuke",
+        "verified": false
+      }
+    ]
+  }
+}

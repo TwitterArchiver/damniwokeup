@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868552737996283904",
+        "3_1868552737660813312"
+      ],
+      "media_source_tweet_id": [
+        "1868552740978471098",
+        "1868552740978471098"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1868560720159531362",
+    "created_at": "2024-12-16T07:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T08:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868560720159531362"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 52,
+          "normalized_text": "ちちゃん",
+          "probability": 0.3686,
+          "start": 49,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 18,
+          "tag": "今年も残りわずかなので今年一番伸びた絵を貼る"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1462403736890920963",
+          "start": 3,
+          "username": "oekaki_bibbi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oQdKNGCaFj",
+          "end": 80,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1868552740978471098/photo/1",
+          "media_key": "3_1868552737996283904",
+          "start": 57,
+          "url": "https://t.co/oQdKNGCaFj"
+        },
+        {
+          "display_url": "pic.x.com/oQdKNGCaFj",
+          "end": 80,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1868552740978471098/photo/1",
+          "media_key": "3_1868552737660813312",
+          "start": 57,
+          "url": "https://t.co/oQdKNGCaFj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868560720159531362",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 118
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868552740978471098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oekaki_bibbi: #今年も残りわずかなので今年一番伸びた絵を貼る\nバースデーぼっちちゃんでした https://t.co/oQdKNGCaFj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1660,
+        "media_key": "3_1868552737996283904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge5u0LBaIAAfmyH.jpg",
+        "width": 2080
+      },
+      {
+        "height": 1660,
+        "media_key": "3_1868552737660813312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge5u0JxbQAAtAY4.jpg",
+        "width": 2080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868552737996283904",
+            "3_1868552737660813312"
+          ],
+          "media_source_tweet_id": [
+            "1868552740978471098",
+            "1868552740978471098"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1868560720159531362",
+        "created_at": "2024-12-16T07:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T08:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868560720159531362"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "ちちゃん",
+              "probability": 0.3686,
+              "start": 49,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 18,
+              "tag": "今年も残りわずかなので今年一番伸びた絵を貼る"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1462403736890920963",
+              "start": 3,
+              "username": "oekaki_bibbi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQdKNGCaFj",
+              "end": 80,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1868552740978471098/photo/1",
+              "media_key": "3_1868552737996283904",
+              "start": 57,
+              "url": "https://t.co/oQdKNGCaFj"
+            },
+            {
+              "display_url": "pic.x.com/oQdKNGCaFj",
+              "end": 80,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1868552740978471098/photo/1",
+              "media_key": "3_1868552737660813312",
+              "start": 57,
+              "url": "https://t.co/oQdKNGCaFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868560720159531362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868552740978471098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oekaki_bibbi: #今年も残りわずかなので今年一番伸びた絵を貼る\nバースデーぼっちちゃんでした https://t.co/oQdKNGCaFj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868552737996283904",
+            "3_1868552737660813312"
+          ]
+        },
+        "author_id": "1462403736890920963",
+        "conversation_id": "1868552740978471098",
+        "created_at": "2024-12-16T07:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T08:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868552740978471098"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "ちちゃん",
+              "probability": 0.2974,
+              "start": 31,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 0,
+              "tag": "今年も残りわずかなので今年一番伸びた絵を貼る"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQdKNGCaFj",
+              "end": 62,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1868552740978471098/photo/1",
+              "media_key": "3_1868552737996283904",
+              "start": 39,
+              "url": "https://t.co/oQdKNGCaFj"
+            },
+            {
+              "display_url": "pic.x.com/oQdKNGCaFj",
+              "end": 62,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1868552740978471098/photo/1",
+              "media_key": "3_1868552737660813312",
+              "start": 39,
+              "url": "https://t.co/oQdKNGCaFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868552740978471098",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 6890,
+          "like_count": 661,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "#今年も残りわずかなので今年一番伸びた絵を貼る\nバースデーぼっちちゃんでした https://t.co/oQdKNGCaFj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 145,
+          "like_count": 6060,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1104
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T12:53:24.000Z",
+        "description": "お絵描き/ぼっちざろっく愛/恩師:ななすけ🌰",
+        "id": "1462403736890920963",
+        "name": "まよ/Mayo",
+        "pinned_tweet_id": "1825428327773151377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778523802806448128/-mPtsNzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78456,
+          "following_count": 199,
+          "like_count": 15500,
+          "listed_count": 429,
+          "media_count": 389,
+          "tweet_count": 7727
+        },
+        "username": "oekaki_bibbi",
+        "verified": true
+      }
+    ]
+  }
+}

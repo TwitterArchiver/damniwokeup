@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "2045804924630683901",
+    "created_at": "2026-04-19T10:01:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T11:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045804924630683901"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045804924630683901",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "The hospital asked should the body be cast\nbefore I say goodbye, my star in the sky.\nSuch a funny thought to wrap you up in cloth\ndo you find it all right, my dragonfly?\nShall we look at the moon, my little loon, why do you cry?\nMake the most of your life, while it is rife, while it is light.\nWell you do enough talk.\nMy little hawk, why do you cry?\nTell me what did you learn from the Tillamook burn or the Fourth of July?\nWe’re all gonna die."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "The hospital asked should the body be cast\nbefore I say goodbye, my star in the sky.\nSuch a funny thought to wrap you up in cloth\ndo you find it all right, my dragonfly?\nShall we look at the moon, my little loon, why do you cry?\nMake the most of your life, while it is rife, while"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "2045804924630683901",
+        "created_at": "2026-04-19T10:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045804924630683901"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045804924630683901",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "The hospital asked should the body be cast\nbefore I say goodbye, my star in the sky.\nSuch a funny thought to wrap you up in cloth\ndo you find it all right, my dragonfly?\nShall we look at the moon, my little loon, why do you cry?\nMake the most of your life, while it is rife, while it is light.\nWell you do enough talk.\nMy little hawk, why do you cry?\nTell me what did you learn from the Tillamook burn or the Fourth of July?\nWe’re all gonna die."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "The hospital asked should the body be cast\nbefore I say goodbye, my star in the sky.\nSuch a funny thought to wrap you up in cloth\ndo you find it all right, my dragonfly?\nShall we look at the moon, my little loon, why do you cry?\nMake the most of your life, while it is rife, while"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "Per aspera ad astra",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2042979197816312219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 193,
+          "like_count": 8549,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1410
+        },
+        "username": "damniwokeup",
+        "verified": true
+      }
+    ]
+  }
+}

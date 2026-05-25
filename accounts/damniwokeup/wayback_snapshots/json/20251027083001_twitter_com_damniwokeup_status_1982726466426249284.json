@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982382018366164992"
+      ],
+      "media_source_tweet_id": [
+        "1982382021113733360"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1982726466426249284",
+    "created_at": "2025-10-27T08:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T09:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982726466426249284"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "アキ天",
+          "probability": 0.6222,
+          "start": 25,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916070543884943360",
+          "start": 3,
+          "username": "montes4352"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FmCoxK6gu9",
+          "end": 52,
+          "expanded_url": "https://x.com/montes4352/status/1982382021113733360/photo/1",
+          "media_key": "3_1982382018366164992",
+          "start": 29,
+          "url": "https://t.co/FmCoxK6gu9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982726466426249284",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2729
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982382021113733360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @montes4352: 아키천사\n아키텐\nアキ天 https://t.co/FmCoxK6gu9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982382018366164992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LV8U3WUAAdRhS.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982382018366164992"
+          ],
+          "media_source_tweet_id": [
+            "1982382021113733360"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1982726466426249284",
+        "created_at": "2025-10-27T08:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T09:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982726466426249284"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "アキ天",
+              "probability": 0.6222,
+              "start": 25,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916070543884943360",
+              "start": 3,
+              "username": "montes4352"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FmCoxK6gu9",
+              "end": 52,
+              "expanded_url": "https://x.com/montes4352/status/1982382021113733360/photo/1",
+              "media_key": "3_1982382018366164992",
+              "start": 29,
+              "url": "https://t.co/FmCoxK6gu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982726466426249284",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2729
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982382021113733360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @montes4352: 아키천사\n아키텐\nアキ天 https://t.co/FmCoxK6gu9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982382018366164992"
+          ]
+        },
+        "author_id": "1916070543884943360",
+        "conversation_id": "1982382021113733360",
+        "created_at": "2025-10-26T09:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T10:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982382021113733360"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "아키천사 아키텐 アキ天",
+              "probability": 0.1451,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FmCoxK6gu9",
+              "end": 36,
+              "expanded_url": "https://x.com/montes4352/status/1982382021113733360/photo/1",
+              "media_key": "3_1982382018366164992",
+              "start": 13,
+              "url": "https://t.co/FmCoxK6gu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982382021113733360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1558,
+          "impression_count": 232865,
+          "like_count": 28567,
+          "quote_count": 193,
+          "reply_count": 0,
+          "retweet_count": 2729
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "아키천사\n아키텐\nアキ天 https://t.co/FmCoxK6gu9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Phoenix, AZ",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 140,
+          "like_count": 6986,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1266
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T10:03:19.000Z",
+        "description": "몽몽몽 쿵개예요🥰\n잡담낙서계:@dapiso1224",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "dapiso1224"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "postype.com/@beencap",
+                "end": 23,
+                "expanded_url": "https://www.postype.com/@beencap",
+                "start": 0,
+                "url": "https://t.co/vB2EPNbP8v"
+              }
+            ]
+          }
+        },
+        "id": "1916070543884943360",
+        "name": "김멍개",
+        "pinned_tweet_id": "1982257771170181313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938230845061660672/srFPlEPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263471,
+          "following_count": 0,
+          "like_count": 740,
+          "listed_count": 240,
+          "media_count": 284,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/vB2EPNbP8v",
+        "username": "montes4352",
+        "verified": false
+      }
+    ]
+  }
+}

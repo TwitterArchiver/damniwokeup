@@ -1,0 +1,699 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964256461745508360"
+      ],
+      "media_source_tweet_id": [
+        "1964256565160268301"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "TBS系で放送、ブラックマヨネーズが司会を務めるバラエティー番組\n\n@monitoringtbs6さんの画像",
+          "id": "10029113124",
+          "name": "ニンゲン観察バラエティ モニタリング"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "TV Asahi (テレビ朝日)",
+          "id": "1034874547688730624",
+          "name": "TV Asahi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293297579778699264",
+          "name": "Variety TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1428442975869145091",
+          "name": "Ningen Kansatsu Variety Monitoring"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1428442975869145091",
+          "name": "Ningen Kansatsu Variety Monitoring"
+        }
+      }
+    ],
+    "conversation_id": "1965224638377853314",
+    "created_at": "2025-09-09T01:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T02:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965224638377853314"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 16,
+          "tag": "モニタリング"
+        },
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1569682741960278016",
+          "start": 3,
+          "username": "adelie_cat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/865igHhr70",
+          "end": 53,
+          "expanded_url": "https://x.com/adelie_cat/status/1964256565160268301/photo/1",
+          "media_key": "3_1964256461745508360",
+          "start": 30,
+          "url": "https://t.co/865igHhr70"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965224638377853314",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7286
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964256565160268301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @adelie_cat: #モニタリング #初音ミク https://t.co/865igHhr70"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1964256461745508360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Jw2EobUAgowB8.jpg",
+        "width": 1237
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964256461745508360"
+          ],
+          "media_source_tweet_id": [
+            "1964256565160268301"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TBS系で放送、ブラックマヨネーズが司会を務めるバラエティー番組\n\n@monitoringtbs6さんの画像",
+              "id": "10029113124",
+              "name": "ニンゲン観察バラエティ モニタリング"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TV Asahi (テレビ朝日)",
+              "id": "1034874547688730624",
+              "name": "TV Asahi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1428442975869145091",
+              "name": "Ningen Kansatsu Variety Monitoring"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1428442975869145091",
+              "name": "Ningen Kansatsu Variety Monitoring"
+            }
+          }
+        ],
+        "conversation_id": "1965224638377853314",
+        "created_at": "2025-09-09T01:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T02:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965224638377853314"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "モニタリング"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1569682741960278016",
+              "start": 3,
+              "username": "adelie_cat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/865igHhr70",
+              "end": 53,
+              "expanded_url": "https://x.com/adelie_cat/status/1964256565160268301/photo/1",
+              "media_key": "3_1964256461745508360",
+              "start": 30,
+              "url": "https://t.co/865igHhr70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965224638377853314",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7286
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964256565160268301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @adelie_cat: #モニタリング #初音ミク https://t.co/865igHhr70"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964256461745508360"
+          ]
+        },
+        "author_id": "1569682741960278016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TBS系で放送、ブラックマヨネーズが司会を務めるバラエティー番組\n\n@monitoringtbs6さんの画像",
+              "id": "10029113124",
+              "name": "ニンゲン観察バラエティ モニタリング"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TV Asahi (テレビ朝日)",
+              "id": "1034874547688730624",
+              "name": "TV Asahi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1428442975869145091",
+              "name": "Ningen Kansatsu Variety Monitoring"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1428442975869145091",
+              "name": "Ningen Kansatsu Variety Monitoring"
+            }
+          }
+        ],
+        "conversation_id": "1964256565160268301",
+        "created_at": "2025-09-06T09:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T10:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964256565160268301"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "モニタリング"
+            },
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/865igHhr70",
+              "end": 37,
+              "expanded_url": "https://x.com/adelie_cat/status/1964256565160268301/photo/1",
+              "media_key": "3_1964256461745508360",
+              "start": 14,
+              "url": "https://t.co/865igHhr70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964256565160268301",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4316,
+          "impression_count": 955126,
+          "like_count": 63487,
+          "quote_count": 92,
+          "reply_count": 0,
+          "retweet_count": 7286
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "#モニタリング #初音ミク https://t.co/865igHhr70"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Phoenix, AZ",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 140,
+          "like_count": 6948,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1247
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-13T13:42:03.000Z",
+        "description": "Illustrator\n✉️ : adeliecat12@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/86070195",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/86070195",
+                "start": 0,
+                "url": "https://t.co/FkcolWgrRX"
+              }
+            ]
+          }
+        },
+        "id": "1569682741960278016",
+        "name": "Nyam",
+        "pinned_tweet_id": "1757395476947882055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608490706854907905/KP6lWxtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101868,
+          "following_count": 1357,
+          "like_count": 2492,
+          "listed_count": 638,
+          "media_count": 226,
+          "tweet_count": 607
+        },
+        "url": "https://t.co/FkcolWgrRX",
+        "username": "adelie_cat",
+        "verified": true
+      }
+    ]
+  }
+}

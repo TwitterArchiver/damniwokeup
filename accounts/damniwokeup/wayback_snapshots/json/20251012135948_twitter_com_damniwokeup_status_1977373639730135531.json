@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977069035226644482"
+      ],
+      "media_source_tweet_id": [
+        "1977069039748026878"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1977373639730135531",
+    "created_at": "2025-10-12T13:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T14:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977373639730135531"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "アキ天",
+          "probability": 0.6789,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1726942306618724352",
+          "start": 3,
+          "username": "sora74625856"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wYmYVKt1WN",
+          "end": 45,
+          "expanded_url": "https://x.com/sora74625856/status/1977069039748026878/photo/1",
+          "media_key": "3_1977069035226644482",
+          "start": 22,
+          "url": "https://t.co/wYmYVKt1WN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977373639730135531",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 350
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977069039748026878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sora74625856: アキ天 https://t.co/wYmYVKt1WN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977069035226644482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2_10AUbwAIw9RH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977069035226644482"
+          ],
+          "media_source_tweet_id": [
+            "1977069039748026878"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1977373639730135531",
+        "created_at": "2025-10-12T13:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T14:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977373639730135531"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "アキ天",
+              "probability": 0.6789,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1726942306618724352",
+              "start": 3,
+              "username": "sora74625856"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wYmYVKt1WN",
+              "end": 45,
+              "expanded_url": "https://x.com/sora74625856/status/1977069039748026878/photo/1",
+              "media_key": "3_1977069035226644482",
+              "start": 22,
+              "url": "https://t.co/wYmYVKt1WN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977373639730135531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 350
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977069039748026878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sora74625856: アキ天 https://t.co/wYmYVKt1WN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977069035226644482"
+          ]
+        },
+        "author_id": "1726942306618724352",
+        "conversation_id": "1977069039748026878",
+        "created_at": "2025-10-11T17:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T18:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977069039748026878"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "アキ天",
+              "probability": 0.7316,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wYmYVKt1WN",
+              "end": 27,
+              "expanded_url": "https://x.com/sora74625856/status/1977069039748026878/photo/1",
+              "media_key": "3_1977069035226644482",
+              "start": 4,
+              "url": "https://t.co/wYmYVKt1WN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977069039748026878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 306,
+          "impression_count": 33376,
+          "like_count": 4474,
+          "quote_count": 22,
+          "reply_count": 0,
+          "retweet_count": 350
+        },
+        "reply_settings": "everyone",
+        "text": "アキ天 https://t.co/wYmYVKt1WN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Phoenix, AZ",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 138,
+          "like_count": 6974,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1257
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T12:36:21.000Z",
+        "description": "",
+        "id": "1726942306618724352",
+        "name": "つ",
+        "pinned_tweet_id": "1977068842125033509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977046075635908610/GiNtqpx8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 0,
+          "like_count": 478,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "sora74625856",
+        "verified": false
+      }
+    ]
+  }
+}

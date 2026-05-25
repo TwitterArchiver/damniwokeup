@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866018868776366080"
+      ],
+      "media_source_tweet_id": [
+        "1866018872161092095"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1866289897956655308",
+    "created_at": "2024-12-10T01:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T02:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866289897956655308"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 16,
+          "tag": "sawako"
+        },
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "黒沼爽子"
+        },
+        {
+          "end": 43,
+          "start": 30,
+          "tag": "kiminitodoke"
+        },
+        {
+          "end": 49,
+          "start": 44,
+          "tag": "君に届け"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1213445695",
+          "start": 3,
+          "username": "EnzoJaphet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uHA9bADLbv",
+          "end": 73,
+          "expanded_url": "https://x.com/EnzoJaphet/status/1866018872161092095/photo/1",
+          "media_key": "3_1866018868776366080",
+          "start": 50,
+          "url": "https://t.co/uHA9bADLbv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866289897956655308",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866018872161092095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EnzoJaphet: #sawako #黒沼爽子 #kiminitodoke #君に届け https://t.co/uHA9bADLbv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1866018868776366080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeVuRkmXcAAmqgJ.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866018868776366080"
+          ],
+          "media_source_tweet_id": [
+            "1866018872161092095"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1866289897956655308",
+        "created_at": "2024-12-10T01:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T02:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866289897956655308"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "sawako"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "黒沼爽子"
+            },
+            {
+              "end": 43,
+              "start": 30,
+              "tag": "kiminitodoke"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "君に届け"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1213445695",
+              "start": 3,
+              "username": "EnzoJaphet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uHA9bADLbv",
+              "end": 73,
+              "expanded_url": "https://x.com/EnzoJaphet/status/1866018872161092095/photo/1",
+              "media_key": "3_1866018868776366080",
+              "start": 50,
+              "url": "https://t.co/uHA9bADLbv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866289897956655308",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866018872161092095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EnzoJaphet: #sawako #黒沼爽子 #kiminitodoke #君に届け https://t.co/uHA9bADLbv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866018868776366080"
+          ]
+        },
+        "author_id": "1213445695",
+        "conversation_id": "1866018872161092095",
+        "created_at": "2024-12-09T07:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T08:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866018872161092095"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "sawako"
+            },
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "黒沼爽子"
+            },
+            {
+              "end": 27,
+              "start": 14,
+              "tag": "kiminitodoke"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "君に届け"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uHA9bADLbv",
+              "end": 57,
+              "expanded_url": "https://x.com/EnzoJaphet/status/1866018872161092095/photo/1",
+              "media_key": "3_1866018868776366080",
+              "start": 34,
+              "url": "https://t.co/uHA9bADLbv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866018872161092095",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 2999,
+          "like_count": 376,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "#sawako #黒沼爽子 #kiminitodoke #君に届け https://t.co/uHA9bADLbv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 5757,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 981
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-23T19:36:25.000Z",
+        "description": "creating something new from nothing is art.\ncreate something new from existing things what is it?\n\nhttps://t.co/Q7Xp3vjnXY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/enzojaphet?igs…",
+                "end": 122,
+                "expanded_url": "https://www.instagram.com/enzojaphet?igsh=MW4zMmpldTEzcGRvag=",
+                "start": 99,
+                "url": "https://t.co/Q7Xp3vjnXY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/ChainsawmanKob…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/ChainsawmanKobeni/",
+                "start": 0,
+                "url": "https://t.co/PPDv2NLpSq"
+              }
+            ]
+          }
+        },
+        "id": "1213445695",
+        "name": "Enzo Japhet Nor",
+        "pinned_tweet_id": "1831079000426615157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729381755121967104/oAdqqY9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7967,
+          "following_count": 139,
+          "like_count": 1204,
+          "listed_count": 47,
+          "media_count": 342,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/PPDv2NLpSq",
+        "username": "EnzoJaphet",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027316756327616512"
+      ],
+      "media_source_tweet_id": [
+        "2027316780394496396"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "2027407577936797787",
+    "created_at": "2026-02-27T15:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T16:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027407577936797787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1831643907400331264",
+          "start": 3,
+          "username": "ItomakiRen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CMPJujJyHS",
+          "end": 39,
+          "expanded_url": "https://x.com/ItomakiRen/status/2027316780394496396/photo/1",
+          "media_key": "3_2027316756327616512",
+          "start": 16,
+          "url": "https://t.co/CMPJujJyHS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027407577936797787",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027316780394496396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ItomakiRen: https://t.co/CMPJujJyHS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2027316756327616512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJ52UQa0AAyrJS.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027316756327616512"
+          ],
+          "media_source_tweet_id": [
+            "2027316780394496396"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "2027407577936797787",
+        "created_at": "2026-02-27T15:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027407577936797787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1831643907400331264",
+              "start": 3,
+              "username": "ItomakiRen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CMPJujJyHS",
+              "end": 39,
+              "expanded_url": "https://x.com/ItomakiRen/status/2027316780394496396/photo/1",
+              "media_key": "3_2027316756327616512",
+              "start": 16,
+              "url": "https://t.co/CMPJujJyHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027407577936797787",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027316780394496396",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ItomakiRen: https://t.co/CMPJujJyHS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027316756327616512"
+          ]
+        },
+        "author_id": "1831643907400331264",
+        "conversation_id": "2027316780394496396",
+        "created_at": "2026-02-27T09:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027316780394496396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CMPJujJyHS",
+              "end": 23,
+              "expanded_url": "https://x.com/ItomakiRen/status/2027316780394496396/photo/1",
+              "media_key": "3_2027316756327616512",
+              "start": 0,
+              "url": "https://t.co/CMPJujJyHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027316780394496396",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1935,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CMPJujJyHS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2026181607040925930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 155,
+          "like_count": 7784,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1371
+        },
+        "username": "damniwokeup",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-05T10:42:03.000Z",
+        "description": "AI Illustration + retouch & editing / 趣味のAIイラストをアップ。加筆・加工有/ make use of AI tools ▶Nijijourney ,ComfyUI ,Nano-banana Pro,SeeDream4.5,,Mid journey, SUNO, Vidu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/itomaki_ai/",
+                "end": 23,
+                "expanded_url": "https://note.com/itomaki_ai/",
+                "start": 0,
+                "url": "https://t.co/tjxPV733cr"
+              }
+            ]
+          }
+        },
+        "id": "1831643907400331264",
+        "name": "糸巻れん",
+        "pinned_tweet_id": "2024771758776348724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910184231558672384/uke3G7ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6638,
+          "following_count": 267,
+          "like_count": 8509,
+          "listed_count": 60,
+          "media_count": 1701,
+          "tweet_count": 4827
+        },
+        "url": "https://t.co/tjxPV733cr",
+        "username": "ItomakiRen",
+        "verified": true
+      }
+    ]
+  }
+}

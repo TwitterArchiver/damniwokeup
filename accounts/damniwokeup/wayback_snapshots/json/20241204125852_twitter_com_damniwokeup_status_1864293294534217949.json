@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863903607340539904"
+      ],
+      "media_source_tweet_id": [
+        "1863903613623603494"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1864293294534217949",
+    "created_at": "2024-12-04T12:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T13:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864293294534217949"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 25,
+          "tag": "YakuzaSeries"
+        },
+        {
+          "end": 46,
+          "start": 39,
+          "tag": "Majima"
+        },
+        {
+          "end": 58,
+          "start": 47,
+          "tag": "Majimagoro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1010297260465221634",
+          "start": 3,
+          "username": "djharuharuka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/STLAmxFXuJ",
+          "end": 82,
+          "expanded_url": "https://x.com/djharuharuka/status/1863903613623603494/photo/1",
+          "media_key": "3_1863903607340539904",
+          "start": 59,
+          "url": "https://t.co/STLAmxFXuJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864293294534217949",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 218
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863903613623603494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @djharuharuka: Majima\n#YakuzaSeries #Majima #Majimagoro https://t.co/STLAmxFXuJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1863903607340539904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd3qdJsaIAAI48S.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863903607340539904"
+          ],
+          "media_source_tweet_id": [
+            "1863903613623603494"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1864293294534217949",
+        "created_at": "2024-12-04T12:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T13:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864293294534217949"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 25,
+              "tag": "YakuzaSeries"
+            },
+            {
+              "end": 46,
+              "start": 39,
+              "tag": "Majima"
+            },
+            {
+              "end": 58,
+              "start": 47,
+              "tag": "Majimagoro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1010297260465221634",
+              "start": 3,
+              "username": "djharuharuka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/STLAmxFXuJ",
+              "end": 82,
+              "expanded_url": "https://x.com/djharuharuka/status/1863903613623603494/photo/1",
+              "media_key": "3_1863903607340539904",
+              "start": 59,
+              "url": "https://t.co/STLAmxFXuJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864293294534217949",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 218
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863903613623603494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @djharuharuka: Majima\n#YakuzaSeries #Majima #Majimagoro https://t.co/STLAmxFXuJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863903607340539904"
+          ]
+        },
+        "author_id": "1010297260465221634",
+        "conversation_id": "1863903613623603494",
+        "created_at": "2024-12-03T11:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T12:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863903613623603494"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 7,
+              "tag": "YakuzaSeries"
+            },
+            {
+              "end": 28,
+              "start": 21,
+              "tag": "Majima"
+            },
+            {
+              "end": 40,
+              "start": 29,
+              "tag": "Majimagoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/STLAmxFXuJ",
+              "end": 64,
+              "expanded_url": "https://x.com/djharuharuka/status/1863903613623603494/photo/1",
+              "media_key": "3_1863903607340539904",
+              "start": 41,
+              "url": "https://t.co/STLAmxFXuJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863903613623603494",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 401,
+          "impression_count": 32045,
+          "like_count": 3313,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 218
+        },
+        "reply_settings": "everyone",
+        "text": "Majima\n#YakuzaSeries #Majima #Majimagoro https://t.co/STLAmxFXuJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863961129996967936/qeynYxft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 143,
+          "like_count": 5563,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 908
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-22T23:03:32.000Z",
+        "description": "All cosplay on Instagram : https://t.co/GXa1ld2mOJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/djharuharuka",
+                "end": 50,
+                "expanded_url": "http://Instagram.com/djharuharuka",
+                "start": 27,
+                "url": "https://t.co/GXa1ld2mOJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/DJHaruHaruka",
+                "end": 23,
+                "expanded_url": "http://instagram.com/DJHaruHaruka",
+                "start": 0,
+                "url": "https://t.co/5fsmkxcGeW"
+              }
+            ]
+          }
+        },
+        "id": "1010297260465221634",
+        "location": "Singapore",
+        "name": "H A R U 遙",
+        "pinned_tweet_id": "1850584272887034150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850915416891404288/Zmy3HWwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47703,
+          "following_count": 193,
+          "like_count": 4107,
+          "listed_count": 223,
+          "media_count": 671,
+          "tweet_count": 4820
+        },
+        "url": "https://t.co/5fsmkxcGeW",
+        "username": "djharuharuka",
+        "verified": false
+      }
+    ]
+  }
+}

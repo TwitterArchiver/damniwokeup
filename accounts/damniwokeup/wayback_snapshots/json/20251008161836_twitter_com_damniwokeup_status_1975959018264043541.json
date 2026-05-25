@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975620627332800514"
+      ],
+      "media_source_tweet_id": [
+        "1975620636392534388"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1975959018264043541",
+    "created_at": "2025-10-08T16:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T17:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975959018264043541"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "Monet",
+          "probability": 0.4838,
+          "start": 33,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1170950893337890816",
+          "start": 3,
+          "username": "Jason2Gim"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wlbB0tkkV9",
+          "end": 63,
+          "expanded_url": "https://x.com/Jason2Gim/status/1975620636392534388/photo/1",
+          "media_key": "3_1975620627332800514",
+          "start": 40,
+          "url": "https://t.co/wlbB0tkkV9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975959018264043541",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 875
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975620636392534388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jason2Gim: Reze study (after Monet) https://t.co/wlbB0tkkV9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3546,
+        "media_key": "3_1975620627332800514",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2rQfkcbIAI2-PV.jpg",
+        "width": 2655
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975620627332800514"
+          ],
+          "media_source_tweet_id": [
+            "1975620636392534388"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1975959018264043541",
+        "created_at": "2025-10-08T16:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T17:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975959018264043541"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Monet",
+              "probability": 0.4838,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1170950893337890816",
+              "start": 3,
+              "username": "Jason2Gim"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wlbB0tkkV9",
+              "end": 63,
+              "expanded_url": "https://x.com/Jason2Gim/status/1975620636392534388/photo/1",
+              "media_key": "3_1975620627332800514",
+              "start": 40,
+              "url": "https://t.co/wlbB0tkkV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975959018264043541",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 875
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975620636392534388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jason2Gim: Reze study (after Monet) https://t.co/wlbB0tkkV9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975620627332800514"
+          ]
+        },
+        "author_id": "1170950893337890816",
+        "conversation_id": "1975620636392534388",
+        "created_at": "2025-10-07T17:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T18:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975620636392534388"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Monet",
+              "probability": 0.5262,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wlbB0tkkV9",
+              "end": 48,
+              "expanded_url": "https://x.com/Jason2Gim/status/1975620636392534388/photo/1",
+              "media_key": "3_1975620627332800514",
+              "start": 25,
+              "url": "https://t.co/wlbB0tkkV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975620636392534388",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 707,
+          "impression_count": 80102,
+          "like_count": 8090,
+          "quote_count": 23,
+          "reply_count": 7,
+          "retweet_count": 875
+        },
+        "reply_settings": "everyone",
+        "text": "Reze study (after Monet) https://t.co/wlbB0tkkV9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Phoenix, AZ",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 139,
+          "like_count": 6975,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1256
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-09T06:43:51.000Z",
+        "description": "draw draw https://t.co/l39Ut66UHp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/7000942",
+                "end": 33,
+                "expanded_url": "https://www.pixiv.net/users/7000942",
+                "start": 10,
+                "url": "https://t.co/l39Ut66UHp"
+              }
+            ]
+          }
+        },
+        "id": "1170950893337890816",
+        "name": "JasonKim",
+        "pinned_tweet_id": "1842638934410723669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958347854742962176/0K1JgL2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265370,
+          "following_count": 1894,
+          "like_count": 17333,
+          "listed_count": 1382,
+          "media_count": 186,
+          "tweet_count": 6372
+        },
+        "username": "Jason2Gim",
+        "verified": true
+      }
+    ]
+  }
+}

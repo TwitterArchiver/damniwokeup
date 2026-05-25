@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978201791012511745"
+      ],
+      "media_source_tweet_id": [
+        "1978201793680015837"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1978443490762670114",
+    "created_at": "2025-10-15T12:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T13:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978443490762670114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1746353122014875648",
+          "start": 3,
+          "username": "zerotwosfang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zCx124pof6",
+          "end": 41,
+          "expanded_url": "https://x.com/zerotwosfang/status/1978201793680015837/photo/1",
+          "media_key": "3_1978201791012511745",
+          "start": 18,
+          "url": "https://t.co/zCx124pof6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978443490762670114",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 840
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978201793680015837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zerotwosfang: https://t.co/zCx124pof6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_1978201791012511745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3P8DEdXoAEj1Aj.jpg",
+        "width": 1350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978201791012511745"
+          ],
+          "media_source_tweet_id": [
+            "1978201793680015837"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1978443490762670114",
+        "created_at": "2025-10-15T12:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T13:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978443490762670114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1746353122014875648",
+              "start": 3,
+              "username": "zerotwosfang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCx124pof6",
+              "end": 41,
+              "expanded_url": "https://x.com/zerotwosfang/status/1978201793680015837/photo/1",
+              "media_key": "3_1978201791012511745",
+              "start": 18,
+              "url": "https://t.co/zCx124pof6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978443490762670114",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 840
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978201793680015837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zerotwosfang: https://t.co/zCx124pof6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978201791012511745"
+          ]
+        },
+        "author_id": "1746353122014875648",
+        "conversation_id": "1978201793680015837",
+        "created_at": "2025-10-14T20:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T21:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978201793680015837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCx124pof6",
+              "end": 23,
+              "expanded_url": "https://x.com/zerotwosfang/status/1978201793680015837/photo/1",
+              "media_key": "3_1978201791012511745",
+              "start": 0,
+              "url": "https://t.co/zCx124pof6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978201793680015837",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1189,
+          "impression_count": 63933,
+          "like_count": 6337,
+          "quote_count": 29,
+          "reply_count": 11,
+          "retweet_count": 840
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zCx124pof6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Phoenix, AZ",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 139,
+          "like_count": 6975,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1258
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T02:06:57.000Z",
+        "description": "Alice/Ari, 23, monogatari spoilers! Interact and be nice to be friends.\nnsfw retweets. Please don't insult my favorite characters.",
+        "id": "1746353122014875648",
+        "location": "they/she 🇵🇹",
+        "name": "arizty",
+        "pinned_tweet_id": "1750490079968088418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971323385729748992/S0JkUEoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 379,
+          "like_count": 154095,
+          "listed_count": 3,
+          "media_count": 3193,
+          "tweet_count": 57609
+        },
+        "username": "zerotwosfang",
+        "verified": false
+      }
+    ]
+  }
+}

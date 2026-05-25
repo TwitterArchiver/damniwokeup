@@ -1,0 +1,727 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1851175061098782720"
+      ],
+      "media_source_tweet_id": [
+        "1852682073275801928"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "KING OF PRISM",
+          "id": "1059458486411526149",
+          "name": "KING OF PRISM"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1294427893045399554",
+          "name": "Pretty Series"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "KING OF PRISM",
+          "id": "1059458486411526149",
+          "name": "KING OF PRISM"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1294427893045399554",
+          "name": "Pretty Series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "1852876997988663301",
+    "created_at": "2024-11-03T00:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T01:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852876997988663301"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "山田リョウ",
+          "probability": 0.9277,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 26,
+          "tag": "ぼっち・ざ・ろっく"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "632792473",
+          "start": 3,
+          "username": "norikoi_noriko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yEGMnV5wnl",
+          "end": 60,
+          "expanded_url": "https://x.com/norikoi_noriko/status/1852682073275801928/photo/1",
+          "media_key": "3_1851175061098782720",
+          "start": 37,
+          "url": "https://t.co/yEGMnV5wnl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852876997988663301",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 196
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852682073275801928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @norikoi_noriko: 山田リョウ #ぼっち・ざ・ろっく https://t.co/yEGMnV5wnl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1851175061098782720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbCx6P3a4AAwlC8.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851175061098782720"
+          ],
+          "media_source_tweet_id": [
+            "1852682073275801928"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "KING OF PRISM",
+              "id": "1059458486411526149",
+              "name": "KING OF PRISM"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1294427893045399554",
+              "name": "Pretty Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "KING OF PRISM",
+              "id": "1059458486411526149",
+              "name": "KING OF PRISM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1294427893045399554",
+              "name": "Pretty Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1852876997988663301",
+        "created_at": "2024-11-03T00:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T01:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852876997988663301"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "山田リョウ",
+              "probability": 0.9277,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 26,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "632792473",
+              "start": 3,
+              "username": "norikoi_noriko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yEGMnV5wnl",
+              "end": 60,
+              "expanded_url": "https://x.com/norikoi_noriko/status/1852682073275801928/photo/1",
+              "media_key": "3_1851175061098782720",
+              "start": 37,
+              "url": "https://t.co/yEGMnV5wnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852876997988663301",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 196
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852682073275801928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @norikoi_noriko: 山田リョウ #ぼっち・ざ・ろっく https://t.co/yEGMnV5wnl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851175061098782720"
+          ]
+        },
+        "author_id": "632792473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "KING OF PRISM",
+              "id": "1059458486411526149",
+              "name": "KING OF PRISM"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1294427893045399554",
+              "name": "Pretty Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "KING OF PRISM",
+              "id": "1059458486411526149",
+              "name": "KING OF PRISM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1294427893045399554",
+              "name": "Pretty Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1852682073275801928",
+        "created_at": "2024-11-02T12:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T13:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852682073275801928"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 6,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yEGMnV5wnl",
+              "end": 40,
+              "expanded_url": "https://x.com/norikoi_noriko/status/1852682073275801928/photo/1",
+              "media_key": "3_1851175061098782720",
+              "start": 17,
+              "url": "https://t.co/yEGMnV5wnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852682073275801928",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 15936,
+          "like_count": 1288,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 196
+        },
+        "reply_settings": "everyone",
+        "text": "山田リョウ #ぼっち・ざ・ろっく https://t.co/yEGMnV5wnl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847962644852162560/UJMfw11t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 122,
+          "like_count": 4552,
+          "listed_count": 0,
+          "tweet_count": 488
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-11T10:40:48.000Z",
+        "description": "イラストレーター/後ろ姿を鮮やかに\n◆各種リンクまとめ: https://t.co/rCsWA6eA2x\n◆Contact: https://t.co/eyQAdUlEx6\n◆Skeb: https://t.co/i7Uww84DyJ\n◆グッズ: https://t.co/Lpicx8K40r\n◆配信:@norikoi_Stream",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 167,
+                "start": 152,
+                "username": "norikoi_Stream"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/norikoi",
+                "end": 52,
+                "expanded_url": "https://lit.link/norikoi",
+                "start": 29,
+                "url": "https://t.co/rCsWA6eA2x"
+              },
+              {
+                "display_url": "x.gd/PqvKN",
+                "end": 86,
+                "expanded_url": "https://x.gd/PqvKN",
+                "start": 63,
+                "url": "https://t.co/eyQAdUlEx6"
+              },
+              {
+                "display_url": "x.gd/GvnkS",
+                "end": 117,
+                "expanded_url": "https://x.gd/GvnkS",
+                "start": 94,
+                "url": "https://t.co/i7Uww84DyJ"
+              },
+              {
+                "display_url": "x.gd/acwRG",
+                "end": 147,
+                "expanded_url": "https://x.gd/acwRG",
+                "start": 124,
+                "url": "https://t.co/Lpicx8K40r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "norikoinorikoillus.wixsite.com/norikoi",
+                "end": 23,
+                "expanded_url": "https://norikoinorikoillus.wixsite.com/norikoi",
+                "start": 0,
+                "url": "https://t.co/0WLscDezxf"
+              }
+            ]
+          }
+        },
+        "id": "632792473",
+        "location": "AI学習❌無断転載❌",
+        "name": "のり恋🐰コミティア150 O-46b",
+        "pinned_tweet_id": "1849737669162807334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607050649187028993/FRQ7u_rT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92344,
+          "following_count": 1948,
+          "like_count": 140526,
+          "listed_count": 970,
+          "tweet_count": 38436
+        },
+        "url": "https://t.co/0WLscDezxf",
+        "username": "norikoi_noriko",
+        "verified": true
+      }
+    ]
+  }
+}

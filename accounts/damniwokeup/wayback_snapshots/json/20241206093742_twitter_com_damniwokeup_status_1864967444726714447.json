@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864791822935166977"
+      ],
+      "media_source_tweet_id": [
+        "1864791831130837230"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1864967444726714447",
+    "created_at": "2024-12-06T09:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T10:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864967444726714447"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 27,
+          "tag": "フリーイラスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1804798191940124673",
+          "start": 3,
+          "username": "Rin1732996"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sDzVnOvXYd",
+          "end": 59,
+          "expanded_url": "https://x.com/Rin1732996/status/1864791831130837230/photo/1",
+          "media_key": "3_1864791822935166977",
+          "start": 36,
+          "url": "https://t.co/sDzVnOvXYd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864967444726714447",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 325
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864791831130837230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rin1732996: 「目覚めの1杯」\n\n #フリーイラスト https://t.co/sDzVnOvXYd"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "AI Illust",
+        "height": 2048,
+        "media_key": "3_1864791822935166977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeESSGoakAEVSoF.jpg",
+        "width": 1543
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864791822935166977"
+          ],
+          "media_source_tweet_id": [
+            "1864791831130837230"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1864967444726714447",
+        "created_at": "2024-12-06T09:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T10:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864967444726714447"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 27,
+              "tag": "フリーイラスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1804798191940124673",
+              "start": 3,
+              "username": "Rin1732996"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sDzVnOvXYd",
+              "end": 59,
+              "expanded_url": "https://x.com/Rin1732996/status/1864791831130837230/photo/1",
+              "media_key": "3_1864791822935166977",
+              "start": 36,
+              "url": "https://t.co/sDzVnOvXYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864967444726714447",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 325
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864791831130837230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rin1732996: 「目覚めの1杯」\n\n #フリーイラスト https://t.co/sDzVnOvXYd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864791822935166977"
+          ]
+        },
+        "author_id": "1804798191940124673",
+        "conversation_id": "1864791831130837230",
+        "created_at": "2024-12-05T21:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T22:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864791831130837230"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 11,
+              "tag": "フリーイラスト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sDzVnOvXYd",
+              "end": 43,
+              "expanded_url": "https://x.com/Rin1732996/status/1864791831130837230/photo/1",
+              "media_key": "3_1864791822935166977",
+              "start": 20,
+              "url": "https://t.co/sDzVnOvXYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864791831130837230",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 635,
+          "impression_count": 80211,
+          "like_count": 6091,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 325
+        },
+        "reply_settings": "everyone",
+        "text": "「目覚めの1杯」\n\n #フリーイラスト https://t.co/sDzVnOvXYd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 144,
+          "like_count": 5644,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 944
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T08:47:01.000Z",
+        "description": "///病垢///    趣味でAIイラスト作ってます。🖌依頼はDMかリンク🔗から要相談。載せているイラストは全てフリーイラストです。ヘッダー▶ @tiksca2299       🗝▶ @lupinus_rinrin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "tiksca2299"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "lupinus_rinrin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/RinAiIllust",
+                "end": 23,
+                "expanded_url": "https://lit.link/RinAiIllust",
+                "start": 0,
+                "url": "https://t.co/Qbdfr0m4bi"
+              }
+            ]
+          }
+        },
+        "id": "1804798191940124673",
+        "location": "いんたーねっと。",
+        "name": "Rin_981",
+        "pinned_tweet_id": "1849737769121354223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845428591930245122/ykbL9jKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38007,
+          "following_count": 298,
+          "like_count": 42384,
+          "listed_count": 124,
+          "media_count": 990,
+          "tweet_count": 12795
+        },
+        "url": "https://t.co/Qbdfr0m4bi",
+        "username": "Rin1732996",
+        "verified": true
+      }
+    ]
+  }
+}

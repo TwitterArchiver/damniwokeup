@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859702693268451328"
+      ],
+      "media_source_tweet_id": [
+        "1859703474289770729"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1859891754008551791",
+    "created_at": "2024-11-22T09:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T10:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859891754008551791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1020652747664678912",
+          "start": 3,
+          "username": "aji_eatfish"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5L3R1sUu9V",
+          "end": 50,
+          "expanded_url": "https://x.com/aji_eatfish/status/1859703474289770729/photo/1",
+          "media_key": "3_1859702693268451328",
+          "start": 27,
+          "url": "https://t.co/5L3R1sUu9V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859891754008551791",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 321
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859703474289770729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aji_eatfish: &gt;\"&lt; https://t.co/5L3R1sUu9V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1859702693268451328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc79vxQacAASmPG.jpg",
+        "width": 3131
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859702693268451328"
+          ],
+          "media_source_tweet_id": [
+            "1859703474289770729"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1859891754008551791",
+        "created_at": "2024-11-22T09:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T10:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859891754008551791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1020652747664678912",
+              "start": 3,
+              "username": "aji_eatfish"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5L3R1sUu9V",
+              "end": 50,
+              "expanded_url": "https://x.com/aji_eatfish/status/1859703474289770729/photo/1",
+              "media_key": "3_1859702693268451328",
+              "start": 27,
+              "url": "https://t.co/5L3R1sUu9V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859891754008551791",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 321
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859703474289770729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aji_eatfish: &gt;\"&lt; https://t.co/5L3R1sUu9V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859702693268451328"
+          ]
+        },
+        "author_id": "1020652747664678912",
+        "conversation_id": "1859703474289770729",
+        "created_at": "2024-11-21T21:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T22:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859703474289770729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5L3R1sUu9V",
+              "end": 33,
+              "expanded_url": "https://x.com/aji_eatfish/status/1859703474289770729/photo/1",
+              "media_key": "3_1859702693268451328",
+              "start": 10,
+              "url": "https://t.co/5L3R1sUu9V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859703474289770729",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 31069,
+          "like_count": 2828,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 321
+        },
+        "reply_settings": "everyone",
+        "text": "&gt;\"&lt; https://t.co/5L3R1sUu9V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 130,
+          "like_count": 5006,
+          "listed_count": 0,
+          "tweet_count": 692
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-21T12:52:32.000Z",
+        "description": "阿擠ᴀᴊɪ｜🎨｜mail : ajiji9210@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ajieatfish",
+                "end": 23,
+                "expanded_url": "https://lit.link/ajieatfish",
+                "start": 0,
+                "url": "https://t.co/GxjZ6NXweR"
+              }
+            ]
+          }
+        },
+        "id": "1020652747664678912",
+        "location": "☾ ᴜɴᴅᴇʀ ᴛʜᴇ sᴇᴀ 🐟 ",
+        "name": "アジ ✿ AJIJI",
+        "pinned_tweet_id": "1762739199143448775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769935465875156992/Ncw-hquz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7803,
+          "following_count": 727,
+          "like_count": 67100,
+          "listed_count": 66,
+          "tweet_count": 6163
+        },
+        "url": "https://t.co/GxjZ6NXweR",
+        "username": "aji_eatfish",
+        "verified": false
+      }
+    ]
+  }
+}

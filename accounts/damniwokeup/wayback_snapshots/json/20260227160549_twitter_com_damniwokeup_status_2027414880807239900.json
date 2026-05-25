@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027381182703239168",
+        "3_2027381182711668736",
+        "3_2027381182715871232",
+        "3_2027381182820958209"
+      ],
+      "media_source_tweet_id": [
+        "2027381186717266300",
+        "2027381186717266300",
+        "2027381186717266300",
+        "2027381186717266300"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "2027414880807239900",
+    "created_at": "2026-02-27T16:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027414880807239900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1458588211782033414",
+          "start": 3,
+          "username": "softboyaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7vW69R05qX",
+          "end": 57,
+          "expanded_url": "https://x.com/softboyaki/status/2027381186717266300/photo/1",
+          "media_key": "3_2027381182703239168",
+          "start": 34,
+          "url": "https://t.co/7vW69R05qX"
+        },
+        {
+          "display_url": "pic.x.com/7vW69R05qX",
+          "end": 57,
+          "expanded_url": "https://x.com/softboyaki/status/2027381186717266300/photo/1",
+          "media_key": "3_2027381182711668736",
+          "start": 34,
+          "url": "https://t.co/7vW69R05qX"
+        },
+        {
+          "display_url": "pic.x.com/7vW69R05qX",
+          "end": 57,
+          "expanded_url": "https://x.com/softboyaki/status/2027381186717266300/photo/1",
+          "media_key": "3_2027381182715871232",
+          "start": 34,
+          "url": "https://t.co/7vW69R05qX"
+        },
+        {
+          "display_url": "pic.x.com/7vW69R05qX",
+          "end": 57,
+          "expanded_url": "https://x.com/softboyaki/status/2027381186717266300/photo/1",
+          "media_key": "3_2027381182820958209",
+          "start": 34,
+          "url": "https://t.co/7vW69R05qX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027414880807239900",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027381186717266300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @softboyaki: peak codependency https://t.co/7vW69R05qX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2027381182703239168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCK0cbNWgAA8xGx.jpg",
+        "width": 1000
+      },
+      {
+        "height": 750,
+        "media_key": "3_2027381182711668736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCK0cbPXIAA7sUl.jpg",
+        "width": 1500
+      },
+      {
+        "height": 611,
+        "media_key": "3_2027381182715871232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCK0cbQXQAAbt0E.jpg",
+        "width": 736
+      },
+      {
+        "height": 350,
+        "media_key": "3_2027381182820958209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCK0cbpawAEwB_g.jpg",
+        "width": 614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027381182703239168",
+            "3_2027381182711668736",
+            "3_2027381182715871232",
+            "3_2027381182820958209"
+          ],
+          "media_source_tweet_id": [
+            "2027381186717266300",
+            "2027381186717266300",
+            "2027381186717266300",
+            "2027381186717266300"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "2027414880807239900",
+        "created_at": "2026-02-27T16:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027414880807239900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1458588211782033414",
+              "start": 3,
+              "username": "softboyaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7vW69R05qX",
+              "end": 57,
+              "expanded_url": "https://x.com/softboyaki/status/2027381186717266300/photo/1",
+              "media_key": "3_2027381182703239168",
+              "start": 34,
+              "url": "https://t.co/7vW69R05qX"
+            },
+            {
+              "display_url": "pic.x.com/7vW69R05qX",
+              "end": 57,
+              "expanded_url": "https://x.com/softboyaki/status/2027381186717266300/photo/1",
+              "media_key": "3_2027381182711668736",
+              "start": 34,
+              "url": "https://t.co/7vW69R05qX"
+            },
+            {
+              "display_url": "pic.x.com/7vW69R05qX",
+              "end": 57,
+              "expanded_url": "https://x.com/softboyaki/status/2027381186717266300/photo/1",
+              "media_key": "3_2027381182715871232",
+              "start": 34,
+              "url": "https://t.co/7vW69R05qX"
+            },
+            {
+              "display_url": "pic.x.com/7vW69R05qX",
+              "end": 57,
+              "expanded_url": "https://x.com/softboyaki/status/2027381186717266300/photo/1",
+              "media_key": "3_2027381182820958209",
+              "start": 34,
+              "url": "https://t.co/7vW69R05qX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027414880807239900",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027381186717266300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @softboyaki: peak codependency https://t.co/7vW69R05qX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027381182703239168",
+            "3_2027381182711668736",
+            "3_2027381182715871232",
+            "3_2027381182820958209"
+          ]
+        },
+        "author_id": "1458588211782033414",
+        "conversation_id": "2027381186717266300",
+        "created_at": "2026-02-27T13:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027381186717266300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7vW69R05qX",
+              "end": 41,
+              "expanded_url": "https://x.com/softboyaki/status/2027381186717266300/photo/1",
+              "media_key": "3_2027381182703239168",
+              "start": 18,
+              "url": "https://t.co/7vW69R05qX"
+            },
+            {
+              "display_url": "pic.x.com/7vW69R05qX",
+              "end": 41,
+              "expanded_url": "https://x.com/softboyaki/status/2027381186717266300/photo/1",
+              "media_key": "3_2027381182711668736",
+              "start": 18,
+              "url": "https://t.co/7vW69R05qX"
+            },
+            {
+              "display_url": "pic.x.com/7vW69R05qX",
+              "end": 41,
+              "expanded_url": "https://x.com/softboyaki/status/2027381186717266300/photo/1",
+              "media_key": "3_2027381182715871232",
+              "start": 18,
+              "url": "https://t.co/7vW69R05qX"
+            },
+            {
+              "display_url": "pic.x.com/7vW69R05qX",
+              "end": 41,
+              "expanded_url": "https://x.com/softboyaki/status/2027381186717266300/photo/1",
+              "media_key": "3_2027381182820958209",
+              "start": 18,
+              "url": "https://t.co/7vW69R05qX"
+            },
+            {
+              "display_url": "x.com/riverlethes/st…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/riverlethes/status/2026959168599380088",
+              "start": 42,
+              "url": "https://t.co/RINCFUcRyA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027381186717266300",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 5486,
+          "like_count": 611,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026959168599380088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "peak codependency https://t.co/7vW69R05qX https://t.co/RINCFUcRyA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2026181607040925930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 155,
+          "like_count": 7791,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1371
+        },
+        "username": "damniwokeup",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-11T00:11:52.000Z",
+        "description": ". . . . . how can i make this about aki",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hayakawa.⋆",
+                "end": 23,
+                "expanded_url": "http://hayakawa.xn--yfh/",
+                "start": 0,
+                "url": "https://t.co/MD9uEnfpPT"
+              }
+            ]
+          }
+        },
+        "id": "1458588211782033414",
+        "location": "alice 20 she her \nlesbian   pisces\ncsm, jjk, hxh\nnsfw content \n\n",
+        "name": "ً",
+        "pinned_tweet_id": "1717987967388500452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496008486752301059/R1uknwhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10958,
+          "following_count": 466,
+          "like_count": 55144,
+          "listed_count": 28,
+          "media_count": 1245,
+          "tweet_count": 9215
+        },
+        "url": "https://t.co/MD9uEnfpPT",
+        "username": "softboyaki",
+        "verified": false
+      }
+    ]
+  }
+}

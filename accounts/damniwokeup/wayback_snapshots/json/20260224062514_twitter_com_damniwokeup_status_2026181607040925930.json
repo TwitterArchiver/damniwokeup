@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "2026181607040925930",
+    "created_at": "2026-02-24T06:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T07:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026181607040925930"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026181607040925930",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "This is for all of my friends.\nLiving in such a messed‑up world is not easy. Things never go right, and I’m already tired of them. I do have some mental issues, and sometimes I wonder if it might be better if everything just ended. Yet still, because of you guys, I tread on.\n\nYou showed me a spirit that longs for freedom and refuses to ever yield. I’m really into it. Something always held me back or stood in the way, but those extraordinary qualities always reminded me to remain true to myself.\n\nIt is my honor to call you my friends. Please keep chasing your dreams, and never forget who you really are. Take care of yourselves and be well. May we all be blessed.\n\n写给我的朋友们：\n生活在这个混乱的世界里并不容易，事情总是会出错。对于有精神困扰的我来说，我早已感到疲惫。有时候我会想，如果这一切都结束，会不会更好？\n但正因为有你们，我仍然继续前行。我为你们追求自由、绝不妥协的精神感到着迷。虽然总有牵绊阻拦着我，但你们那些非凡的特质始终提醒我要忠于自己。\n能与你们成为朋友，是我的荣幸。请继续追逐你们的梦想，始终忠于真实的自己。\n最后，请照顾好自己，愿我们都被祝福。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "This is for all of my friends.\nLiving in such a messed‑up world is not easy. Things never go right, and I’m already tired of them. I do have some mental issues, and sometimes I wonder if it might be better if everything just ended. Yet still, because of you guys, I tread on.\n\nYou"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "2026181607040925930",
+        "created_at": "2026-02-24T06:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026181607040925930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026181607040925930",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "This is for all of my friends.\nLiving in such a messed‑up world is not easy. Things never go right, and I’m already tired of them. I do have some mental issues, and sometimes I wonder if it might be better if everything just ended. Yet still, because of you guys, I tread on.\n\nYou showed me a spirit that longs for freedom and refuses to ever yield. I’m really into it. Something always held me back or stood in the way, but those extraordinary qualities always reminded me to remain true to myself.\n\nIt is my honor to call you my friends. Please keep chasing your dreams, and never forget who you really are. Take care of yourselves and be well. May we all be blessed.\n\n写给我的朋友们：\n生活在这个混乱的世界里并不容易，事情总是会出错。对于有精神困扰的我来说，我早已感到疲惫。有时候我会想，如果这一切都结束，会不会更好？\n但正因为有你们，我仍然继续前行。我为你们追求自由、绝不妥协的精神感到着迷。虽然总有牵绊阻拦着我，但你们那些非凡的特质始终提醒我要忠于自己。\n能与你们成为朋友，是我的荣幸。请继续追逐你们的梦想，始终忠于真实的自己。\n最后，请照顾好自己，愿我们都被祝福。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "This is for all of my friends.\nLiving in such a messed‑up world is not easy. Things never go right, and I’m already tired of them. I do have some mental issues, and sometimes I wonder if it might be better if everything just ended. Yet still, because of you guys, I tread on.\n\nYou"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 153,
+          "like_count": 7596,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 1343
+        },
+        "username": "damniwokeup",
+        "verified": true
+      }
+    ]
+  }
+}

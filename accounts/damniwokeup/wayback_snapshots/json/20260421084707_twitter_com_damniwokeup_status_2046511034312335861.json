@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "2046423718315131306",
+    "created_at": "2026-04-21T08:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T09:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046511034312335861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046511034312335861",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046423718315131306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 在欧洲很多国家麦当劳的番茄酱也收费…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 660,
+        "media_key": "3_2046423709431521280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZbhXSaYAAYjcd.jpg",
+        "width": 1176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "2046423718315131306",
+        "created_at": "2026-04-21T08:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046511034312335861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046511034312335861",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046423718315131306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 在欧洲很多国家麦当劳的番茄酱也收费…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046423709431521280"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2046423718315131306",
+        "created_at": "2026-04-21T03:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T04:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046423718315131306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LpVRCZWhl7",
+              "end": 164,
+              "expanded_url": "https://x.com/smiroyama/status/2046423718315131306/photo/1",
+              "media_key": "3_2046423709431521280",
+              "start": 141,
+              "url": "https://t.co/LpVRCZWhl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046423718315131306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "4月20日开始，肯德基全国正式上线收费蘸酱和撒粉，原则上不再提供额外的免费蘸酱。目前点餐页面已更新，规定是购买小薯条给一包9g的番茄酱，中薯条、大薯条给2包番茄酱。购买黄金鸡块给一盒20g的糖醋酱或甜辣酱。如果顾客要额外的蘸酱，会主动告知可在小程序内购买。\n\n新上线的蘸酱有3款： 糖醋酱、甜辣酱和\n炸鸡的酱，售价1.2元30g一盒，还有4款\n撒粉：天府椒麻香辣粉、香菜牛肉风味粉、\n香辣孜然风味粉和避风塘风味粉，售价\n0.9元4g一包。\n\n来源：QQ 空间 @马有时"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 17047,
+          "like_count": 81,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "4月20日开始，肯德基全国正式上线收费蘸酱和撒粉，原则上不再提供额外的免费蘸酱。目前点餐页面已更新，规定是购买小薯条给一包9g的番茄酱，中薯条、大薯条给2包番茄酱。购买黄金鸡块给一盒20g的糖醋酱或甜辣酱。如果顾客要额外的蘸酱，会主动告知可在小程序内购买。\n\n新上线的蘸酱有3款： https://t.co/LpVRCZWhl7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "Per aspera ad astra",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2045858174058758244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 202,
+          "like_count": 8659,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1421
+        },
+        "username": "damniwokeup",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\ndev https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan \nthey/them",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 63,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 40,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3336,
+          "following_count": 1951,
+          "like_count": 8365,
+          "listed_count": 4,
+          "media_count": 1203,
+          "tweet_count": 5114
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

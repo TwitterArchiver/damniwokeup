@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1852509286712131584"
+      ],
+      "media_source_tweet_id": [
+        "1852509401342414957"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1853117705567736027",
+    "created_at": "2024-11-03T16:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T17:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853117705567736027"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "Luce",
+          "probability": 0.9216,
+          "start": 32,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "Luce"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "934929100724146182",
+          "start": 3,
+          "username": "vladitsvar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vk9sS5pXqz",
+          "end": 60,
+          "expanded_url": "https://x.com/vladitsvar/status/1852509401342414957/photo/1",
+          "media_key": "3_1852509286712131584",
+          "start": 37,
+          "url": "https://t.co/Vk9sS5pXqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853117705567736027",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5208
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852509401342414957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vladitsvar: Friends &lt;3\n\n#Luce https://t.co/Vk9sS5pXqz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_1852509286712131584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbVvYZmWwAAjYeX.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852509286712131584"
+          ],
+          "media_source_tweet_id": [
+            "1852509401342414957"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1853117705567736027",
+        "created_at": "2024-11-03T16:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T17:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853117705567736027"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Luce",
+              "probability": 0.9216,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "Luce"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "934929100724146182",
+              "start": 3,
+              "username": "vladitsvar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vk9sS5pXqz",
+              "end": 60,
+              "expanded_url": "https://x.com/vladitsvar/status/1852509401342414957/photo/1",
+              "media_key": "3_1852509286712131584",
+              "start": 37,
+              "url": "https://t.co/Vk9sS5pXqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853117705567736027",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5208
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852509401342414957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vladitsvar: Friends &lt;3\n\n#Luce https://t.co/Vk9sS5pXqz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852509286712131584"
+          ]
+        },
+        "author_id": "934929100724146182",
+        "conversation_id": "1852509401342414957",
+        "created_at": "2024-11-02T00:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T01:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852509401342414957"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Luce",
+              "probability": 0.904,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "Luce"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vk9sS5pXqz",
+              "end": 44,
+              "expanded_url": "https://x.com/vladitsvar/status/1852509401342414957/photo/1",
+              "media_key": "3_1852509286712131584",
+              "start": 21,
+              "url": "https://t.co/Vk9sS5pXqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852509401342414957",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3967,
+          "impression_count": 796738,
+          "like_count": 66970,
+          "quote_count": 66,
+          "reply_count": 77,
+          "retweet_count": 5208
+        },
+        "reply_settings": "everyone",
+        "text": "Friends &lt;3\n\n#Luce https://t.co/Vk9sS5pXqz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 123,
+          "like_count": 4589,
+          "listed_count": 0,
+          "tweet_count": 503
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-26T23:37:22.000Z",
+        "description": "Artist, writer & composer.\nLangs: Español | English\nMultifandom + Original",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vladitsvar",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vladitsvar",
+                "start": 0,
+                "url": "https://t.co/PiSubX2aNV"
+              }
+            ]
+          }
+        },
+        "id": "934929100724146182",
+        "location": "Ñuñoa, Chile",
+        "name": "vladitsvar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673118284172886024/5QInAk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 920,
+          "like_count": 32212,
+          "listed_count": 0,
+          "tweet_count": 3736
+        },
+        "url": "https://t.co/PiSubX2aNV",
+        "username": "vladitsvar",
+        "verified": false
+      }
+    ]
+  }
+}

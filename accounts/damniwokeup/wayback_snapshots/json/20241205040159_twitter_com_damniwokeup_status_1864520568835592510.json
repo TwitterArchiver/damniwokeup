@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864307059011014660"
+      ],
+      "media_source_tweet_id": [
+        "1864307073795936748"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1864520568835592510",
+    "created_at": "2024-12-05T04:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T05:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864520568835592510"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 22,
+          "tag": "ガルクラ"
+        },
+        {
+          "end": 42,
+          "start": 29,
+          "tag": "GirlsBandCry"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "883196473470365697",
+          "start": 3,
+          "username": "clouble_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VVU4gawSq7",
+          "end": 66,
+          "expanded_url": "https://x.com/clouble_/status/1864307073795936748/photo/1",
+          "media_key": "3_1864307059011014660",
+          "start": 43,
+          "url": "https://t.co/VVU4gawSq7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864520568835592510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 817
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864307073795936748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @clouble_: 长发rupa  #ガルクラ  #GirlsBandCry https://t.co/VVU4gawSq7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1864307059011014660",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd9ZZISa0AQX7xp.jpg",
+        "width": 1588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864307059011014660"
+          ],
+          "media_source_tweet_id": [
+            "1864307073795936748"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1864520568835592510",
+        "created_at": "2024-12-05T04:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T05:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864520568835592510"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 42,
+              "start": 29,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "883196473470365697",
+              "start": 3,
+              "username": "clouble_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VVU4gawSq7",
+              "end": 66,
+              "expanded_url": "https://x.com/clouble_/status/1864307073795936748/photo/1",
+              "media_key": "3_1864307059011014660",
+              "start": 43,
+              "url": "https://t.co/VVU4gawSq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864520568835592510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 817
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864307073795936748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @clouble_: 长发rupa  #ガルクラ  #GirlsBandCry https://t.co/VVU4gawSq7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864307059011014660"
+          ]
+        },
+        "author_id": "883196473470365697",
+        "conversation_id": "1864307073795936748",
+        "created_at": "2024-12-04T13:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T14:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864307073795936748"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 28,
+              "start": 15,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VVU4gawSq7",
+              "end": 52,
+              "expanded_url": "https://x.com/clouble_/status/1864307073795936748/photo/1",
+              "media_key": "3_1864307059011014660",
+              "start": 29,
+              "url": "https://t.co/VVU4gawSq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864307073795936748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 533,
+          "impression_count": 68233,
+          "like_count": 4912,
+          "quote_count": 40,
+          "reply_count": 5,
+          "retweet_count": 817
+        },
+        "reply_settings": "everyone",
+        "text": "长发rupa  #ガルクラ  #GirlsBandCry https://t.co/VVU4gawSq7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 144,
+          "like_count": 5591,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 923
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-07T05:30:23.000Z",
+        "description": "中国绘师 weibo：clouble_  Pixiv: https://t.co/OxtJQsirB8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/2640074",
+                "end": 51,
+                "expanded_url": "http://pixiv.net/users/2640074",
+                "start": 28,
+                "url": "https://t.co/OxtJQsirB8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=2640074",
+                "start": 0,
+                "url": "https://t.co/ZfpuBlDIAX"
+              }
+            ]
+          }
+        },
+        "id": "883196473470365697",
+        "location": "Shanghai",
+        "name": "clouble",
+        "pinned_tweet_id": "1859911418885415362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1151420572158418944/BcYabK3B_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53216,
+          "following_count": 386,
+          "like_count": 228,
+          "listed_count": 374,
+          "media_count": 76,
+          "tweet_count": 252
+        },
+        "url": "https://t.co/ZfpuBlDIAX",
+        "username": "clouble_",
+        "verified": false
+      }
+    ]
+  }
+}

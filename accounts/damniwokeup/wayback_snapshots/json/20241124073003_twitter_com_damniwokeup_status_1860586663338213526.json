@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860307831196647430"
+      ],
+      "media_source_tweet_id": [
+        "1860307845352436028"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1860586663338213526",
+    "created_at": "2024-11-24T07:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T08:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860586663338213526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "851297412970827776",
+          "start": 3,
+          "username": "ment502"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0PrK0RV8py",
+          "end": 36,
+          "expanded_url": "https://x.com/ment502/status/1860307845352436028/photo/1",
+          "media_key": "3_1860307831196647430",
+          "start": 13,
+          "url": "https://t.co/0PrK0RV8py"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860586663338213526",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 345
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860307845352436028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ment502: https://t.co/0PrK0RV8py"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2356,
+        "media_key": "3_1860307831196647430",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdEkHbtagAYW1yS.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860307831196647430"
+          ],
+          "media_source_tweet_id": [
+            "1860307845352436028"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1860586663338213526",
+        "created_at": "2024-11-24T07:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T08:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860586663338213526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "851297412970827776",
+              "start": 3,
+              "username": "ment502"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0PrK0RV8py",
+              "end": 36,
+              "expanded_url": "https://x.com/ment502/status/1860307845352436028/photo/1",
+              "media_key": "3_1860307831196647430",
+              "start": 13,
+              "url": "https://t.co/0PrK0RV8py"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860586663338213526",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 345
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860307845352436028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ment502: https://t.co/0PrK0RV8py"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860307831196647430"
+          ]
+        },
+        "author_id": "851297412970827776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1860307845352436028",
+        "created_at": "2024-11-23T13:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T14:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860307845352436028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0PrK0RV8py",
+              "end": 23,
+              "expanded_url": "https://x.com/ment502/status/1860307845352436028/photo/1",
+              "media_key": "3_1860307831196647430",
+              "start": 0,
+              "url": "https://t.co/0PrK0RV8py"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860307845352436028",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 40646,
+          "like_count": 1954,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 345
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0PrK0RV8py"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 131,
+          "like_count": 5077,
+          "listed_count": 0,
+          "tweet_count": 733
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-10T04:54:54.000Z",
+        "description": "摸鱼集散地。wb现在僵尸门徒 無断転載(AI学習含む)NG ◆ご連絡はこちらまで→1356574103＠qq.com◆在这里联系\n不给无料授权了太麻烦了，壁纸头像随意",
+        "id": "851297412970827776",
+        "location": "中国",
+        "name": "门徒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852692558901858304/MpgyJzaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121167,
+          "following_count": 1684,
+          "like_count": 2509,
+          "listed_count": 705,
+          "tweet_count": 704
+        },
+        "username": "ment502",
+        "verified": false
+      }
+    ]
+  }
+}

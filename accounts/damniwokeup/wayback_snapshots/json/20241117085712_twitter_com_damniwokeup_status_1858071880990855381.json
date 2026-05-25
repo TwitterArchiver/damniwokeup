@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857760226344316929"
+      ],
+      "media_source_tweet_id": [
+        "1857760420385403361"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1858071880990855381",
+    "created_at": "2024-11-17T08:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T09:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858071880990855381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1213631877916938240",
+          "start": 3,
+          "username": "Tudasix"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BQo7Jdm1e3",
+          "end": 36,
+          "expanded_url": "https://x.com/Tudasix/status/1857760420385403361/photo/1",
+          "media_key": "3_1857760226344316929",
+          "start": 13,
+          "url": "https://t.co/BQo7Jdm1e3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858071880990855381",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 858
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857760420385403361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tudasix: https://t.co/BQo7Jdm1e3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3156,
+        "media_key": "3_1857760226344316929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcgXFUEaMAE4iGu.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857760226344316929"
+          ],
+          "media_source_tweet_id": [
+            "1857760420385403361"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1858071880990855381",
+        "created_at": "2024-11-17T08:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T09:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858071880990855381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1213631877916938240",
+              "start": 3,
+              "username": "Tudasix"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQo7Jdm1e3",
+              "end": 36,
+              "expanded_url": "https://x.com/Tudasix/status/1857760420385403361/photo/1",
+              "media_key": "3_1857760226344316929",
+              "start": 13,
+              "url": "https://t.co/BQo7Jdm1e3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858071880990855381",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 858
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857760420385403361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tudasix: https://t.co/BQo7Jdm1e3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857760226344316929"
+          ]
+        },
+        "author_id": "1213631877916938240",
+        "conversation_id": "1857760420385403361",
+        "created_at": "2024-11-16T12:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T13:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857760420385403361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQo7Jdm1e3",
+              "end": 23,
+              "expanded_url": "https://x.com/Tudasix/status/1857760420385403361/photo/1",
+              "media_key": "3_1857760226344316929",
+              "start": 0,
+              "url": "https://t.co/BQo7Jdm1e3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857760420385403361",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 597,
+          "impression_count": 76992,
+          "like_count": 9191,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 858
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BQo7Jdm1e3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 125,
+          "like_count": 4869,
+          "listed_count": 0,
+          "tweet_count": 633
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-05T01:22:53.000Z",
+        "description": "Art-therapist/Painter 絵画療法/画家 【https://t.co/rB9pfTLib7】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tuda2cz.artstation.com",
+                "end": 54,
+                "expanded_url": "https://tuda2cz.artstation.com",
+                "start": 31,
+                "url": "https://t.co/rB9pfTLib7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Tudasix",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@Tudasix",
+                "start": 0,
+                "url": "https://t.co/9WVRFjs9qX"
+              }
+            ]
+          }
+        },
+        "id": "1213631877916938240",
+        "location": "日本（Japan Hyogo）",
+        "name": "Tuda6",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832354165231652864/CJgL_Ipg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91047,
+          "following_count": 185,
+          "like_count": 4006,
+          "listed_count": 428,
+          "tweet_count": 1497
+        },
+        "url": "https://t.co/9WVRFjs9qX",
+        "username": "Tudasix",
+        "verified": false
+      }
+    ]
+  }
+}

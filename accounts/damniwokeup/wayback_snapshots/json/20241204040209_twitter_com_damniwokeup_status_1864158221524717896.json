@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863619785692762112"
+      ],
+      "media_source_tweet_id": [
+        "1863619793179623462"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1864158221524717896",
+    "created_at": "2024-12-04T04:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T05:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864158221524717896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1238118854745718785",
+          "start": 3,
+          "username": "Mo011010"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j3L127H5AS",
+          "end": 43,
+          "expanded_url": "https://x.com/Mo011010/status/1863619793179623462/photo/1",
+          "media_key": "3_1863619785692762112",
+          "start": 20,
+          "url": "https://t.co/j3L127H5AS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864158221524717896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 428
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863619793179623462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mo011010: 大掃除☃︎ https://t.co/j3L127H5AS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1863619785692762112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdzoUjqbUAALfkf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863619785692762112"
+          ],
+          "media_source_tweet_id": [
+            "1863619793179623462"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1864158221524717896",
+        "created_at": "2024-12-04T04:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T05:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864158221524717896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1238118854745718785",
+              "start": 3,
+              "username": "Mo011010"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3L127H5AS",
+              "end": 43,
+              "expanded_url": "https://x.com/Mo011010/status/1863619793179623462/photo/1",
+              "media_key": "3_1863619785692762112",
+              "start": 20,
+              "url": "https://t.co/j3L127H5AS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864158221524717896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 428
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863619793179623462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mo011010: 大掃除☃︎ https://t.co/j3L127H5AS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863619785692762112"
+          ]
+        },
+        "author_id": "1238118854745718785",
+        "conversation_id": "1863619793179623462",
+        "created_at": "2024-12-02T16:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T17:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863619793179623462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3L127H5AS",
+              "end": 29,
+              "expanded_url": "https://x.com/Mo011010/status/1863619793179623462/photo/1",
+              "media_key": "3_1863619785692762112",
+              "start": 6,
+              "url": "https://t.co/j3L127H5AS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863619793179623462",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 911,
+          "impression_count": 129733,
+          "like_count": 7171,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 428
+        },
+        "reply_settings": "everyone",
+        "text": "大掃除☃︎ https://t.co/j3L127H5AS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863961129996967936/qeynYxft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 143,
+          "like_count": 5533,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 894
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-12T15:06:00.000Z",
+        "description": "(*ᴗ₄ᴗ)",
+        "id": "1238118854745718785",
+        "location": "commission△",
+        "name": "mo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755932258278780928/aDqtfZOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46227,
+          "following_count": 456,
+          "like_count": 6083,
+          "listed_count": 417,
+          "media_count": 202,
+          "tweet_count": 820
+        },
+        "username": "Mo011010",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863941841428914176"
+      ],
+      "media_source_tweet_id": [
+        "1863941849909735840"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1863960193664712860",
+    "created_at": "2024-12-03T14:55:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T15:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863960193664712860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1415691700899500032",
+          "start": 3,
+          "username": "Hanaseto_0913"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vbk1aq13m6",
+          "end": 42,
+          "expanded_url": "https://x.com/Hanaseto_0913/status/1863941849909735840/photo/1",
+          "media_key": "3_1863941841428914176",
+          "start": 19,
+          "url": "https://t.co/vbk1aq13m6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863960193664712860",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863941849909735840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hanaseto_0913: https://t.co/vbk1aq13m6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1863941841428914176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd4NOqxboAAkykA.jpg",
+        "width": 1858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863941841428914176"
+          ],
+          "media_source_tweet_id": [
+            "1863941849909735840"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1863960193664712860",
+        "created_at": "2024-12-03T14:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T15:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863960193664712860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1415691700899500032",
+              "start": 3,
+              "username": "Hanaseto_0913"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vbk1aq13m6",
+              "end": 42,
+              "expanded_url": "https://x.com/Hanaseto_0913/status/1863941849909735840/photo/1",
+              "media_key": "3_1863941841428914176",
+              "start": 19,
+              "url": "https://t.co/vbk1aq13m6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863960193664712860",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863941849909735840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hanaseto_0913: https://t.co/vbk1aq13m6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863941841428914176"
+          ]
+        },
+        "author_id": "1415691700899500032",
+        "conversation_id": "1863941849909735840",
+        "created_at": "2024-12-03T13:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T14:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863941849909735840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vbk1aq13m6",
+              "end": 23,
+              "expanded_url": "https://x.com/Hanaseto_0913/status/1863941849909735840/photo/1",
+              "media_key": "3_1863941841428914176",
+              "start": 0,
+              "url": "https://t.co/vbk1aq13m6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863941849909735840",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 7646,
+          "like_count": 567,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vbk1aq13m6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 143,
+          "like_count": 5523,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 891
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-15T15:16:29.000Z",
+        "description": "コイ",
+        "id": "1415691700899500032",
+        "location": "AI学习禁止🚫",
+        "name": "liyu",
+        "pinned_tweet_id": "1862701780653707591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861643640562688000/7fIW3IXR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6054,
+          "following_count": 150,
+          "like_count": 79,
+          "listed_count": 29,
+          "media_count": 50,
+          "tweet_count": 90
+        },
+        "username": "Hanaseto_0913",
+        "verified": false
+      }
+    ]
+  }
+}

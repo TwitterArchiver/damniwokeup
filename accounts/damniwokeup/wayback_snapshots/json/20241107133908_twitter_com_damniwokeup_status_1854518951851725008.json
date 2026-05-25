@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1854190333896388608"
+      ],
+      "media_source_tweet_id": [
+        "1854494011462910153"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1854518951851725008",
+    "created_at": "2024-11-07T13:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T14:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854518951851725008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "632792473",
+          "start": 3,
+          "username": "norikoi_noriko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aKYqnuoIIg",
+          "end": 59,
+          "expanded_url": "https://x.com/norikoi_noriko/status/1854494011462910153/photo/1",
+          "media_key": "3_1854190333896388608",
+          "start": 36,
+          "url": "https://t.co/aKYqnuoIIg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854518951851725008",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854494011462910153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @norikoi_noriko: 結束バンドメンバー揃いました🎸 https://t.co/aKYqnuoIIg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1854190333896388608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbtoSOXbcAAWHqQ.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854190333896388608"
+          ],
+          "media_source_tweet_id": [
+            "1854494011462910153"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1854518951851725008",
+        "created_at": "2024-11-07T13:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T14:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854518951851725008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "632792473",
+              "start": 3,
+              "username": "norikoi_noriko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aKYqnuoIIg",
+              "end": 59,
+              "expanded_url": "https://x.com/norikoi_noriko/status/1854494011462910153/photo/1",
+              "media_key": "3_1854190333896388608",
+              "start": 36,
+              "url": "https://t.co/aKYqnuoIIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854518951851725008",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854494011462910153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @norikoi_noriko: 結束バンドメンバー揃いました🎸 https://t.co/aKYqnuoIIg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854190333896388608"
+          ]
+        },
+        "author_id": "632792473",
+        "conversation_id": "1854494011462910153",
+        "created_at": "2024-11-07T12:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T13:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854494011462910153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aKYqnuoIIg",
+              "end": 39,
+              "expanded_url": "https://x.com/norikoi_noriko/status/1854494011462910153/photo/1",
+              "media_key": "3_1854190333896388608",
+              "start": 16,
+              "url": "https://t.co/aKYqnuoIIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854494011462910153",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 5379,
+          "like_count": 467,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "結束バンドメンバー揃いました🎸 https://t.co/aKYqnuoIIg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 124,
+          "like_count": 4716,
+          "listed_count": 0,
+          "tweet_count": 554
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-11T10:40:48.000Z",
+        "description": "イラストレーター/後ろ姿を鮮やかに\n◆各種リンクまとめ: https://t.co/rCsWA6eA2x\n◆Contact: https://t.co/eyQAdUlEx6\n◆Skeb: https://t.co/i7Uww84DyJ\n◆グッズ: https://t.co/Lpicx8K40r\n◆配信:@norikoi_Stream",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 167,
+                "start": 152,
+                "username": "norikoi_Stream"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/norikoi",
+                "end": 52,
+                "expanded_url": "https://lit.link/norikoi",
+                "start": 29,
+                "url": "https://t.co/rCsWA6eA2x"
+              },
+              {
+                "display_url": "x.gd/PqvKN",
+                "end": 86,
+                "expanded_url": "https://x.gd/PqvKN",
+                "start": 63,
+                "url": "https://t.co/eyQAdUlEx6"
+              },
+              {
+                "display_url": "x.gd/GvnkS",
+                "end": 117,
+                "expanded_url": "https://x.gd/GvnkS",
+                "start": 94,
+                "url": "https://t.co/i7Uww84DyJ"
+              },
+              {
+                "display_url": "x.gd/acwRG",
+                "end": 147,
+                "expanded_url": "https://x.gd/acwRG",
+                "start": 124,
+                "url": "https://t.co/Lpicx8K40r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "norikoinorikoillus.wixsite.com/norikoi",
+                "end": 23,
+                "expanded_url": "https://norikoinorikoillus.wixsite.com/norikoi",
+                "start": 0,
+                "url": "https://t.co/0WLscDezxf"
+              }
+            ]
+          }
+        },
+        "id": "632792473",
+        "location": "AI学習❌無断転載❌",
+        "name": "のり恋🐰コミティア150 O-46b",
+        "pinned_tweet_id": "1849737669162807334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607050649187028993/FRQ7u_rT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92353,
+          "following_count": 1955,
+          "like_count": 140646,
+          "listed_count": 972,
+          "tweet_count": 38446
+        },
+        "url": "https://t.co/0WLscDezxf",
+        "username": "norikoi_noriko",
+        "verified": true
+      }
+    ]
+  }
+}

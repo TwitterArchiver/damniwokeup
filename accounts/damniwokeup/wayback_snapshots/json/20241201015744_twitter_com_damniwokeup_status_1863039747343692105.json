@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862768591751585793"
+      ],
+      "media_source_tweet_id": [
+        "1862768598366003605"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1863039747343692105",
+    "created_at": "2024-12-01T01:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T02:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863039747343692105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1283065714937483264",
+          "start": 3,
+          "username": "Soregashi_NK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6WpsNmiAsC",
+          "end": 51,
+          "expanded_url": "https://x.com/Soregashi_NK/status/1862768598366003605/photo/1",
+          "media_key": "3_1862768591751585793",
+          "start": 28,
+          "url": "https://t.co/6WpsNmiAsC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863039747343692105",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862768598366003605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Soregashi_NK: 𝒑𝒓𝒊𝒄𝒆...❓ https://t.co/6WpsNmiAsC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1862768591751585793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdniKjIboAEKxKS.jpg",
+        "width": 1447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862768591751585793"
+          ],
+          "media_source_tweet_id": [
+            "1862768598366003605"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1863039747343692105",
+        "created_at": "2024-12-01T01:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T02:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863039747343692105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1283065714937483264",
+              "start": 3,
+              "username": "Soregashi_NK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6WpsNmiAsC",
+              "end": 51,
+              "expanded_url": "https://x.com/Soregashi_NK/status/1862768598366003605/photo/1",
+              "media_key": "3_1862768591751585793",
+              "start": 28,
+              "url": "https://t.co/6WpsNmiAsC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863039747343692105",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862768598366003605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Soregashi_NK: 𝒑𝒓𝒊𝒄𝒆...❓ https://t.co/6WpsNmiAsC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862768591751585793"
+          ]
+        },
+        "author_id": "1283065714937483264",
+        "conversation_id": "1862768598366003605",
+        "created_at": "2024-11-30T08:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T09:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862768598366003605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6WpsNmiAsC",
+              "end": 33,
+              "expanded_url": "https://x.com/Soregashi_NK/status/1862768598366003605/photo/1",
+              "media_key": "3_1862768591751585793",
+              "start": 10,
+              "url": "https://t.co/6WpsNmiAsC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862768598366003605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 16884,
+          "like_count": 1411,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "𝒑𝒓𝒊𝒄𝒆...❓ https://t.co/6WpsNmiAsC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 138,
+          "like_count": 5347,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 840
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-14T15:48:49.000Z",
+        "description": "▼お絵描きしてる猫🐈‍⬛🐾FA▶ #ゆめねこあーと",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 17,
+                "tag": "ゆめねこあーと"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/xcsdy32l4rjtjw…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/xcsdy32l4rjtjwr?t=dg4zd0&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/lFax5HDLkh"
+              }
+            ]
+          }
+        },
+        "id": "1283065714937483264",
+        "location": "自作発言・トレパク・無断転載・AI学習✖️",
+        "name": "某は猫",
+        "pinned_tweet_id": "1832300343025398093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859216638505291776/gCmQczKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2856,
+          "following_count": 54,
+          "like_count": 10467,
+          "listed_count": 29,
+          "media_count": 18,
+          "tweet_count": 1396
+        },
+        "url": "https://t.co/lFax5HDLkh",
+        "username": "Soregashi_NK",
+        "verified": false
+      }
+    ]
+  }
+}

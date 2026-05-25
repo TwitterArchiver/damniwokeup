@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876432023650455552"
+      ],
+      "media_source_tweet_id": [
+        "1876432029484716518"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1876460397357838507",
+    "created_at": "2025-01-07T02:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T03:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876460397357838507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1769735112663748608",
+          "start": 3,
+          "username": "sesmkun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/omEloT8FQf",
+          "end": 36,
+          "expanded_url": "https://x.com/sesmkun/status/1876432029484716518/photo/1",
+          "media_key": "3_1876432023650455552",
+          "start": 13,
+          "url": "https://t.co/omEloT8FQf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876460397357838507",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876432029484716518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sesmkun: https://t.co/omEloT8FQf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1876432023650455552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ggps-9baUAAgn_T.jpg",
+        "width": 1736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876432023650455552"
+          ],
+          "media_source_tweet_id": [
+            "1876432029484716518"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1876460397357838507",
+        "created_at": "2025-01-07T02:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T03:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876460397357838507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1769735112663748608",
+              "start": 3,
+              "username": "sesmkun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/omEloT8FQf",
+              "end": 36,
+              "expanded_url": "https://x.com/sesmkun/status/1876432029484716518/photo/1",
+              "media_key": "3_1876432023650455552",
+              "start": 13,
+              "url": "https://t.co/omEloT8FQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876460397357838507",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876432029484716518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sesmkun: https://t.co/omEloT8FQf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876432023650455552"
+          ]
+        },
+        "author_id": "1769735112663748608",
+        "conversation_id": "1876432029484716518",
+        "created_at": "2025-01-07T00:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T01:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876432029484716518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/omEloT8FQf",
+              "end": 23,
+              "expanded_url": "https://x.com/sesmkun/status/1876432029484716518/photo/1",
+              "media_key": "3_1876432023650455552",
+              "start": 0,
+              "url": "https://t.co/omEloT8FQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876432029484716518",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 7351,
+          "like_count": 1109,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/omEloT8FQf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 151,
+          "like_count": 6570,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1288
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-18T14:38:31.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/18513334",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/18513334",
+                "start": 0,
+                "url": "https://t.co/kcxuzimKcU"
+              }
+            ]
+          }
+        },
+        "id": "1769735112663748608",
+        "name": "セサミ",
+        "pinned_tweet_id": "1858294086236815760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852144991260545024/YfArwlbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23879,
+          "following_count": 21,
+          "like_count": 2824,
+          "listed_count": 127,
+          "media_count": 77,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/kcxuzimKcU",
+        "username": "sesmkun",
+        "verified": false
+      }
+    ]
+  }
+}

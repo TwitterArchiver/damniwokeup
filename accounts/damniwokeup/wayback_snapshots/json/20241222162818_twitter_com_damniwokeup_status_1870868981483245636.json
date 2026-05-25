@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1870824486972657664"
+      ],
+      "media_source_tweet_id": [
+        "1870824492509037032"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1870868981483245636",
+    "created_at": "2024-12-22T16:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T17:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870868981483245636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1401803342016245763",
+          "start": 3,
+          "username": "sawataridaisuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6ErBH3bJTH",
+          "end": 59,
+          "expanded_url": "https://x.com/sawataridaisuki/status/1870824492509037032/photo/1",
+          "media_key": "3_1870824486972657664",
+          "start": 36,
+          "url": "https://t.co/6ErBH3bJTH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870868981483245636",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870824492509037032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sawataridaisuki: レゼ編楽しみ！！過去絵に加筆 https://t.co/6ErBH3bJTH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2032,
+        "media_key": "3_1870824486972657664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfaA9XcbkAAEZ_k.jpg",
+        "width": 1670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870824486972657664"
+          ],
+          "media_source_tweet_id": [
+            "1870824492509037032"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1870868981483245636",
+        "created_at": "2024-12-22T16:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T17:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870868981483245636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1401803342016245763",
+              "start": 3,
+              "username": "sawataridaisuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ErBH3bJTH",
+              "end": 59,
+              "expanded_url": "https://x.com/sawataridaisuki/status/1870824492509037032/photo/1",
+              "media_key": "3_1870824486972657664",
+              "start": 36,
+              "url": "https://t.co/6ErBH3bJTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870868981483245636",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870824492509037032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sawataridaisuki: レゼ編楽しみ！！過去絵に加筆 https://t.co/6ErBH3bJTH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870824486972657664"
+          ]
+        },
+        "author_id": "1401803342016245763",
+        "conversation_id": "1870824492509037032",
+        "created_at": "2024-12-22T13:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T14:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870824492509037032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ErBH3bJTH",
+              "end": 38,
+              "expanded_url": "https://x.com/sawataridaisuki/status/1870824492509037032/photo/1",
+              "media_key": "3_1870824486972657664",
+              "start": 15,
+              "url": "https://t.co/6ErBH3bJTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870824492509037032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 3717,
+          "like_count": 470,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "レゼ編楽しみ！！過去絵に加筆 https://t.co/6ErBH3bJTH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 148,
+          "like_count": 6274,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1175
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T07:29:21.000Z",
+        "description": "サブ垢です！！！解釈がほんとに広いです 🔞要素のある絵もあります",
+        "id": "1401803342016245763",
+        "name": "Sawatari Kawaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722910842080083968/MSqswMqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7052,
+          "following_count": 75,
+          "like_count": 27968,
+          "listed_count": 36,
+          "media_count": 134,
+          "tweet_count": 8190
+        },
+        "username": "sawataridaisuki",
+        "verified": false
+      }
+    ]
+  }
+}

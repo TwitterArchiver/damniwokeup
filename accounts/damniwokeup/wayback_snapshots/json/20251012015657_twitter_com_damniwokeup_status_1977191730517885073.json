@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976786501745741824"
+      ],
+      "media_source_tweet_id": [
+        "1976786506460381673"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1977191730517885073",
+    "created_at": "2025-10-12T01:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T02:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977191730517885073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1601159581631225856",
+          "start": 3,
+          "username": "MiSTXII"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lb9vax8FHc",
+          "end": 38,
+          "expanded_url": "https://x.com/MiSTXII/status/1976786506460381673/photo/1",
+          "media_key": "3_1976786501745741824",
+          "start": 15,
+          "url": "https://t.co/Lb9vax8FHc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977191730517885073",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1104
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976786506460381673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MiSTXII: 🥀 https://t.co/Lb9vax8FHc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2008,
+        "media_key": "3_1976786501745741824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2702ZFXkAAFs5v.jpg",
+        "width": 3200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976786501745741824"
+          ],
+          "media_source_tweet_id": [
+            "1976786506460381673"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1977191730517885073",
+        "created_at": "2025-10-12T01:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T02:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977191730517885073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1601159581631225856",
+              "start": 3,
+              "username": "MiSTXII"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lb9vax8FHc",
+              "end": 38,
+              "expanded_url": "https://x.com/MiSTXII/status/1976786506460381673/photo/1",
+              "media_key": "3_1976786501745741824",
+              "start": 15,
+              "url": "https://t.co/Lb9vax8FHc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977191730517885073",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1104
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976786506460381673",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MiSTXII: 🥀 https://t.co/Lb9vax8FHc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976786501745741824"
+          ]
+        },
+        "author_id": "1601159581631225856",
+        "conversation_id": "1976786506460381673",
+        "created_at": "2025-10-10T23:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T00:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976786506460381673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lb9vax8FHc",
+              "end": 25,
+              "expanded_url": "https://x.com/MiSTXII/status/1976786506460381673/photo/1",
+              "media_key": "3_1976786501745741824",
+              "start": 2,
+              "url": "https://t.co/Lb9vax8FHc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976786506460381673",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1082,
+          "impression_count": 105779,
+          "like_count": 11998,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 1104
+        },
+        "reply_settings": "everyone",
+        "text": "🥀 https://t.co/Lb9vax8FHc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Phoenix, AZ",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 138,
+          "like_count": 6970,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1256
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-09T10:19:57.000Z",
+        "description": "Artist. (mistxiiillust@gmail.com) 🚫AI/Repost/Use.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/28879720",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/28879720",
+                "start": 0,
+                "url": "https://t.co/bEV6D3ehVy"
+              }
+            ]
+          }
+        },
+        "id": "1601159581631225856",
+        "name": "MiST",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970099619150307329/1nVeE9kM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6835,
+          "following_count": 41,
+          "like_count": 6242,
+          "listed_count": 40,
+          "media_count": 78,
+          "tweet_count": 570
+        },
+        "url": "https://t.co/bEV6D3ehVy",
+        "username": "MiSTXII",
+        "verified": false
+      }
+    ]
+  }
+}

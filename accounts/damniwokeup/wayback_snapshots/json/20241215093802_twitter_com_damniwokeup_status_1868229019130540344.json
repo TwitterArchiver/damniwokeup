@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867850761583120384"
+      ],
+      "media_source_tweet_id": [
+        "1867850766888972663"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1868229019130540344",
+    "created_at": "2024-12-15T09:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T10:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868229019130540344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1750909532572979200",
+          "start": 3,
+          "username": "Rs2epF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W4irCmkIqI",
+          "end": 41,
+          "expanded_url": "https://x.com/Rs2epF/status/1867850766888972663/photo/1",
+          "media_key": "3_1867850761583120384",
+          "start": 18,
+          "url": "https://t.co/W4irCmkIqI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868229019130540344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 760
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867850766888972663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rs2epF: ミニ色紙！ https://t.co/W4irCmkIqI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1614,
+        "media_key": "3_1867850761583120384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GevwXxGa0AAivHP.jpg",
+        "width": 1342
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867850761583120384"
+          ],
+          "media_source_tweet_id": [
+            "1867850766888972663"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1868229019130540344",
+        "created_at": "2024-12-15T09:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T10:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868229019130540344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1750909532572979200",
+              "start": 3,
+              "username": "Rs2epF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W4irCmkIqI",
+              "end": 41,
+              "expanded_url": "https://x.com/Rs2epF/status/1867850766888972663/photo/1",
+              "media_key": "3_1867850761583120384",
+              "start": 18,
+              "url": "https://t.co/W4irCmkIqI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868229019130540344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 760
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867850766888972663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rs2epF: ミニ色紙！ https://t.co/W4irCmkIqI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867850761583120384"
+          ]
+        },
+        "author_id": "1750909532572979200",
+        "conversation_id": "1867850766888972663",
+        "created_at": "2024-12-14T08:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T09:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867850766888972663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W4irCmkIqI",
+              "end": 29,
+              "expanded_url": "https://x.com/Rs2epF/status/1867850766888972663/photo/1",
+              "media_key": "3_1867850761583120384",
+              "start": 6,
+              "url": "https://t.co/W4irCmkIqI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867850766888972663",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 901,
+          "impression_count": 156412,
+          "like_count": 13188,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 760
+        },
+        "reply_settings": "everyone",
+        "text": "ミニ色紙！ https://t.co/W4irCmkIqI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 145,
+          "like_count": 6006,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1082
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T15:52:58.000Z",
+        "description": "壁打ち！シェアハピ🎶",
+        "id": "1750909532572979200",
+        "location": "全部notカプ",
+        "name": "好きだ…",
+        "pinned_tweet_id": "1861761533833023600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750914775968854016/wTZjDUWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30216,
+          "following_count": 4,
+          "like_count": 210,
+          "listed_count": 94,
+          "media_count": 272,
+          "tweet_count": 817
+        },
+        "username": "Rs2epF",
+        "verified": false
+      }
+    ]
+  }
+}

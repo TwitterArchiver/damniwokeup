@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872986304230899712"
+      ],
+      "media_source_tweet_id": [
+        "1872986308760748420"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1873038246936232007",
+    "created_at": "2024-12-28T16:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T17:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873038246936232007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1012930859618320386",
+          "start": 3,
+          "username": "Friku_0207"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WIka6dMZ1T",
+          "end": 41,
+          "expanded_url": "https://x.com/Friku_0207/status/1872986308760748420/photo/1",
+          "media_key": "3_1872986304230899712",
+          "start": 18,
+          "url": "https://t.co/WIka6dMZ1T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873038246936232007",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 148
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872986308760748420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Friku_0207: # https://t.co/WIka6dMZ1T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1872986304230899712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf4vHsTawAABpYQ.jpg",
+        "width": 1447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872986304230899712"
+          ],
+          "media_source_tweet_id": [
+            "1872986308760748420"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1873038246936232007",
+        "created_at": "2024-12-28T16:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T17:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873038246936232007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1012930859618320386",
+              "start": 3,
+              "username": "Friku_0207"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WIka6dMZ1T",
+              "end": 41,
+              "expanded_url": "https://x.com/Friku_0207/status/1872986308760748420/photo/1",
+              "media_key": "3_1872986304230899712",
+              "start": 18,
+              "url": "https://t.co/WIka6dMZ1T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873038246936232007",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 148
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872986308760748420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Friku_0207: # https://t.co/WIka6dMZ1T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872986304230899712"
+          ]
+        },
+        "author_id": "1012930859618320386",
+        "conversation_id": "1872986308760748420",
+        "created_at": "2024-12-28T12:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T13:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872986308760748420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WIka6dMZ1T",
+              "end": 25,
+              "expanded_url": "https://x.com/Friku_0207/status/1872986308760748420/photo/1",
+              "media_key": "3_1872986304230899712",
+              "start": 2,
+              "url": "https://t.co/WIka6dMZ1T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872986308760748420",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 10104,
+          "like_count": 994,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 148
+        },
+        "reply_settings": "everyone",
+        "text": "# https://t.co/WIka6dMZ1T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 149,
+          "like_count": 6433,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1230
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-30T05:28:31.000Z",
+        "description": "アニメと絵を描くことが好き",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/18327537",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/18327537",
+                "start": 0,
+                "url": "https://t.co/GRGOJx6oVD"
+              }
+            ]
+          }
+        },
+        "id": "1012930859618320386",
+        "name": "ふりっく",
+        "pinned_tweet_id": "1774815907178831965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847379023145615360/XJoyy0Gn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2835,
+          "following_count": 95,
+          "like_count": 34491,
+          "listed_count": 70,
+          "media_count": 1866,
+          "tweet_count": 17916
+        },
+        "url": "https://t.co/GRGOJx6oVD",
+        "username": "Friku_0207",
+        "verified": false
+      }
+    ]
+  }
+}

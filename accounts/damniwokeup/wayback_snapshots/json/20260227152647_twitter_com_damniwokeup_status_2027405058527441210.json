@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027388490921512961"
+      ],
+      "media_source_tweet_id": [
+        "2027392079760929248"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2027405058527441210",
+    "created_at": "2026-02-27T15:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T16:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027405058527441210"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 17,
+          "tag": "フリーレン"
+        },
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "rkgk"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "969937680858533888",
+          "start": 3,
+          "username": "doremyswt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uPnHvd2p6E",
+          "end": 54,
+          "expanded_url": "https://x.com/doremyswt/status/2027392079760929248/photo/1",
+          "media_key": "3_2027388490921512961",
+          "start": 31,
+          "url": "https://t.co/uPnHvd2p6E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027405058527441210",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027392079760929248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doremyswt: 🪻\n#フリーレン  #rkgk https://t.co/uPnHvd2p6E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3500,
+        "media_key": "3_2027388490921512961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCK7F0cXkAEu3Ul.jpg",
+        "width": 1968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027388490921512961"
+          ],
+          "media_source_tweet_id": [
+            "2027392079760929248"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2027405058527441210",
+        "created_at": "2026-02-27T15:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027405058527441210"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "フリーレン"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "rkgk"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "969937680858533888",
+              "start": 3,
+              "username": "doremyswt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPnHvd2p6E",
+              "end": 54,
+              "expanded_url": "https://x.com/doremyswt/status/2027392079760929248/photo/1",
+              "media_key": "3_2027388490921512961",
+              "start": 31,
+              "url": "https://t.co/uPnHvd2p6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027405058527441210",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027392079760929248",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doremyswt: 🪻\n#フリーレン  #rkgk https://t.co/uPnHvd2p6E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027388490921512961"
+          ]
+        },
+        "author_id": "969937680858533888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2027392079760929248",
+        "created_at": "2026-02-27T14:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027392079760929248"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 2,
+              "tag": "フリーレン"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "rkgk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPnHvd2p6E",
+              "end": 39,
+              "expanded_url": "https://x.com/doremyswt/status/2027392079760929248/photo/1",
+              "media_key": "3_2027388490921512961",
+              "start": 16,
+              "url": "https://t.co/uPnHvd2p6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027392079760929248",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1247,
+          "like_count": 177,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "🪻\n#フリーレン  #rkgk https://t.co/uPnHvd2p6E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2026181607040925930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 155,
+          "like_count": 7783,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1370
+        },
+        "username": "damniwokeup",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-03T14:08:58.000Z",
+        "description": "🇦🇷 I draw\ncomm: https://t.co/NUpfZXWxkK\ni wanna be like @hamukukka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "hamukukka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vgen.co/doremy",
+                "end": 39,
+                "expanded_url": "https://vgen.co/doremy",
+                "start": 16,
+                "url": "https://t.co/NUpfZXWxkK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/drmy1",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/drmy1",
+                "start": 0,
+                "url": "https://t.co/nBP6C5en1K"
+              }
+            ]
+          }
+        },
+        "id": "969937680858533888",
+        "location": "Tero Violado",
+        "name": "drmy",
+        "pinned_tweet_id": "1982056028771397946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988617866099191808/blMqBpa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6630,
+          "following_count": 534,
+          "like_count": 2310,
+          "listed_count": 28,
+          "media_count": 416,
+          "tweet_count": 1350
+        },
+        "url": "https://t.co/nBP6C5en1K",
+        "username": "doremyswt",
+        "verified": false
+      }
+    ]
+  }
+}

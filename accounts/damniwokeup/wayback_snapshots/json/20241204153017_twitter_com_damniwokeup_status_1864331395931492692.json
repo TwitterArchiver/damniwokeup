@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864323682161840132"
+      ],
+      "media_source_tweet_id": [
+        "1864323686687494600"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1864331395931492692",
+    "created_at": "2024-12-04T15:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T16:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864331395931492692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1675840811664281601",
+          "start": 3,
+          "username": "Nos__fri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dIsE5ltkfN",
+          "end": 46,
+          "expanded_url": "https://x.com/Nos__fri/status/1864323686687494600/photo/1",
+          "media_key": "3_1864323682161840132",
+          "start": 23,
+          "url": "https://t.co/dIsE5ltkfN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864331395931492692",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864323686687494600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nos__fri: rkgk  ❄️ https://t.co/dIsE5ltkfN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 574,
+        "media_key": "3_1864323682161840132",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd9oguWa0AQwEpL.jpg",
+        "width": 622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864323682161840132"
+          ],
+          "media_source_tweet_id": [
+            "1864323686687494600"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1864331395931492692",
+        "created_at": "2024-12-04T15:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T16:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864331395931492692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1675840811664281601",
+              "start": 3,
+              "username": "Nos__fri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dIsE5ltkfN",
+              "end": 46,
+              "expanded_url": "https://x.com/Nos__fri/status/1864323686687494600/photo/1",
+              "media_key": "3_1864323682161840132",
+              "start": 23,
+              "url": "https://t.co/dIsE5ltkfN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864331395931492692",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864323686687494600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nos__fri: rkgk  ❄️ https://t.co/dIsE5ltkfN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864323682161840132"
+          ]
+        },
+        "author_id": "1675840811664281601",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1864323686687494600",
+        "created_at": "2024-12-04T14:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T15:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864323686687494600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dIsE5ltkfN",
+              "end": 32,
+              "expanded_url": "https://x.com/Nos__fri/status/1864323686687494600/photo/1",
+              "media_key": "3_1864323682161840132",
+              "start": 9,
+              "url": "https://t.co/dIsE5ltkfN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864323686687494600",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 773,
+          "like_count": 204,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "rkgk  ❄️ https://t.co/dIsE5ltkfN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863961129996967936/qeynYxft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 143,
+          "like_count": 5580,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 920
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T12:17:21.000Z",
+        "description": "20↑/好きなもの色々、雑食/主にヒンフリと勇者一行/愛を叫んでる場所/青空 https://t.co/MAZlDIxHVv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/nosfri…",
+                "end": 62,
+                "expanded_url": "https://bsky.app/profile/nosfri.bsky.social",
+                "start": 39,
+                "url": "https://t.co/MAZlDIxHVv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/e5wvhznp4…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/e5wvhznp45ogdghi/",
+                "start": 0,
+                "url": "https://t.co/7TGxd9eAVM"
+              }
+            ]
+          }
+        },
+        "id": "1675840811664281601",
+        "name": "のす",
+        "pinned_tweet_id": "1834970901462630439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749778298266415104/J5878HIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5665,
+          "following_count": 83,
+          "like_count": 12500,
+          "listed_count": 21,
+          "media_count": 233,
+          "tweet_count": 8089
+        },
+        "url": "https://t.co/7TGxd9eAVM",
+        "username": "Nos__fri",
+        "verified": false
+      }
+    ]
+  }
+}

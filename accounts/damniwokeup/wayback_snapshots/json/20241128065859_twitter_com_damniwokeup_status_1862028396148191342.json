@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861769821723209728"
+      ],
+      "media_source_tweet_id": [
+        "1861769825527492893"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1862028396148191342",
+    "created_at": "2024-11-28T06:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T07:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862028396148191342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1595009808028995584",
+          "start": 3,
+          "username": "RIYOUFUKA403"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oZ0JECDH4N",
+          "end": 41,
+          "expanded_url": "https://x.com/RIYOUFUKA403/status/1861769825527492893/photo/1",
+          "media_key": "3_1861769821723209728",
+          "start": 18,
+          "url": "https://t.co/oZ0JECDH4N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862028396148191342",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 764
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861769825527492893",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RIYOUFUKA403: https://t.co/oZ0JECDH4N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1065,
+        "media_key": "3_1861769821723209728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdZVye1asAAoqsI.jpg",
+        "width": 799
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861769821723209728"
+          ],
+          "media_source_tweet_id": [
+            "1861769825527492893"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1862028396148191342",
+        "created_at": "2024-11-28T06:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T07:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862028396148191342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1595009808028995584",
+              "start": 3,
+              "username": "RIYOUFUKA403"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZ0JECDH4N",
+              "end": 41,
+              "expanded_url": "https://x.com/RIYOUFUKA403/status/1861769825527492893/photo/1",
+              "media_key": "3_1861769821723209728",
+              "start": 18,
+              "url": "https://t.co/oZ0JECDH4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862028396148191342",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 764
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861769825527492893",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RIYOUFUKA403: https://t.co/oZ0JECDH4N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861769821723209728"
+          ]
+        },
+        "author_id": "1595009808028995584",
+        "conversation_id": "1861769825527492893",
+        "created_at": "2024-11-27T13:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T14:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861769825527492893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZ0JECDH4N",
+              "end": 23,
+              "expanded_url": "https://x.com/RIYOUFUKA403/status/1861769825527492893/photo/1",
+              "media_key": "3_1861769821723209728",
+              "start": 0,
+              "url": "https://t.co/oZ0JECDH4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861769825527492893",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 720,
+          "impression_count": 101451,
+          "like_count": 10576,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 764
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oZ0JECDH4N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 134,
+          "like_count": 5224,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 794
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T11:02:42.000Z",
+        "description": "ナファです--illustration/創作/版権など",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/riyoufuka403?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/riyoufuka403?igsh=MWY4c3Z0enFmeTA2Yw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/udP6A4C48G"
+              }
+            ]
+          }
+        },
+        "id": "1595009808028995584",
+        "location": "現在依頼は受けておりません/AI×/無断転載・無断使用×",
+        "name": "N/Fa",
+        "pinned_tweet_id": "1807217906083852554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852921576196587521/lH1p6IOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19492,
+          "following_count": 534,
+          "like_count": 3330,
+          "listed_count": 123,
+          "media_count": 107,
+          "tweet_count": 2055
+        },
+        "url": "https://t.co/udP6A4C48G",
+        "username": "RIYOUFUKA403",
+        "verified": false
+      }
+    ]
+  }
+}

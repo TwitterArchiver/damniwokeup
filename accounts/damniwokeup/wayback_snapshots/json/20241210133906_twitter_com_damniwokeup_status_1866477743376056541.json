@@ -1,0 +1,806 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1866464467313426898"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Syrian President Bashar al-Assad",
+          "id": "866711517973970944",
+          "name": "Bashar al-Assad"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Syrian President Bashar al-Assad",
+          "id": "866711517973970944",
+          "name": "Bashar al-Assad"
+        }
+      },
+      {
+        "domain": {
+          "description": "News Categories like Entertainment or Technology",
+          "id": "69",
+          "name": "News Vertical"
+        },
+        "entity": {
+          "description": "Political News",
+          "id": "840159122012102656",
+          "name": "Political News"
+        }
+      },
+      {
+        "domain": {
+          "description": "News Categories like Entertainment or Technology",
+          "id": "69",
+          "name": "News Vertical"
+        },
+        "entity": {
+          "description": "General Worldwide News",
+          "id": "840159616101044224",
+          "name": "World news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Syrian President Bashar al-Assad",
+          "id": "866711517973970944",
+          "name": "Bashar al-Assad"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Syrian President Bashar al-Assad",
+          "id": "866711517973970944",
+          "name": "Bashar al-Assad"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Syrian President Bashar al-Assad",
+          "id": "866711517973970944",
+          "name": "Bashar al-Assad"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Syrian President Bashar al-Assad",
+          "id": "866711517973970944",
+          "name": "Bashar al-Assad"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1866477743376056541",
+    "created_at": "2024-12-10T13:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T14:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866477743376056541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753339639522590720",
+          "start": 3,
+          "username": "seraphu00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a4OxJZP5u3",
+          "end": 42,
+          "expanded_url": "https://x.com/seraphu00/status/1866464467313426898/photo/1",
+          "media_key": "3_1866464446383882240",
+          "start": 19,
+          "url": "https://t.co/a4OxJZP5u3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866477743376056541",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866464467313426898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seraphu00: Uhh https://t.co/a4OxJZP5u3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1866464467313426898"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Syrian President Bashar al-Assad",
+              "id": "866711517973970944",
+              "name": "Bashar al-Assad"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Syrian President Bashar al-Assad",
+              "id": "866711517973970944",
+              "name": "Bashar al-Assad"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Political News",
+              "id": "840159122012102656",
+              "name": "Political News"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "General Worldwide News",
+              "id": "840159616101044224",
+              "name": "World news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Syrian President Bashar al-Assad",
+              "id": "866711517973970944",
+              "name": "Bashar al-Assad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Syrian President Bashar al-Assad",
+              "id": "866711517973970944",
+              "name": "Bashar al-Assad"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Syrian President Bashar al-Assad",
+              "id": "866711517973970944",
+              "name": "Bashar al-Assad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Syrian President Bashar al-Assad",
+              "id": "866711517973970944",
+              "name": "Bashar al-Assad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1866477743376056541",
+        "created_at": "2024-12-10T13:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T14:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866477743376056541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753339639522590720",
+              "start": 3,
+              "username": "seraphu00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a4OxJZP5u3",
+              "end": 42,
+              "expanded_url": "https://x.com/seraphu00/status/1866464467313426898/photo/1",
+              "media_key": "3_1866464446383882240",
+              "start": 19,
+              "url": "https://t.co/a4OxJZP5u3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866477743376056541",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866464467313426898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seraphu00: Uhh https://t.co/a4OxJZP5u3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866464446383882240"
+          ]
+        },
+        "author_id": "1753339639522590720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Syrian President Bashar al-Assad",
+              "id": "866711517973970944",
+              "name": "Bashar al-Assad"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Syrian President Bashar al-Assad",
+              "id": "866711517973970944",
+              "name": "Bashar al-Assad"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Political News",
+              "id": "840159122012102656",
+              "name": "Political News"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "General Worldwide News",
+              "id": "840159616101044224",
+              "name": "World news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Syrian President Bashar al-Assad",
+              "id": "866711517973970944",
+              "name": "Bashar al-Assad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Syrian President Bashar al-Assad",
+              "id": "866711517973970944",
+              "name": "Bashar al-Assad"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Syrian President Bashar al-Assad",
+              "id": "866711517973970944",
+              "name": "Bashar al-Assad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Syrian President Bashar al-Assad",
+              "id": "866711517973970944",
+              "name": "Bashar al-Assad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1866464467313426898",
+        "created_at": "2024-12-10T12:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T13:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866464467313426898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a4OxJZP5u3",
+              "end": 27,
+              "expanded_url": "https://x.com/seraphu00/status/1866464467313426898/photo/1",
+              "media_key": "3_1866464446383882240",
+              "start": 4,
+              "url": "https://t.co/a4OxJZP5u3"
+            },
+            {
+              "display_url": "x.com/BitecoferStan/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/BitecoferStan/status/1865071602351698436",
+              "start": 28,
+              "url": "https://t.co/3u3o0Efons"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866464467313426898",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 176,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865071602351698436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Uhh https://t.co/a4OxJZP5u3 https://t.co/3u3o0Efons"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 5781,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 991
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T08:48:50.000Z",
+        "description": "✞ | 𝘛𝘠𝘗𝘌𝘔𝘖𝘖𝘕 𝘢𝘳𝘵𝘪𝘴𝘵, 𝘵𝘳𝘢𝘯𝘴𝘭𝘢𝘵𝘰𝘳 | @DailyArtoria\n📚 | Translating: 衛宮さんちの今日のごはん コラボカフェ\n\n『Index of my work: https://t.co/OHO29XriSY』",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "DailyArtoria"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pastebin.com/7sjxAP04",
+                "end": 128,
+                "expanded_url": "http://pastebin.com/7sjxAP04",
+                "start": 105,
+                "url": "https://t.co/OHO29XriSY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/76853…",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/en/users/76853126",
+                "start": 0,
+                "url": "https://t.co/flYJC9oZlx"
+              }
+            ]
+          }
+        },
+        "id": "1753339639522590720",
+        "name": "セラフ・serafu✨",
+        "pinned_tweet_id": "1863599000701558951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863430012873150464/9CuKc_yq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2295,
+          "following_count": 156,
+          "like_count": 9910,
+          "listed_count": 8,
+          "media_count": 1194,
+          "tweet_count": 6665
+        },
+        "url": "https://t.co/flYJC9oZlx",
+        "username": "seraphu00",
+        "verified": true
+      }
+    ]
+  }
+}

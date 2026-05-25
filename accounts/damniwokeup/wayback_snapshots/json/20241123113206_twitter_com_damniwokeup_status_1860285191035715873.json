@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859951161807433728"
+      ],
+      "media_source_tweet_id": [
+        "1859951169432674703"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1860285191035715873",
+    "created_at": "2024-11-23T11:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T12:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860285191035715873"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "MYGO"
+        },
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "ともさき"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1541813955416293376",
+          "start": 3,
+          "username": "azhi_nagi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lSGfdylwLZ",
+          "end": 63,
+          "expanded_url": "https://x.com/azhi_nagi/status/1859951169432674703/photo/1",
+          "media_key": "3_1859951161807433728",
+          "start": 40,
+          "url": "https://t.co/lSGfdylwLZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860285191035715873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 656
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859951169432674703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azhi_nagi: #MYGO\n#ともさき\n列车的终点是下一个春天吗 https://t.co/lSGfdylwLZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1250,
+        "media_key": "3_1859951161807433728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc_fuisbcAA4tcL.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859951161807433728"
+          ],
+          "media_source_tweet_id": [
+            "1859951169432674703"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1860285191035715873",
+        "created_at": "2024-11-23T11:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T12:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860285191035715873"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "MYGO"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "ともさき"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1541813955416293376",
+              "start": 3,
+              "username": "azhi_nagi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lSGfdylwLZ",
+              "end": 63,
+              "expanded_url": "https://x.com/azhi_nagi/status/1859951169432674703/photo/1",
+              "media_key": "3_1859951161807433728",
+              "start": 40,
+              "url": "https://t.co/lSGfdylwLZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860285191035715873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 656
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859951169432674703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azhi_nagi: #MYGO\n#ともさき\n列车的终点是下一个春天吗 https://t.co/lSGfdylwLZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859951161807433728"
+          ]
+        },
+        "author_id": "1541813955416293376",
+        "conversation_id": "1859951169432674703",
+        "created_at": "2024-11-22T13:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T14:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859951169432674703"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "MYGO"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "ともさき"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lSGfdylwLZ",
+              "end": 48,
+              "expanded_url": "https://x.com/azhi_nagi/status/1859951169432674703/photo/1",
+              "media_key": "3_1859951161807433728",
+              "start": 25,
+              "url": "https://t.co/lSGfdylwLZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859951169432674703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 246,
+          "impression_count": 44641,
+          "like_count": 3135,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 656
+        },
+        "reply_settings": "everyone",
+        "text": "#MYGO\n#ともさき\n列车的终点是下一个春天吗 https://t.co/lSGfdylwLZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 130,
+          "like_count": 5032,
+          "listed_count": 0,
+          "tweet_count": 708
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T16:01:16.000Z",
+        "description": "|无言关注 发图|低浮上|推不常上请在微博找我",
+        "id": "1541813955416293376",
+        "location": "China",
+        "name": "なぎ",
+        "pinned_tweet_id": "1676675192037445632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679901070108278784/0eBPlZQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3266,
+          "following_count": 229,
+          "like_count": 210,
+          "listed_count": 19,
+          "tweet_count": 33
+        },
+        "username": "azhi_nagi",
+        "verified": false
+      }
+    ]
+  }
+}

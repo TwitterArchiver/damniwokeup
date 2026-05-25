@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885202162982227968"
+      ],
+      "media_source_tweet_id": [
+        "1885202434282446937"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1885322160488751388",
+    "created_at": "2025-01-31T13:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T14:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885322160488751388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1673528120",
+          "start": 3,
+          "username": "coneyrivard"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C4IXRmZEMT",
+          "end": 43,
+          "expanded_url": "https://x.com/coneyrivard/status/1885202434282446937/photo/1",
+          "media_key": "3_1885202162982227968",
+          "start": 20,
+          "url": "https://t.co/C4IXRmZEMT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885322160488751388",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4217
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885202434282446937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @coneyrivard: ⚔️ https://t.co/C4IXRmZEMT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1804,
+        "media_key": "3_1885202162982227968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GimVYQZakAA1VSj.jpg",
+        "width": 1357
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885202162982227968"
+          ],
+          "media_source_tweet_id": [
+            "1885202434282446937"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1885322160488751388",
+        "created_at": "2025-01-31T13:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T14:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885322160488751388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1673528120",
+              "start": 3,
+              "username": "coneyrivard"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4IXRmZEMT",
+              "end": 43,
+              "expanded_url": "https://x.com/coneyrivard/status/1885202434282446937/photo/1",
+              "media_key": "3_1885202162982227968",
+              "start": 20,
+              "url": "https://t.co/C4IXRmZEMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885322160488751388",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4217
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885202434282446937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @coneyrivard: ⚔️ https://t.co/C4IXRmZEMT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885202162982227968"
+          ]
+        },
+        "author_id": "1673528120",
+        "conversation_id": "1885202434282446937",
+        "created_at": "2025-01-31T05:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T06:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885202434282446937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4IXRmZEMT",
+              "end": 26,
+              "expanded_url": "https://x.com/coneyrivard/status/1885202434282446937/photo/1",
+              "media_key": "3_1885202162982227968",
+              "start": 3,
+              "url": "https://t.co/C4IXRmZEMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885202434282446937",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1877,
+          "impression_count": 370101,
+          "like_count": 19532,
+          "quote_count": 146,
+          "reply_count": 36,
+          "retweet_count": 4217
+        },
+        "reply_settings": "everyone",
+        "text": "⚔️ https://t.co/C4IXRmZEMT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 152,
+          "like_count": 6768,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1303
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-15T16:10:33.000Z",
+        "description": "🛌🏻",
+        "id": "1673528120",
+        "name": "幻像黒兎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1101555513731371008/MJZINyCW_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256733,
+          "following_count": 315,
+          "like_count": 1016,
+          "listed_count": 2217,
+          "media_count": 187,
+          "tweet_count": 459
+        },
+        "username": "coneyrivard",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1852993548486074368"
+      ],
+      "media_source_tweet_id": [
+        "1852993552785244577"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1853102293232832649",
+    "created_at": "2024-11-03T15:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T16:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853102293232832649"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 21,
+          "tag": "いまだけダブチたべ美"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1355861536976248836",
+          "start": 3,
+          "username": "hamafugu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UU0L08jZCg",
+          "end": 56,
+          "expanded_url": "https://x.com/hamafugu/status/1852993552785244577/photo/1",
+          "media_key": "3_1852993548486074368",
+          "start": 33,
+          "url": "https://t.co/UU0L08jZCg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853102293232832649",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5174
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852993552785244577",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hamafugu: 🍔🧀✨‼️\n\n#いまだけダブチたべ美 https://t.co/UU0L08jZCg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1852993548486074368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gbcn0JSaYAAwFZp.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852993548486074368"
+          ],
+          "media_source_tweet_id": [
+            "1852993552785244577"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1853102293232832649",
+        "created_at": "2024-11-03T15:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T16:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853102293232832649"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 21,
+              "tag": "いまだけダブチたべ美"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1355861536976248836",
+              "start": 3,
+              "username": "hamafugu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UU0L08jZCg",
+              "end": 56,
+              "expanded_url": "https://x.com/hamafugu/status/1852993552785244577/photo/1",
+              "media_key": "3_1852993548486074368",
+              "start": 33,
+              "url": "https://t.co/UU0L08jZCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853102293232832649",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5174
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852993552785244577",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hamafugu: 🍔🧀✨‼️\n\n#いまだけダブチたべ美 https://t.co/UU0L08jZCg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852993548486074368"
+          ]
+        },
+        "author_id": "1355861536976248836",
+        "conversation_id": "1852993552785244577",
+        "created_at": "2024-11-03T08:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T09:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852993552785244577"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 7,
+              "tag": "いまだけダブチたべ美"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UU0L08jZCg",
+              "end": 42,
+              "expanded_url": "https://x.com/hamafugu/status/1852993552785244577/photo/1",
+              "media_key": "3_1852993548486074368",
+              "start": 19,
+              "url": "https://t.co/UU0L08jZCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852993552785244577",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1388,
+          "impression_count": 746133,
+          "like_count": 26715,
+          "quote_count": 91,
+          "reply_count": 35,
+          "retweet_count": 5174
+        },
+        "reply_settings": "everyone",
+        "text": "🍔🧀✨‼️\n\n#いまだけダブチたべ美 https://t.co/UU0L08jZCg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847962644852162560/UJMfw11t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 122,
+          "like_count": 4581,
+          "listed_count": 0,
+          "tweet_count": 499
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-31T12:52:50.000Z",
+        "description": "illustration animation 連絡先・実績等の情報は下記のリンクからご確認いただけます。 リプ・DMあまり返せませんがよく読んで元気もらってます、ありがとうございます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/hamafugu",
+                "end": 23,
+                "expanded_url": "https://potofu.me/hamafugu",
+                "start": 0,
+                "url": "https://t.co/i5KLP8RjlE"
+              }
+            ]
+          }
+        },
+        "id": "1355861536976248836",
+        "location": "連絡先、Webポートフォリオ、グッズ、他SNS等→",
+        "name": "はまふぐ▶︎COMITIA【か34b】",
+        "pinned_tweet_id": "1848975671437283545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588907980346400768/B7Ee9YiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139040,
+          "following_count": 752,
+          "like_count": 28083,
+          "listed_count": 1020,
+          "tweet_count": 7135
+        },
+        "url": "https://t.co/i5KLP8RjlE",
+        "username": "hamafugu",
+        "verified": false
+      }
+    ]
+  }
+}

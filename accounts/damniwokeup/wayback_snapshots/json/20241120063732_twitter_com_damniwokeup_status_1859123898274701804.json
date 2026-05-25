@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1858873373021138945"
+      ],
+      "media_source_tweet_id": [
+        "1858873377613902283"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1859123898274701804",
+    "created_at": "2024-11-20T06:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T07:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859123898274701804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1825197788919128064",
+          "start": 3,
+          "username": "aseugkka14842"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zm12gM6Csw",
+          "end": 44,
+          "expanded_url": "https://x.com/aseugkka14842/status/1858873377613902283/photo/1",
+          "media_key": "3_1858873373021138945",
+          "start": 21,
+          "url": "https://t.co/Zm12gM6Csw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859123898274701804",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 186
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858873377613902283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aseugkka14842: . https://t.co/Zm12gM6Csw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 812,
+        "media_key": "3_1858873373021138945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcwLe-lbcAEv4i1.jpg",
+        "width": 899
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858873373021138945"
+          ],
+          "media_source_tweet_id": [
+            "1858873377613902283"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1859123898274701804",
+        "created_at": "2024-11-20T06:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T07:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859123898274701804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1825197788919128064",
+              "start": 3,
+              "username": "aseugkka14842"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zm12gM6Csw",
+              "end": 44,
+              "expanded_url": "https://x.com/aseugkka14842/status/1858873377613902283/photo/1",
+              "media_key": "3_1858873373021138945",
+              "start": 21,
+              "url": "https://t.co/Zm12gM6Csw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859123898274701804",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 186
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858873377613902283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aseugkka14842: . https://t.co/Zm12gM6Csw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858873373021138945"
+          ]
+        },
+        "author_id": "1825197788919128064",
+        "conversation_id": "1858873377613902283",
+        "created_at": "2024-11-19T14:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T15:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858873377613902283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zm12gM6Csw",
+              "end": 25,
+              "expanded_url": "https://x.com/aseugkka14842/status/1858873377613902283/photo/1",
+              "media_key": "3_1858873373021138945",
+              "start": 2,
+              "url": "https://t.co/Zm12gM6Csw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858873377613902283",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 17640,
+          "like_count": 1729,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 186
+        },
+        "reply_settings": "everyone",
+        "text": ". https://t.co/Zm12gM6Csw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 128,
+          "like_count": 4944,
+          "listed_count": 0,
+          "tweet_count": 669
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T15:47:29.000Z",
+        "description": "에바 과몰입러 잼민",
+        "id": "1825197788919128064",
+        "name": "아슥까",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845846363923439616/izm8PZXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 68,
+          "like_count": 392,
+          "listed_count": 1,
+          "tweet_count": 182
+        },
+        "username": "aseugkka14842",
+        "verified": false
+      }
+    ]
+  }
+}

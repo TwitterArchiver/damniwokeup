@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866081229159964672",
+        "3_1866081234436370432",
+        "3_1866081251507195904",
+        "3_1866081266258628608"
+      ],
+      "media_source_tweet_id": [
+        "1866081444327829747",
+        "1866081444327829747",
+        "1866081444327829747",
+        "1866081444327829747"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1866492019893567517",
+    "created_at": "2024-12-10T14:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T15:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866492019893567517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4197949993",
+          "start": 3,
+          "username": "faviliash"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cykOQ4qZ3H",
+          "end": 94,
+          "expanded_url": "https://x.com/faviliash/status/1866081444327829747/photo/1",
+          "media_key": "3_1866081229159964672",
+          "start": 71,
+          "url": "https://t.co/cykOQ4qZ3H"
+        },
+        {
+          "display_url": "pic.x.com/cykOQ4qZ3H",
+          "end": 94,
+          "expanded_url": "https://x.com/faviliash/status/1866081444327829747/photo/1",
+          "media_key": "3_1866081234436370432",
+          "start": 71,
+          "url": "https://t.co/cykOQ4qZ3H"
+        },
+        {
+          "display_url": "pic.x.com/cykOQ4qZ3H",
+          "end": 94,
+          "expanded_url": "https://x.com/faviliash/status/1866081444327829747/photo/1",
+          "media_key": "3_1866081251507195904",
+          "start": 71,
+          "url": "https://t.co/cykOQ4qZ3H"
+        },
+        {
+          "display_url": "pic.x.com/cykOQ4qZ3H",
+          "end": 94,
+          "expanded_url": "https://x.com/faviliash/status/1866081444327829747/photo/1",
+          "media_key": "3_1866081266258628608",
+          "start": 71,
+          "url": "https://t.co/cykOQ4qZ3H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866492019893567517",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 742
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866081444327829747",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @faviliash: 新刊に収録されているイラストです🙌\nイラスト集はすでに完成し、印刷ももうすぐ終わります。ワクワクしています…！ https://t.co/cykOQ4qZ3H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1029,
+        "media_key": "3_1866081229159964672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeWm_bIaoAACagR.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1029,
+        "media_key": "3_1866081234436370432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeWm_uyaMAA_fW4.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1029,
+        "media_key": "3_1866081251507195904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeWnAuYaUAAZ5kB.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1029,
+        "media_key": "3_1866081266258628608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeWnBlVbUAABwcf.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866081229159964672",
+            "3_1866081234436370432",
+            "3_1866081251507195904",
+            "3_1866081266258628608"
+          ],
+          "media_source_tweet_id": [
+            "1866081444327829747",
+            "1866081444327829747",
+            "1866081444327829747",
+            "1866081444327829747"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1866492019893567517",
+        "created_at": "2024-12-10T14:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T15:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866492019893567517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4197949993",
+              "start": 3,
+              "username": "faviliash"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cykOQ4qZ3H",
+              "end": 94,
+              "expanded_url": "https://x.com/faviliash/status/1866081444327829747/photo/1",
+              "media_key": "3_1866081229159964672",
+              "start": 71,
+              "url": "https://t.co/cykOQ4qZ3H"
+            },
+            {
+              "display_url": "pic.x.com/cykOQ4qZ3H",
+              "end": 94,
+              "expanded_url": "https://x.com/faviliash/status/1866081444327829747/photo/1",
+              "media_key": "3_1866081234436370432",
+              "start": 71,
+              "url": "https://t.co/cykOQ4qZ3H"
+            },
+            {
+              "display_url": "pic.x.com/cykOQ4qZ3H",
+              "end": 94,
+              "expanded_url": "https://x.com/faviliash/status/1866081444327829747/photo/1",
+              "media_key": "3_1866081251507195904",
+              "start": 71,
+              "url": "https://t.co/cykOQ4qZ3H"
+            },
+            {
+              "display_url": "pic.x.com/cykOQ4qZ3H",
+              "end": 94,
+              "expanded_url": "https://x.com/faviliash/status/1866081444327829747/photo/1",
+              "media_key": "3_1866081266258628608",
+              "start": 71,
+              "url": "https://t.co/cykOQ4qZ3H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866492019893567517",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 742
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866081444327829747",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @faviliash: 新刊に収録されているイラストです🙌\nイラスト集はすでに完成し、印刷ももうすぐ終わります。ワクワクしています…！ https://t.co/cykOQ4qZ3H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866081229159964672",
+            "3_1866081234436370432",
+            "3_1866081251507195904",
+            "3_1866081266258628608"
+          ]
+        },
+        "author_id": "4197949993",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1866081444327829747",
+        "created_at": "2024-12-09T11:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T12:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866081444327829747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cykOQ4qZ3H",
+              "end": 79,
+              "expanded_url": "https://x.com/faviliash/status/1866081444327829747/photo/1",
+              "media_key": "3_1866081229159964672",
+              "start": 56,
+              "url": "https://t.co/cykOQ4qZ3H"
+            },
+            {
+              "display_url": "pic.x.com/cykOQ4qZ3H",
+              "end": 79,
+              "expanded_url": "https://x.com/faviliash/status/1866081444327829747/photo/1",
+              "media_key": "3_1866081234436370432",
+              "start": 56,
+              "url": "https://t.co/cykOQ4qZ3H"
+            },
+            {
+              "display_url": "pic.x.com/cykOQ4qZ3H",
+              "end": 79,
+              "expanded_url": "https://x.com/faviliash/status/1866081444327829747/photo/1",
+              "media_key": "3_1866081251507195904",
+              "start": 56,
+              "url": "https://t.co/cykOQ4qZ3H"
+            },
+            {
+              "display_url": "pic.x.com/cykOQ4qZ3H",
+              "end": 79,
+              "expanded_url": "https://x.com/faviliash/status/1866081444327829747/photo/1",
+              "media_key": "3_1866081266258628608",
+              "start": 56,
+              "url": "https://t.co/cykOQ4qZ3H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866081444327829747",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 467,
+          "impression_count": 100266,
+          "like_count": 4098,
+          "quote_count": 11,
+          "reply_count": 2,
+          "retweet_count": 742
+        },
+        "reply_settings": "everyone",
+        "text": "新刊に収録されているイラストです🙌\nイラスト集はすでに完成し、印刷ももうすぐ終わります。ワクワクしています…！ https://t.co/cykOQ4qZ3H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 5793,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 998
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-11T05:08:14.000Z",
+        "description": "一块面包 wb:@杂粮面包棍\n兴趣使然的游戏相关涂鸦【中文/English/簡単な日本語 ○】",
+        "id": "4197949993",
+        "name": "BreadGunn🥖C105(日)東7/U39b",
+        "pinned_tweet_id": "1855543706658718072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1556169186464104448/SZdUth9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19579,
+          "following_count": 658,
+          "like_count": 2180,
+          "listed_count": 151,
+          "media_count": 217,
+          "tweet_count": 447
+        },
+        "username": "faviliash",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1874099351221329920"
+      ],
+      "media_source_tweet_id": [
+        "1874099378866315292"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1874172633316811101",
+    "created_at": "2024-12-31T19:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T20:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874172633316811101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3466185013",
+          "start": 3,
+          "username": "bysau_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kbSsyz8iof",
+          "end": 44,
+          "expanded_url": "https://x.com/bysau_/status/1874099378866315292/photo/1",
+          "media_key": "3_1874099351221329920",
+          "start": 21,
+          "url": "https://t.co/kbSsyz8iof"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874172633316811101",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 703
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874099378866315292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bysau_: solstice https://t.co/kbSsyz8iof"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1874099351221329920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgIjbjdWYAAO5Lu.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874099351221329920"
+          ],
+          "media_source_tweet_id": [
+            "1874099378866315292"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1874172633316811101",
+        "created_at": "2024-12-31T19:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T20:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874172633316811101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3466185013",
+              "start": 3,
+              "username": "bysau_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kbSsyz8iof",
+              "end": 44,
+              "expanded_url": "https://x.com/bysau_/status/1874099378866315292/photo/1",
+              "media_key": "3_1874099351221329920",
+              "start": 21,
+              "url": "https://t.co/kbSsyz8iof"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874172633316811101",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 703
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874099378866315292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bysau_: solstice https://t.co/kbSsyz8iof"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874099351221329920"
+          ]
+        },
+        "author_id": "3466185013",
+        "conversation_id": "1874099378866315292",
+        "created_at": "2024-12-31T14:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T15:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874099378866315292"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "solstice",
+              "probability": 0.4695,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kbSsyz8iof",
+              "end": 32,
+              "expanded_url": "https://x.com/bysau_/status/1874099378866315292/photo/1",
+              "media_key": "3_1874099351221329920",
+              "start": 9,
+              "url": "https://t.co/kbSsyz8iof"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874099378866315292",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 655,
+          "impression_count": 69687,
+          "like_count": 5334,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 703
+        },
+        "reply_settings": "everyone",
+        "text": "solstice https://t.co/kbSsyz8iof"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 149,
+          "like_count": 6494,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1258
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-06T03:14:23.000Z",
+        "description": "memories & atmospheres 🌙 bysauart@gmail.com • pfp @super_omocheese",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "super_omocheese"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/sau",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/sau",
+                "start": 0,
+                "url": "https://t.co/9m4n4csBeH"
+              }
+            ]
+          }
+        },
+        "id": "3466185013",
+        "name": "SAU",
+        "pinned_tweet_id": "1608921778663096321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699324895262326784/6IlNkqVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100469,
+          "following_count": 904,
+          "like_count": 22984,
+          "listed_count": 891,
+          "media_count": 198,
+          "tweet_count": 2420
+        },
+        "url": "https://t.co/9m4n4csBeH",
+        "username": "bysau_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862845030039191553"
+      ],
+      "media_source_tweet_id": [
+        "1862845053292757068"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1862858579646333424",
+    "created_at": "2024-11-30T13:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T14:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862858579646333424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1014752209",
+          "start": 3,
+          "username": "rururoru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V9QOjZ4nSA",
+          "end": 37,
+          "expanded_url": "https://x.com/rururoru/status/1862845053292757068/photo/1",
+          "media_key": "3_1862845030039191553",
+          "start": 14,
+          "url": "https://t.co/V9QOjZ4nSA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862858579646333424",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862845053292757068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rururoru: https://t.co/V9QOjZ4nSA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_1862845030039191553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdonr18WgAEHJYG.jpg",
+        "width": 786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862845030039191553"
+          ],
+          "media_source_tweet_id": [
+            "1862845053292757068"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1862858579646333424",
+        "created_at": "2024-11-30T13:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T14:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862858579646333424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1014752209",
+              "start": 3,
+              "username": "rururoru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V9QOjZ4nSA",
+              "end": 37,
+              "expanded_url": "https://x.com/rururoru/status/1862845053292757068/photo/1",
+              "media_key": "3_1862845030039191553",
+              "start": 14,
+              "url": "https://t.co/V9QOjZ4nSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862858579646333424",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862845053292757068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rururoru: https://t.co/V9QOjZ4nSA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862845030039191553"
+          ]
+        },
+        "author_id": "1014752209",
+        "conversation_id": "1862845053292757068",
+        "created_at": "2024-11-30T13:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T14:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862845053292757068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V9QOjZ4nSA",
+              "end": 23,
+              "expanded_url": "https://x.com/rururoru/status/1862845053292757068/photo/1",
+              "media_key": "3_1862845030039191553",
+              "start": 0,
+              "url": "https://t.co/V9QOjZ4nSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862845053292757068",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2396,
+          "like_count": 180,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/V9QOjZ4nSA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 137,
+          "like_count": 5329,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 833
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-16T08:18:37.000Z",
+        "description": "illustrator painter 🕊️ お仕事募集中 ご依頼、展示のお誘いなどは ✉️ rururoru@gmail.com まで  kanazawa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rururoru",
+                "end": 23,
+                "expanded_url": "http://lit.link/rururoru",
+                "start": 0,
+                "url": "https://t.co/TSo9iXiqmq"
+              }
+            ]
+          }
+        },
+        "id": "1014752209",
+        "name": "ゆーきんᝯᝰ",
+        "pinned_tweet_id": "1860862438075482207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1178970675098185728/l3QWdZPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32271,
+          "following_count": 2391,
+          "like_count": 88277,
+          "listed_count": 508,
+          "media_count": 10863,
+          "tweet_count": 134781
+        },
+        "url": "https://t.co/TSo9iXiqmq",
+        "username": "rururoru",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1863825105803207166",
+    "created_at": "2024-12-03T05:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T06:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863825105803207166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1082600293475397634",
+          "start": 3,
+          "username": "Kirakiradove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863825105803207166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863632025120542768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kirakiradove: “你们很美，但你们是空虚的。”\n\n“没有人能为你们去死。当然咯，我的那朵玫瑰花，一个普通的过路人以为她和你们一样。\n\n可是，她单独一朵就比你们全体更重要，因为她是我浇灌的。因为她是我放在花罩中的。 因为她是我用屏风保护起来的。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1863825105803207166",
+        "created_at": "2024-12-03T05:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T06:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863825105803207166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1082600293475397634",
+              "start": 3,
+              "username": "Kirakiradove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863825105803207166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863632025120542768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kirakiradove: “你们很美，但你们是空虚的。”\n\n“没有人能为你们去死。当然咯，我的那朵玫瑰花，一个普通的过路人以为她和你们一样。\n\n可是，她单独一朵就比你们全体更重要，因为她是我浇灌的。因为她是我放在花罩中的。 因为她是我用屏风保护起来的。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1082600293475397634",
+        "conversation_id": "1863632025120542768",
+        "created_at": "2024-12-02T17:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T18:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863632025120542768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863632025120542768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“你们很美，但你们是空虚的。”\n\n“没有人能为你们去死。当然咯，我的那朵玫瑰花，一个普通的过路人以为她和你们一样。\n\n可是，她单独一朵就比你们全体更重要，因为她是我浇灌的。因为她是我放在花罩中的。 因为她是我用屏风保护起来的。\n因为她身上的毛虫是我除灭的。因为我倾听过她的怨艾和自诩，甚至有时我聆听着她的沉默。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 446,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“你们很美，但你们是空虚的。”\n\n“没有人能为你们去死。当然咯，我的那朵玫瑰花，一个普通的过路人以为她和你们一样。\n\n可是，她单独一朵就比你们全体更重要，因为她是我浇灌的。因为她是我放在花罩中的。 因为她是我用屏风保护起来的。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 143,
+          "like_count": 5493,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 882
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T11:29:58.000Z",
+        "description": "🉑🉑丨我是孤儿丨原因就是性别丨非男非女纯人间失格丨每周去麦当当打工还助学贷款丨能活到现在纯靠运气和好人援助交际丨有问题可以直接私信我但想要提要求请先支付宝口令丨vx门槛88接陪聊陪玩交明年学费丨重度药物依赖每天晚上都会发癫⚠️丨正常情况下超高频率和粉丝互动丨免费头像进度请点击媒体查看丨感谢你们喜欢我",
+        "id": "1082600293475397634",
+        "location": "隨機",
+        "name": "うさココ",
+        "pinned_tweet_id": "1859467840635748539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514216529138696193/5YBbERgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2840,
+          "following_count": 0,
+          "like_count": 3146,
+          "listed_count": 6,
+          "media_count": 195,
+          "tweet_count": 2412
+        },
+        "username": "Kirakiradove",
+        "verified": true
+      }
+    ]
+  }
+}

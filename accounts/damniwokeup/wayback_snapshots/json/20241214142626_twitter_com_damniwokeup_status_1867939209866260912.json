@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867537848192446464"
+      ],
+      "media_source_tweet_id": [
+        "1867902365589762101"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1867939209866260912",
+    "created_at": "2024-12-14T14:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T15:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867939209866260912"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 18,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 49,
+          "start": 39,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "847118821345366016",
+          "start": 3,
+          "username": "junpakukaren"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lNK9GCMp39",
+          "end": 73,
+          "expanded_url": "https://x.com/junpakukaren/status/1867902365589762101/photo/1",
+          "media_key": "3_1867537848192446464",
+          "start": 50,
+          "url": "https://t.co/lNK9GCMp39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867939209866260912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 292
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867902365589762101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @junpakukaren: #NEEDY_GIRL_OVERDOSE\n#NEEDY_pic https://t.co/lNK9GCMp39"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2732,
+        "media_key": "3_1867537848192446464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GerTxz4bsAAzG-l.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867537848192446464"
+          ],
+          "media_source_tweet_id": [
+            "1867902365589762101"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1867939209866260912",
+        "created_at": "2024-12-14T14:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T15:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867939209866260912"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 18,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 49,
+              "start": 39,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "847118821345366016",
+              "start": 3,
+              "username": "junpakukaren"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lNK9GCMp39",
+              "end": 73,
+              "expanded_url": "https://x.com/junpakukaren/status/1867902365589762101/photo/1",
+              "media_key": "3_1867537848192446464",
+              "start": 50,
+              "url": "https://t.co/lNK9GCMp39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867939209866260912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 292
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867902365589762101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @junpakukaren: #NEEDY_GIRL_OVERDOSE\n#NEEDY_pic https://t.co/lNK9GCMp39"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867537848192446464"
+          ]
+        },
+        "author_id": "847118821345366016",
+        "conversation_id": "1867902365589762101",
+        "created_at": "2024-12-14T12:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T13:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867902365589762101"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lNK9GCMp39",
+              "end": 55,
+              "expanded_url": "https://x.com/junpakukaren/status/1867902365589762101/photo/1",
+              "media_key": "3_1867537848192446464",
+              "start": 32,
+              "url": "https://t.co/lNK9GCMp39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867902365589762101",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 13893,
+          "like_count": 1748,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 292
+        },
+        "reply_settings": "everyone",
+        "text": "#NEEDY_GIRL_OVERDOSE\n#NEEDY_pic https://t.co/lNK9GCMp39"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 146,
+          "like_count": 5980,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1071
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-29T16:10:40.000Z",
+        "description": "/ Illustrator・純白可憐 /",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=20778107",
+                "start": 0,
+                "url": "https://t.co/iHpmMuh7Cu"
+              }
+            ]
+          }
+        },
+        "id": "847118821345366016",
+        "location": "jpkr@foxmail.com",
+        "name": "Pale🪽",
+        "pinned_tweet_id": "1735863534716846296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676195787297161218/1o_27kpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35753,
+          "following_count": 611,
+          "like_count": 710,
+          "listed_count": 264,
+          "media_count": 97,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/iHpmMuh7Cu",
+        "username": "junpakukaren",
+        "verified": true
+      }
+    ]
+  }
+}

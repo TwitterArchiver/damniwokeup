@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860663499485294592"
+      ],
+      "media_source_tweet_id": [
+        "1860663506124882310"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "1860678681011839411",
+    "created_at": "2024-11-24T13:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T14:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860678681011839411"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 23,
+          "tag": "結束バンド"
+        },
+        {
+          "end": 37,
+          "start": 30,
+          "tag": "Wewill"
+        },
+        {
+          "end": 48,
+          "start": 38,
+          "tag": "ぼっち・ざ・ろっく"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1113848439232552961",
+          "start": 3,
+          "username": "ta4831"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fgYOKGZh0g",
+          "end": 72,
+          "expanded_url": "https://x.com/ta4831/status/1860663506124882310/photo/1",
+          "media_key": "3_1860663499485294592",
+          "start": 49,
+          "url": "https://t.co/fgYOKGZh0g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860678681011839411",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860663506124882310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ta4831: 結束バンド！！！！\n\n#結束バンド #Wewill\n#ぼっち・ざ・ろっく https://t.co/fgYOKGZh0g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1860663499485294592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdJnmDVbMAAIQsc.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860663499485294592"
+          ],
+          "media_source_tweet_id": [
+            "1860663506124882310"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1860678681011839411",
+        "created_at": "2024-11-24T13:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T14:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860678681011839411"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "結束バンド"
+            },
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "Wewill"
+            },
+            {
+              "end": 48,
+              "start": 38,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1113848439232552961",
+              "start": 3,
+              "username": "ta4831"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgYOKGZh0g",
+              "end": 72,
+              "expanded_url": "https://x.com/ta4831/status/1860663506124882310/photo/1",
+              "media_key": "3_1860663499485294592",
+              "start": 49,
+              "url": "https://t.co/fgYOKGZh0g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860678681011839411",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860663506124882310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ta4831: 結束バンド！！！！\n\n#結束バンド #Wewill\n#ぼっち・ざ・ろっく https://t.co/fgYOKGZh0g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860663499485294592"
+          ]
+        },
+        "author_id": "1113848439232552961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1860663506124882310",
+        "created_at": "2024-11-24T12:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T13:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860663506124882310"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "結束バンド"
+            },
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "Wewill"
+            },
+            {
+              "end": 36,
+              "start": 26,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgYOKGZh0g",
+              "end": 60,
+              "expanded_url": "https://x.com/ta4831/status/1860663506124882310/photo/1",
+              "media_key": "3_1860663499485294592",
+              "start": 37,
+              "url": "https://t.co/fgYOKGZh0g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860663506124882310",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 4181,
+          "like_count": 376,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "結束バンド！！！！\n\n#結束バンド #Wewill\n#ぼっち・ざ・ろっく https://t.co/fgYOKGZh0g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 132,
+          "like_count": 5088,
+          "listed_count": 0,
+          "tweet_count": 741
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-04T16:58:57.000Z",
+        "description": "結束バンドをよく描きます。",
+        "id": "1113848439232552961",
+        "location": "心は東京",
+        "name": "tact🚕🍜",
+        "pinned_tweet_id": "1729496876779811030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732614767981047808/bALBja4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11053,
+          "following_count": 235,
+          "like_count": 26348,
+          "listed_count": 48,
+          "tweet_count": 8485
+        },
+        "username": "ta4831",
+        "verified": false
+      }
+    ]
+  }
+}

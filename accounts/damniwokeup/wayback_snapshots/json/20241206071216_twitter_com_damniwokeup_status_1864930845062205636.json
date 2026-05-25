@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864597307842592768"
+      ],
+      "media_source_tweet_id": [
+        "1864597611061367039"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1864930845062205636",
+    "created_at": "2024-12-06T07:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T08:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864930845062205636"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 34,
+          "tag": "マリンのお宝"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "836482675355484164",
+          "start": 3,
+          "username": "Tako0980"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J8FcjebezX",
+          "end": 65,
+          "expanded_url": "https://x.com/Tako0980/status/1864597611061367039/photo/1",
+          "media_key": "3_1864597307842592768",
+          "start": 42,
+          "url": "https://t.co/J8FcjebezX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864930845062205636",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 596
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864597611061367039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tako0980: 「彼女とデートなうに使っていいよ♡」\n\n#マリンのお宝 https://t.co/J8FcjebezX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1864597307842592768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeBhX1cbgAAMbVV.jpg",
+        "width": 2898
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864597307842592768"
+          ],
+          "media_source_tweet_id": [
+            "1864597611061367039"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1864930845062205636",
+        "created_at": "2024-12-06T07:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T08:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864930845062205636"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "マリンのお宝"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "836482675355484164",
+              "start": 3,
+              "username": "Tako0980"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8FcjebezX",
+              "end": 65,
+              "expanded_url": "https://x.com/Tako0980/status/1864597611061367039/photo/1",
+              "media_key": "3_1864597307842592768",
+              "start": 42,
+              "url": "https://t.co/J8FcjebezX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864930845062205636",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 596
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864597611061367039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tako0980: 「彼女とデートなうに使っていいよ♡」\n\n#マリンのお宝 https://t.co/J8FcjebezX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864597307842592768"
+          ]
+        },
+        "author_id": "836482675355484164",
+        "conversation_id": "1864597611061367039",
+        "created_at": "2024-12-05T09:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T10:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864597611061367039"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "マリンのお宝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8FcjebezX",
+              "end": 51,
+              "expanded_url": "https://x.com/Tako0980/status/1864597611061367039/photo/1",
+              "media_key": "3_1864597307842592768",
+              "start": 28,
+              "url": "https://t.co/J8FcjebezX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864597611061367039",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 619,
+          "impression_count": 103752,
+          "like_count": 6569,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 596
+        },
+        "reply_settings": "everyone",
+        "text": "「彼女とデートなうに使っていいよ♡」\n\n#マリンのお宝 https://t.co/J8FcjebezX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 144,
+          "like_count": 5632,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 939
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-28T07:46:25.000Z",
+        "description": "アニメーター、イラストレーター✦Goods https://t.co/BRobnDZnY5 ✦IG https://t.co/bKuvDVYhTm ✦Works https://t.co/iyTf1m02td",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "suzuri.jp/HASU_SHOP",
+                "end": 45,
+                "expanded_url": "https://suzuri.jp/HASU_SHOP",
+                "start": 22,
+                "url": "https://t.co/BRobnDZnY5"
+              },
+              {
+                "display_url": "x.gd/9Dkth",
+                "end": 73,
+                "expanded_url": "https://x.gd/9Dkth",
+                "start": 50,
+                "url": "https://t.co/bKuvDVYhTm"
+              },
+              {
+                "display_url": "x.gd/tzkUn",
+                "end": 104,
+                "expanded_url": "https://x.gd/tzkUn",
+                "start": 81,
+                "url": "https://t.co/iyTf1m02td"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "production-hasu.work",
+                "end": 23,
+                "expanded_url": "https://production-hasu.work/",
+                "start": 0,
+                "url": "https://t.co/s7rBDArmeK"
+              }
+            ]
+          }
+        },
+        "id": "836482675355484164",
+        "location": "Illustration/Animation",
+        "name": "HASU",
+        "pinned_tweet_id": "1786369009451196627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864584540532232192/76IXsbC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89357,
+          "following_count": 930,
+          "like_count": 30120,
+          "listed_count": 666,
+          "media_count": 123,
+          "tweet_count": 2760
+        },
+        "url": "https://t.co/s7rBDArmeK",
+        "username": "Tako0980",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1862705318914138448"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1862842566426976753",
+    "created_at": "2024-11-30T12:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T13:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862842566426976753"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "ツインテアイちゃん",
+          "probability": 0.7688,
+          "start": 23,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 34,
+          "tag": "推しの子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1652106050030702596",
+          "start": 3,
+          "username": "4B_Pencil_25"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1r3UpsMv2L",
+          "end": 63,
+          "expanded_url": "https://x.com/4B_Pencil_25/status/1862705318914138448/photo/1",
+          "media_key": "3_1862705309783138306",
+          "start": 40,
+          "url": "https://t.co/1r3UpsMv2L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862842566426976753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1153
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862705318914138448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4B_Pencil_25: 久しぶりのツインテアイちゃん🌟\n#推しの子 https://t.co/1r3UpsMv2L"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1862705318914138448"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1862842566426976753",
+        "created_at": "2024-11-30T12:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T13:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862842566426976753"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "ツインテアイちゃん",
+              "probability": 0.7688,
+              "start": 23,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "推しの子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1652106050030702596",
+              "start": 3,
+              "username": "4B_Pencil_25"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1r3UpsMv2L",
+              "end": 63,
+              "expanded_url": "https://x.com/4B_Pencil_25/status/1862705318914138448/photo/1",
+              "media_key": "3_1862705309783138306",
+              "start": 40,
+              "url": "https://t.co/1r3UpsMv2L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862842566426976753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1153
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862705318914138448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4B_Pencil_25: 久しぶりのツインテアイちゃん🌟\n#推しの子 https://t.co/1r3UpsMv2L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862705309783138306"
+          ]
+        },
+        "author_id": "1652106050030702596",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1862705318914138448",
+        "created_at": "2024-11-30T03:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T04:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862705318914138448"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "ツインテアイちゃん",
+              "probability": 0.7236,
+              "start": 5,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "推しの子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1r3UpsMv2L",
+              "end": 45,
+              "expanded_url": "https://x.com/4B_Pencil_25/status/1862705318914138448/photo/1",
+              "media_key": "3_1862705309783138306",
+              "start": 22,
+              "url": "https://t.co/1r3UpsMv2L"
+            },
+            {
+              "display_url": "x.com/4b_pencil_25/s…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/4b_pencil_25/status/1664974840753782784",
+              "start": 46,
+              "url": "https://t.co/ejwsDmfCSQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862705318914138448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 731,
+          "impression_count": 273919,
+          "like_count": 11359,
+          "quote_count": 7,
+          "reply_count": 20,
+          "retweet_count": 1153
+        },
+        "referenced_tweets": [
+          {
+            "id": "1664974840753782784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "久しぶりのツインテアイちゃん🌟\n#推しの子 https://t.co/1r3UpsMv2L https://t.co/ejwsDmfCSQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 137,
+          "like_count": 5319,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 829
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T00:22:43.000Z",
+        "description": "お絵描きしてます🎨【推しの子】/かぐや様は告らせたい/ホロライブ/etc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/4746932",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/4746932",
+                "start": 0,
+                "url": "https://t.co/09BfeFCpSO"
+              }
+            ]
+          }
+        },
+        "id": "1652106050030702596",
+        "location": "無断転載NG",
+        "name": "4B鉛筆",
+        "pinned_tweet_id": "1660956068829356032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719343772218298368/N7QZvkv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46081,
+          "following_count": 43,
+          "like_count": 2202,
+          "listed_count": 251,
+          "media_count": 136,
+          "tweet_count": 763
+        },
+        "url": "https://t.co/09BfeFCpSO",
+        "username": "4B_Pencil_25",
+        "verified": false
+      }
+    ]
+  }
+}

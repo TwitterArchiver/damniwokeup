@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1865024214841049088"
+      ],
+      "media_source_tweet_id": [
+        "1865024217915494636"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1865033959677268078",
+    "created_at": "2024-12-06T14:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T15:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865033959677268078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "575333698",
+          "start": 3,
+          "username": "LAFIfirst"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m9GBNkd3Qs",
+          "end": 46,
+          "expanded_url": "https://x.com/LAFIfirst/status/1865024217915494636/photo/1",
+          "media_key": "3_1865024214841049088",
+          "start": 23,
+          "url": "https://t.co/m9GBNkd3Qs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865033959677268078",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865024217915494636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LAFIfirst: 歪曲　対　直死 https://t.co/m9GBNkd3Qs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1378,
+        "media_key": "3_1865024214841049088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeHlpF8aQAAOX9t.jpg",
+        "width": 1378
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865024214841049088"
+          ],
+          "media_source_tweet_id": [
+            "1865024217915494636"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1865033959677268078",
+        "created_at": "2024-12-06T14:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T15:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865033959677268078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "575333698",
+              "start": 3,
+              "username": "LAFIfirst"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m9GBNkd3Qs",
+              "end": 46,
+              "expanded_url": "https://x.com/LAFIfirst/status/1865024217915494636/photo/1",
+              "media_key": "3_1865024214841049088",
+              "start": 23,
+              "url": "https://t.co/m9GBNkd3Qs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865033959677268078",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865024217915494636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LAFIfirst: 歪曲　対　直死 https://t.co/m9GBNkd3Qs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865024214841049088"
+          ]
+        },
+        "author_id": "575333698",
+        "conversation_id": "1865024217915494636",
+        "created_at": "2024-12-06T13:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T14:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865024217915494636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m9GBNkd3Qs",
+              "end": 31,
+              "expanded_url": "https://x.com/LAFIfirst/status/1865024217915494636/photo/1",
+              "media_key": "3_1865024214841049088",
+              "start": 8,
+              "url": "https://t.co/m9GBNkd3Qs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865024217915494636",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1482,
+          "like_count": 154,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "歪曲　対　直死 https://t.co/m9GBNkd3Qs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 144,
+          "like_count": 5650,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 947
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-09T12:57:21.000Z",
+        "description": "サークル「荒耶織物店」代表。絵を描いたりコスプレをします。キノの旅、空の境界の蒐集、超個人的空の境界プロジェクト第一弾完成、第二弾第三弾製作中!!　着物や刀、武術についていろいろ。\n避難垢:https://t.co/3hlfS1UZLb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hulkeide.bsky.social",
+                "end": 118,
+                "expanded_url": "http://hulkeide.bsky.social",
+                "start": 95,
+                "url": "https://t.co/3hlfS1UZLb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=4190738",
+                "start": 0,
+                "url": "https://t.co/4UOGt5sKMz"
+              }
+            ]
+          }
+        },
+        "id": "575333698",
+        "location": "富士山山頂",
+        "name": "ハルクェイド@日曜日 東h08a",
+        "pinned_tweet_id": "935148432674627584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/821368210792411136/YNRLLFeM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2832,
+          "following_count": 1176,
+          "like_count": 36822,
+          "listed_count": 41,
+          "media_count": 3839,
+          "tweet_count": 50940
+        },
+        "url": "https://t.co/4UOGt5sKMz",
+        "username": "LAFIfirst",
+        "verified": false
+      }
+    ]
+  }
+}

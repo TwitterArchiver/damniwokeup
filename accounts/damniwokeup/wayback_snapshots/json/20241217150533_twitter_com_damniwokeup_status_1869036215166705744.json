@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "1868946809999294536",
+    "created_at": "2024-12-17T15:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T16:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869036215166705744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1753339639522590720",
+          "start": 0,
+          "username": "seraphu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869036215166705744",
+    "in_reply_to_user_id": "1753339639522590720",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868946809999294536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seraphu00 Merry Christmas！You did a great job！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "1868946809999294536",
+        "created_at": "2024-12-17T15:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T16:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869036215166705744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1753339639522590720",
+              "start": 0,
+              "username": "seraphu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869036215166705744",
+        "in_reply_to_user_id": "1753339639522590720",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868946809999294536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seraphu00 Merry Christmas！You did a great job！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868945661540061185"
+          ]
+        },
+        "author_id": "1753339639522590720",
+        "conversation_id": "1868946809999294536",
+        "created_at": "2024-12-17T09:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T10:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868946809999294536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TWbMgD3pTH",
+              "end": 305,
+              "expanded_url": "https://x.com/seraphu00/status/1868946809999294536/photo/1",
+              "media_key": "3_1868945661540061185",
+              "start": 282,
+              "url": "https://t.co/TWbMgD3pTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868946809999294536",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "✉️ An Open Letter to my Followers.\n\nDear Reader, I first must begin with an apology—I'm sorry for writing again so densely and with such knotty length! Alas, it seems to me the best way to both express myself, and for me to understand, and attain to a good and proper grasp of how I feel. So I want to reflect on this account with a year nearly passed.\n\nNonetheless, it should be obvious to anyone still reading what my purpose and project here is on this account. \n\na) an account in honour of Saber and thereby Shirou, the Fate route, the rest of the Fate cast—the themes, narrative direction, symbolism, and then also extending to Nasu, Takeuchi, Koyama, and all of TYPEMOON at large in works and authors (but principally the main big 4).\n\nb) a substantial infusion of Catholic, and classical, theology, philosophy and aesthetics into the relevant and adequate parts and aspects of the above.\n\nc) doing all of the above while being rather cozy!\n\nWhile despite perhaps the more mundane posts from day to day—your visual novel screencap or Takeuchi scan—checking my highlights tab should serve as ample evidence of the above.\n\nSo then, I am compelled to feel in myself that:\n\nIf you are TYPE-MOON fan who follows me, and haven't since taken even an inkling of interest in Medieval Catholic theology and literature—I have failed you.\n\nIf you a Catholic who follows me, and haven't since taken even an inkling of interest in TYPE-MOON's works and the Fate route specifically—I have failed you.\n\nI know that I often do entangle what I am trying to say or express behind a thick vegetation of indescipherability. Sometimes its due to the complexity of the concept, the disorder in my thought and method, a general ineloquence or... just plain old typos. Forgive me for that.\n\nBut those few who have so been moved one way or another, or stand in both spheres already, this post is all the more for you. \n\nWhether you came to a deeper appreciation of TYPE-MOON's works, thematic, narrative, artistic and musical direction; or if you came to a closer intimacy with Catholic theology (especially St. Bonaventure!) or High and Late Medieval literature (Malory, Dante, etc.,)—that has been my pride and joy this year long.\n\nWith heartfelt gratitude, thank you for all the support. I love you all. God bless you all immensely, and may Mary keep you unto the twilight of your last hours.\n\nWishing you all a very Merry Christmas, and a Happy New Year,\n\n~ Seraphu\n\nJHS †\n\nS. Bonaventura, ora pro nobis! ☴"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1200,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "✉️ An Open Letter to my Followers.\n\nDear Reader, I first must begin with an apology—I'm sorry for writing again so densely and with such knotty length! Alas, it seems to me the best way to both express myself, and for me to understand, and attain to a good and proper grasp of how… https://t.co/TWbMgD3pTH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 145,
+          "like_count": 6151,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1134
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T08:48:50.000Z",
+        "description": "✞ | 𝘛𝘠𝘗𝘌𝘔𝘖𝘖𝘕 𝘢𝘳𝘵𝘪𝘴𝘵, 𝘵𝘳𝘢𝘯𝘴𝘭𝘢𝘵𝘰𝘳 | @DailyArtoria\n📚 | Translating: 衛宮さんちの今日のごはん コラボカフェ\n\n『Index of my work: https://t.co/OHO29XriSY』",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "DailyArtoria"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pastebin.com/7sjxAP04",
+                "end": 128,
+                "expanded_url": "http://pastebin.com/7sjxAP04",
+                "start": 105,
+                "url": "https://t.co/OHO29XriSY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/76853…",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/en/users/76853126",
+                "start": 0,
+                "url": "https://t.co/flYJC9oZlx"
+              }
+            ]
+          }
+        },
+        "id": "1753339639522590720",
+        "name": "セラフ・serafu✨",
+        "pinned_tweet_id": "1863599000701558951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863430012873150464/9CuKc_yq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2348,
+          "following_count": 157,
+          "like_count": 10145,
+          "listed_count": 8,
+          "media_count": 1233,
+          "tweet_count": 6835
+        },
+        "url": "https://t.co/flYJC9oZlx",
+        "username": "seraphu00",
+        "verified": true
+      }
+    ]
+  }
+}

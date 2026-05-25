@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863955465547472896"
+      ],
+      "media_source_tweet_id": [
+        "1863955479262847092"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1863961861953306781",
+    "created_at": "2024-12-03T15:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T16:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863961861953306781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1163673605718175744",
+          "start": 3,
+          "username": "noriuma_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wwErbfu9Ee",
+          "end": 37,
+          "expanded_url": "https://x.com/noriuma_/status/1863955479262847092/photo/1",
+          "media_key": "3_1863955465547472896",
+          "start": 14,
+          "url": "https://t.co/wwErbfu9Ee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863961861953306781",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863955479262847092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noriuma_: https://t.co/wwErbfu9Ee"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1863955465547472896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd4Znska4AAba3u.jpg",
+        "width": 1431
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863955465547472896"
+          ],
+          "media_source_tweet_id": [
+            "1863955479262847092"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1863961861953306781",
+        "created_at": "2024-12-03T15:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T16:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863961861953306781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1163673605718175744",
+              "start": 3,
+              "username": "noriuma_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wwErbfu9Ee",
+              "end": 37,
+              "expanded_url": "https://x.com/noriuma_/status/1863955479262847092/photo/1",
+              "media_key": "3_1863955465547472896",
+              "start": 14,
+              "url": "https://t.co/wwErbfu9Ee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863961861953306781",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863955479262847092",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noriuma_: https://t.co/wwErbfu9Ee"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863955465547472896"
+          ]
+        },
+        "author_id": "1163673605718175744",
+        "conversation_id": "1863955479262847092",
+        "created_at": "2024-12-03T14:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T15:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863955479262847092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wwErbfu9Ee",
+              "end": 23,
+              "expanded_url": "https://x.com/noriuma_/status/1863955479262847092/photo/1",
+              "media_key": "3_1863955465547472896",
+              "start": 0,
+              "url": "https://t.co/wwErbfu9Ee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863955479262847092",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 3762,
+          "like_count": 631,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wwErbfu9Ee"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863961129996967936/qeynYxft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 143,
+          "like_count": 5525,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 892
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-20T04:46:31.000Z",
+        "description": "ご連絡▷majikayo147@gmail.com ▶︎娘@clionesilvia @ShikishimaAono ➡︎➡︎➡︎➡︎➡︎➡︎➡︎➡︎➡︎➡︎➡︎➡︎➡︎➡︎➡︎➡︎➡︎➡︎➡︎➡︎➡︎ お仕事のご依頼は2025年3月以降から可能 ➡︎➡︎➡︎➡︎Chinese/Japanese/English",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "clionesilvia"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "ShikishimaAono"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/noriuma_",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/noriuma_",
+                "start": 0,
+                "url": "https://t.co/g8c4atApVt"
+              }
+            ]
+          }
+        },
+        "id": "1163673605718175744",
+        "location": "Taiwan",
+        "name": "のりうま@イラスト本通販中",
+        "pinned_tweet_id": "1856017976669155548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860168787582242816/i1XDvY4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48762,
+          "following_count": 30,
+          "like_count": 15042,
+          "listed_count": 431,
+          "media_count": 1041,
+          "tweet_count": 16476
+        },
+        "url": "https://t.co/g8c4atApVt",
+        "username": "noriuma_",
+        "verified": false
+      }
+    ]
+  }
+}

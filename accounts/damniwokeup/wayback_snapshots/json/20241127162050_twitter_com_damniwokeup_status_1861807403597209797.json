@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861723105766555648"
+      ],
+      "media_source_tweet_id": [
+        "1861723110602584126"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1861807403597209797",
+    "created_at": "2024-11-27T16:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T17:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861807403597209797"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "初音ミク",
+          "probability": 0.772,
+          "start": 19,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1823814601018150912",
+          "start": 3,
+          "username": "monogusa_desu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FeSmGyn2IW",
+          "end": 54,
+          "expanded_url": "https://x.com/monogusa_desu/status/1861723110602584126/photo/1",
+          "media_key": "3_1861723105766555648",
+          "start": 31,
+          "url": "https://t.co/FeSmGyn2IW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861807403597209797",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861723110602584126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @monogusa_desu: 初音ミク\n #初音ミク https://t.co/FeSmGyn2IW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1190,
+        "media_key": "3_1861723105766555648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdYrTQVaQAAllvk.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861723105766555648"
+          ],
+          "media_source_tweet_id": [
+            "1861723110602584126"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1861807403597209797",
+        "created_at": "2024-11-27T16:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T17:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861807403597209797"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "初音ミク",
+              "probability": 0.772,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1823814601018150912",
+              "start": 3,
+              "username": "monogusa_desu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FeSmGyn2IW",
+              "end": 54,
+              "expanded_url": "https://x.com/monogusa_desu/status/1861723110602584126/photo/1",
+              "media_key": "3_1861723105766555648",
+              "start": 31,
+              "url": "https://t.co/FeSmGyn2IW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861807403597209797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861723110602584126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @monogusa_desu: 初音ミク\n #初音ミク https://t.co/FeSmGyn2IW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861723105766555648"
+          ]
+        },
+        "author_id": "1823814601018150912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1861723110602584126",
+        "created_at": "2024-11-27T10:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T11:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861723110602584126"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "初音ミク",
+              "probability": 0.7752,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FeSmGyn2IW",
+              "end": 35,
+              "expanded_url": "https://x.com/monogusa_desu/status/1861723110602584126/photo/1",
+              "media_key": "3_1861723105766555648",
+              "start": 12,
+              "url": "https://t.co/FeSmGyn2IW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861723110602584126",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 3892,
+          "like_count": 359,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "初音ミク\n #初音ミク https://t.co/FeSmGyn2IW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 134,
+          "like_count": 5209,
+          "listed_count": 0,
+          "tweet_count": 786
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T20:11:13.000Z",
+        "description": "イラスト描いております。",
+        "id": "1823814601018150912",
+        "location": "トイレ",
+        "name": "ものぐさ",
+        "pinned_tweet_id": "1852446165998186672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858384023040765952/c-9rIKB5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 12,
+          "like_count": 2173,
+          "listed_count": 2,
+          "tweet_count": 93
+        },
+        "username": "monogusa_desu",
+        "verified": false
+      }
+    ]
+  }
+}

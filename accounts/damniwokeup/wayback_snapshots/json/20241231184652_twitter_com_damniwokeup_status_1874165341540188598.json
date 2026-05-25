@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1874055205685428225"
+      ],
+      "media_source_tweet_id": [
+        "1874056173470835146"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1874165341540188598",
+    "created_at": "2024-12-31T18:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T19:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874165341540188598"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 62,
+          "normalized_text": "ChainsawMan",
+          "probability": 0.776,
+          "start": 52,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 51,
+          "tag": "ChainsawMan"
+        },
+        {
+          "end": 72,
+          "start": 64,
+          "tag": "チェンソーマン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1704493919172427776",
+          "start": 3,
+          "username": "KennyCastafi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9kWbC3AvFF",
+          "end": 96,
+          "expanded_url": "https://x.com/KennyCastafi/status/1874056173470835146/photo/1",
+          "media_key": "3_1874055205685428225",
+          "start": 73,
+          "url": "https://t.co/9kWbC3AvFF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874165341540188598",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 113
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874056173470835146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KennyCastafi: They are besties in my mind 💛❤️💜\n#ChainsawMan #チェンソーマン https://t.co/9kWbC3AvFF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1874055205685428225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgH7R8haAAEAaVO.jpg",
+        "width": 3276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874055205685428225"
+          ],
+          "media_source_tweet_id": [
+            "1874056173470835146"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1874165341540188598",
+        "created_at": "2024-12-31T18:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T19:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874165341540188598"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 62,
+              "normalized_text": "ChainsawMan",
+              "probability": 0.776,
+              "start": 52,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 51,
+              "tag": "ChainsawMan"
+            },
+            {
+              "end": 72,
+              "start": 64,
+              "tag": "チェンソーマン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1704493919172427776",
+              "start": 3,
+              "username": "KennyCastafi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9kWbC3AvFF",
+              "end": 96,
+              "expanded_url": "https://x.com/KennyCastafi/status/1874056173470835146/photo/1",
+              "media_key": "3_1874055205685428225",
+              "start": 73,
+              "url": "https://t.co/9kWbC3AvFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874165341540188598",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 113
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874056173470835146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KennyCastafi: They are besties in my mind 💛❤️💜\n#ChainsawMan #チェンソーマン https://t.co/9kWbC3AvFF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874055205685428225"
+          ]
+        },
+        "author_id": "1704493919172427776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1874056173470835146",
+        "created_at": "2024-12-31T11:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T12:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874056173470835146"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "ChainsawMan",
+              "probability": 0.7903,
+              "start": 34,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 33,
+              "tag": "ChainsawMan"
+            },
+            {
+              "end": 54,
+              "start": 46,
+              "tag": "チェンソーマン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9kWbC3AvFF",
+              "end": 78,
+              "expanded_url": "https://x.com/KennyCastafi/status/1874056173470835146/photo/1",
+              "media_key": "3_1874055205685428225",
+              "start": 55,
+              "url": "https://t.co/9kWbC3AvFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874056173470835146",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 5654,
+          "like_count": 659,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "They are besties in my mind 💛❤️💜\n#ChainsawMan #チェンソーマン https://t.co/9kWbC3AvFF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 149,
+          "like_count": 6486,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1257
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T13:53:33.000Z",
+        "description": "Graphic Designer | Illustrator | Nerd",
+        "id": "1704493919172427776",
+        "location": "Ombligo de la Luna",
+        "name": "🔺️",
+        "pinned_tweet_id": "1874056173470835146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848231308268290048/cJM6utRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 18,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 47
+        },
+        "username": "KennyCastafi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020978093289054208"
+      ],
+      "media_source_tweet_id": [
+        "2020978096581771711"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2021105397600485703",
+    "created_at": "2026-02-10T06:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T07:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021105397600485703"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 16,
+          "tag": "prsk_FA"
+        },
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "草薙寧々"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1877608713797926912",
+          "start": 3,
+          "username": "zasazamuza"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YQs8xmGLBb",
+          "end": 54,
+          "expanded_url": "https://x.com/zasazamuza/status/2020978096581771711/photo/1",
+          "media_key": "3_2020978093289054208",
+          "start": 31,
+          "url": "https://t.co/YQs8xmGLBb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021105397600485703",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 121
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020978096581771711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zasazamuza: #prsk_FA #草薙寧々 https://t.co/YQs8xmGLBb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020978093289054208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAv03kVXIAARTe0.jpg",
+        "width": 2030
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020978093289054208"
+          ],
+          "media_source_tweet_id": [
+            "2020978096581771711"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2021105397600485703",
+        "created_at": "2026-02-10T06:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T07:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021105397600485703"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 16,
+              "tag": "prsk_FA"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "草薙寧々"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1877608713797926912",
+              "start": 3,
+              "username": "zasazamuza"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YQs8xmGLBb",
+              "end": 54,
+              "expanded_url": "https://x.com/zasazamuza/status/2020978096581771711/photo/1",
+              "media_key": "3_2020978093289054208",
+              "start": 31,
+              "url": "https://t.co/YQs8xmGLBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021105397600485703",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020978096581771711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zasazamuza: #prsk_FA #草薙寧々 https://t.co/YQs8xmGLBb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020978093289054208"
+          ]
+        },
+        "author_id": "1877608713797926912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2020978096581771711",
+        "created_at": "2026-02-09T21:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T22:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020978096581771711"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "prsk_FA"
+            },
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "草薙寧々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YQs8xmGLBb",
+              "end": 38,
+              "expanded_url": "https://x.com/zasazamuza/status/2020978096581771711/photo/1",
+              "media_key": "3_2020978093289054208",
+              "start": 15,
+              "url": "https://t.co/YQs8xmGLBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020978096581771711",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 5743,
+          "like_count": 938,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "#prsk_FA #草薙寧々 https://t.co/YQs8xmGLBb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 153,
+          "like_count": 7264,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1318
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T06:51:26.000Z",
+        "description": "🤖 oshi | multishipper & multifandom",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zasazamuza.straw.page",
+                "end": 23,
+                "expanded_url": "https://zasazamuza.straw.page",
+                "start": 0,
+                "url": "https://t.co/mHOqXT6Vwa"
+              }
+            ]
+          }
+        },
+        "id": "1877608713797926912",
+        "location": "21",
+        "name": "mimi",
+        "pinned_tweet_id": "2020978096581771711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010497185691955200/VzyddRiQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 445,
+          "like_count": 15613,
+          "listed_count": 2,
+          "media_count": 434,
+          "tweet_count": 4398
+        },
+        "url": "https://t.co/mHOqXT6Vwa",
+        "username": "zasazamuza",
+        "verified": false
+      }
+    ]
+  }
+}

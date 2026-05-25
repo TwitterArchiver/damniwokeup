@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863545252323397632",
+        "3_1863545252323475456",
+        "3_1863545252323512320"
+      ],
+      "media_source_tweet_id": [
+        "1863545257612496981",
+        "1863545257612496981",
+        "1863545257612496981"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1863548950969721298",
+    "created_at": "2024-12-02T11:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T12:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863548950969721298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1368791369859227653",
+          "start": 3,
+          "username": "roundbee08"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TzCAGveMZS",
+          "end": 56,
+          "expanded_url": "https://x.com/roundbee08/status/1863545257612496981/photo/1",
+          "media_key": "3_1863545252323397632",
+          "start": 33,
+          "url": "https://t.co/TzCAGveMZS"
+        },
+        {
+          "display_url": "pic.x.com/TzCAGveMZS",
+          "end": 56,
+          "expanded_url": "https://x.com/roundbee08/status/1863545257612496981/photo/1",
+          "media_key": "3_1863545252323475456",
+          "start": 33,
+          "url": "https://t.co/TzCAGveMZS"
+        },
+        {
+          "display_url": "pic.x.com/TzCAGveMZS",
+          "end": 56,
+          "expanded_url": "https://x.com/roundbee08/status/1863545257612496981/photo/1",
+          "media_key": "3_1863545252323512320",
+          "start": 33,
+          "url": "https://t.co/TzCAGveMZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863548950969721298",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863545257612496981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @roundbee08: こういうイラストもまた描きたいね https://t.co/TzCAGveMZS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1936,
+        "media_key": "3_1863545252323397632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdykiJOaEAAqCGz.jpg",
+        "width": 1936
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1863545252323475456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdykiJObQAAIMF0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1021,
+        "media_key": "3_1863545252323512320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdykiJOb0AA8TYZ.jpg",
+        "width": 1021
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863545252323397632",
+            "3_1863545252323475456",
+            "3_1863545252323512320"
+          ],
+          "media_source_tweet_id": [
+            "1863545257612496981",
+            "1863545257612496981",
+            "1863545257612496981"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1863548950969721298",
+        "created_at": "2024-12-02T11:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T12:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863548950969721298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1368791369859227653",
+              "start": 3,
+              "username": "roundbee08"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TzCAGveMZS",
+              "end": 56,
+              "expanded_url": "https://x.com/roundbee08/status/1863545257612496981/photo/1",
+              "media_key": "3_1863545252323397632",
+              "start": 33,
+              "url": "https://t.co/TzCAGveMZS"
+            },
+            {
+              "display_url": "pic.x.com/TzCAGveMZS",
+              "end": 56,
+              "expanded_url": "https://x.com/roundbee08/status/1863545257612496981/photo/1",
+              "media_key": "3_1863545252323475456",
+              "start": 33,
+              "url": "https://t.co/TzCAGveMZS"
+            },
+            {
+              "display_url": "pic.x.com/TzCAGveMZS",
+              "end": 56,
+              "expanded_url": "https://x.com/roundbee08/status/1863545257612496981/photo/1",
+              "media_key": "3_1863545252323512320",
+              "start": 33,
+              "url": "https://t.co/TzCAGveMZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863548950969721298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863545257612496981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @roundbee08: こういうイラストもまた描きたいね https://t.co/TzCAGveMZS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863545252323397632",
+            "3_1863545252323475456",
+            "3_1863545252323512320"
+          ]
+        },
+        "author_id": "1368791369859227653",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1863545257612496981",
+        "created_at": "2024-12-02T11:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T12:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863545257612496981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TzCAGveMZS",
+              "end": 40,
+              "expanded_url": "https://x.com/roundbee08/status/1863545257612496981/photo/1",
+              "media_key": "3_1863545252323397632",
+              "start": 17,
+              "url": "https://t.co/TzCAGveMZS"
+            },
+            {
+              "display_url": "pic.x.com/TzCAGveMZS",
+              "end": 40,
+              "expanded_url": "https://x.com/roundbee08/status/1863545257612496981/photo/1",
+              "media_key": "3_1863545252323475456",
+              "start": 17,
+              "url": "https://t.co/TzCAGveMZS"
+            },
+            {
+              "display_url": "pic.x.com/TzCAGveMZS",
+              "end": 40,
+              "expanded_url": "https://x.com/roundbee08/status/1863545257612496981/photo/1",
+              "media_key": "3_1863545252323512320",
+              "start": 17,
+              "url": "https://t.co/TzCAGveMZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863545257612496981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1642,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "こういうイラストもまた描きたいね https://t.co/TzCAGveMZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 143,
+          "like_count": 5437,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 870
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T05:11:23.000Z",
+        "description": "イラストレーター ｜ILLUSTRATION 2024｜MVイラスト・ジャケ・装画 ｜プロセカ2DMV／にじさんじ／guiano／月詠み｜ご連絡roundbee08@seeinc.jp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/roun…",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/roundbee",
+                "start": 0,
+                "url": "https://t.co/MCty1mmWRk"
+              }
+            ]
+          }
+        },
+        "id": "1368791369859227653",
+        "location": "お仕事実績はハイライト　2月着手可",
+        "name": "ミツ蜂",
+        "pinned_tweet_id": "1785998287880990798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612867898376335363/c-caMYxO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99614,
+          "following_count": 873,
+          "like_count": 33494,
+          "listed_count": 736,
+          "media_count": 370,
+          "tweet_count": 11239
+        },
+        "url": "https://t.co/MCty1mmWRk",
+        "username": "roundbee08",
+        "verified": true
+      }
+    ]
+  }
+}

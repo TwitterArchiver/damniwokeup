@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1853694619084783616",
+        "3_1853694637330112513",
+        "3_1853694638789726208",
+        "3_1853694635987902464"
+      ],
+      "media_source_tweet_id": [
+        "1853694645152399595",
+        "1853694645152399595",
+        "1853694645152399595",
+        "1853694645152399595"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1853703069210718279",
+    "created_at": "2024-11-05T07:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-05T08:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853703069210718279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1462403736890920963",
+          "start": 3,
+          "username": "oekaki_bibbi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fIXxRzLH9Z",
+          "end": 66,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1853694645152399595/photo/1",
+          "media_key": "3_1853694619084783616",
+          "start": 43,
+          "url": "https://t.co/fIXxRzLH9Z"
+        },
+        {
+          "display_url": "pic.x.com/fIXxRzLH9Z",
+          "end": 66,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1853694645152399595/photo/1",
+          "media_key": "3_1853694637330112513",
+          "start": 43,
+          "url": "https://t.co/fIXxRzLH9Z"
+        },
+        {
+          "display_url": "pic.x.com/fIXxRzLH9Z",
+          "end": 66,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1853694645152399595/photo/1",
+          "media_key": "3_1853694638789726208",
+          "start": 43,
+          "url": "https://t.co/fIXxRzLH9Z"
+        },
+        {
+          "display_url": "pic.x.com/fIXxRzLH9Z",
+          "end": 66,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1853694645152399595/photo/1",
+          "media_key": "3_1853694635987902464",
+          "start": 43,
+          "url": "https://t.co/fIXxRzLH9Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853703069210718279",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853694645152399595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oekaki_bibbi: ｢推しを正面にしてお楽しみください｣の構図まとめ https://t.co/fIXxRzLH9Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1853694619084783616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gbmlb0yaAAAh0Im.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3300,
+        "media_key": "3_1853694637330112513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gbmlc4wboAEWCHL.jpg",
+        "width": 3300
+      },
+      {
+        "height": 3800,
+        "media_key": "3_1853694638789726208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gbmlc-MbkAA5NAi.jpg",
+        "width": 3800
+      },
+      {
+        "height": 3300,
+        "media_key": "3_1853694635987902464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbmlczwbIAADvrz.jpg",
+        "width": 3300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853694619084783616",
+            "3_1853694637330112513",
+            "3_1853694638789726208",
+            "3_1853694635987902464"
+          ],
+          "media_source_tweet_id": [
+            "1853694645152399595",
+            "1853694645152399595",
+            "1853694645152399595",
+            "1853694645152399595"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1853703069210718279",
+        "created_at": "2024-11-05T07:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T08:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853703069210718279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1462403736890920963",
+              "start": 3,
+              "username": "oekaki_bibbi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fIXxRzLH9Z",
+              "end": 66,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1853694645152399595/photo/1",
+              "media_key": "3_1853694619084783616",
+              "start": 43,
+              "url": "https://t.co/fIXxRzLH9Z"
+            },
+            {
+              "display_url": "pic.x.com/fIXxRzLH9Z",
+              "end": 66,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1853694645152399595/photo/1",
+              "media_key": "3_1853694637330112513",
+              "start": 43,
+              "url": "https://t.co/fIXxRzLH9Z"
+            },
+            {
+              "display_url": "pic.x.com/fIXxRzLH9Z",
+              "end": 66,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1853694645152399595/photo/1",
+              "media_key": "3_1853694638789726208",
+              "start": 43,
+              "url": "https://t.co/fIXxRzLH9Z"
+            },
+            {
+              "display_url": "pic.x.com/fIXxRzLH9Z",
+              "end": 66,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1853694645152399595/photo/1",
+              "media_key": "3_1853694635987902464",
+              "start": 43,
+              "url": "https://t.co/fIXxRzLH9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853703069210718279",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853694645152399595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oekaki_bibbi: ｢推しを正面にしてお楽しみください｣の構図まとめ https://t.co/fIXxRzLH9Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853694619084783616",
+            "3_1853694637330112513",
+            "3_1853694638789726208",
+            "3_1853694635987902464"
+          ]
+        },
+        "author_id": "1462403736890920963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1853694645152399595",
+        "created_at": "2024-11-05T07:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T08:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853694645152399595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fIXxRzLH9Z",
+              "end": 48,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1853694645152399595/photo/1",
+              "media_key": "3_1853694619084783616",
+              "start": 25,
+              "url": "https://t.co/fIXxRzLH9Z"
+            },
+            {
+              "display_url": "pic.x.com/fIXxRzLH9Z",
+              "end": 48,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1853694645152399595/photo/1",
+              "media_key": "3_1853694637330112513",
+              "start": 25,
+              "url": "https://t.co/fIXxRzLH9Z"
+            },
+            {
+              "display_url": "pic.x.com/fIXxRzLH9Z",
+              "end": 48,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1853694645152399595/photo/1",
+              "media_key": "3_1853694638789726208",
+              "start": 25,
+              "url": "https://t.co/fIXxRzLH9Z"
+            },
+            {
+              "display_url": "pic.x.com/fIXxRzLH9Z",
+              "end": 48,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1853694645152399595/photo/1",
+              "media_key": "3_1853694635987902464",
+              "start": 25,
+              "url": "https://t.co/fIXxRzLH9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853694645152399595",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 6479,
+          "like_count": 597,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "｢推しを正面にしてお楽しみください｣の構図まとめ https://t.co/fIXxRzLH9Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 124,
+          "like_count": 4643,
+          "listed_count": 0,
+          "tweet_count": 523
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T12:53:24.000Z",
+        "description": "お絵描き/ぼっちざろっく愛/恩師:ななすけ🌰",
+        "id": "1462403736890920963",
+        "name": "まよ/Mayo",
+        "pinned_tweet_id": "1833402293087240586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778523802806448128/-mPtsNzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69534,
+          "following_count": 186,
+          "like_count": 14728,
+          "listed_count": 389,
+          "tweet_count": 6884
+        },
+        "username": "oekaki_bibbi",
+        "verified": true
+      }
+    ]
+  }
+}

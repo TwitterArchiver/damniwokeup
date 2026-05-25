@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861028464205422592",
+        "3_1861028464201228289"
+      ],
+      "media_source_tweet_id": [
+        "1861028472686350424",
+        "1861028472686350424"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1861334950060138639",
+    "created_at": "2024-11-26T09:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T10:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861334950060138639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1599055213117468676",
+          "start": 3,
+          "username": "89_701"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5xlcuGwedG",
+          "end": 74,
+          "expanded_url": "https://x.com/89_701/status/1861028472686350424/photo/1",
+          "media_key": "3_1861028464205422592",
+          "start": 51,
+          "url": "https://t.co/5xlcuGwedG"
+        },
+        {
+          "display_url": "pic.x.com/5xlcuGwedG",
+          "end": 74,
+          "expanded_url": "https://x.com/89_701/status/1861028472686350424/photo/1",
+          "media_key": "3_1861028464201228289",
+          "start": 51,
+          "url": "https://t.co/5xlcuGwedG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861334950060138639",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 415
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861028472686350424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @89_701: チェキ風だとこんな感じになると思います！！\nメガネありと無しでランダムかな？ https://t.co/5xlcuGwedG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1861028464205422592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdOzhy3a4AAqntl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1861028464201228289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdOzhy2a4AET7ie.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861028464205422592",
+            "3_1861028464201228289"
+          ],
+          "media_source_tweet_id": [
+            "1861028472686350424",
+            "1861028472686350424"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1861334950060138639",
+        "created_at": "2024-11-26T09:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T10:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861334950060138639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1599055213117468676",
+              "start": 3,
+              "username": "89_701"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5xlcuGwedG",
+              "end": 74,
+              "expanded_url": "https://x.com/89_701/status/1861028472686350424/photo/1",
+              "media_key": "3_1861028464205422592",
+              "start": 51,
+              "url": "https://t.co/5xlcuGwedG"
+            },
+            {
+              "display_url": "pic.x.com/5xlcuGwedG",
+              "end": 74,
+              "expanded_url": "https://x.com/89_701/status/1861028472686350424/photo/1",
+              "media_key": "3_1861028464201228289",
+              "start": 51,
+              "url": "https://t.co/5xlcuGwedG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861334950060138639",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 415
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861028472686350424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @89_701: チェキ風だとこんな感じになると思います！！\nメガネありと無しでランダムかな？ https://t.co/5xlcuGwedG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861028464205422592",
+            "3_1861028464201228289"
+          ]
+        },
+        "author_id": "1599055213117468676",
+        "conversation_id": "1861028472686350424",
+        "created_at": "2024-11-25T12:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T13:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861028472686350424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5xlcuGwedG",
+              "end": 62,
+              "expanded_url": "https://x.com/89_701/status/1861028472686350424/photo/1",
+              "media_key": "3_1861028464205422592",
+              "start": 39,
+              "url": "https://t.co/5xlcuGwedG"
+            },
+            {
+              "display_url": "pic.x.com/5xlcuGwedG",
+              "end": 62,
+              "expanded_url": "https://x.com/89_701/status/1861028472686350424/photo/1",
+              "media_key": "3_1861028464201228289",
+              "start": 39,
+              "url": "https://t.co/5xlcuGwedG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861028472686350424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 462,
+          "impression_count": 57789,
+          "like_count": 4394,
+          "quote_count": 8,
+          "reply_count": 19,
+          "retweet_count": 415
+        },
+        "reply_settings": "everyone",
+        "text": "チェキ風だとこんな感じになると思います！！\nメガネありと無しでランダムかな？ https://t.co/5xlcuGwedG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 132,
+          "like_count": 5151,
+          "listed_count": 0,
+          "tweet_count": 765
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T14:57:38.000Z",
+        "description": "Ado/illustration   はくと申します\nAdoさんに魅了されてしまった者です。心臓・モナリザ参戦済み\n依頼: https://t.co/NPtkRbG3Dr  DMへ  依頼○ 依頼絵3  https://t.co/99UtPWkBZJ スケブ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/89701",
+                "end": 85,
+                "expanded_url": "https://lit.link/89701",
+                "start": 62,
+                "url": "https://t.co/NPtkRbG3Dr"
+              },
+              {
+                "display_url": "skeb.jp/@89_701",
+                "end": 125,
+                "expanded_url": "https://skeb.jp/@89_701",
+                "start": 102,
+                "url": "https://t.co/99UtPWkBZJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/3AMU25T73WSWU?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/Ai2OFSpvYH"
+              }
+            ]
+          }
+        },
+        "id": "1599055213117468676",
+        "location": " ⚠無断転載・自作発言・AI学習禁止❌",
+        "name": "89☁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854538327715975168/sYFBVv0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2515,
+          "following_count": 221,
+          "like_count": 4768,
+          "listed_count": 34,
+          "tweet_count": 7533
+        },
+        "url": "https://t.co/Ai2OFSpvYH",
+        "username": "89_701",
+        "verified": false
+      }
+    ]
+  }
+}

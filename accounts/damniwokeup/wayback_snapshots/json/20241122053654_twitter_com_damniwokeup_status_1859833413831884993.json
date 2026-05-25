@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859561888956416005"
+      ],
+      "media_source_tweet_id": [
+        "1859561914050936851"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1859833413831884993",
+    "created_at": "2024-11-22T05:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T06:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859833413831884993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1760057233747202048",
+          "start": 3,
+          "username": "miyamori_ak"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wSvWpb2xrk",
+          "end": 40,
+          "expanded_url": "https://x.com/miyamori_ak/status/1859561914050936851/photo/1",
+          "media_key": "3_1859561888956416005",
+          "start": 17,
+          "url": "https://t.co/wSvWpb2xrk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859833413831884993",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 383
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859561914050936851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miyamori_ak: https://t.co/wSvWpb2xrk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2040,
+        "media_key": "3_1859561888956416005",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc59r4UaAAUFSnL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859561888956416005"
+          ],
+          "media_source_tweet_id": [
+            "1859561914050936851"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1859833413831884993",
+        "created_at": "2024-11-22T05:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T06:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859833413831884993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1760057233747202048",
+              "start": 3,
+              "username": "miyamori_ak"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wSvWpb2xrk",
+              "end": 40,
+              "expanded_url": "https://x.com/miyamori_ak/status/1859561914050936851/photo/1",
+              "media_key": "3_1859561888956416005",
+              "start": 17,
+              "url": "https://t.co/wSvWpb2xrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859833413831884993",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 383
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859561914050936851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miyamori_ak: https://t.co/wSvWpb2xrk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859561888956416005"
+          ]
+        },
+        "author_id": "1760057233747202048",
+        "conversation_id": "1859561914050936851",
+        "created_at": "2024-11-21T11:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T12:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859561914050936851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wSvWpb2xrk",
+              "end": 23,
+              "expanded_url": "https://x.com/miyamori_ak/status/1859561914050936851/photo/1",
+              "media_key": "3_1859561888956416005",
+              "start": 0,
+              "url": "https://t.co/wSvWpb2xrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859561914050936851",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1671,
+          "impression_count": 147441,
+          "like_count": 7715,
+          "quote_count": 12,
+          "reply_count": 9,
+          "retweet_count": 383
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wSvWpb2xrk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 130,
+          "like_count": 5002,
+          "listed_count": 0,
+          "tweet_count": 692
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T21:42:09.000Z",
+        "description": "■Illustration/イラスト/毎日投稿\n■Booth🔞: https://t.co/K33GVZHWgQ \n■Sub: @miyamori_m4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "miyamori_m4"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "miyamori-fps.booth.pm",
+                "end": 56,
+                "expanded_url": "https://miyamori-fps.booth.pm",
+                "start": 33,
+                "url": "https://t.co/K33GVZHWgQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "profu.link/u/miyamori",
+                "end": 23,
+                "expanded_url": "https://profu.link/u/miyamori",
+                "start": 0,
+                "url": "https://t.co/bjknWqN3wt"
+              }
+            ]
+          }
+        },
+        "id": "1760057233747202048",
+        "name": "みやもりちゃん(Miyamori)",
+        "pinned_tweet_id": "1840344213160157256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853308173433929728/C1B_X7o1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94616,
+          "following_count": 31,
+          "like_count": 1278,
+          "listed_count": 310,
+          "tweet_count": 1992
+        },
+        "url": "https://t.co/bjknWqN3wt",
+        "username": "miyamori_ak",
+        "verified": true
+      }
+    ]
+  }
+}

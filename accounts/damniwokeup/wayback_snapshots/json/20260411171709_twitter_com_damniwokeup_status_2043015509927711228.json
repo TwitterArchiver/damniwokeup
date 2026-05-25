@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A film like Rogue One: A Star Wars Story",
+          "id": "86",
+          "name": "Movie"
+        },
+        "entity": {
+          "description": "Call Me By Your Name",
+          "id": "892435606386561024",
+          "name": "Call Me By Your Name"
+        }
+      },
+      {
+        "domain": {
+          "description": "A movie genre like Action",
+          "id": "87",
+          "name": "Movie Genre"
+        },
+        "entity": {
+          "description": "Drama",
+          "id": "856976804749258752",
+          "name": "Drama films"
+        }
+      },
+      {
+        "domain": {
+          "description": "A movie genre like Action",
+          "id": "87",
+          "name": "Movie Genre"
+        },
+        "entity": {
+          "description": "Romance",
+          "id": "856977050619363328",
+          "name": "Romance films"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drama",
+          "id": "856976804749258752",
+          "name": "Drama films"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Romance",
+          "id": "856977050619363328",
+          "name": "Romance films"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Call Me By Your Name",
+          "id": "892435606386561024",
+          "name": "Call Me By Your Name"
+        }
+      }
+    ],
+    "conversation_id": "2043015509927711228",
+    "created_at": "2026-04-11T17:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043015509927711228"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043015509927711228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于意大利 我的回忆就剩下小炽和Call me by your name中那个无比鲜艳却也最终走向遗憾的夏日"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "description": "Call Me By Your Name",
+              "id": "892435606386561024",
+              "name": "Call Me By Your Name"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Drama",
+              "id": "856976804749258752",
+              "name": "Drama films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Romance",
+              "id": "856977050619363328",
+              "name": "Romance films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drama",
+              "id": "856976804749258752",
+              "name": "Drama films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Romance",
+              "id": "856977050619363328",
+              "name": "Romance films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Call Me By Your Name",
+              "id": "892435606386561024",
+              "name": "Call Me By Your Name"
+            }
+          }
+        ],
+        "conversation_id": "2043015509927711228",
+        "created_at": "2026-04-11T17:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043015509927711228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043015509927711228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于意大利 我的回忆就剩下小炽和Call me by your name中那个无比鲜艳却也最终走向遗憾的夏日"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2042979197816312219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 170,
+          "like_count": 8182,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1393
+        },
+        "username": "damniwokeup",
+        "verified": true
+      }
+    ]
+  }
+}

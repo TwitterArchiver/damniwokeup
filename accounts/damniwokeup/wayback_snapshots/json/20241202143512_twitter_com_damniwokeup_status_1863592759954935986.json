@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863172372414492672"
+      ],
+      "media_source_tweet_id": [
+        "1863172400998932862"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1863592759954935986",
+    "created_at": "2024-12-02T14:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T15:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863592759954935986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1443908496580251656",
+          "start": 3,
+          "username": "nayoyoki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eapwUkkSuG",
+          "end": 49,
+          "expanded_url": "https://x.com/nayoyoki/status/1863172400998932862/photo/1",
+          "media_key": "3_1863172372414492672",
+          "start": 26,
+          "url": "https://t.co/eapwUkkSuG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863592759954935986",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 725
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863172400998932862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nayoyoki: \"賞味期限はいつまで\" https://t.co/eapwUkkSuG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1863172372414492672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdtRZrUWcAAMwoA.jpg",
+        "width": 3388
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863172372414492672"
+          ],
+          "media_source_tweet_id": [
+            "1863172400998932862"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1863592759954935986",
+        "created_at": "2024-12-02T14:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T15:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863592759954935986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1443908496580251656",
+              "start": 3,
+              "username": "nayoyoki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eapwUkkSuG",
+              "end": 49,
+              "expanded_url": "https://x.com/nayoyoki/status/1863172400998932862/photo/1",
+              "media_key": "3_1863172372414492672",
+              "start": 26,
+              "url": "https://t.co/eapwUkkSuG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863592759954935986",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 725
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863172400998932862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nayoyoki: \"賞味期限はいつまで\" https://t.co/eapwUkkSuG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863172372414492672"
+          ]
+        },
+        "author_id": "1443908496580251656",
+        "conversation_id": "1863172400998932862",
+        "created_at": "2024-12-01T10:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T11:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863172400998932862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eapwUkkSuG",
+              "end": 35,
+              "expanded_url": "https://x.com/nayoyoki/status/1863172400998932862/photo/1",
+              "media_key": "3_1863172372414492672",
+              "start": 12,
+              "url": "https://t.co/eapwUkkSuG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863172400998932862",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1046,
+          "impression_count": 219776,
+          "like_count": 11297,
+          "quote_count": 9,
+          "reply_count": 10,
+          "retweet_count": 725
+        },
+        "reply_settings": "everyone",
+        "text": "\"賞味期限はいつまで\" https://t.co/eapwUkkSuG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 143,
+          "like_count": 5456,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 873
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-01T11:59:56.000Z",
+        "description": "Illustrator🛸 ▶暗い宇宙を漂う女の子を描いています👨‍🚀FA #なよよきちゃんへの手紙",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 37,
+                "tag": "なよよきちゃんへの手紙"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nayoyoki",
+                "end": 23,
+                "expanded_url": "https://lit.link/nayoyoki",
+                "start": 0,
+                "url": "https://t.co/8IUmEWHjz6"
+              }
+            ]
+          }
+        },
+        "id": "1443908496580251656",
+        "location": "✉️ nayoyoki814@gmail.com",
+        "name": "なよよき",
+        "pinned_tweet_id": "1857023409441427742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861773679950233600/E0ktnug8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4564,
+          "following_count": 350,
+          "like_count": 17199,
+          "listed_count": 66,
+          "media_count": 85,
+          "tweet_count": 7464
+        },
+        "url": "https://t.co/8IUmEWHjz6",
+        "username": "nayoyoki",
+        "verified": false
+      }
+    ]
+  }
+}

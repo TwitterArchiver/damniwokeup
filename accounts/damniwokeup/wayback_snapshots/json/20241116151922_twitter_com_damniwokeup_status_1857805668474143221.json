@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857722955171770369"
+      ],
+      "media_source_tweet_id": [
+        "1857725305240134017"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1857805668474143221",
+    "created_at": "2024-11-16T15:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T16:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857805668474143221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1243591432130052096",
+          "start": 3,
+          "username": "haniwa_hayate"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MfHvKR6DGE",
+          "end": 46,
+          "expanded_url": "https://x.com/haniwa_hayate/status/1857725305240134017/photo/1",
+          "media_key": "3_1857722955171770369",
+          "start": 23,
+          "url": "https://t.co/MfHvKR6DGE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857805668474143221",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1782
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857725305240134017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haniwa_hayate: 🎣🥕🐖 https://t.co/MfHvKR6DGE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1857722955171770369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gcf1L2IaMAEX-3B.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857722955171770369"
+          ],
+          "media_source_tweet_id": [
+            "1857725305240134017"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1857805668474143221",
+        "created_at": "2024-11-16T15:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T16:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857805668474143221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1243591432130052096",
+              "start": 3,
+              "username": "haniwa_hayate"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MfHvKR6DGE",
+              "end": 46,
+              "expanded_url": "https://x.com/haniwa_hayate/status/1857725305240134017/photo/1",
+              "media_key": "3_1857722955171770369",
+              "start": 23,
+              "url": "https://t.co/MfHvKR6DGE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857805668474143221",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1782
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857725305240134017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haniwa_hayate: 🎣🥕🐖 https://t.co/MfHvKR6DGE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857722955171770369"
+          ]
+        },
+        "author_id": "1243591432130052096",
+        "conversation_id": "1857725305240134017",
+        "created_at": "2024-11-16T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857725305240134017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MfHvKR6DGE",
+              "end": 27,
+              "expanded_url": "https://x.com/haniwa_hayate/status/1857725305240134017/photo/1",
+              "media_key": "3_1857722955171770369",
+              "start": 4,
+              "url": "https://t.co/MfHvKR6DGE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857725305240134017",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1545,
+          "impression_count": 209648,
+          "like_count": 16323,
+          "quote_count": 35,
+          "reply_count": 10,
+          "retweet_count": 1782
+        },
+        "reply_settings": "everyone",
+        "text": "🎣🥕🐖 https://t.co/MfHvKR6DGE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 125,
+          "like_count": 4830,
+          "listed_count": 0,
+          "tweet_count": 616
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:31:24.000Z",
+        "description": "絵が上手くなりたいです。\nマロ（https://t.co/VvAvpOMyik）\nhttps://t.co/iKHTKZ4Gmj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/haniwa_hayate?…",
+                "end": 39,
+                "expanded_url": "https://marshmallow-qa.com/haniwa_hayate?utm_medium=url_text&utm_source=promotion",
+                "start": 16,
+                "url": "https://t.co/VvAvpOMyik"
+              },
+              {
+                "display_url": "profcard.info/u/iFT8WUjJnkQ9…",
+                "end": 64,
+                "expanded_url": "https://profcard.info/u/iFT8WUjJnkQ9dOoAb4h97iwfnjn2",
+                "start": 41,
+                "url": "https://t.co/iKHTKZ4Gmj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@haniwa_hayate",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@haniwa_hayate",
+                "start": 0,
+                "url": "https://t.co/jU6msf1Rcy"
+              }
+            ]
+          }
+        },
+        "id": "1243591432130052096",
+        "location": "09/07〜",
+        "name": "葉庭颯",
+        "pinned_tweet_id": "1849043091501826502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849699547502813184/Tjs1aovT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6765,
+          "following_count": 24,
+          "like_count": 6637,
+          "listed_count": 35,
+          "tweet_count": 6868
+        },
+        "url": "https://t.co/jU6msf1Rcy",
+        "username": "haniwa_hayate",
+        "verified": false
+      }
+    ]
+  }
+}

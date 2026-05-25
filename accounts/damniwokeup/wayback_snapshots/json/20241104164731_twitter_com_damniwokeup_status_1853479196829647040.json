@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1853477999133564929"
+      ],
+      "media_source_tweet_id": [
+        "1853478071594336498"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1853479196829647040",
+    "created_at": "2024-11-04T16:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T17:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853479196829647040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "793325876947542016",
+          "start": 3,
+          "username": "khyleri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lt4u5xOdoZ",
+          "end": 36,
+          "expanded_url": "https://x.com/khyleri/status/1853478071594336498/photo/1",
+          "media_key": "3_1853477999133564929",
+          "start": 13,
+          "url": "https://t.co/lt4u5xOdoZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853479196829647040",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 539
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853478071594336498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @khyleri: https://t.co/lt4u5xOdoZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1853477999133564929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gbjga4lboAEUXal.jpg",
+        "width": 2190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853477999133564929"
+          ],
+          "media_source_tweet_id": [
+            "1853478071594336498"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1853479196829647040",
+        "created_at": "2024-11-04T16:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T17:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853479196829647040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "793325876947542016",
+              "start": 3,
+              "username": "khyleri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lt4u5xOdoZ",
+              "end": 36,
+              "expanded_url": "https://x.com/khyleri/status/1853478071594336498/photo/1",
+              "media_key": "3_1853477999133564929",
+              "start": 13,
+              "url": "https://t.co/lt4u5xOdoZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853479196829647040",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 540
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853478071594336498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @khyleri: https://t.co/lt4u5xOdoZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853477999133564929"
+          ]
+        },
+        "author_id": "793325876947542016",
+        "conversation_id": "1853478071594336498",
+        "created_at": "2024-11-04T16:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T17:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853478071594336498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lt4u5xOdoZ",
+              "end": 23,
+              "expanded_url": "https://x.com/khyleri/status/1853478071594336498/photo/1",
+              "media_key": "3_1853477999133564929",
+              "start": 0,
+              "url": "https://t.co/lt4u5xOdoZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853478071594336498",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 405,
+          "impression_count": 13568,
+          "like_count": 4909,
+          "quote_count": 6,
+          "reply_count": 53,
+          "retweet_count": 540
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lt4u5xOdoZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 124,
+          "like_count": 4629,
+          "listed_count": 0,
+          "tweet_count": 519
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-01T05:36:43.000Z",
+        "description": "Normal artist from 10 years ago",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "inprnt.com/gallery/khyle./",
+                "end": 23,
+                "expanded_url": "http://inprnt.com/gallery/khyle./",
+                "start": 0,
+                "url": "https://t.co/JIFziO2WVF"
+              }
+            ]
+          }
+        },
+        "id": "793325876947542016",
+        "location": "Philippines",
+        "name": "Khyle.",
+        "pinned_tweet_id": "1491441762602303491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741861405836660736/5LApnIYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587262,
+          "following_count": 266,
+          "like_count": 27097,
+          "listed_count": 3873,
+          "tweet_count": 2583
+        },
+        "url": "https://t.co/JIFziO2WVF",
+        "username": "khyleri",
+        "verified": true
+      }
+    ]
+  }
+}

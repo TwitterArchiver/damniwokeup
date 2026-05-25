@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1853111535058796544"
+      ],
+      "media_source_tweet_id": [
+        "1853111540528152990"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1853455325283909869",
+    "created_at": "2024-11-04T15:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T16:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853455325283909869"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "陛下rkgk",
+          "probability": 0.5814,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1208783050529595394",
+          "start": 3,
+          "username": "ri_o_ne_su"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z9j7B5udaz",
+          "end": 46,
+          "expanded_url": "https://x.com/ri_o_ne_su/status/1853111540528152990/photo/1",
+          "media_key": "3_1853111535058796544",
+          "start": 23,
+          "url": "https://t.co/z9j7B5udaz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853455325283909869",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 385
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853111540528152990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ri_o_ne_su: 陛下rkgk https://t.co/z9j7B5udaz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1781,
+        "media_key": "3_1853111535058796544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbeTH3hbwAA9kDM.jpg",
+        "width": 1583
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853111535058796544"
+          ],
+          "media_source_tweet_id": [
+            "1853111540528152990"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1853455325283909869",
+        "created_at": "2024-11-04T15:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T16:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853455325283909869"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "陛下rkgk",
+              "probability": 0.5814,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1208783050529595394",
+              "start": 3,
+              "username": "ri_o_ne_su"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z9j7B5udaz",
+              "end": 46,
+              "expanded_url": "https://x.com/ri_o_ne_su/status/1853111540528152990/photo/1",
+              "media_key": "3_1853111535058796544",
+              "start": 23,
+              "url": "https://t.co/z9j7B5udaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853455325283909869",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 385
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853111540528152990",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ri_o_ne_su: 陛下rkgk https://t.co/z9j7B5udaz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853111535058796544"
+          ]
+        },
+        "author_id": "1208783050529595394",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1853111540528152990",
+        "created_at": "2024-11-03T16:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T17:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853111540528152990"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "陛下rkgk",
+              "probability": 0.546,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z9j7B5udaz",
+              "end": 30,
+              "expanded_url": "https://x.com/ri_o_ne_su/status/1853111540528152990/photo/1",
+              "media_key": "3_1853111535058796544",
+              "start": 7,
+              "url": "https://t.co/z9j7B5udaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853111540528152990",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 35104,
+          "like_count": 3071,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 385
+        },
+        "reply_settings": "everyone",
+        "text": "陛下rkgk https://t.co/z9j7B5udaz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 123,
+          "like_count": 4619,
+          "listed_count": 0,
+          "tweet_count": 511
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-22T16:15:44.000Z",
+        "description": "イラストを投げる。邪ンヌ派。pixiv→https://t.co/GX7TKaaMqY skeb→ https://t.co/hbgajR3aMz 予備→@ri_o_ne_th",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "ri_o_ne_th"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/34607275",
+                "end": 43,
+                "expanded_url": "http://pixiv.net/users/34607275",
+                "start": 20,
+                "url": "https://t.co/GX7TKaaMqY"
+              },
+              {
+                "display_url": "skeb.jp/@ri_o_ne_su",
+                "end": 73,
+                "expanded_url": "http://skeb.jp/@ri_o_ne_su",
+                "start": 50,
+                "url": "https://t.co/hbgajR3aMz"
+              }
+            ]
+          }
+        },
+        "id": "1208783050529595394",
+        "location": "連絡先　typos.02.pastes@icloud.com",
+        "name": "りおねす@skeb募集中",
+        "pinned_tweet_id": "1842462230836646281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772069594527842304/3QapwtmI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47287,
+          "following_count": 788,
+          "like_count": 20316,
+          "listed_count": 315,
+          "tweet_count": 21413
+        },
+        "username": "ri_o_ne_su",
+        "verified": false
+      }
+    ]
+  }
+}

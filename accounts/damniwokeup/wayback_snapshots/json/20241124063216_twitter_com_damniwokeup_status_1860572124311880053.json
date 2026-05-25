@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860287259813249024"
+      ],
+      "media_source_tweet_id": [
+        "1860287265307771328"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1860572124311880053",
+    "created_at": "2024-11-24T06:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T07:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860572124311880053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1086312637",
+          "start": 3,
+          "username": "sasakura34"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r7hgAtXKWF",
+          "end": 43,
+          "expanded_url": "https://x.com/sasakura34/status/1860287265307771328/photo/1",
+          "media_key": "3_1860287259813249024",
+          "start": 20,
+          "url": "https://t.co/r7hgAtXKWF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860572124311880053",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3048
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860287265307771328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @sasakura34: 🤤🍽️ https://t.co/r7hgAtXKWF"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "『ダンジョン飯』のファンアート\nライオス、マルシル、チルチャック、センシ、イヅツミの指人形を指にはめているキメラファリン",
+        "height": 1700,
+        "media_key": "3_1860287259813249024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdERaBVagAAgocF.jpg",
+        "width": 1700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860287259813249024"
+          ],
+          "media_source_tweet_id": [
+            "1860287265307771328"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1860572124311880053",
+        "created_at": "2024-11-24T06:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T07:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860572124311880053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1086312637",
+              "start": 3,
+              "username": "sasakura34"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7hgAtXKWF",
+              "end": 43,
+              "expanded_url": "https://x.com/sasakura34/status/1860287265307771328/photo/1",
+              "media_key": "3_1860287259813249024",
+              "start": 20,
+              "url": "https://t.co/r7hgAtXKWF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860572124311880053",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3048
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860287265307771328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @sasakura34: 🤤🍽️ https://t.co/r7hgAtXKWF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860287259813249024"
+          ]
+        },
+        "author_id": "1086312637",
+        "conversation_id": "1860287265307771328",
+        "created_at": "2024-11-23T11:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T12:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860287265307771328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7hgAtXKWF",
+              "end": 27,
+              "expanded_url": "https://x.com/sasakura34/status/1860287265307771328/photo/1",
+              "media_key": "3_1860287259813249024",
+              "start": 4,
+              "url": "https://t.co/r7hgAtXKWF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860287265307771328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1032,
+          "impression_count": 157939,
+          "like_count": 17259,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 3048
+        },
+        "reply_settings": "following",
+        "text": "🤤🍽️ https://t.co/r7hgAtXKWF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 131,
+          "like_count": 5072,
+          "listed_count": 0,
+          "tweet_count": 731
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-13T14:44:57.000Z",
+        "description": "成人 雑多 https://t.co/MqxwmkqMmf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/a2vhhfrcf…",
+                "end": 29,
+                "expanded_url": "https://wavebox.me/wave/a2vhhfrcftbch09g/",
+                "start": 6,
+                "url": "https://t.co/MqxwmkqMmf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sasakura34",
+                "end": 23,
+                "expanded_url": "https://lit.link/sasakura34",
+                "start": 0,
+                "url": "https://t.co/8la0eWsTOE"
+              }
+            ]
+          }
+        },
+        "id": "1086312637",
+        "name": "笹倉",
+        "pinned_tweet_id": "1856171780488228924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1099860371832111104/mdmlZnzC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43205,
+          "following_count": 44,
+          "like_count": 6329,
+          "listed_count": 311,
+          "tweet_count": 30855
+        },
+        "url": "https://t.co/8la0eWsTOE",
+        "username": "sasakura34",
+        "verified": false
+      }
+    ]
+  }
+}

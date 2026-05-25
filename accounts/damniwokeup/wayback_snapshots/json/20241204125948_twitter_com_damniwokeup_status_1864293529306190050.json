@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1863953726215729585"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1864293529306190050",
+    "created_at": "2024-12-04T12:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T13:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864293529306190050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756296985030823936",
+          "start": 3,
+          "username": "rkn_315"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rl8oqPmENU",
+          "end": 36,
+          "expanded_url": "https://x.com/rkn_315/status/1863953726215729585/photo/1",
+          "media_key": "3_1863953722004717568",
+          "start": 13,
+          "url": "https://t.co/Rl8oqPmENU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864293529306190050",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863953726215729585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rkn_315: https://t.co/Rl8oqPmENU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1863953726215729585"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1864293529306190050",
+        "created_at": "2024-12-04T12:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T13:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864293529306190050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756296985030823936",
+              "start": 3,
+              "username": "rkn_315"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rl8oqPmENU",
+              "end": 36,
+              "expanded_url": "https://x.com/rkn_315/status/1863953726215729585/photo/1",
+              "media_key": "3_1863953722004717568",
+              "start": 13,
+              "url": "https://t.co/Rl8oqPmENU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864293529306190050",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863953726215729585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rkn_315: https://t.co/Rl8oqPmENU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863953722004717568"
+          ]
+        },
+        "author_id": "1756296985030823936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1863953726215729585",
+        "created_at": "2024-12-03T14:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T15:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863953726215729585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rl8oqPmENU",
+              "end": 23,
+              "expanded_url": "https://x.com/rkn_315/status/1863953726215729585/photo/1",
+              "media_key": "3_1863953722004717568",
+              "start": 0,
+              "url": "https://t.co/Rl8oqPmENU"
+            },
+            {
+              "display_url": "x.com/KoinuNeko0/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/KoinuNeko0/status/1737417996879229087",
+              "start": 24,
+              "url": "https://t.co/2Z7qDEFdUL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863953726215729585",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 3412,
+          "like_count": 214,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1737417996879229087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Rl8oqPmENU https://t.co/2Z7qDEFdUL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863961129996967936/qeynYxft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 143,
+          "like_count": 5564,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 909
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T12:40:26.000Z",
+        "description": "fgo,型月作品などが好き。\n\nアルキャスとバサキャス完全体！",
+        "id": "1756296985030823936",
+        "location": "Avalon",
+        "name": "RK🌙",
+        "pinned_tweet_id": "1842188896458993783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863961156261646336/Tc1dg1nD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 754,
+          "like_count": 60344,
+          "listed_count": 4,
+          "media_count": 4946,
+          "tweet_count": 38147
+        },
+        "username": "rkn_315",
+        "verified": false
+      }
+    ]
+  }
+}

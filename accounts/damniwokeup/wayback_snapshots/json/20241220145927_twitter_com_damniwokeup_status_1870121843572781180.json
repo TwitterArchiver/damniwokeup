@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1869746474801909761"
+      ],
+      "media_source_tweet_id": [
+        "1869746482250932350"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1870121843572781180",
+    "created_at": "2024-12-20T14:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T15:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870121843572781180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1517088183397208064",
+          "start": 3,
+          "username": "04gaNo1daze"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kPFXYGdbTx",
+          "end": 55,
+          "expanded_url": "https://x.com/04gaNo1daze/status/1869746482250932350/photo/1",
+          "media_key": "3_1869746474801909761",
+          "start": 32,
+          "url": "https://t.co/kPFXYGdbTx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870121843572781180",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 603
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869746482250932350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @04gaNo1daze: モニタリング好きすぎる〜！！ https://t.co/kPFXYGdbTx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1869746474801909761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfKsgzKbUAE1_bx.jpg",
+        "width": 1755
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869746474801909761"
+          ],
+          "media_source_tweet_id": [
+            "1869746482250932350"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1870121843572781180",
+        "created_at": "2024-12-20T14:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T15:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870121843572781180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1517088183397208064",
+              "start": 3,
+              "username": "04gaNo1daze"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kPFXYGdbTx",
+              "end": 55,
+              "expanded_url": "https://x.com/04gaNo1daze/status/1869746482250932350/photo/1",
+              "media_key": "3_1869746474801909761",
+              "start": 32,
+              "url": "https://t.co/kPFXYGdbTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870121843572781180",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 603
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869746482250932350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @04gaNo1daze: モニタリング好きすぎる〜！！ https://t.co/kPFXYGdbTx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869746474801909761"
+          ]
+        },
+        "author_id": "1517088183397208064",
+        "conversation_id": "1869746482250932350",
+        "created_at": "2024-12-19T14:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T15:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869746482250932350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kPFXYGdbTx",
+              "end": 38,
+              "expanded_url": "https://x.com/04gaNo1daze/status/1869746482250932350/photo/1",
+              "media_key": "3_1869746474801909761",
+              "start": 15,
+              "url": "https://t.co/kPFXYGdbTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869746482250932350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 452,
+          "impression_count": 100995,
+          "like_count": 11615,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 603
+        },
+        "reply_settings": "everyone",
+        "text": "モニタリング好きすぎる〜！！ https://t.co/kPFXYGdbTx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 6218,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1159
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T10:29:55.000Z",
+        "description": "好きなものを呟いて描いてます。",
+        "id": "1517088183397208064",
+        "name": "夏猫🌻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760978032867885056/RT2n6ptj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53412,
+          "following_count": 119,
+          "like_count": 4993,
+          "listed_count": 149,
+          "media_count": 316,
+          "tweet_count": 7213
+        },
+        "username": "04gaNo1daze",
+        "verified": false
+      }
+    ]
+  }
+}

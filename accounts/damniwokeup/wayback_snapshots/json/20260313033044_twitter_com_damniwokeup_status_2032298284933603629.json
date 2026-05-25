@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032298274154319872"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032273976743862733",
+    "created_at": "2026-03-13T03:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T04:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032298284933603629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1475806890626097154",
+          "start": 0,
+          "username": "gigascrox"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p63OJd6hLS",
+          "end": 52,
+          "expanded_url": "https://x.com/damniwokeup/status/2032298284933603629/photo/1",
+          "media_key": "3_2032298274154319872",
+          "start": 29,
+          "url": "https://t.co/p63OJd6hLS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032298284933603629",
+    "in_reply_to_user_id": "1475806890626097154",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032273976743862733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gigascrox I’m doing my best https://t.co/p63OJd6hLS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1289,
+        "media_key": "3_2032298274154319872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQsg0SbkAA8kBR.jpg",
+        "width": 1681
+      },
+      {
+        "height": 1897,
+        "media_key": "3_2032273973321531392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQWaUoaAAAinR4.jpg",
+        "width": 2098
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032298274154319872"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032273976743862733",
+        "created_at": "2026-03-13T03:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T04:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032298284933603629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1475806890626097154",
+              "start": 0,
+              "username": "gigascrox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p63OJd6hLS",
+              "end": 52,
+              "expanded_url": "https://x.com/damniwokeup/status/2032298284933603629/photo/1",
+              "media_key": "3_2032298274154319872",
+              "start": 29,
+              "url": "https://t.co/p63OJd6hLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032298284933603629",
+        "in_reply_to_user_id": "1475806890626097154",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032273976743862733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gigascrox I’m doing my best https://t.co/p63OJd6hLS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032273973321531392"
+          ]
+        },
+        "author_id": "1475806890626097154",
+        "conversation_id": "2032273976743862733",
+        "created_at": "2026-03-13T01:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T02:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032273976743862733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u9mHvRC8pw",
+              "end": 173,
+              "expanded_url": "https://x.com/gigascrox/status/2032273976743862733/photo/1",
+              "media_key": "3_2032273973321531392",
+              "start": 150,
+              "url": "https://t.co/u9mHvRC8pw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032273976743862733",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 672,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Hola queridos seguidores amados por dios y su mamá les gustaría contarme que tal van en este post?  MUAC &lt;3\n(Si lo hacen en su idioma natal mejor) https://t.co/u9mHvRC8pw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2026181607040925930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 160,
+          "like_count": 8152,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1396
+        },
+        "username": "damniwokeup",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-28T12:33:02.000Z",
+        "description": "No tengo nada que hacer.\nhttps://t.co/paLsZXZdtM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@gigascrox?si=…",
+                "end": 48,
+                "expanded_url": "https://youtube.com/@gigascrox?si=7Ps1wEoSntFTv",
+                "start": 25,
+                "url": "https://t.co/paLsZXZdtM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@gigascrox?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@gigascrox?si=kSwYMRWUpCaZmGQu",
+                "start": 0,
+                "url": "https://t.co/t5TRwLHwNp"
+              }
+            ]
+          }
+        },
+        "id": "1475806890626097154",
+        "location": "Hiding in your Wi-Fi",
+        "name": "gigascrox",
+        "pinned_tweet_id": "1906490773522055295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008381277401985024/aNW9lg4s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4257,
+          "following_count": 1769,
+          "like_count": 93024,
+          "listed_count": 19,
+          "media_count": 10573,
+          "tweet_count": 52980
+        },
+        "url": "https://t.co/t5TRwLHwNp",
+        "username": "gigascrox",
+        "verified": false
+      }
+    ]
+  }
+}

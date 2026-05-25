@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025975930276237312"
+      ],
+      "media_source_tweet_id": [
+        "2025975944931074110"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "2026125476084002890",
+    "created_at": "2026-02-24T02:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T03:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026125476084002890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2012345948135944194",
+          "start": 3,
+          "username": "Chabudelibai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e1QnF5FIaP",
+          "end": 48,
+          "expanded_url": "https://x.com/Chabudelibai/status/2025975944931074110/photo/1",
+          "media_key": "3_2025975930276237312",
+          "start": 25,
+          "url": "https://t.co/e1QnF5FIaP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026125476084002890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 327
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025975944931074110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chabudelibai: 眼中深处的你 https://t.co/e1QnF5FIaP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2025975930276237312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB22X9-bUAAEDtl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025975930276237312"
+          ],
+          "media_source_tweet_id": [
+            "2025975944931074110"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "2026125476084002890",
+        "created_at": "2026-02-24T02:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T03:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026125476084002890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2012345948135944194",
+              "start": 3,
+              "username": "Chabudelibai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e1QnF5FIaP",
+              "end": 48,
+              "expanded_url": "https://x.com/Chabudelibai/status/2025975944931074110/photo/1",
+              "media_key": "3_2025975930276237312",
+              "start": 25,
+              "url": "https://t.co/e1QnF5FIaP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026125476084002890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 327
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025975944931074110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chabudelibai: 眼中深处的你 https://t.co/e1QnF5FIaP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025975930276237312"
+          ]
+        },
+        "author_id": "2012345948135944194",
+        "conversation_id": "2025975944931074110",
+        "created_at": "2026-02-23T16:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T17:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025975944931074110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e1QnF5FIaP",
+              "end": 30,
+              "expanded_url": "https://x.com/Chabudelibai/status/2025975944931074110/photo/1",
+              "media_key": "3_2025975930276237312",
+              "start": 7,
+              "url": "https://t.co/e1QnF5FIaP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025975944931074110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 16291,
+          "like_count": 1909,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 327
+        },
+        "reply_settings": "everyone",
+        "text": "眼中深处的你 https://t.co/e1QnF5FIaP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 153,
+          "like_count": 7594,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 1342
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T02:07:27.000Z",
+        "description": "汉语ENG｜richaya🥰｜無言フォロー失礼します",
+        "id": "2012345948135944194",
+        "name": "茶白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020435016216395776/6EUykLNB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 54,
+          "like_count": 578,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 88
+        },
+        "username": "Chabudelibai",
+        "verified": false
+      }
+    ]
+  }
+}

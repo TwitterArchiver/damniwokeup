@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1877640670162321409"
+      ],
+      "media_source_tweet_id": [
+        "1877641728628535405"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1877652670615269677",
+    "created_at": "2025-01-10T09:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T10:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877652670615269677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "968287704864538624",
+          "start": 3,
+          "username": "gyoukan000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l6ExcMFJcw",
+          "end": 45,
+          "expanded_url": "https://x.com/gyoukan000/status/1877641728628535405/photo/1",
+          "media_key": "3_1877640670162321409",
+          "start": 22,
+          "url": "https://t.co/l6ExcMFJcw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877652670615269677",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 151
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877641728628535405",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gyoukan000: 文明の存続 https://t.co/l6ExcMFJcw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1877640670162321409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg64PcjaAAE85xu.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877640670162321409"
+          ],
+          "media_source_tweet_id": [
+            "1877641728628535405"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1877652670615269677",
+        "created_at": "2025-01-10T09:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T10:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877652670615269677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "968287704864538624",
+              "start": 3,
+              "username": "gyoukan000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l6ExcMFJcw",
+              "end": 45,
+              "expanded_url": "https://x.com/gyoukan000/status/1877641728628535405/photo/1",
+              "media_key": "3_1877640670162321409",
+              "start": 22,
+              "url": "https://t.co/l6ExcMFJcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877652670615269677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 151
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877641728628535405",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gyoukan000: 文明の存続 https://t.co/l6ExcMFJcw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877640670162321409"
+          ]
+        },
+        "author_id": "968287704864538624",
+        "conversation_id": "1877641728628535405",
+        "created_at": "2025-01-10T09:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T10:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877641728628535405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l6ExcMFJcw",
+              "end": 29,
+              "expanded_url": "https://x.com/gyoukan000/status/1877641728628535405/photo/1",
+              "media_key": "3_1877640670162321409",
+              "start": 6,
+              "url": "https://t.co/l6ExcMFJcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877641728628535405",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 8626,
+          "like_count": 751,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "文明の存続 https://t.co/l6ExcMFJcw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 151,
+          "like_count": 6634,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1312
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-27T00:52:33.000Z",
+        "description": "絵描く\n\n【fanbox】https://t.co/UDB1GX6cBH\n【coloso(講座動画)】https://t.co/04RdZ2cKer\n【有償依頼】gyoukan000@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gyoukan000.fanbox.cc",
+                "end": 36,
+                "expanded_url": "https://gyoukan000.fanbox.cc/",
+                "start": 13,
+                "url": "https://t.co/UDB1GX6cBH"
+              },
+              {
+                "display_url": "bit.ly/GyoukanXColoso…",
+                "end": 74,
+                "expanded_url": "https://bit.ly/GyoukanXColosoJP",
+                "start": 51,
+                "url": "https://t.co/04RdZ2cKer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gyoukan000.wixsite.com/illustration",
+                "end": 23,
+                "expanded_url": "https://gyoukan000.wixsite.com/illustration",
+                "start": 0,
+                "url": "https://t.co/Wwc8KLfX7f"
+              }
+            ]
+          }
+        },
+        "id": "968287704864538624",
+        "location": "無断転載禁止",
+        "name": "行間",
+        "pinned_tweet_id": "1816763777091797238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747483856268406784/Ixaw2DQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105854,
+          "following_count": 564,
+          "like_count": 8048,
+          "listed_count": 759,
+          "media_count": 474,
+          "tweet_count": 6765
+        },
+        "url": "https://t.co/Wwc8KLfX7f",
+        "username": "gyoukan000",
+        "verified": false
+      }
+    ]
+  }
+}

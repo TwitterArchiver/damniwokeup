@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "conversation about black friday for all years.\n",
+          "id": "1298599848589983745",
+          "name": "Black Friday"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Weekend Plans",
+          "id": "1045046255418658816",
+          "name": "Weekend Plans"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "conversation about black friday for all years.\n",
+          "id": "1298599848589983745",
+          "name": "Black Friday"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1862830917011821046",
+    "created_at": "2024-11-30T12:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T13:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862830917011821046"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 134,
+          "start": 127,
+          "tag": "AIイラスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1827135267276476416",
+          "start": 3,
+          "username": "niina_aiart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862830917011821046",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862239920116703556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niina_aiart: おはようございます.°ʚ(*´꒳`*)ɞ°.\n今日はいい服の日〜✨\nあとはブラックフライデーでもありますね❣️\nにぃなは特にお買物予定もなく、なんなら週末の予定で若干憂鬱だったりしますが😅\n今日もよろしくお願いします🫶\n#AIイラスト #フリー…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "conversation about black friday for all years.\n",
+              "id": "1298599848589983745",
+              "name": "Black Friday"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Weekend Plans",
+              "id": "1045046255418658816",
+              "name": "Weekend Plans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "conversation about black friday for all years.\n",
+              "id": "1298599848589983745",
+              "name": "Black Friday"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1862830917011821046",
+        "created_at": "2024-11-30T12:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T13:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862830917011821046"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 127,
+              "tag": "AIイラスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1827135267276476416",
+              "start": 3,
+              "username": "niina_aiart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862830917011821046",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862239920116703556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niina_aiart: おはようございます.°ʚ(*´꒳`*)ɞ°.\n今日はいい服の日〜✨\nあとはブラックフライデーでもありますね❣️\nにぃなは特にお買物予定もなく、なんなら週末の予定で若干憂鬱だったりしますが😅\n今日もよろしくお願いします🫶\n#AIイラスト #フリー…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862239917885247488"
+          ]
+        },
+        "author_id": "1827135267276476416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "conversation about black friday for all years.\n",
+              "id": "1298599848589983745",
+              "name": "Black Friday"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Weekend Plans",
+              "id": "1045046255418658816",
+              "name": "Weekend Plans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "conversation about black friday for all years.\n",
+              "id": "1298599848589983745",
+              "name": "Black Friday"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1862239920116703556",
+        "created_at": "2024-11-28T20:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T21:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862239920116703556"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 110,
+              "tag": "AIイラスト"
+            },
+            {
+              "end": 126,
+              "start": 118,
+              "tag": "フリーイラスト"
+            },
+            {
+              "end": 135,
+              "start": 127,
+              "tag": "フリーアイコン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJIWLWePoD",
+              "end": 160,
+              "expanded_url": "https://x.com/niina_aiart/status/1862239920116703556/photo/1",
+              "media_key": "3_1862239917885247488",
+              "start": 137,
+              "url": "https://t.co/JJIWLWePoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862239920116703556",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 110,
+                "tag": "AIイラスト"
+              },
+              {
+                "end": 126,
+                "start": 118,
+                "tag": "フリーイラスト"
+              },
+              {
+                "end": 135,
+                "start": 127,
+                "tag": "フリーアイコン"
+              }
+            ]
+          },
+          "text": "おはようございます.°ʚ(*´꒳`*)ɞ°.\n今日はいい服の日〜✨\nあとはブラックフライデーでもありますね❣️\nにぃなは特にお買物予定もなく、なんなら週末の予定で若干憂鬱だったりしますが😅\n今日もよろしくお願いします🫶\n#AIイラスト #フリーイラスト #フリーアイコン \n※ご利用の際はプロフのご確認をお願いします"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 25802,
+          "like_count": 611,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "おはようございます.°ʚ(*´꒳`*)ɞ°.\n今日はいい服の日〜✨\nあとはブラックフライデーでもありますね❣️\nにぃなは特にお買物予定もなく、なんなら週末の予定で若干憂鬱だったりしますが😅\n今日もよろしくお願いします🫶\n#AIイラスト #フリーイラスト #フリーアイコン… https://t.co/JJIWLWePoD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 135,
+          "like_count": 5309,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 824
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T00:07:14.000Z",
+        "description": "AI illustration🔰 ￤ #フリーイラスト ￤\nご利用の際はフォロー＆いいねお願いします￤リクエストは現在受付停止してます￤その他詳しくは下のリンクから￤お気軽に絡んでください♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "フリーイラスト"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/niinaaiart",
+                "end": 23,
+                "expanded_url": "https://lit.link/niinaaiart",
+                "start": 0,
+                "url": "https://t.co/62jp4bMQnk"
+              }
+            ]
+          }
+        },
+        "id": "1827135267276476416",
+        "name": "꒰ঌにぃな໒꒱",
+        "pinned_tweet_id": "1860080224953860513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831699502383738880/St4PIxr7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2381,
+          "following_count": 90,
+          "like_count": 3568,
+          "listed_count": 12,
+          "media_count": 398,
+          "tweet_count": 1048
+        },
+        "url": "https://t.co/62jp4bMQnk",
+        "username": "niina_aiart",
+        "verified": true
+      }
+    ]
+  }
+}

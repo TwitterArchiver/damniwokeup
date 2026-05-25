@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019365323447599104"
+      ],
+      "media_source_tweet_id": [
+        "2019365326924755410"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "2019752066705408221",
+    "created_at": "2026-02-06T12:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T13:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019752066705408221"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 52,
+          "normalized_text": "rgu",
+          "probability": 0.6068,
+          "start": 50,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 49,
+          "tag": "rgu"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1749292139547152384",
+          "start": 3,
+          "username": "windychariot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WHd7jKT1qM",
+          "end": 77,
+          "expanded_url": "https://x.com/windychariot/status/2019365326924755410/photo/1",
+          "media_key": "3_2019365323447599104",
+          "start": 54,
+          "url": "https://t.co/WHd7jKT1qM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019752066705408221",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 307
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019365326924755410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @windychariot: I enjoy drawing her so much🥰🥰\n\n#rgu https://t.co/WHd7jKT1qM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019365323447599104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAY6EAfWAAAblFV.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019365323447599104"
+          ],
+          "media_source_tweet_id": [
+            "2019365326924755410"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "2019752066705408221",
+        "created_at": "2026-02-06T12:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T13:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019752066705408221"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "rgu",
+              "probability": 0.6068,
+              "start": 50,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "rgu"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1749292139547152384",
+              "start": 3,
+              "username": "windychariot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WHd7jKT1qM",
+              "end": 77,
+              "expanded_url": "https://x.com/windychariot/status/2019365326924755410/photo/1",
+              "media_key": "3_2019365323447599104",
+              "start": 54,
+              "url": "https://t.co/WHd7jKT1qM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019752066705408221",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 307
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019365326924755410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @windychariot: I enjoy drawing her so much🥰🥰\n\n#rgu https://t.co/WHd7jKT1qM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019365323447599104"
+          ]
+        },
+        "author_id": "1749292139547152384",
+        "conversation_id": "2019365326924755410",
+        "created_at": "2026-02-05T10:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T11:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019365326924755410"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "rgu",
+              "probability": 0.621,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "rgu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WHd7jKT1qM",
+              "end": 59,
+              "expanded_url": "https://x.com/windychariot/status/2019365326924755410/photo/1",
+              "media_key": "3_2019365323447599104",
+              "start": 36,
+              "url": "https://t.co/WHd7jKT1qM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019365326924755410",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 12543,
+          "like_count": 1516,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 307
+        },
+        "reply_settings": "everyone",
+        "text": "I enjoy drawing her so much🥰🥰\n\n#rgu https://t.co/WHd7jKT1qM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Phoenix, Arizona, United States",
+              "geo": {
+                "coordinates": [
+                  -112.07404,
+                  33.44838
+                ],
+                "type": "Point"
+              },
+              "locality": "Phoenix",
+              "region": "Arizona",
+              "sub_region": "Maricopa County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Phoenix, AZ",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 153,
+          "like_count": 7169,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1314
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T04:45:35.000Z",
+        "description": "撸猫揉狗画会儿图，生活非常美好👌🏻",
+        "id": "1749292139547152384",
+        "name": "魔法风火轮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778948974553993217/3IX-b9Zl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3074,
+          "following_count": 622,
+          "like_count": 1867,
+          "listed_count": 16,
+          "media_count": 317,
+          "tweet_count": 1297
+        },
+        "username": "windychariot",
+        "verified": false
+      }
+    ]
+  }
+}

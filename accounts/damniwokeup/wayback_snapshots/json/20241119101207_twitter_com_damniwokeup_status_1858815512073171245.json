@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1858812283163734016"
+      ],
+      "media_source_tweet_id": [
+        "1858812289891074485"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1858815512073171245",
+    "created_at": "2024-11-19T10:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T11:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858815512073171245"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "月夜のセイバーオルタ",
+          "probability": 0.3614,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1455930823",
+          "start": 3,
+          "username": "HoDaRaKe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K7YTP46RYa",
+          "end": 48,
+          "expanded_url": "https://x.com/HoDaRaKe/status/1858812289891074485/photo/1",
+          "media_key": "3_1858812283163734016",
+          "start": 25,
+          "url": "https://t.co/K7YTP46RYa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858815512073171245",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858812289891074485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HoDaRaKe: 月夜のセイバーオルタ https://t.co/K7YTP46RYa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_1858812283163734016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcvT7FIbcAAATOF.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858812283163734016"
+          ],
+          "media_source_tweet_id": [
+            "1858812289891074485"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1858815512073171245",
+        "created_at": "2024-11-19T10:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T11:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858815512073171245"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "月夜のセイバーオルタ",
+              "probability": 0.3614,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1455930823",
+              "start": 3,
+              "username": "HoDaRaKe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K7YTP46RYa",
+              "end": 48,
+              "expanded_url": "https://x.com/HoDaRaKe/status/1858812289891074485/photo/1",
+              "media_key": "3_1858812283163734016",
+              "start": 25,
+              "url": "https://t.co/K7YTP46RYa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858815512073171245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858812289891074485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HoDaRaKe: 月夜のセイバーオルタ https://t.co/K7YTP46RYa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858812283163734016"
+          ]
+        },
+        "author_id": "1455930823",
+        "conversation_id": "1858812289891074485",
+        "created_at": "2024-11-19T09:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T10:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858812289891074485"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "月夜のセイバーオルタ",
+              "probability": 0.4407,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K7YTP46RYa",
+              "end": 34,
+              "expanded_url": "https://x.com/HoDaRaKe/status/1858812289891074485/photo/1",
+              "media_key": "3_1858812283163734016",
+              "start": 11,
+              "url": "https://t.co/K7YTP46RYa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858812289891074485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2818,
+          "like_count": 119,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "月夜のセイバーオルタ https://t.co/K7YTP46RYa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 127,
+          "like_count": 4928,
+          "listed_count": 0,
+          "tweet_count": 661
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-25T03:37:44.000Z",
+        "description": "HoDaRaKe / tarte\n\n★Sub @HoDaRaKe3\n★Rewards Sample \n@HoDaRaKe2\nhttps://t.co/3SdKgZHfJQ (Pixiv)\n\n★Subscription\nPatreon https://t.co/VtQOEk9IBy\nBOOTH https://t.co/6rvu7Ih6Cs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "HoDaRaKe3"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "HoDaRaKe2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/zwWNU",
+                "end": 85,
+                "expanded_url": "https://x.gd/zwWNU",
+                "start": 62,
+                "url": "https://t.co/3SdKgZHfJQ"
+              },
+              {
+                "display_url": "x.gd/TfrXz",
+                "end": 140,
+                "expanded_url": "http://x.gd/TfrXz",
+                "start": 117,
+                "url": "https://t.co/VtQOEk9IBy"
+              },
+              {
+                "display_url": "x.gd/IfZr4",
+                "end": 170,
+                "expanded_url": "http://x.gd/IfZr4",
+                "start": 147,
+                "url": "https://t.co/6rvu7Ih6Cs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/HoDaRaKe",
+                "end": 23,
+                "expanded_url": "https://lit.link/HoDaRaKe",
+                "start": 0,
+                "url": "https://t.co/jZMVlu0OMz"
+              }
+            ]
+          }
+        },
+        "id": "1455930823",
+        "location": "(*´-`)",
+        "name": "HoDaRaKe",
+        "pinned_tweet_id": "1858522143438586031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682385241049030656/kAzTtkgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758056,
+          "following_count": 3430,
+          "like_count": 33726,
+          "listed_count": 4331,
+          "tweet_count": 55410
+        },
+        "url": "https://t.co/jZMVlu0OMz",
+        "username": "HoDaRaKe",
+        "verified": true
+      }
+    ]
+  }
+}

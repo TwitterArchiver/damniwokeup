@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861711296217096192"
+      ],
+      "media_source_tweet_id": [
+        "1861711602250350849"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1861777820399394819",
+    "created_at": "2024-11-27T14:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T15:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861777820399394819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "767329695473860608",
+          "start": 3,
+          "username": "syokumura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/75610xMNV7",
+          "end": 38,
+          "expanded_url": "https://x.com/syokumura/status/1861711602250350849/photo/1",
+          "media_key": "3_1861711296217096192",
+          "start": 15,
+          "url": "https://t.co/75610xMNV7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861777820399394819",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 408
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861711602250350849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @syokumura: https://t.co/75610xMNV7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_1861711296217096192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdYgj2VaIAAPVEr.jpg",
+        "width": 1146
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861711296217096192"
+          ],
+          "media_source_tweet_id": [
+            "1861711602250350849"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1861777820399394819",
+        "created_at": "2024-11-27T14:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T15:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861777820399394819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "767329695473860608",
+              "start": 3,
+              "username": "syokumura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/75610xMNV7",
+              "end": 38,
+              "expanded_url": "https://x.com/syokumura/status/1861711602250350849/photo/1",
+              "media_key": "3_1861711296217096192",
+              "start": 15,
+              "url": "https://t.co/75610xMNV7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861777820399394819",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 408
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861711602250350849",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @syokumura: https://t.co/75610xMNV7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861711296217096192"
+          ]
+        },
+        "author_id": "767329695473860608",
+        "conversation_id": "1861711602250350849",
+        "created_at": "2024-11-27T10:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T11:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861711602250350849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/75610xMNV7",
+              "end": 23,
+              "expanded_url": "https://x.com/syokumura/status/1861711602250350849/photo/1",
+              "media_key": "3_1861711296217096192",
+              "start": 0,
+              "url": "https://t.co/75610xMNV7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861711602250350849",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 680,
+          "impression_count": 93024,
+          "like_count": 5912,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 408
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/75610xMNV7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 133,
+          "like_count": 5189,
+          "listed_count": 0,
+          "tweet_count": 776
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-21T11:57:10.000Z",
+        "description": "illustration",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/syokumura",
+                "end": 23,
+                "expanded_url": "https://potofu.me/syokumura",
+                "start": 0,
+                "url": "https://t.co/c0OIeisGTb"
+              }
+            ]
+          }
+        },
+        "id": "767329695473860608",
+        "location": "ふわふわ白ボブ",
+        "name": "しょくむら",
+        "pinned_tweet_id": "1758439874301161850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860853754918273024/yv40s3yM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131182,
+          "following_count": 239,
+          "like_count": 18289,
+          "listed_count": 1126,
+          "tweet_count": 1508
+        },
+        "url": "https://t.co/c0OIeisGTb",
+        "username": "syokumura",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1866813356243554520",
+    "created_at": "2024-12-11T11:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T12:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866813356243554520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1472022007797719048",
+          "start": 3,
+          "username": "user0000O0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866813356243554520",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866732980154274205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @user0000O0: i died in 2012 and all of this is an hallucination"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1866813356243554520",
+        "created_at": "2024-12-11T11:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T12:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866813356243554520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1472022007797719048",
+              "start": 3,
+              "username": "user0000O0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866813356243554520",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866732980154274205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @user0000O0: i died in 2012 and all of this is an hallucination"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472022007797719048",
+        "conversation_id": "1866732980154274205",
+        "created_at": "2024-12-11T06:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T07:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866732980154274205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866732980154274205",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 6842,
+          "like_count": 427,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "i died in 2012 and all of this is an hallucination"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 5858,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1034
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T01:52:57.000Z",
+        "description": "i do not exist",
+        "id": "1472022007797719048",
+        "location": "deleted",
+        "name": "lain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842335199184515072/Ll2z_0VH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71728,
+          "following_count": 186,
+          "like_count": 6498,
+          "listed_count": 89,
+          "media_count": 943,
+          "tweet_count": 5779
+        },
+        "username": "user0000O0",
+        "verified": true
+      }
+    ]
+  }
+}

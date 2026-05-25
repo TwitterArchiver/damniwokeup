@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864276790468071424"
+      ],
+      "media_source_tweet_id": [
+        "1864276816174977298"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1864293827517009970",
+    "created_at": "2024-12-04T13:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T14:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864293827517009970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1472851039460421633",
+          "start": 3,
+          "username": "Sherry_0014"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/clSrxNz13m",
+          "end": 40,
+          "expanded_url": "https://x.com/Sherry_0014/status/1864276816174977298/photo/1",
+          "media_key": "3_1864276790468071424",
+          "start": 17,
+          "url": "https://t.co/clSrxNz13m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864293827517009970",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864276816174977298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sherry_0014: https://t.co/clSrxNz13m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 961,
+        "media_key": "3_1864276790468071424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd893RLa0AAKPX5.jpg",
+        "width": 1143
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864276790468071424"
+          ],
+          "media_source_tweet_id": [
+            "1864276816174977298"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1864293827517009970",
+        "created_at": "2024-12-04T13:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T14:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864293827517009970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1472851039460421633",
+              "start": 3,
+              "username": "Sherry_0014"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/clSrxNz13m",
+              "end": 40,
+              "expanded_url": "https://x.com/Sherry_0014/status/1864276816174977298/photo/1",
+              "media_key": "3_1864276790468071424",
+              "start": 17,
+              "url": "https://t.co/clSrxNz13m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864293827517009970",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864276816174977298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sherry_0014: https://t.co/clSrxNz13m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864276790468071424"
+          ]
+        },
+        "author_id": "1472851039460421633",
+        "conversation_id": "1864276816174977298",
+        "created_at": "2024-12-04T11:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T12:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864276816174977298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/clSrxNz13m",
+              "end": 23,
+              "expanded_url": "https://x.com/Sherry_0014/status/1864276816174977298/photo/1",
+              "media_key": "3_1864276790468071424",
+              "start": 0,
+              "url": "https://t.co/clSrxNz13m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864276816174977298",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 7468,
+          "like_count": 758,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/clSrxNz13m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863961129996967936/qeynYxft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 143,
+          "like_count": 5565,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 910
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-20T08:47:16.000Z",
+        "description": "成人済/絵を描いています/AI学習禁止",
+        "id": "1472851039460421633",
+        "name": "Sherry",
+        "pinned_tweet_id": "1800975477970198562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830882369642827779/RBcBH0Ey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17436,
+          "following_count": 56,
+          "like_count": 2807,
+          "listed_count": 131,
+          "media_count": 68,
+          "tweet_count": 244
+        },
+        "username": "Sherry_0014",
+        "verified": false
+      }
+    ]
+  }
+}

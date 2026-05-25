@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1862320116219662337"
+      ],
+      "media_source_tweet_id": [
+        "1862320177141977240"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1863108096467558768",
+    "created_at": "2024-12-01T06:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T07:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863108096467558768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1167415560",
+          "start": 3,
+          "username": "shadowarlok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BzeHZBIYJl",
+          "end": 115,
+          "expanded_url": "https://x.com/WBY_Hokuto/status/1862320177141977240/video/1",
+          "media_key": "7_1862320116219662337",
+          "start": 92,
+          "url": "https://t.co/BzeHZBIYJl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863108096467558768",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863002571222249486",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shadowarlok: BEST SHIPP POLL RESULTS\n\n8º - DENJI X ASA (CHAINSAW MAN)\n— 4.433.885 VOTES\nhttps://t.co/BzeHZBIYJl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27533,
+        "height": 576,
+        "media_key": "7_1862320116219662337",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1862320116219662337/pu/img/huwBsazjuH9LL1EM.jpg",
+        "public_metrics": {
+          "view_count": 5523
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1862320116219662337/pu/vid/avc1/320x320/FQqaLfSm0FX7Qjw2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1862320116219662337/pu/vid/avc1/576x576/gAfOQp5dMbP0dDDT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1862320116219662337/pu/pl/ZmmxCPHMdJC6szFI.m3u8?tag=12&v=186"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1862320116219662337"
+          ],
+          "media_source_tweet_id": [
+            "1862320177141977240"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1863108096467558768",
+        "created_at": "2024-12-01T06:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T07:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863108096467558768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1167415560",
+              "start": 3,
+              "username": "shadowarlok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BzeHZBIYJl",
+              "end": 115,
+              "expanded_url": "https://x.com/WBY_Hokuto/status/1862320177141977240/video/1",
+              "media_key": "7_1862320116219662337",
+              "start": 92,
+              "url": "https://t.co/BzeHZBIYJl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863108096467558768",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863002571222249486",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shadowarlok: BEST SHIPP POLL RESULTS\n\n8º - DENJI X ASA (CHAINSAW MAN)\n— 4.433.885 VOTES\nhttps://t.co/BzeHZBIYJl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1862320116219662337"
+          ],
+          "media_source_tweet_id": [
+            "1862320177141977240"
+          ]
+        },
+        "author_id": "1167415560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1863002571222249486",
+        "created_at": "2024-11-30T23:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T00:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863002571222249486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BzeHZBIYJl",
+              "end": 98,
+              "expanded_url": "https://x.com/WBY_Hokuto/status/1862320177141977240/video/1",
+              "media_key": "7_1862320116219662337",
+              "start": 75,
+              "url": "https://t.co/BzeHZBIYJl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863002571222249486",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 23018,
+          "like_count": 433,
+          "quote_count": 55,
+          "reply_count": 30,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "BEST SHIPP POLL RESULTS\n\n8º - DENJI X ASA (CHAINSAW MAN)\n— 4.433.885 VOTES\nhttps://t.co/BzeHZBIYJl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 139,
+          "like_count": 5391,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 851
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-11T00:43:54.000Z",
+        "description": "I stan female characters 👑\n\nNot spoiler free | PT-BR/ENG",
+        "id": "1167415560",
+        "location": "Butterfly Estate ",
+        "name": "Tarsi🦋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814775825830445057/gDLjARIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8952,
+          "following_count": 1673,
+          "like_count": 304347,
+          "listed_count": 84,
+          "media_count": 11782,
+          "tweet_count": 354705
+        },
+        "username": "shadowarlok",
+        "verified": false
+      }
+    ]
+  }
+}

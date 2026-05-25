@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1878126094530023818",
+    "created_at": "2025-01-11T17:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T18:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878126094530023818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1366008543283867648",
+          "start": 3,
+          "username": "goreyuna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878126094530023818",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877766860894097711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @goreyuna: am i depressed or am i just thirty years old"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1878126094530023818",
+        "created_at": "2025-01-11T17:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T18:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878126094530023818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1366008543283867648",
+              "start": 3,
+              "username": "goreyuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878126094530023818",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877766860894097711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @goreyuna: am i depressed or am i just thirty years old"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1366008543283867648",
+        "conversation_id": "1877766860894097711",
+        "created_at": "2025-01-10T17:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T18:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877766860894097711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877766860894097711",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 7151,
+          "like_count": 415,
+          "quote_count": 2,
+          "reply_count": 60,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "am i depressed or am i just thirty years old"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 152,
+          "like_count": 6679,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1314
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-28T12:53:20.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/netori",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/netori",
+                "start": 0,
+                "url": "https://t.co/L4PQyGppYw"
+              }
+            ]
+          }
+        },
+        "id": "1366008543283867648",
+        "name": "amya ☆",
+        "pinned_tweet_id": "1693145815626489929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877563644097212418/vbqXYyvK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20147,
+          "following_count": 80,
+          "like_count": 49835,
+          "listed_count": 28,
+          "media_count": 2471,
+          "tweet_count": 26426
+        },
+        "url": "https://t.co/L4PQyGppYw",
+        "username": "goreyuna",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860815063268970496"
+      ],
+      "media_source_tweet_id": [
+        "1860815064741130592"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1861228092582437158",
+    "created_at": "2024-11-26T01:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T02:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861228092582437158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1778998574551883776",
+          "start": 3,
+          "username": "Ryothepapu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x06i0wBVSF",
+          "end": 39,
+          "expanded_url": "https://x.com/Ryothepapu/status/1860815064741130592/photo/1",
+          "media_key": "3_1860815063268970496",
+          "start": 16,
+          "url": "https://t.co/x06i0wBVSF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861228092582437158",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860815064741130592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ryothepapu: https://t.co/x06i0wBVSF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 747,
+        "media_key": "3_1860815063268970496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdLxcObX0AAT02i.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860815063268970496"
+          ],
+          "media_source_tweet_id": [
+            "1860815064741130592"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1861228092582437158",
+        "created_at": "2024-11-26T01:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T02:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861228092582437158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778998574551883776",
+              "start": 3,
+              "username": "Ryothepapu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x06i0wBVSF",
+              "end": 39,
+              "expanded_url": "https://x.com/Ryothepapu/status/1860815064741130592/photo/1",
+              "media_key": "3_1860815063268970496",
+              "start": 16,
+              "url": "https://t.co/x06i0wBVSF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861228092582437158",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860815064741130592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ryothepapu: https://t.co/x06i0wBVSF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860815063268970496"
+          ]
+        },
+        "author_id": "1778998574551883776",
+        "conversation_id": "1860815064741130592",
+        "created_at": "2024-11-24T22:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T23:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860815064741130592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x06i0wBVSF",
+              "end": 23,
+              "expanded_url": "https://x.com/Ryothepapu/status/1860815064741130592/photo/1",
+              "media_key": "3_1860815063268970496",
+              "start": 0,
+              "url": "https://t.co/x06i0wBVSF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860815064741130592",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 7816,
+          "like_count": 824,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/x06i0wBVSF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 132,
+          "like_count": 5130,
+          "listed_count": 0,
+          "tweet_count": 754
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T04:08:38.000Z",
+        "description": "Solamente soy yo - Escritor de wattpad en decadencia - La Reencarnación de Ryo Fachera - Im Dark bocchi - Ninguna imagen es mía",
+        "id": "1778998574551883776",
+        "name": "Roy",
+        "pinned_tweet_id": "1851098409131745341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858628208251293696/HwBZknGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 62,
+          "like_count": 671,
+          "listed_count": 5,
+          "tweet_count": 502
+        },
+        "username": "Ryothepapu",
+        "verified": false
+      }
+    ]
+  }
+}

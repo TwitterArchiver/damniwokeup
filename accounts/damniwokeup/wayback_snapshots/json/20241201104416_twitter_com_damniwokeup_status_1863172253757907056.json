@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863169908609355778"
+      ],
+      "media_source_tweet_id": [
+        "1863170232787104132"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1863172253757907056",
+    "created_at": "2024-12-01T10:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T11:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863172253757907056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "951474536540659712",
+          "start": 3,
+          "username": "egoshiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SHNJ3zoJBJ",
+          "end": 48,
+          "expanded_url": "https://x.com/egoshiki/status/1863170232787104132/photo/1",
+          "media_key": "3_1863169908609355778",
+          "start": 25,
+          "url": "https://t.co/SHNJ3zoJBJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863172253757907056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863170232787104132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @egoshiki: 冬コミ新刊表紙でけた https://t.co/SHNJ3zoJBJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1766,
+        "media_key": "3_1863169908609355778",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdtPKQ7bkAIV63o.jpg",
+        "width": 1249
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863169908609355778"
+          ],
+          "media_source_tweet_id": [
+            "1863170232787104132"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1863172253757907056",
+        "created_at": "2024-12-01T10:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T11:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863172253757907056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "951474536540659712",
+              "start": 3,
+              "username": "egoshiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHNJ3zoJBJ",
+              "end": 48,
+              "expanded_url": "https://x.com/egoshiki/status/1863170232787104132/photo/1",
+              "media_key": "3_1863169908609355778",
+              "start": 25,
+              "url": "https://t.co/SHNJ3zoJBJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863172253757907056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863170232787104132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @egoshiki: 冬コミ新刊表紙でけた https://t.co/SHNJ3zoJBJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863169908609355778"
+          ]
+        },
+        "author_id": "951474536540659712",
+        "conversation_id": "1863170232787104132",
+        "created_at": "2024-12-01T10:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T11:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863170232787104132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHNJ3zoJBJ",
+              "end": 34,
+              "expanded_url": "https://x.com/egoshiki/status/1863170232787104132/photo/1",
+              "media_key": "3_1863169908609355778",
+              "start": 11,
+              "url": "https://t.co/SHNJ3zoJBJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863170232787104132",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 2159,
+          "like_count": 366,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "冬コミ新刊表紙でけた https://t.co/SHNJ3zoJBJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 141,
+          "like_count": 5412,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 855
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-11T15:23:01.000Z",
+        "description": "イラスト描いてます。■AI学習、転載、使用の全てを禁止。AI learning, use, and reproduction are prohibited.｜ ご依頼、お仕事はegoshiki00@gmail.com またはDMにお願いします。【skeb】https://t.co/yBiaf0PSOs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@egoshiki",
+                "end": 151,
+                "expanded_url": "http://skeb.jp/@egoshiki",
+                "start": 128,
+                "url": "https://t.co/yBiaf0PSOs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/user_ytdg8528",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/user_ytdg8528",
+                "start": 0,
+                "url": "https://t.co/Mv6vDUInuS"
+              }
+            ]
+          }
+        },
+        "id": "951474536540659712",
+        "name": "えご。C105 日曜日 東h08b",
+        "pinned_tweet_id": "1857612697749303597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794888845982584832/1owf_MD7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55771,
+          "following_count": 382,
+          "like_count": 37786,
+          "listed_count": 354,
+          "media_count": 303,
+          "tweet_count": 5649
+        },
+        "url": "https://t.co/Mv6vDUInuS",
+        "username": "egoshiki",
+        "verified": false
+      }
+    ]
+  }
+}

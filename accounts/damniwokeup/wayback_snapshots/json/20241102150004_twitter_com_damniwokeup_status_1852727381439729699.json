@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1852646995313434624"
+      ],
+      "media_source_tweet_id": [
+        "1852646998899560457"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1852727381439729699",
+    "created_at": "2024-11-02T15:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T16:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852727381439729699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1532048540499050497",
+          "start": 3,
+          "username": "juzoh13_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Iwa3rwaKn",
+          "end": 37,
+          "expanded_url": "https://x.com/juzoh13_/status/1852646998899560457/photo/1",
+          "media_key": "3_1852646995313434624",
+          "start": 14,
+          "url": "https://t.co/1Iwa3rwaKn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852727381439729699",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 479
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852646998899560457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @juzoh13_: https://t.co/1Iwa3rwaKn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1852646995313434624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbXsoGHaIAA6bw7.jpg",
+        "width": 575
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852646995313434624"
+          ],
+          "media_source_tweet_id": [
+            "1852646998899560457"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1852727381439729699",
+        "created_at": "2024-11-02T15:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T16:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852727381439729699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1532048540499050497",
+              "start": 3,
+              "username": "juzoh13_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Iwa3rwaKn",
+              "end": 37,
+              "expanded_url": "https://x.com/juzoh13_/status/1852646998899560457/photo/1",
+              "media_key": "3_1852646995313434624",
+              "start": 14,
+              "url": "https://t.co/1Iwa3rwaKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852727381439729699",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 479
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852646998899560457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @juzoh13_: https://t.co/1Iwa3rwaKn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852646995313434624"
+          ]
+        },
+        "author_id": "1532048540499050497",
+        "conversation_id": "1852646998899560457",
+        "created_at": "2024-11-02T09:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T10:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852646998899560457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Iwa3rwaKn",
+              "end": 23,
+              "expanded_url": "https://x.com/juzoh13_/status/1852646998899560457/photo/1",
+              "media_key": "3_1852646995313434624",
+              "start": 0,
+              "url": "https://t.co/1Iwa3rwaKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852646998899560457",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 366,
+          "impression_count": 34232,
+          "like_count": 3737,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 479
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1Iwa3rwaKn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847962644852162560/UJMfw11t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 122,
+          "like_count": 4515,
+          "listed_count": 0,
+          "tweet_count": 478
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T17:17:00.000Z",
+        "description": "Don't use my artworks. / ご依頼の詳細等 ▶︎ https://t.co/pYYhoknsb8\nskeb ▼",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "potofu.me/juzoh13",
+                "end": 59,
+                "expanded_url": "http://potofu.me/juzoh13",
+                "start": 36,
+                "url": "https://t.co/pYYhoknsb8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@juzoh13_",
+                "end": 23,
+                "expanded_url": "http://skeb.jp/@juzoh13_",
+                "start": 0,
+                "url": "https://t.co/zL51hhlung"
+              }
+            ]
+          }
+        },
+        "id": "1532048540499050497",
+        "name": "十蔵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647121581041397762/PPZWNa2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11098,
+          "following_count": 14,
+          "like_count": 376,
+          "listed_count": 87,
+          "tweet_count": 79
+        },
+        "url": "https://t.co/zL51hhlung",
+        "username": "juzoh13_",
+        "verified": false
+      }
+    ]
+  }
+}

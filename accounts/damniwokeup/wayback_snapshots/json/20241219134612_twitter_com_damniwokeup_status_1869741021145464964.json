@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1869421599922991104"
+      ],
+      "media_source_tweet_id": [
+        "1869421672455082388"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1869741021145464964",
+    "created_at": "2024-12-19T13:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T14:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869741021145464964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1460061733784264704",
+          "start": 3,
+          "username": "pttyr_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LznDGYcoe1",
+          "end": 37,
+          "expanded_url": "https://x.com/pttyr_/status/1869421672455082388/photo/1",
+          "media_key": "3_1869421599922991104",
+          "start": 14,
+          "url": "https://t.co/LznDGYcoe1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869741021145464964",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869421672455082388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pttyr_: オ https://t.co/LznDGYcoe1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1076,
+        "media_key": "3_1869421599922991104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfGFCl7aMAAHwdq.jpg",
+        "width": 1347
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869421599922991104"
+          ],
+          "media_source_tweet_id": [
+            "1869421672455082388"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1869741021145464964",
+        "created_at": "2024-12-19T13:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T14:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869741021145464964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1460061733784264704",
+              "start": 3,
+              "username": "pttyr_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LznDGYcoe1",
+              "end": 37,
+              "expanded_url": "https://x.com/pttyr_/status/1869421672455082388/photo/1",
+              "media_key": "3_1869421599922991104",
+              "start": 14,
+              "url": "https://t.co/LznDGYcoe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869741021145464964",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869421672455082388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pttyr_: オ https://t.co/LznDGYcoe1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869421599922991104"
+          ]
+        },
+        "author_id": "1460061733784264704",
+        "conversation_id": "1869421672455082388",
+        "created_at": "2024-12-18T16:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T17:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869421672455082388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LznDGYcoe1",
+              "end": 25,
+              "expanded_url": "https://x.com/pttyr_/status/1869421672455082388/photo/1",
+              "media_key": "3_1869421599922991104",
+              "start": 2,
+              "url": "https://t.co/LznDGYcoe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869421672455082388",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 10101,
+          "like_count": 777,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "オ https://t.co/LznDGYcoe1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 6194,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1151
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-15T01:47:09.000Z",
+        "description": "絵や漫画を描いてます。\nFGO／鯖ぐだ♀ 　🏀／💚🩵\nマシュマロ▶︎https://t.co/C0EO2i6fI3 \nSkeb▶︎https://t.co/3buBcZN5GY 日常@silnoclo\nアイコン@kumochiru 20↑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "silnoclo"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "kumochiru"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/pttyr_",
+                "end": 57,
+                "expanded_url": "http://marshmallow-qa.com/pttyr_",
+                "start": 34,
+                "url": "https://t.co/C0EO2i6fI3"
+              },
+              {
+                "display_url": "skeb.jp/@pttyr_",
+                "end": 88,
+                "expanded_url": "http://skeb.jp/@pttyr_",
+                "start": 65,
+                "url": "https://t.co/3buBcZN5GY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/85073569",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/85073569",
+                "start": 0,
+                "url": "https://t.co/gL0m6gVyOE"
+              }
+            ]
+          }
+        },
+        "id": "1460061733784264704",
+        "location": "BEYOND",
+        "name": "彼方",
+        "pinned_tweet_id": "1852078722754756920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665757528603631616/l_ZgZGXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7576,
+          "following_count": 79,
+          "like_count": 4848,
+          "listed_count": 53,
+          "media_count": 202,
+          "tweet_count": 3876
+        },
+        "url": "https://t.co/gL0m6gVyOE",
+        "username": "pttyr_",
+        "verified": false
+      }
+    ]
+  }
+}

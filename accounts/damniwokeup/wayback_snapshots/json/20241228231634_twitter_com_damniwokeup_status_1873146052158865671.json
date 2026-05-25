@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1873098832247988224"
+      ],
+      "media_source_tweet_id": [
+        "1873101077782077793"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1873146052158865671",
+    "created_at": "2024-12-28T23:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T00:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873146052158865671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1097158645446516736",
+          "start": 3,
+          "username": "tvchany_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F8BGU49U4z",
+          "end": 41,
+          "expanded_url": "https://x.com/tvchany_/status/1873101077782077793/video/1",
+          "media_key": "7_1873098832247988224",
+          "start": 18,
+          "url": "https://t.co/F8BGU49U4z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873146052158865671",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 396
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873101077782077793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tvchany_: ✌︎︎ https://t.co/F8BGU49U4z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2583,
+        "height": 1080,
+        "media_key": "7_1873098832247988224",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1873098832247988224/pu/img/j1qHmSLRsJ8_E3Sf.jpg",
+        "public_metrics": {
+          "view_count": 8249
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1873098832247988224/pu/vid/avc1/480x270/9Kh2ChWCCNx6ieQT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1873098832247988224/pu/vid/avc1/640x360/Qn4UK35rgaueP8Mx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1873098832247988224/pu/vid/avc1/1280x720/9LgJgzKQAfjMkwEJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1873098832247988224/pu/pl/nr0SJiEX8O-zfY7F.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1873098832247988224"
+          ],
+          "media_source_tweet_id": [
+            "1873101077782077793"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1873146052158865671",
+        "created_at": "2024-12-28T23:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T00:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873146052158865671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1097158645446516736",
+              "start": 3,
+              "username": "tvchany_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F8BGU49U4z",
+              "end": 41,
+              "expanded_url": "https://x.com/tvchany_/status/1873101077782077793/video/1",
+              "media_key": "7_1873098832247988224",
+              "start": 18,
+              "url": "https://t.co/F8BGU49U4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873146052158865671",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 396
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873101077782077793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tvchany_: ✌︎︎ https://t.co/F8BGU49U4z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1873098832247988224"
+          ]
+        },
+        "author_id": "1097158645446516736",
+        "conversation_id": "1873101077782077793",
+        "created_at": "2024-12-28T20:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T21:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873101077782077793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F8BGU49U4z",
+              "end": 27,
+              "expanded_url": "https://x.com/tvchany_/status/1873101077782077793/video/1",
+              "media_key": "7_1873098832247988224",
+              "start": 4,
+              "url": "https://t.co/F8BGU49U4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873101077782077793",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 255,
+          "impression_count": 23905,
+          "like_count": 2668,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 396
+        },
+        "reply_settings": "everyone",
+        "text": "✌︎︎ https://t.co/F8BGU49U4z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 149,
+          "like_count": 6436,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1232
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-17T15:39:40.000Z",
+        "description": "illustration/animation \n✉ tvngnis@gmail.com\n🌍 https://t.co/kmqDHBzC6g\n📺 https://t.co/yoVx3I6app",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tvchany.com/hub",
+                "end": 69,
+                "expanded_url": "http://tvchany.com/hub",
+                "start": 46,
+                "url": "https://t.co/kmqDHBzC6g"
+              },
+              {
+                "display_url": "youtube.com/@TVCHANY",
+                "end": 95,
+                "expanded_url": "http://youtube.com/@TVCHANY",
+                "start": 72,
+                "url": "https://t.co/yoVx3I6app"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tvchany.store",
+                "end": 23,
+                "expanded_url": "http://tvchany.store",
+                "start": 0,
+                "url": "https://t.co/OOinaIq2Zh"
+              }
+            ]
+          }
+        },
+        "id": "1097158645446516736",
+        "location": "switzerland ",
+        "name": "TV♡CHANY",
+        "pinned_tweet_id": "1865753914680705056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598696386333229058/HO6g6qNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179929,
+          "following_count": 786,
+          "like_count": 3128,
+          "listed_count": 1373,
+          "media_count": 285,
+          "tweet_count": 2067
+        },
+        "url": "https://t.co/OOinaIq2Zh",
+        "username": "tvchany_",
+        "verified": true
+      }
+    ]
+  }
+}

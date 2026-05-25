@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871598722347593728"
+      ],
+      "media_source_tweet_id": [
+        "1871598728513311027"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1871900043340554594",
+    "created_at": "2024-12-25T12:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T13:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871900043340554594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4821194352",
+          "start": 3,
+          "username": "cotta__k"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m0HDQhqYkC",
+          "end": 37,
+          "expanded_url": "https://x.com/cotta__k/status/1871598728513311027/photo/1",
+          "media_key": "3_1871598722347593728",
+          "start": 14,
+          "url": "https://t.co/m0HDQhqYkC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871900043340554594",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1048
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871598728513311027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cotta__k: https://t.co/m0HDQhqYkC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1731,
+        "media_key": "3_1871598722347593728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GflBHy-acAAGn2O.jpg",
+        "width": 1300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871598722347593728"
+          ],
+          "media_source_tweet_id": [
+            "1871598728513311027"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1871900043340554594",
+        "created_at": "2024-12-25T12:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T13:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871900043340554594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4821194352",
+              "start": 3,
+              "username": "cotta__k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m0HDQhqYkC",
+              "end": 37,
+              "expanded_url": "https://x.com/cotta__k/status/1871598728513311027/photo/1",
+              "media_key": "3_1871598722347593728",
+              "start": 14,
+              "url": "https://t.co/m0HDQhqYkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871900043340554594",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1048
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871598728513311027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cotta__k: https://t.co/m0HDQhqYkC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871598722347593728"
+          ]
+        },
+        "author_id": "4821194352",
+        "conversation_id": "1871598728513311027",
+        "created_at": "2024-12-24T16:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T17:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871598728513311027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m0HDQhqYkC",
+              "end": 23,
+              "expanded_url": "https://x.com/cotta__k/status/1871598728513311027/photo/1",
+              "media_key": "3_1871598722347593728",
+              "start": 0,
+              "url": "https://t.co/m0HDQhqYkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871598728513311027",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 797,
+          "impression_count": 70046,
+          "like_count": 7200,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1048
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/m0HDQhqYkC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 148,
+          "like_count": 6345,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1209
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-27T13:49:53.000Z",
+        "description": "Freelance Illustrator\ncontact - heleif@naver.com\n\n시나리움 강사 - https://t.co/fjFvOziq7G",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sinalium.net/instructors/37",
+                "end": 83,
+                "expanded_url": "http://sinalium.net/instructors/37",
+                "start": 60,
+                "url": "https://t.co/fjFvOziq7G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/heleif",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/heleif",
+                "start": 0,
+                "url": "https://t.co/7iWm5mJECO"
+              }
+            ]
+          }
+        },
+        "id": "4821194352",
+        "name": "Cotta",
+        "pinned_tweet_id": "1661387329183834114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650508317008048137/s7gt-QPB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113395,
+          "following_count": 220,
+          "like_count": 14,
+          "listed_count": 850,
+          "media_count": 209,
+          "tweet_count": 246
+        },
+        "url": "https://t.co/7iWm5mJECO",
+        "username": "cotta__k",
+        "verified": false
+      }
+    ]
+  }
+}

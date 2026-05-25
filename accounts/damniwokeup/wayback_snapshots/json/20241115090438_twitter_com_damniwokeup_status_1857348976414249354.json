@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857090805917192192"
+      ],
+      "media_source_tweet_id": [
+        "1857345293093892541"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1857348976414249354",
+    "created_at": "2024-11-15T09:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T10:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857348976414249354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "774504780416724992",
+          "start": 3,
+          "username": "silverBobCut"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D3RsCxxeSq",
+          "end": 46,
+          "expanded_url": "https://x.com/silverBobCut/status/1857345293093892541/photo/1",
+          "media_key": "3_1857090805917192192",
+          "start": 23,
+          "url": "https://t.co/D3RsCxxeSq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857348976414249354",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857345293093892541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @silverBobCut: になすば https://t.co/D3RsCxxeSq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1857090805917192192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcW2P6pWkAAj5JY.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857090805917192192"
+          ],
+          "media_source_tweet_id": [
+            "1857345293093892541"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1857348976414249354",
+        "created_at": "2024-11-15T09:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T10:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857348976414249354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "774504780416724992",
+              "start": 3,
+              "username": "silverBobCut"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D3RsCxxeSq",
+              "end": 46,
+              "expanded_url": "https://x.com/silverBobCut/status/1857345293093892541/photo/1",
+              "media_key": "3_1857090805917192192",
+              "start": 23,
+              "url": "https://t.co/D3RsCxxeSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857348976414249354",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857345293093892541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @silverBobCut: になすば https://t.co/D3RsCxxeSq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857090805917192192"
+          ]
+        },
+        "author_id": "774504780416724992",
+        "conversation_id": "1857345293093892541",
+        "created_at": "2024-11-15T08:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T09:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857345293093892541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D3RsCxxeSq",
+              "end": 28,
+              "expanded_url": "https://x.com/silverBobCut/status/1857345293093892541/photo/1",
+              "media_key": "3_1857090805917192192",
+              "start": 5,
+              "url": "https://t.co/D3RsCxxeSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857345293093892541",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 730,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "になすば https://t.co/D3RsCxxeSq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 125,
+          "like_count": 4782,
+          "listed_count": 0,
+          "tweet_count": 602
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-10T07:08:24.000Z",
+        "description": "二次創作めいん　\n🔞 https://t.co/u3hN8awUxj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/silverbob",
+                "end": 34,
+                "expanded_url": "http://patreon.com/silverbob",
+                "start": 11,
+                "url": "https://t.co/u3hN8awUxj"
+              }
+            ]
+          }
+        },
+        "id": "774504780416724992",
+        "location": "ai(sd ∪ niji ∪ nai) + retouch",
+        "name": "シルボブ",
+        "pinned_tweet_id": "1846385579782820145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830947377437360130/esxaFHVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50861,
+          "following_count": 0,
+          "like_count": 1772,
+          "listed_count": 296,
+          "tweet_count": 1996
+        },
+        "username": "silverBobCut",
+        "verified": true
+      }
+    ]
+  }
+}

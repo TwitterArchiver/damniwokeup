@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1859932483292484017",
+    "created_at": "2024-11-22T17:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T18:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860012360163024987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786771245750755328",
+          "start": 0,
+          "username": "Ayanekawaii2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860012360163024987",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859932483292484017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanekawaii2 噢了俩smonnslyujingji"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1859932483292484017",
+        "created_at": "2024-11-22T17:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T18:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860012360163024987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860012360163024987",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859932483292484017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 噢了俩smonnslyujingji"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859932472622071808"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "1859932483292484017",
+        "created_at": "2024-11-22T12:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T13:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859932483292484017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hLAy49eVly",
+              "end": 25,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/1859932483292484017/photo/1",
+              "media_key": "3_1859932472622071808",
+              "start": 2,
+              "url": "https://t.co/hLAy49eVly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859932483292484017",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。 https://t.co/hLAy49eVly"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 129,
+          "like_count": 5011,
+          "listed_count": 0,
+          "tweet_count": 695
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/日本留学考试脱产备考中/可以互fo/不加墙内联系方式",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1854172116574486578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845524119770800128/c10vN9jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 107,
+          "like_count": 230,
+          "listed_count": 0,
+          "tweet_count": 1062
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

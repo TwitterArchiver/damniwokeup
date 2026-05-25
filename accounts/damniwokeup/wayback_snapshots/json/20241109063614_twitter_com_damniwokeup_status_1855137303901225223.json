@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1855134240037629952"
+      ],
+      "media_source_tweet_id": [
+        "1855134245079175331"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1855137303901225223",
+    "created_at": "2024-11-09T06:36:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T07:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855137303901225223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1368791369859227653",
+          "start": 3,
+          "username": "roundbee08"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ce0GVaRb8C",
+          "end": 48,
+          "expanded_url": "https://x.com/roundbee08/status/1855134245079175331/photo/1",
+          "media_key": "3_1855134240037629952",
+          "start": 25,
+          "url": "https://t.co/ce0GVaRb8C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855137303901225223",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855134245079175331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @roundbee08: Ⅱ0ⅡⅡ0ⅤⅠⅢ https://t.co/ce0GVaRb8C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1855134240037629952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gb7CwywbcAA9Yip.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855134240037629952"
+          ],
+          "media_source_tweet_id": [
+            "1855134245079175331"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1855137303901225223",
+        "created_at": "2024-11-09T06:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T07:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855137303901225223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1368791369859227653",
+              "start": 3,
+              "username": "roundbee08"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ce0GVaRb8C",
+              "end": 48,
+              "expanded_url": "https://x.com/roundbee08/status/1855134245079175331/photo/1",
+              "media_key": "3_1855134240037629952",
+              "start": 25,
+              "url": "https://t.co/ce0GVaRb8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855137303901225223",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855134245079175331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @roundbee08: Ⅱ0ⅡⅡ0ⅤⅠⅢ https://t.co/ce0GVaRb8C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855134240037629952"
+          ]
+        },
+        "author_id": "1368791369859227653",
+        "conversation_id": "1855134245079175331",
+        "created_at": "2024-11-09T06:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T07:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855134245079175331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ce0GVaRb8C",
+              "end": 32,
+              "expanded_url": "https://x.com/roundbee08/status/1855134245079175331/photo/1",
+              "media_key": "3_1855134240037629952",
+              "start": 9,
+              "url": "https://t.co/ce0GVaRb8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855134245079175331",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1460,
+          "like_count": 147,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "Ⅱ0ⅡⅡ0ⅤⅠⅢ https://t.co/ce0GVaRb8C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 126,
+          "like_count": 4761,
+          "listed_count": 0,
+          "tweet_count": 569
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T05:11:23.000Z",
+        "description": "イラストレーター ｜ILLUSTRATION 2024｜MVイラスト・ジャケ・装画 ｜プロセカ2DMV／にじさんじ／guiano／月詠み｜ご連絡roundbee08@seeinc.jp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/roun…",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/roundbee",
+                "start": 0,
+                "url": "https://t.co/MCty1mmWRk"
+              }
+            ]
+          }
+        },
+        "id": "1368791369859227653",
+        "location": "実績はハイライト　ご連絡はメールまで　年内× 2月〜◎",
+        "name": "ミツ蜂",
+        "pinned_tweet_id": "1785998287880990798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612867898376335363/c-caMYxO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98491,
+          "following_count": 875,
+          "like_count": 33389,
+          "listed_count": 734,
+          "tweet_count": 11243
+        },
+        "url": "https://t.co/MCty1mmWRk",
+        "username": "roundbee08",
+        "verified": true
+      }
+    ]
+  }
+}

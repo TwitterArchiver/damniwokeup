@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1797867319164846080"
+      ],
+      "media_source_tweet_id": [
+        "1797867327599583439"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1858424861368205559",
+    "created_at": "2024-11-18T08:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T09:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858424861368205559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1581971600903409664",
+          "start": 3,
+          "username": "yunayuispink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1bK803yeRe",
+          "end": 41,
+          "expanded_url": "https://x.com/yunayuispink/status/1797867327599583439/video/1",
+          "media_key": "7_1797867319164846080",
+          "start": 18,
+          "url": "https://t.co/1bK803yeRe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858424861368205559",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 620
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797867327599583439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yunayuispink: https://t.co/1bK803yeRe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1600,
+        "height": 1114,
+        "media_key": "7_1797867319164846080",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1797867319164846080/pu/img/BktLqpsj1zSQY8WB.jpg",
+        "public_metrics": {
+          "view_count": 11730
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1797867319164846080/pu/vid/avc1/320x400/m59LjDkrOeoa7VQB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1797867319164846080/pu/vid/avc1/480x602/ig0fwNM0Uze4U8eH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1797867319164846080/pu/vid/avc1/720x902/BcGpNNtxsMi-cWOD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1797867319164846080/pu/pl/rfeU1xytEQR_5-CU.m3u8?tag=12"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1797867319164846080"
+          ],
+          "media_source_tweet_id": [
+            "1797867327599583439"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1858424861368205559",
+        "created_at": "2024-11-18T08:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T09:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858424861368205559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1581971600903409664",
+              "start": 3,
+              "username": "yunayuispink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bK803yeRe",
+              "end": 41,
+              "expanded_url": "https://x.com/yunayuispink/status/1797867327599583439/video/1",
+              "media_key": "7_1797867319164846080",
+              "start": 18,
+              "url": "https://t.co/1bK803yeRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858424861368205559",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 620
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797867327599583439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yunayuispink: https://t.co/1bK803yeRe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1797867319164846080"
+          ]
+        },
+        "author_id": "1581971600903409664",
+        "conversation_id": "1797867327599583439",
+        "created_at": "2024-06-04T05:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T06:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797867327599583439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bK803yeRe",
+              "end": 23,
+              "expanded_url": "https://x.com/yunayuispink/status/1797867327599583439/video/1",
+              "media_key": "7_1797867319164846080",
+              "start": 0,
+              "url": "https://t.co/1bK803yeRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797867327599583439",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 325,
+          "impression_count": 51995,
+          "like_count": 5094,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 620
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1bK803yeRe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 126,
+          "like_count": 4902,
+          "listed_count": 0,
+          "tweet_count": 647
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T11:33:42.000Z",
+        "description": "I wanna be drawing hero..!\n\n🖍fanart #yunayum \nyunayuispink@gmail.com\n+do not repost",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 36,
+                "tag": "yunayum"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yunayuispink",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@yunayuispink",
+                "start": 0,
+                "url": "https://t.co/h5C3EsgC4s"
+              }
+            ]
+          }
+        },
+        "id": "1581971600903409664",
+        "name": "yunayu",
+        "pinned_tweet_id": "1843346456918536681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849511133989961730/5Q4yOEll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78884,
+          "following_count": 156,
+          "like_count": 9668,
+          "listed_count": 260,
+          "tweet_count": 2856
+        },
+        "url": "https://t.co/h5C3EsgC4s",
+        "username": "yunayuispink",
+        "verified": true
+      }
+    ]
+  }
+}

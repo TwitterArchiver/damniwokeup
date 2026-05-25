@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867205804899876864"
+      ],
+      "media_source_tweet_id": [
+        "1867205873791303787"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1867365415644803154",
+    "created_at": "2024-12-13T00:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T01:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867365415644803154"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 36,
+          "tag": "フリーレンFA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1421679257323900933",
+          "start": 3,
+          "username": "takoyoomi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gn78OGcRET",
+          "end": 68,
+          "expanded_url": "https://x.com/takoyoomi/status/1867205873791303787/photo/1",
+          "media_key": "3_1867205804899876864",
+          "start": 45,
+          "url": "https://t.co/gn78OGcRET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867365415644803154",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867205873791303787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takoyoomi: Frieren and Himmel \n #フリーレンFA https://t.co/gn78OGcRET"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1867205804899876864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GemlyWOawAA_LNn.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867205804899876864"
+          ],
+          "media_source_tweet_id": [
+            "1867205873791303787"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1867365415644803154",
+        "created_at": "2024-12-13T00:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T01:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867365415644803154"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 36,
+              "tag": "フリーレンFA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1421679257323900933",
+              "start": 3,
+              "username": "takoyoomi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gn78OGcRET",
+              "end": 68,
+              "expanded_url": "https://x.com/takoyoomi/status/1867205873791303787/photo/1",
+              "media_key": "3_1867205804899876864",
+              "start": 45,
+              "url": "https://t.co/gn78OGcRET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867365415644803154",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867205873791303787",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @takoyoomi: Frieren and Himmel \n #フリーレンFA https://t.co/gn78OGcRET"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867205804899876864"
+          ]
+        },
+        "author_id": "1421679257323900933",
+        "conversation_id": "1867205873791303787",
+        "created_at": "2024-12-12T13:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T14:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867205873791303787"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 21,
+              "tag": "フリーレンFA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gn78OGcRET",
+              "end": 53,
+              "expanded_url": "https://x.com/takoyoomi/status/1867205873791303787/photo/1",
+              "media_key": "3_1867205804899876864",
+              "start": 30,
+              "url": "https://t.co/gn78OGcRET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867205873791303787",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 3181,
+          "like_count": 279,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "Frieren and Himmel \n #フリーレンFA https://t.co/gn78OGcRET"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 5916,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1050
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T03:48:54.000Z",
+        "description": "Chi ❀ || I draw for fun 🐙☄️ || I love Frieren",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/takoyoomi",
+                "end": 23,
+                "expanded_url": "https://vgen.co/takoyoomi",
+                "start": 0,
+                "url": "https://t.co/oIXEh8zJ0W"
+              }
+            ]
+          }
+        },
+        "id": "1421679257323900933",
+        "name": "Zell☄️",
+        "pinned_tweet_id": "1854478704673718777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852187821089628160/ZebheSPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 334,
+          "like_count": 3492,
+          "listed_count": 14,
+          "media_count": 495,
+          "tweet_count": 1630
+        },
+        "url": "https://t.co/oIXEh8zJ0W",
+        "username": "takoyoomi",
+        "verified": false
+      }
+    ]
+  }
+}

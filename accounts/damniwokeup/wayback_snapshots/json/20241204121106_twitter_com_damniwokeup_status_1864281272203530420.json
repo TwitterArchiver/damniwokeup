@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864248335898693634"
+      ],
+      "media_source_tweet_id": [
+        "1864248350859776190"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1864281272203530420",
+    "created_at": "2024-12-04T12:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T13:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864281272203530420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587590799746682880",
+          "start": 3,
+          "username": "Elyzerda"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IvtTG4hbx0",
+          "end": 37,
+          "expanded_url": "https://x.com/Elyzerda/status/1864248350859776190/photo/1",
+          "media_key": "3_1864248335898693634",
+          "start": 14,
+          "url": "https://t.co/IvtTG4hbx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864281272203530420",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 246
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864248350859776190",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Elyzerda: https://t.co/IvtTG4hbx0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1864248335898693634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd8j-_pa0AI6AVU.jpg",
+        "width": 2708
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864248335898693634"
+          ],
+          "media_source_tweet_id": [
+            "1864248350859776190"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1864281272203530420",
+        "created_at": "2024-12-04T12:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T13:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864281272203530420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587590799746682880",
+              "start": 3,
+              "username": "Elyzerda"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IvtTG4hbx0",
+              "end": 37,
+              "expanded_url": "https://x.com/Elyzerda/status/1864248350859776190/photo/1",
+              "media_key": "3_1864248335898693634",
+              "start": 14,
+              "url": "https://t.co/IvtTG4hbx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864281272203530420",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 246
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864248350859776190",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Elyzerda: https://t.co/IvtTG4hbx0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864248335898693634"
+          ]
+        },
+        "author_id": "1587590799746682880",
+        "conversation_id": "1864248350859776190",
+        "created_at": "2024-12-04T10:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T11:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864248350859776190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IvtTG4hbx0",
+              "end": 23,
+              "expanded_url": "https://x.com/Elyzerda/status/1864248350859776190/photo/1",
+              "media_key": "3_1864248335898693634",
+              "start": 0,
+              "url": "https://t.co/IvtTG4hbx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864248350859776190",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 7676,
+          "like_count": 1400,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 246
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IvtTG4hbx0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863961129996967936/qeynYxft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 143,
+          "like_count": 5557,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 904
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-01T23:42:13.000Z",
+        "description": "NO A.I🚫| Cms Open: https://t.co/DKBLz2Ymeg| https://t.co/hNWf0T6ROS\nWork: thaoanh1222@gmail.com or dm me on X ❤️🇻🇳",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "elyzerda.carrd.co",
+                "end": 42,
+                "expanded_url": "https://elyzerda.carrd.co/",
+                "start": 19,
+                "url": "https://t.co/DKBLz2Ymeg"
+              },
+              {
+                "display_url": "trello.com/b/iY4yegrm/ely…",
+                "end": 67,
+                "expanded_url": "https://trello.com/b/iY4yegrm/elyzerda-waitlist",
+                "start": 44,
+                "url": "https://t.co/hNWf0T6ROS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/anhhlthaoo?igs…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/anhhlthaoo?igshid=MzNlNGNkZWQ4Mg==",
+                "start": 0,
+                "url": "https://t.co/7JRMszTsJJ"
+              }
+            ]
+          }
+        },
+        "id": "1587590799746682880",
+        "name": "Re Eʟy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827745060760535040/6UhVCJIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22111,
+          "following_count": 131,
+          "like_count": 3200,
+          "listed_count": 141,
+          "media_count": 126,
+          "tweet_count": 352
+        },
+        "url": "https://t.co/7JRMszTsJJ",
+        "username": "Elyzerda",
+        "verified": true
+      }
+    ]
+  }
+}

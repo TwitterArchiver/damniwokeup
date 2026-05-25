@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968268996324798465"
+      ],
+      "media_source_tweet_id": [
+        "1968269017782829443"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1968477140028199045",
+    "created_at": "2025-09-18T00:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T01:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968477140028199045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1571076971454697473",
+          "start": 3,
+          "username": "teyaeneRingo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BRChmhFxQN",
+          "end": 56,
+          "expanded_url": "https://x.com/teyaeneRingo/status/1968269017782829443/photo/1",
+          "media_key": "3_1968268996324798465",
+          "start": 33,
+          "url": "https://t.co/BRChmhFxQN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968477140028199045",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 757
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968269017782829443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @teyaeneRingo: cos.   心臓もらうね？ https://t.co/BRChmhFxQN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3927,
+        "media_key": "3_1968268996324798465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CyOUxasAEaHJs.jpg",
+        "width": 2581
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968268996324798465"
+          ],
+          "media_source_tweet_id": [
+            "1968269017782829443"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1968477140028199045",
+        "created_at": "2025-09-18T00:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T01:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968477140028199045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1571076971454697473",
+              "start": 3,
+              "username": "teyaeneRingo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRChmhFxQN",
+              "end": 56,
+              "expanded_url": "https://x.com/teyaeneRingo/status/1968269017782829443/photo/1",
+              "media_key": "3_1968268996324798465",
+              "start": 33,
+              "url": "https://t.co/BRChmhFxQN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968477140028199045",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 757
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968269017782829443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @teyaeneRingo: cos.   心臓もらうね？ https://t.co/BRChmhFxQN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968268996324798465"
+          ]
+        },
+        "author_id": "1571076971454697473",
+        "conversation_id": "1968269017782829443",
+        "created_at": "2025-09-17T11:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T12:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968269017782829443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRChmhFxQN",
+              "end": 38,
+              "expanded_url": "https://x.com/teyaeneRingo/status/1968269017782829443/photo/1",
+              "media_key": "3_1968268996324798465",
+              "start": 15,
+              "url": "https://t.co/BRChmhFxQN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968269017782829443",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1168,
+          "impression_count": 166637,
+          "like_count": 15002,
+          "quote_count": 31,
+          "reply_count": 12,
+          "retweet_count": 757
+        },
+        "reply_settings": "everyone",
+        "text": "cos.   心臓もらうね？ https://t.co/BRChmhFxQN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Phoenix, AZ",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 141,
+          "like_count": 6959,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1251
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-17T10:02:03.000Z",
+        "description": "narururu☿",
+        "id": "1571076971454697473",
+        "name": "なるるる☿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933078814499946496/R5lLHJbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24536,
+          "following_count": 490,
+          "like_count": 21197,
+          "listed_count": 141,
+          "media_count": 246,
+          "tweet_count": 7422
+        },
+        "username": "teyaeneRingo",
+        "verified": false
+      }
+    ]
+  }
+}

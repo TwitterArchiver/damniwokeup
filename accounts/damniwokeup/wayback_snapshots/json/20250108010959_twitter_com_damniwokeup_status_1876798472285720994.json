@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876721824236814337"
+      ],
+      "media_source_tweet_id": [
+        "1876721827243864372"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1876798472285720994",
+    "created_at": "2025-01-08T01:09:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T02:09:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876798472285720994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721499779707072512",
+          "start": 3,
+          "username": "nekwnek"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bVZSP09MNE",
+          "end": 36,
+          "expanded_url": "https://x.com/nekwnek/status/1876721827243864372/photo/1",
+          "media_key": "3_1876721824236814337",
+          "start": 13,
+          "url": "https://t.co/bVZSP09MNE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876798472285720994",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 313
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876721827243864372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekwnek: https://t.co/bVZSP09MNE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1876721824236814337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ggt0jkvbwAEiLqZ.jpg",
+        "width": 1269
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876721824236814337"
+          ],
+          "media_source_tweet_id": [
+            "1876721827243864372"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1876798472285720994",
+        "created_at": "2025-01-08T01:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T02:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876798472285720994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721499779707072512",
+              "start": 3,
+              "username": "nekwnek"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bVZSP09MNE",
+              "end": 36,
+              "expanded_url": "https://x.com/nekwnek/status/1876721827243864372/photo/1",
+              "media_key": "3_1876721824236814337",
+              "start": 13,
+              "url": "https://t.co/bVZSP09MNE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876798472285720994",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 313
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876721827243864372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekwnek: https://t.co/bVZSP09MNE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876721824236814337"
+          ]
+        },
+        "author_id": "1721499779707072512",
+        "conversation_id": "1876721827243864372",
+        "created_at": "2025-01-07T20:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T21:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876721827243864372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bVZSP09MNE",
+              "end": 23,
+              "expanded_url": "https://x.com/nekwnek/status/1876721827243864372/photo/1",
+              "media_key": "3_1876721824236814337",
+              "start": 0,
+              "url": "https://t.co/bVZSP09MNE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876721827243864372",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 15261,
+          "like_count": 1939,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 313
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bVZSP09MNE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 151,
+          "like_count": 6593,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1296
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T12:08:39.000Z",
+        "description": "20↑리스트구독합니다 사담본계@wnesamis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "wnesamis"
+              }
+            ]
+          }
+        },
+        "id": "1721499779707072512",
+        "name": "🍩🕯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873934294609219584/h7SeEo-x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 43,
+          "like_count": 3042,
+          "listed_count": 6,
+          "media_count": 31,
+          "tweet_count": 2049
+        },
+        "username": "nekwnek",
+        "verified": false
+      }
+    ]
+  }
+}

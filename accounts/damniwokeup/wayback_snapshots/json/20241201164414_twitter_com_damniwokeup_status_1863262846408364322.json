@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1863262846408364322",
+    "created_at": "2024-12-01T16:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T17:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863262846408364322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1732732999903358976",
+          "start": 3,
+          "username": "R4INC4NDYU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863262846408364322",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863260382392918077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R4INC4NDYU: im sorry for everything"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1863262846408364322",
+        "created_at": "2024-12-01T16:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T17:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863262846408364322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1732732999903358976",
+              "start": 3,
+              "username": "R4INC4NDYU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863262846408364322",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863260382392918077",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @R4INC4NDYU: im sorry for everything"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732732999903358976",
+        "conversation_id": "1863260382392918077",
+        "created_at": "2024-12-01T16:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T17:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863260382392918077"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863260382392918077",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 316,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "im sorry for everything"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 142,
+          "like_count": 5467,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 872
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T12:05:31.000Z",
+        "description": "feel like dying except when i'm with my favorite / aren't you at fault for sniffing me? ꒰ᐢ. .ᐢ꒱ ⑅ᐢ..ᐢ₎ ♡.°₊ˎˊ˗",
+        "id": "1732732999903358976",
+        "location": "i ♡ my favorite ",
+        "name": "˚‧⁺༝꒰ა ໒꒱ིྀ༝⁺‧˚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776600940507783168/TM4oHaCT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27741,
+          "following_count": 16,
+          "like_count": 3345,
+          "listed_count": 27,
+          "media_count": 578,
+          "tweet_count": 3420
+        },
+        "username": "R4INC4NDYU",
+        "verified": false
+      }
+    ]
+  }
+}

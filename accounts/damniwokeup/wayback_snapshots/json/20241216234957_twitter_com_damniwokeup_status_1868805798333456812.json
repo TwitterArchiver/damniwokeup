@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1868703741261869056"
+      ],
+      "media_source_tweet_id": [
+        "1868703778331148378"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1868805798333456812",
+    "created_at": "2024-12-16T23:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T00:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868805798333456812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1359891866007728133",
+          "start": 3,
+          "username": "yanjukaoe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rWNxNw9kUW",
+          "end": 38,
+          "expanded_url": "https://x.com/yanjukaoe/status/1868703778331148378/video/1",
+          "media_key": "7_1868703741261869056",
+          "start": 15,
+          "url": "https://t.co/rWNxNw9kUW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868805798333456812",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 350
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868703778331148378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanjukaoe: https://t.co/rWNxNw9kUW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9000,
+        "height": 720,
+        "media_key": "7_1868703741261869056",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1868703741261869056/pu/img/vAJwZ3NRZ2ATEJjn.jpg",
+        "public_metrics": {
+          "view_count": 6065
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1868703741261869056/pu/vid/avc1/386x270/u-Xjaeo1lcj-btGR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1868703741261869056/pu/vid/avc1/516x360/cUUkBhohJuL9V2ig.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1868703741261869056/pu/vid/avc1/1034x720/6SgxFphW5LaE_2PY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1868703741261869056/pu/pl/amIhuPXs5WrBe2fT.m3u8?tag=12"
+          }
+        ],
+        "width": 1034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1868703741261869056"
+          ],
+          "media_source_tweet_id": [
+            "1868703778331148378"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1868805798333456812",
+        "created_at": "2024-12-16T23:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T00:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868805798333456812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1359891866007728133",
+              "start": 3,
+              "username": "yanjukaoe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rWNxNw9kUW",
+              "end": 38,
+              "expanded_url": "https://x.com/yanjukaoe/status/1868703778331148378/video/1",
+              "media_key": "7_1868703741261869056",
+              "start": 15,
+              "url": "https://t.co/rWNxNw9kUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868805798333456812",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 350
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868703778331148378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanjukaoe: https://t.co/rWNxNw9kUW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1868703741261869056"
+          ]
+        },
+        "author_id": "1359891866007728133",
+        "conversation_id": "1868703778331148378",
+        "created_at": "2024-12-16T17:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T18:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868703778331148378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rWNxNw9kUW",
+              "end": 23,
+              "expanded_url": "https://x.com/yanjukaoe/status/1868703778331148378/video/1",
+              "media_key": "7_1868703741261869056",
+              "start": 0,
+              "url": "https://t.co/rWNxNw9kUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868703778331148378",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 299,
+          "impression_count": 16293,
+          "like_count": 2153,
+          "quote_count": 11,
+          "reply_count": 2,
+          "retweet_count": 350
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rWNxNw9kUW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 145,
+          "like_count": 6126,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1120
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-11T15:47:46.000Z",
+        "description": "🇨🇳 20↑ ❤️🩷 🧣@狗塑手艺人 ⚠️禁止搬运禁止过度学习 会发🔞 没礼貌的人直接拉黑",
+        "id": "1359891866007728133",
+        "location": "中文·English  OK",
+        "name": "凌一",
+        "pinned_tweet_id": "1828854202921267623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795825553527930880/t4v-HrHv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43151,
+          "following_count": 625,
+          "like_count": 6295,
+          "listed_count": 190,
+          "media_count": 908,
+          "tweet_count": 5038
+        },
+        "username": "yanjukaoe",
+        "verified": false
+      }
+    ]
+  }
+}

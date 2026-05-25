@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866135976109805568"
+      ],
+      "media_source_tweet_id": [
+        "1866135981738569992"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1866142245797446018",
+    "created_at": "2024-12-09T15:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T16:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866142245797446018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1678690547610034176",
+          "start": 3,
+          "username": "medamayaki27760"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/abQbL7jiV9",
+          "end": 44,
+          "expanded_url": "https://x.com/medamayaki27760/status/1866135981738569992/photo/1",
+          "media_key": "3_1866135976109805568",
+          "start": 21,
+          "url": "https://t.co/abQbL7jiV9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866142245797446018",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866135981738569992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @medamayaki27760: https://t.co/abQbL7jiV9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1866135976109805568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeXYyHaaEAAjo_s.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866135976109805568"
+          ],
+          "media_source_tweet_id": [
+            "1866135981738569992"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1866142245797446018",
+        "created_at": "2024-12-09T15:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T16:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866142245797446018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1678690547610034176",
+              "start": 3,
+              "username": "medamayaki27760"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/abQbL7jiV9",
+              "end": 44,
+              "expanded_url": "https://x.com/medamayaki27760/status/1866135981738569992/photo/1",
+              "media_key": "3_1866135976109805568",
+              "start": 21,
+              "url": "https://t.co/abQbL7jiV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866142245797446018",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866135981738569992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @medamayaki27760: https://t.co/abQbL7jiV9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866135976109805568"
+          ]
+        },
+        "author_id": "1678690547610034176",
+        "conversation_id": "1866135981738569992",
+        "created_at": "2024-12-09T15:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T16:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866135981738569992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/abQbL7jiV9",
+              "end": 23,
+              "expanded_url": "https://x.com/medamayaki27760/status/1866135981738569992/photo/1",
+              "media_key": "3_1866135976109805568",
+              "start": 0,
+              "url": "https://t.co/abQbL7jiV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866135981738569992",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 2182,
+          "like_count": 327,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/abQbL7jiV9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 5749,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 979
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T09:00:49.000Z",
+        "description": "2次創作　https://t.co/mAKCPye1oq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/105428763",
+                "end": 28,
+                "expanded_url": "https://www.pixiv.net/users/105428763",
+                "start": 5,
+                "url": "https://t.co/mAKCPye1oq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/27760m…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/27760medamayaki.bsky.social",
+                "start": 0,
+                "url": "https://t.co/EaiOLOLj6D"
+              }
+            ]
+          }
+        },
+        "id": "1678690547610034176",
+        "name": "めだまやき",
+        "pinned_tweet_id": "1860637007686537457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855268240798396417/FIWg_EwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6211,
+          "following_count": 270,
+          "like_count": 7512,
+          "listed_count": 44,
+          "media_count": 81,
+          "tweet_count": 401
+        },
+        "url": "https://t.co/EaiOLOLj6D",
+        "username": "medamayaki27760",
+        "verified": false
+      }
+    ]
+  }
+}

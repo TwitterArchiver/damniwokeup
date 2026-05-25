@@ -1,0 +1,651 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009950201545478144",
+        "3_2009950201449005057",
+        "3_2009950201453092864"
+      ],
+      "media_source_tweet_id": [
+        "2009950222978514949",
+        "2009950222978514949",
+        "2009950222978514949"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2026930215029813436",
+    "created_at": "2026-02-26T07:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T08:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026930215029813436"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 22,
+          "tag": "ラップランド"
+        },
+        {
+          "end": 39,
+          "start": 30,
+          "tag": "Lappland"
+        },
+        {
+          "end": 47,
+          "start": 40,
+          "tag": "アークナイツ"
+        },
+        {
+          "end": 58,
+          "start": 48,
+          "tag": "Arknights"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "892469755289980928",
+          "start": 3,
+          "username": "RAN_CHIIIPYE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O3tzHWiq7u",
+          "end": 82,
+          "expanded_url": "https://x.com/RAN_CHIIIPYE/status/2009950222978514949/photo/1",
+          "media_key": "3_2009950201545478144",
+          "start": 59,
+          "url": "https://t.co/O3tzHWiq7u"
+        },
+        {
+          "display_url": "pic.x.com/O3tzHWiq7u",
+          "end": 82,
+          "expanded_url": "https://x.com/RAN_CHIIIPYE/status/2009950222978514949/photo/1",
+          "media_key": "3_2009950201449005057",
+          "start": 59,
+          "url": "https://t.co/O3tzHWiq7u"
+        },
+        {
+          "display_url": "pic.x.com/O3tzHWiq7u",
+          "end": 82,
+          "expanded_url": "https://x.com/RAN_CHIIIPYE/status/2009950222978514949/photo/1",
+          "media_key": "3_2009950201453092864",
+          "start": 59,
+          "url": "https://t.co/O3tzHWiq7u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026930215029813436",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 487
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009950222978514949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RAN_CHIIIPYE: 🐺🍇🍷\n#ラップランド #Lappland #アークナイツ #Arknights https://t.co/O3tzHWiq7u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_2009950201545478144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-THDyNX0AAL14I.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2009950201449005057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-THDx2XwAEh2M1.jpg",
+        "width": 724
+      },
+      {
+        "height": 682,
+        "media_key": "3_2009950201453092864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-THDx3WIAAlsZ6.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009950201545478144",
+            "3_2009950201449005057",
+            "3_2009950201453092864"
+          ],
+          "media_source_tweet_id": [
+            "2009950222978514949",
+            "2009950222978514949",
+            "2009950222978514949"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2026930215029813436",
+        "created_at": "2026-02-26T07:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T08:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026930215029813436"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "ラップランド"
+            },
+            {
+              "end": 39,
+              "start": 30,
+              "tag": "Lappland"
+            },
+            {
+              "end": 47,
+              "start": 40,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 58,
+              "start": 48,
+              "tag": "Arknights"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "892469755289980928",
+              "start": 3,
+              "username": "RAN_CHIIIPYE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3tzHWiq7u",
+              "end": 82,
+              "expanded_url": "https://x.com/RAN_CHIIIPYE/status/2009950222978514949/photo/1",
+              "media_key": "3_2009950201545478144",
+              "start": 59,
+              "url": "https://t.co/O3tzHWiq7u"
+            },
+            {
+              "display_url": "pic.x.com/O3tzHWiq7u",
+              "end": 82,
+              "expanded_url": "https://x.com/RAN_CHIIIPYE/status/2009950222978514949/photo/1",
+              "media_key": "3_2009950201449005057",
+              "start": 59,
+              "url": "https://t.co/O3tzHWiq7u"
+            },
+            {
+              "display_url": "pic.x.com/O3tzHWiq7u",
+              "end": 82,
+              "expanded_url": "https://x.com/RAN_CHIIIPYE/status/2009950222978514949/photo/1",
+              "media_key": "3_2009950201453092864",
+              "start": 59,
+              "url": "https://t.co/O3tzHWiq7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026930215029813436",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 487
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009950222978514949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RAN_CHIIIPYE: 🐺🍇🍷\n#ラップランド #Lappland #アークナイツ #Arknights https://t.co/O3tzHWiq7u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009950201545478144",
+            "3_2009950201449005057",
+            "3_2009950201453092864"
+          ]
+        },
+        "author_id": "892469755289980928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2009950222978514949",
+        "created_at": "2026-01-10T11:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T12:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009950222978514949"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 4,
+              "tag": "ラップランド"
+            },
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "Lappland"
+            },
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 40,
+              "start": 30,
+              "tag": "Arknights"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3tzHWiq7u",
+              "end": 64,
+              "expanded_url": "https://x.com/RAN_CHIIIPYE/status/2009950222978514949/photo/1",
+              "media_key": "3_2009950201545478144",
+              "start": 41,
+              "url": "https://t.co/O3tzHWiq7u"
+            },
+            {
+              "display_url": "pic.x.com/O3tzHWiq7u",
+              "end": 64,
+              "expanded_url": "https://x.com/RAN_CHIIIPYE/status/2009950222978514949/photo/1",
+              "media_key": "3_2009950201449005057",
+              "start": 41,
+              "url": "https://t.co/O3tzHWiq7u"
+            },
+            {
+              "display_url": "pic.x.com/O3tzHWiq7u",
+              "end": 64,
+              "expanded_url": "https://x.com/RAN_CHIIIPYE/status/2009950222978514949/photo/1",
+              "media_key": "3_2009950201453092864",
+              "start": 41,
+              "url": "https://t.co/O3tzHWiq7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009950222978514949",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 516,
+          "impression_count": 65654,
+          "like_count": 3208,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 487
+        },
+        "reply_settings": "everyone",
+        "text": "🐺🍇🍷\n#ラップランド #Lappland #アークナイツ #Arknights https://t.co/O3tzHWiq7u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2026181607040925930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 154,
+          "like_count": 7671,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 1353
+        },
+        "username": "damniwokeup",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-01T19:39:05.000Z",
+        "description": "🇨🇳Illustrator|中文/EN/Jpn 📮chiiipyyye@gmail.com｜禁止无授权转载",
+        "id": "892469755289980928",
+        "location": "England, United Kingdom",
+        "name": "YE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1069583856574050304/35IORu-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58611,
+          "following_count": 239,
+          "like_count": 245,
+          "listed_count": 559,
+          "media_count": 372,
+          "tweet_count": 480
+        },
+        "username": "RAN_CHIIIPYE",
+        "verified": false
+      }
+    ]
+  }
+}

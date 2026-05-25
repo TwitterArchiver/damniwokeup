@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1858201899671179264"
+      ],
+      "media_source_tweet_id": [
+        "1858202189124276500"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1858515671274967171",
+    "created_at": "2024-11-18T14:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T15:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858515671274967171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "634650570",
+          "start": 3,
+          "username": "nuggetkouhai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w0FVu35SEg",
+          "end": 48,
+          "expanded_url": "https://x.com/nuggetkouhai/status/1858202189124276500/photo/1",
+          "media_key": "3_1858201899671179264",
+          "start": 25,
+          "url": "https://t.co/w0FVu35SEg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858515671274967171",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 635
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858202189124276500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nuggetkouhai: 𝘴𝘵𝘢𝘳𝘦𝘴 https://t.co/w0FVu35SEg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1115,
+        "media_key": "3_1858201899671179264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcmoyFbbUAASZd2.jpg",
+        "width": 866
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858201899671179264"
+          ],
+          "media_source_tweet_id": [
+            "1858202189124276500"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1858515671274967171",
+        "created_at": "2024-11-18T14:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T15:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858515671274967171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "634650570",
+              "start": 3,
+              "username": "nuggetkouhai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w0FVu35SEg",
+              "end": 48,
+              "expanded_url": "https://x.com/nuggetkouhai/status/1858202189124276500/photo/1",
+              "media_key": "3_1858201899671179264",
+              "start": 25,
+              "url": "https://t.co/w0FVu35SEg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858515671274967171",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 635
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858202189124276500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nuggetkouhai: 𝘴𝘵𝘢𝘳𝘦𝘴 https://t.co/w0FVu35SEg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858201899671179264"
+          ]
+        },
+        "author_id": "634650570",
+        "conversation_id": "1858202189124276500",
+        "created_at": "2024-11-17T17:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T18:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858202189124276500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w0FVu35SEg",
+              "end": 30,
+              "expanded_url": "https://x.com/nuggetkouhai/status/1858202189124276500/photo/1",
+              "media_key": "3_1858201899671179264",
+              "start": 7,
+              "url": "https://t.co/w0FVu35SEg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858202189124276500",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 812,
+          "impression_count": 61521,
+          "like_count": 7670,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 635
+        },
+        "reply_settings": "everyone",
+        "text": "𝘴𝘵𝘢𝘳𝘦𝘴 https://t.co/w0FVu35SEg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 127,
+          "like_count": 4910,
+          "listed_count": 0,
+          "tweet_count": 650
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-13T13:24:30.000Z",
+        "description": "criminal associate @ringo_mitsuki\n▶︎ CM - Closed\n▶︎ Cavemen- https://t.co/la5FIOLE4v\n▶︎ Circle- https://t.co/3I9sN6TU0e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "ringo_mitsuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/nuggetkouhai",
+                "end": 84,
+                "expanded_url": "http://patreon.com/nuggetkouhai",
+                "start": 61,
+                "url": "https://t.co/la5FIOLE4v"
+              },
+              {
+                "display_url": "bundress.ju.mp",
+                "end": 119,
+                "expanded_url": "https://bundress.ju.mp/",
+                "start": 96,
+                "url": "https://t.co/3I9sN6TU0e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kouhai.uwu.ai",
+                "end": 23,
+                "expanded_url": "https://kouhai.uwu.ai/",
+                "start": 0,
+                "url": "https://t.co/shpLiZHAjl"
+              }
+            ]
+          }
+        },
+        "id": "634650570",
+        "name": "irham",
+        "pinned_tweet_id": "1851290942663471383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734113629631582209/xGi6JlTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38348,
+          "following_count": 512,
+          "like_count": 53117,
+          "listed_count": 170,
+          "tweet_count": 8969
+        },
+        "url": "https://t.co/shpLiZHAjl",
+        "username": "nuggetkouhai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861272838013100033"
+      ],
+      "media_source_tweet_id": [
+        "1861272847324438708"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1861334616956903846",
+    "created_at": "2024-11-26T09:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T10:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861334616956903846"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "ガルクラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1276478477366001664",
+          "start": 3,
+          "username": "Chills_210"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PY6fT7CppI",
+          "end": 53,
+          "expanded_url": "https://x.com/Chills_210/status/1861272847324438708/photo/1",
+          "media_key": "3_1861272838013100033",
+          "start": 30,
+          "url": "https://t.co/PY6fT7CppI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861334616956903846",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861272847324438708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chills_210: 👁️👁️💢🦔\n\n#ガルクラ https://t.co/PY6fT7CppI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1464,
+        "media_key": "3_1861272838013100033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdSRyOPaoAEzNNP.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861272838013100033"
+          ],
+          "media_source_tweet_id": [
+            "1861272847324438708"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1861334616956903846",
+        "created_at": "2024-11-26T09:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T10:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861334616956903846"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "ガルクラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1276478477366001664",
+              "start": 3,
+              "username": "Chills_210"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PY6fT7CppI",
+              "end": 53,
+              "expanded_url": "https://x.com/Chills_210/status/1861272847324438708/photo/1",
+              "media_key": "3_1861272838013100033",
+              "start": 30,
+              "url": "https://t.co/PY6fT7CppI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861334616956903846",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861272847324438708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chills_210: 👁️👁️💢🦔\n\n#ガルクラ https://t.co/PY6fT7CppI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861272838013100033"
+          ]
+        },
+        "author_id": "1276478477366001664",
+        "conversation_id": "1861272847324438708",
+        "created_at": "2024-11-26T04:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T05:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861272847324438708"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "ガルクラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PY6fT7CppI",
+              "end": 37,
+              "expanded_url": "https://x.com/Chills_210/status/1861272847324438708/photo/1",
+              "media_key": "3_1861272838013100033",
+              "start": 14,
+              "url": "https://t.co/PY6fT7CppI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861272847324438708",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 9153,
+          "like_count": 859,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "👁️👁️💢🦔\n\n#ガルクラ https://t.co/PY6fT7CppI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 132,
+          "like_count": 5150,
+          "listed_count": 0,
+          "tweet_count": 764
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-26T11:32:49.000Z",
+        "description": "",
+        "id": "1276478477366001664",
+        "name": "Chill_s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861316552269930497/9fDsVzeC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 487,
+          "like_count": 3783,
+          "listed_count": 0,
+          "tweet_count": 822
+        },
+        "username": "Chills_210",
+        "verified": false
+      }
+    ]
+  }
+}

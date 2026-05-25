@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1857854439186698325",
+    "created_at": "2024-11-16T18:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T19:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857858723047424490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1621786046387335168",
+          "start": 0,
+          "username": "Oyasumi_yiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857858723047424490",
+    "in_reply_to_user_id": "1621786046387335168",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857854439186698325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oyasumi_yiu me"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1857854439186698325",
+        "created_at": "2024-11-16T18:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T19:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857858723047424490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1621786046387335168",
+              "start": 0,
+              "username": "Oyasumi_yiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857858723047424490",
+        "in_reply_to_user_id": "1621786046387335168",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857854439186698325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oyasumi_yiu me"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621786046387335168",
+        "conversation_id": "1857854439186698325",
+        "created_at": "2024-11-16T18:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T19:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857854439186698325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857854439186698325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁愿意入我门"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 125,
+          "like_count": 4851,
+          "listed_count": 0,
+          "tweet_count": 625
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T08:21:48.000Z",
+        "description": "吐黑泥博主 发些自己喜欢的 不许打听我的墙内账号不然我会生气 给我钱我就可以提供情绪价值",
+        "id": "1621786046387335168",
+        "name": "酩酊鬱ｽ_໒꒱· ﾟ",
+        "pinned_tweet_id": "1857326014520811574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806356964525604864/2gMglyeH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 66,
+          "like_count": 668,
+          "listed_count": 0,
+          "tweet_count": 1701
+        },
+        "username": "Oyasumi_yiu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,574 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868187340436553728"
+      ],
+      "media_source_tweet_id": [
+        "1868187483751772360"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      }
+    ],
+    "conversation_id": "1868205058737025176",
+    "created_at": "2024-12-15T08:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T09:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868205058737025176"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 21,
+          "tag": "Miyabi"
+        },
+        {
+          "end": 36,
+          "start": 29,
+          "tag": "zzzero"
+        },
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "zzz"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "734785438104190976",
+          "start": 3,
+          "username": "zerotabi1210"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CVpjxuvsFD",
+          "end": 65,
+          "expanded_url": "https://x.com/zerotabi1210/status/1868187483751772360/photo/1",
+          "media_key": "3_1868187340436553728",
+          "start": 42,
+          "url": "https://t.co/CVpjxuvsFD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868205058737025176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 615
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868187483751772360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zerotabi1210: 🐺🐺\n#Miyabi #zzzero #zzz https://t.co/CVpjxuvsFD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1868187340436553728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge0ifPCaQAAZUcK.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868187340436553728"
+          ],
+          "media_source_tweet_id": [
+            "1868187483751772360"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "1868205058737025176",
+        "created_at": "2024-12-15T08:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T09:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868205058737025176"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 21,
+              "tag": "Miyabi"
+            },
+            {
+              "end": 36,
+              "start": 29,
+              "tag": "zzzero"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "zzz"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "734785438104190976",
+              "start": 3,
+              "username": "zerotabi1210"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CVpjxuvsFD",
+              "end": 65,
+              "expanded_url": "https://x.com/zerotabi1210/status/1868187483751772360/photo/1",
+              "media_key": "3_1868187340436553728",
+              "start": 42,
+              "url": "https://t.co/CVpjxuvsFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868205058737025176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 615
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868187483751772360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zerotabi1210: 🐺🐺\n#Miyabi #zzzero #zzz https://t.co/CVpjxuvsFD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868187340436553728"
+          ]
+        },
+        "author_id": "734785438104190976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "1868187483751772360",
+        "created_at": "2024-12-15T06:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T07:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868187483751772360"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 3,
+              "tag": "Miyabi"
+            },
+            {
+              "end": 18,
+              "start": 11,
+              "tag": "zzzero"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "zzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CVpjxuvsFD",
+              "end": 47,
+              "expanded_url": "https://x.com/zerotabi1210/status/1868187483751772360/photo/1",
+              "media_key": "3_1868187340436553728",
+              "start": 24,
+              "url": "https://t.co/CVpjxuvsFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868187483751772360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 343,
+          "impression_count": 31343,
+          "like_count": 3557,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 615
+        },
+        "reply_settings": "everyone",
+        "text": "🐺🐺\n#Miyabi #zzzero #zzz https://t.co/CVpjxuvsFD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 145,
+          "like_count": 5997,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1077
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-23T16:37:54.000Z",
+        "description": "Email: npchi263@gmail.com Feel free to set my art as pfp/header but do not repost ,edit, print or using in video!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "inprnt.com/gallery/zerota…",
+                "end": 23,
+                "expanded_url": "https://www.inprnt.com/gallery/zerotabi/",
+                "start": 0,
+                "url": "https://t.co/rGbWc02zLZ"
+              }
+            ]
+          }
+        },
+        "id": "734785438104190976",
+        "name": "Zerotabi👹ComicFiesta B-J14",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677665725325152256/-oV1Uu_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170578,
+          "following_count": 1275,
+          "like_count": 13651,
+          "listed_count": 873,
+          "media_count": 254,
+          "tweet_count": 1493
+        },
+        "url": "https://t.co/rGbWc02zLZ",
+        "username": "zerotabi1210",
+        "verified": false
+      }
+    ]
+  }
+}

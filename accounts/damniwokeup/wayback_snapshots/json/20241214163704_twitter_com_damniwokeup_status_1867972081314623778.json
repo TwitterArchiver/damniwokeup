@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867957659502272512"
+      ],
+      "media_source_tweet_id": [
+        "1867957851181949127"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1867972081314623778",
+    "created_at": "2024-12-14T16:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T17:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867972081314623778"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 37,
+          "tag": "チェンソーマン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1823346511180361728",
+          "start": 3,
+          "username": "kiga04ko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hcyi0o1s2F",
+          "end": 69,
+          "expanded_url": "https://x.com/kiga04ko/status/1867957851181949127/photo/1",
+          "media_key": "3_1867957659502272512",
+          "start": 46,
+          "url": "https://t.co/Hcyi0o1s2F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867972081314623778",
+    "lang": "eu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867957851181949127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiga04ko: BOTSU!!! makimasaaaan!\n#チェンソーマン https://t.co/Hcyi0o1s2F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1867957659502272512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GexRmC4aYAAW6lo.jpg",
+        "width": 2896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867957659502272512"
+          ],
+          "media_source_tweet_id": [
+            "1867957851181949127"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1867972081314623778",
+        "created_at": "2024-12-14T16:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T17:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867972081314623778"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 37,
+              "tag": "チェンソーマン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1823346511180361728",
+              "start": 3,
+              "username": "kiga04ko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hcyi0o1s2F",
+              "end": 69,
+              "expanded_url": "https://x.com/kiga04ko/status/1867957851181949127/photo/1",
+              "media_key": "3_1867957659502272512",
+              "start": 46,
+              "url": "https://t.co/Hcyi0o1s2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867972081314623778",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867957851181949127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiga04ko: BOTSU!!! makimasaaaan!\n#チェンソーマン https://t.co/Hcyi0o1s2F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867957659502272512"
+          ]
+        },
+        "author_id": "1823346511180361728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1867957851181949127",
+        "created_at": "2024-12-14T15:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T16:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867957851181949127"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "チェンソーマン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hcyi0o1s2F",
+              "end": 55,
+              "expanded_url": "https://x.com/kiga04ko/status/1867957851181949127/photo/1",
+              "media_key": "3_1867957659502272512",
+              "start": 32,
+              "url": "https://t.co/Hcyi0o1s2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867957851181949127",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 577,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "BOTSU!!! makimasaaaan!\n#チェンソーマン https://t.co/Hcyi0o1s2F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 146,
+          "like_count": 5984,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1071
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T13:11:12.000Z",
+        "description": "拙作！拙作！自己満足！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/111557964",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/111557964",
+                "start": 0,
+                "url": "https://t.co/NP2EmMV1zg"
+              }
+            ]
+          }
+        },
+        "id": "1823346511180361728",
+        "location": "京都",
+        "name": "キガヨンコ",
+        "pinned_tweet_id": "1863573857459933477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830822033799909376/pE2jNBB4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 133,
+          "like_count": 740,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 55
+        },
+        "url": "https://t.co/NP2EmMV1zg",
+        "username": "kiga04ko",
+        "verified": false
+      }
+    ]
+  }
+}

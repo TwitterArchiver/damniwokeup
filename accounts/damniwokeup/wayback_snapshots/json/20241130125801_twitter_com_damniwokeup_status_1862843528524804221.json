@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862284163111415808"
+      ],
+      "media_source_tweet_id": [
+        "1862284174507597891"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1862843528524804221",
+    "created_at": "2024-11-30T12:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T13:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862843528524804221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "964344506744127489",
+          "start": 3,
+          "username": "ayBLa0l0KePHtMu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E9kjb2tjWN",
+          "end": 50,
+          "expanded_url": "https://x.com/ayBLa0l0KePHtMu/status/1862284174507597891/photo/1",
+          "media_key": "3_1862284163111415808",
+          "start": 27,
+          "url": "https://t.co/E9kjb2tjWN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862843528524804221",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862284174507597891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayBLa0l0KePHtMu: フリーレン https://t.co/E9kjb2tjWN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2028,
+        "media_key": "3_1862284163111415808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdgplF0XcAAwLqJ.jpg",
+        "width": 1526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862284163111415808"
+          ],
+          "media_source_tweet_id": [
+            "1862284174507597891"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1862843528524804221",
+        "created_at": "2024-11-30T12:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T13:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862843528524804221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "964344506744127489",
+              "start": 3,
+              "username": "ayBLa0l0KePHtMu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E9kjb2tjWN",
+              "end": 50,
+              "expanded_url": "https://x.com/ayBLa0l0KePHtMu/status/1862284174507597891/photo/1",
+              "media_key": "3_1862284163111415808",
+              "start": 27,
+              "url": "https://t.co/E9kjb2tjWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862843528524804221",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862284174507597891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayBLa0l0KePHtMu: フリーレン https://t.co/E9kjb2tjWN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862284163111415808"
+          ]
+        },
+        "author_id": "964344506744127489",
+        "conversation_id": "1862284174507597891",
+        "created_at": "2024-11-28T23:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T00:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862284174507597891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E9kjb2tjWN",
+              "end": 29,
+              "expanded_url": "https://x.com/ayBLa0l0KePHtMu/status/1862284174507597891/photo/1",
+              "media_key": "3_1862284163111415808",
+              "start": 6,
+              "url": "https://t.co/E9kjb2tjWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862284174507597891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 4930,
+          "like_count": 371,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "フリーレン https://t.co/E9kjb2tjWN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 137,
+          "like_count": 5323,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 832
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-16T03:43:41.000Z",
+        "description": "成人済み ヒンフリ沼に落っこちました。引きこもり体質でうるさいですお許しください。 iPadお絵描き勢。好物は甘エビです",
+        "id": "964344506744127489",
+        "name": "李央",
+        "pinned_tweet_id": "1840202468296405242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842958137550311425/5Ru3MOh6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 77,
+          "like_count": 5230,
+          "listed_count": 2,
+          "media_count": 311,
+          "tweet_count": 5998
+        },
+        "username": "ayBLa0l0KePHtMu",
+        "verified": false
+      }
+    ]
+  }
+}

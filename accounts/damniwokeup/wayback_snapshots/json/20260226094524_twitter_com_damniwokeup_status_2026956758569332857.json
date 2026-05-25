@@ -1,0 +1,549 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026784157393637378"
+      ],
+      "media_source_tweet_id": [
+        "2026784164108796303"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026319212",
+          "name": "McDonald's"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026319212",
+          "name": "McDonald's"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "2026956758569332857",
+    "created_at": "2026-02-26T09:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T10:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026956758569332857"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "Miku",
+          "probability": 0.2792,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 32,
+          "normalized_text": "McDonalds",
+          "probability": 0.6741,
+          "start": 24,
+          "type": "Organization"
+        },
+        {
+          "end": 38,
+          "normalized_text": "Japan",
+          "probability": 0.8424,
+          "start": 34,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "205565258",
+          "start": 3,
+          "username": "HatsuneMiku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oD1ogsYMwf",
+          "end": 77,
+          "expanded_url": "https://x.com/HatsuneMiku/status/2026784164108796303/photo/1",
+          "media_key": "3_2026784157393637378",
+          "start": 54,
+          "url": "https://t.co/oD1ogsYMwf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026956758569332857",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 312
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026784164108796303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HatsuneMiku: Miku x McDonalds Japan official art! https://t.co/oD1ogsYMwf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026784157393637378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCCVc-nWUAI3aT5.jpg",
+        "width": 1421
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026784157393637378"
+          ],
+          "media_source_tweet_id": [
+            "2026784164108796303"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2026956758569332857",
+        "created_at": "2026-02-26T09:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026956758569332857"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Miku",
+              "probability": 0.2792,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 32,
+              "normalized_text": "McDonalds",
+              "probability": 0.6741,
+              "start": 24,
+              "type": "Organization"
+            },
+            {
+              "end": 38,
+              "normalized_text": "Japan",
+              "probability": 0.8424,
+              "start": 34,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "205565258",
+              "start": 3,
+              "username": "HatsuneMiku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oD1ogsYMwf",
+              "end": 77,
+              "expanded_url": "https://x.com/HatsuneMiku/status/2026784164108796303/photo/1",
+              "media_key": "3_2026784157393637378",
+              "start": 54,
+              "url": "https://t.co/oD1ogsYMwf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026956758569332857",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 312
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026784164108796303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HatsuneMiku: Miku x McDonalds Japan official art! https://t.co/oD1ogsYMwf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026784157393637378"
+          ]
+        },
+        "author_id": "205565258",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2026784164108796303",
+        "created_at": "2026-02-25T22:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T23:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026784164108796303"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "Miku",
+              "probability": 0.3582,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 15,
+              "normalized_text": "McDonalds",
+              "probability": 0.7569,
+              "start": 7,
+              "type": "Organization"
+            },
+            {
+              "end": 21,
+              "normalized_text": "Japan",
+              "probability": 0.8109,
+              "start": 17,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oD1ogsYMwf",
+              "end": 60,
+              "expanded_url": "https://x.com/HatsuneMiku/status/2026784164108796303/photo/1",
+              "media_key": "3_2026784157393637378",
+              "start": 37,
+              "url": "https://t.co/oD1ogsYMwf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026784164108796303",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 234,
+          "impression_count": 24832,
+          "like_count": 3076,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 312
+        },
+        "reply_settings": "everyone",
+        "text": "Miku x McDonalds Japan official art! https://t.co/oD1ogsYMwf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2026181607040925930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 154,
+          "like_count": 7678,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1357
+        },
+        "username": "damniwokeup",
+        "verified": true
+      },
+      {
+        "created_at": "2010-10-21T04:24:33.000Z",
+        "description": "Daily Miku & Vocaloid Content! | Fan Account | (ran by @xtc_addict)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "xtc_addict"
+              }
+            ]
+          }
+        },
+        "id": "205565258",
+        "name": "Miku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293899122147328/q7gu9Een_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430158,
+          "following_count": 17,
+          "like_count": 3835,
+          "listed_count": 136,
+          "media_count": 1014,
+          "tweet_count": 1057
+        },
+        "username": "HatsuneMiku",
+        "verified": true
+      }
+    ]
+  }
+}

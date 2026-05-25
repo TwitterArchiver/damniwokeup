@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864497469369012225"
+      ],
+      "media_source_tweet_id": [
+        "1864498028205494720"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1864608835065008383",
+    "created_at": "2024-12-05T09:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T10:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864608835065008383"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 27,
+          "tag": "girlsbandcry"
+        },
+        {
+          "end": 47,
+          "start": 42,
+          "tag": "ガルクラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "949475832426242048",
+          "start": 3,
+          "username": "Kokokoro__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lBfn62VFxz",
+          "end": 71,
+          "expanded_url": "https://x.com/Kokokoro__/status/1864498028205494720/photo/1",
+          "media_key": "3_1864497469369012225",
+          "start": 48,
+          "url": "https://t.co/lBfn62VFxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864608835065008383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864498028205494720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kokokoro__: 打砲沒關係\n打架不行\n#girlsbandcry \n#ガルクラ https://t.co/lBfn62VFxz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 733,
+        "media_key": "3_1864497469369012225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeAGkeJa0AEsdv6.jpg",
+        "width": 965
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864497469369012225"
+          ],
+          "media_source_tweet_id": [
+            "1864498028205494720"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1864608835065008383",
+        "created_at": "2024-12-05T09:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T10:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864608835065008383"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 27,
+              "tag": "girlsbandcry"
+            },
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "ガルクラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "949475832426242048",
+              "start": 3,
+              "username": "Kokokoro__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lBfn62VFxz",
+              "end": 71,
+              "expanded_url": "https://x.com/Kokokoro__/status/1864498028205494720/photo/1",
+              "media_key": "3_1864497469369012225",
+              "start": 48,
+              "url": "https://t.co/lBfn62VFxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864608835065008383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864498028205494720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kokokoro__: 打砲沒關係\n打架不行\n#girlsbandcry \n#ガルクラ https://t.co/lBfn62VFxz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864497469369012225"
+          ]
+        },
+        "author_id": "949475832426242048",
+        "conversation_id": "1864498028205494720",
+        "created_at": "2024-12-05T02:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T03:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864498028205494720"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 11,
+              "tag": "girlsbandcry"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "ガルクラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lBfn62VFxz",
+              "end": 55,
+              "expanded_url": "https://x.com/Kokokoro__/status/1864498028205494720/photo/1",
+              "media_key": "3_1864497469369012225",
+              "start": 32,
+              "url": "https://t.co/lBfn62VFxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864498028205494720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 17180,
+          "like_count": 1107,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "打砲沒關係\n打架不行\n#girlsbandcry \n#ガルクラ https://t.co/lBfn62VFxz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 144,
+          "like_count": 5606,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 928
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-06T03:00:53.000Z",
+        "description": "妳好，我是國際難民\n連結是我ㄉ噗浪\n推特基本只放圖（八張圖以內\n發病文和超過八張圖的連續畫會貼在噗浪自己點進去看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "plurk.com/yuri193ck6",
+                "end": 23,
+                "expanded_url": "https://www.plurk.com/yuri193ck6",
+                "start": 0,
+                "url": "https://t.co/GuQKw8huZu"
+              }
+            ]
+          }
+        },
+        "id": "949475832426242048",
+        "location": "鬼島",
+        "name": "ここころ",
+        "pinned_tweet_id": "1854563910592217104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1225002784170201088/30KeAyfN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7416,
+          "following_count": 221,
+          "like_count": 9278,
+          "listed_count": 45,
+          "media_count": 873,
+          "tweet_count": 3852
+        },
+        "url": "https://t.co/GuQKw8huZu",
+        "username": "Kokokoro__",
+        "verified": false
+      }
+    ]
+  }
+}

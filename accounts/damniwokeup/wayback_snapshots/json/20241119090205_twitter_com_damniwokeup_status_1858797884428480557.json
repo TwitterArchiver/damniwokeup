@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1858733511517368320",
+        "3_1858733511521542144"
+      ],
+      "media_source_tweet_id": [
+        "1858797367949930721",
+        "1858797367949930721"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1858797884428480557",
+    "created_at": "2024-11-19T09:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T10:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858797884428480557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1455930823",
+          "start": 3,
+          "username": "HoDaRaKe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uYNY0Et9UR",
+          "end": 51,
+          "expanded_url": "https://x.com/HoDaRaKe/status/1858797367949930721/photo/1",
+          "media_key": "3_1858733511517368320",
+          "start": 28,
+          "url": "https://t.co/uYNY0Et9UR"
+        },
+        {
+          "display_url": "pic.x.com/uYNY0Et9UR",
+          "end": 51,
+          "expanded_url": "https://x.com/HoDaRaKe/status/1858797367949930721/photo/1",
+          "media_key": "3_1858733511521542144",
+          "start": 28,
+          "url": "https://t.co/uYNY0Et9UR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858797884428480557",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858797367949930721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HoDaRaKe: 古代猫耳族のメイドとお嬢様 https://t.co/uYNY0Et9UR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1858733511517368320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcuMR94bcAA8NxG.jpg",
+        "width": 928
+      },
+      {
+        "height": 1232,
+        "media_key": "3_1858733511521542144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcuMR95bIAAmIqT.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858733511517368320",
+            "3_1858733511521542144"
+          ],
+          "media_source_tweet_id": [
+            "1858797367949930721",
+            "1858797367949930721"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1858797884428480557",
+        "created_at": "2024-11-19T09:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T10:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858797884428480557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1455930823",
+              "start": 3,
+              "username": "HoDaRaKe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uYNY0Et9UR",
+              "end": 51,
+              "expanded_url": "https://x.com/HoDaRaKe/status/1858797367949930721/photo/1",
+              "media_key": "3_1858733511517368320",
+              "start": 28,
+              "url": "https://t.co/uYNY0Et9UR"
+            },
+            {
+              "display_url": "pic.x.com/uYNY0Et9UR",
+              "end": 51,
+              "expanded_url": "https://x.com/HoDaRaKe/status/1858797367949930721/photo/1",
+              "media_key": "3_1858733511521542144",
+              "start": 28,
+              "url": "https://t.co/uYNY0Et9UR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858797884428480557",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858797367949930721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HoDaRaKe: 古代猫耳族のメイドとお嬢様 https://t.co/uYNY0Et9UR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858733511517368320",
+            "3_1858733511521542144"
+          ]
+        },
+        "author_id": "1455930823",
+        "conversation_id": "1858797367949930721",
+        "created_at": "2024-11-19T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858797367949930721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uYNY0Et9UR",
+              "end": 37,
+              "expanded_url": "https://x.com/HoDaRaKe/status/1858797367949930721/photo/1",
+              "media_key": "3_1858733511517368320",
+              "start": 14,
+              "url": "https://t.co/uYNY0Et9UR"
+            },
+            {
+              "display_url": "pic.x.com/uYNY0Et9UR",
+              "end": 37,
+              "expanded_url": "https://x.com/HoDaRaKe/status/1858797367949930721/photo/1",
+              "media_key": "3_1858733511521542144",
+              "start": 14,
+              "url": "https://t.co/uYNY0Et9UR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858797367949930721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 361,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "古代猫耳族のメイドとお嬢様 https://t.co/uYNY0Et9UR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 126,
+          "like_count": 4926,
+          "listed_count": 0,
+          "tweet_count": 660
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-25T03:37:44.000Z",
+        "description": "HoDaRaKe / tarte\n\n★Sub @HoDaRaKe3\n★Rewards Sample \n@HoDaRaKe2\nhttps://t.co/3SdKgZHfJQ (Pixiv)\n\n★Subscription\nPatreon https://t.co/VtQOEk9IBy\nBOOTH https://t.co/6rvu7Ih6Cs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "HoDaRaKe3"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "HoDaRaKe2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/zwWNU",
+                "end": 85,
+                "expanded_url": "https://x.gd/zwWNU",
+                "start": 62,
+                "url": "https://t.co/3SdKgZHfJQ"
+              },
+              {
+                "display_url": "x.gd/TfrXz",
+                "end": 140,
+                "expanded_url": "http://x.gd/TfrXz",
+                "start": 117,
+                "url": "https://t.co/VtQOEk9IBy"
+              },
+              {
+                "display_url": "x.gd/IfZr4",
+                "end": 170,
+                "expanded_url": "http://x.gd/IfZr4",
+                "start": 147,
+                "url": "https://t.co/6rvu7Ih6Cs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/HoDaRaKe",
+                "end": 23,
+                "expanded_url": "https://lit.link/HoDaRaKe",
+                "start": 0,
+                "url": "https://t.co/jZMVlu0OMz"
+              }
+            ]
+          }
+        },
+        "id": "1455930823",
+        "location": "(*´-`)",
+        "name": "HoDaRaKe",
+        "pinned_tweet_id": "1858522143438586031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682385241049030656/kAzTtkgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758054,
+          "following_count": 3430,
+          "like_count": 33740,
+          "listed_count": 4332,
+          "tweet_count": 55424
+        },
+        "url": "https://t.co/jZMVlu0OMz",
+        "username": "HoDaRaKe",
+        "verified": true
+      }
+    ]
+  }
+}

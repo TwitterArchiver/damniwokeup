@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863219417099751424"
+      ],
+      "media_source_tweet_id": [
+        "1863219424020541666"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1863803800819224770",
+    "created_at": "2024-12-03T04:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T05:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863803800819224770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1730269056757067777",
+          "start": 3,
+          "username": "xyz_0dr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bfYxqD5FzG",
+          "end": 36,
+          "expanded_url": "https://x.com/xyz_0dr/status/1863219424020541666/photo/1",
+          "media_key": "3_1863219417099751424",
+          "start": 13,
+          "url": "https://t.co/bfYxqD5FzG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863803800819224770",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 175
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863219424020541666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xyz_0dr: https://t.co/bfYxqD5FzG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1863219417099751424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdt8MCbXUAAq6Yg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863219417099751424"
+          ],
+          "media_source_tweet_id": [
+            "1863219424020541666"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1863803800819224770",
+        "created_at": "2024-12-03T04:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T05:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863803800819224770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730269056757067777",
+              "start": 3,
+              "username": "xyz_0dr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bfYxqD5FzG",
+              "end": 36,
+              "expanded_url": "https://x.com/xyz_0dr/status/1863219424020541666/photo/1",
+              "media_key": "3_1863219417099751424",
+              "start": 13,
+              "url": "https://t.co/bfYxqD5FzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863803800819224770",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 175
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863219424020541666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xyz_0dr: https://t.co/bfYxqD5FzG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863219417099751424"
+          ]
+        },
+        "author_id": "1730269056757067777",
+        "conversation_id": "1863219424020541666",
+        "created_at": "2024-12-01T13:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T14:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863219424020541666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bfYxqD5FzG",
+              "end": 23,
+              "expanded_url": "https://x.com/xyz_0dr/status/1863219424020541666/photo/1",
+              "media_key": "3_1863219417099751424",
+              "start": 0,
+              "url": "https://t.co/bfYxqD5FzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863219424020541666",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 205,
+          "impression_count": 23605,
+          "like_count": 2402,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bfYxqD5FzG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 143,
+          "like_count": 5487,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 880
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T16:54:40.000Z",
+        "description": "illustration／無断転載AI学習禁止／今年のご依頼は停止致しました／一次創作／fa→#lluv1art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 47,
+                "tag": "lluv1art"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/xyz0dr",
+                "end": 23,
+                "expanded_url": "https://lit.link/xyz0dr",
+                "start": 0,
+                "url": "https://t.co/amJl35qG9J"
+              }
+            ]
+          }
+        },
+        "id": "1730269056757067777",
+        "name": "il||li",
+        "pinned_tweet_id": "1852313083630538894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852313188328693760/Ss9I0WPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 52,
+          "like_count": 1053,
+          "listed_count": 9,
+          "media_count": 21,
+          "tweet_count": 222
+        },
+        "url": "https://t.co/amJl35qG9J",
+        "username": "xyz_0dr",
+        "verified": false
+      }
+    ]
+  }
+}

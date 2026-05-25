@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866391622365437952"
+      ],
+      "media_source_tweet_id": [
+        "1866391627729907735"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1866483543238726059",
+    "created_at": "2024-12-10T14:02:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T15:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866483543238726059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1208783050529595394",
+          "start": 3,
+          "username": "ri_o_ne_su"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s4SB4ckiYu",
+          "end": 54,
+          "expanded_url": "https://x.com/ri_o_ne_su/status/1866391627729907735/photo/1",
+          "media_key": "3_1866391622365437952",
+          "start": 31,
+          "url": "https://t.co/s4SB4ckiYu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866483543238726059",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 430
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866391627729907735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ri_o_ne_su: これが多分アクキーになります https://t.co/s4SB4ckiYu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1866391622365437952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GebBSr7bYAAc6iO.jpg",
+        "width": 1942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866391622365437952"
+          ],
+          "media_source_tweet_id": [
+            "1866391627729907735"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1866483543238726059",
+        "created_at": "2024-12-10T14:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T15:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866483543238726059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1208783050529595394",
+              "start": 3,
+              "username": "ri_o_ne_su"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s4SB4ckiYu",
+              "end": 54,
+              "expanded_url": "https://x.com/ri_o_ne_su/status/1866391627729907735/photo/1",
+              "media_key": "3_1866391622365437952",
+              "start": 31,
+              "url": "https://t.co/s4SB4ckiYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866483543238726059",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 430
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866391627729907735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ri_o_ne_su: これが多分アクキーになります https://t.co/s4SB4ckiYu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866391622365437952"
+          ]
+        },
+        "author_id": "1208783050529595394",
+        "conversation_id": "1866391627729907735",
+        "created_at": "2024-12-10T07:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T08:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866391627729907735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s4SB4ckiYu",
+              "end": 38,
+              "expanded_url": "https://x.com/ri_o_ne_su/status/1866391627729907735/photo/1",
+              "media_key": "3_1866391622365437952",
+              "start": 15,
+              "url": "https://t.co/s4SB4ckiYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866391627729907735",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 26057,
+          "like_count": 2599,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 430
+        },
+        "reply_settings": "everyone",
+        "text": "これが多分アクキーになります https://t.co/s4SB4ckiYu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 5784,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 994
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-22T16:15:44.000Z",
+        "description": "イラストを投げる。邪ンヌ派。pixiv→https://t.co/GX7TKaaMqY skeb→ https://t.co/hbgajR3aMz 予備→@ri_o_ne_th",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "ri_o_ne_th"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/34607275",
+                "end": 43,
+                "expanded_url": "http://pixiv.net/users/34607275",
+                "start": 20,
+                "url": "https://t.co/GX7TKaaMqY"
+              },
+              {
+                "display_url": "skeb.jp/@ri_o_ne_su",
+                "end": 73,
+                "expanded_url": "http://skeb.jp/@ri_o_ne_su",
+                "start": 50,
+                "url": "https://t.co/hbgajR3aMz"
+              }
+            ]
+          }
+        },
+        "id": "1208783050529595394",
+        "location": "連絡先　typos.02.pastes@icloud.com",
+        "name": "りおねす@C105 日曜日 東“c”37b",
+        "pinned_tweet_id": "1842462230836646281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772069594527842304/3QapwtmI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48102,
+          "following_count": 792,
+          "like_count": 20610,
+          "listed_count": 321,
+          "media_count": 3523,
+          "tweet_count": 21762
+        },
+        "username": "ri_o_ne_su",
+        "verified": false
+      }
+    ]
+  }
+}

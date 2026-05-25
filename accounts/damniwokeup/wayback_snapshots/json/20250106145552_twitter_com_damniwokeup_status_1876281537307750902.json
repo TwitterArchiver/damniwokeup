@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876214334373650433"
+      ],
+      "media_source_tweet_id": [
+        "1876214346420015205"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1876281537307750902",
+    "created_at": "2025-01-06T14:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T15:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876281537307750902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1517326118545936384",
+          "start": 3,
+          "username": "requiem0w0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8sKlqlheS8",
+          "end": 47,
+          "expanded_url": "https://x.com/requiem0w0/status/1876214346420015205/photo/1",
+          "media_key": "3_1876214334373650433",
+          "start": 24,
+          "url": "https://t.co/8sKlqlheS8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876281537307750902",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 370
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876214346420015205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @requiem0w0: (ฅ’ω’ฅ) https://t.co/8sKlqlheS8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1876214334373650433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ggmm_xrWYAELTfm.jpg",
+        "width": 1401
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876214334373650433"
+          ],
+          "media_source_tweet_id": [
+            "1876214346420015205"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1876281537307750902",
+        "created_at": "2025-01-06T14:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T15:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876281537307750902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1517326118545936384",
+              "start": 3,
+              "username": "requiem0w0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8sKlqlheS8",
+              "end": 47,
+              "expanded_url": "https://x.com/requiem0w0/status/1876214346420015205/photo/1",
+              "media_key": "3_1876214334373650433",
+              "start": 24,
+              "url": "https://t.co/8sKlqlheS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876281537307750902",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 370
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876214346420015205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @requiem0w0: (ฅ’ω’ฅ) https://t.co/8sKlqlheS8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876214334373650433"
+          ]
+        },
+        "author_id": "1517326118545936384",
+        "conversation_id": "1876214346420015205",
+        "created_at": "2025-01-06T10:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T11:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876214346420015205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8sKlqlheS8",
+              "end": 31,
+              "expanded_url": "https://x.com/requiem0w0/status/1876214346420015205/photo/1",
+              "media_key": "3_1876214334373650433",
+              "start": 8,
+              "url": "https://t.co/8sKlqlheS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876214346420015205",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 364,
+          "impression_count": 38669,
+          "like_count": 3408,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 370
+        },
+        "reply_settings": "everyone",
+        "text": "(ฅ’ω’ฅ) https://t.co/8sKlqlheS8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 151,
+          "like_count": 6568,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1287
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-22T02:15:25.000Z",
+        "description": "Illustrator ■🇭🇰■✉️：requiem1113cm@gmail.com ■初音ミク大好き🩵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/requiem0w0",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/requiem0w0",
+                "start": 0,
+                "url": "https://t.co/vab6OWx4uS"
+              }
+            ]
+          }
+        },
+        "id": "1517326118545936384",
+        "location": "AI🚫",
+        "name": "Requiem",
+        "pinned_tweet_id": "1552995360762523648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855939481918210048/0S-Ha3fv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28001,
+          "following_count": 680,
+          "like_count": 3051,
+          "listed_count": 262,
+          "media_count": 109,
+          "tweet_count": 850
+        },
+        "url": "https://t.co/vab6OWx4uS",
+        "username": "requiem0w0",
+        "verified": false
+      }
+    ]
+  }
+}

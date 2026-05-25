@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "2043638875319656762",
+    "created_at": "2026-04-13T10:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T11:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043638875319656762"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043638875319656762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "炽之前说想玩switch，我就想可以把我的寄给她，但前不久她的家人给她买了，所以我就把我的卡带都寄给了她，我选了特快，快递很快就到了，那个时候她对我说“比我还着急hhh”，我没有明白，但也没有继续问，只是让她多打打电动，我想这样可能可以会让她好受些，现在再想起这句话，又一次，我后知后觉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "2043638875319656762",
+        "created_at": "2026-04-13T10:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043638875319656762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043638875319656762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炽之前说想玩switch，我就想可以把我的寄给她，但前不久她的家人给她买了，所以我就把我的卡带都寄给了她，我选了特快，快递很快就到了，那个时候她对我说“比我还着急hhh”，我没有明白，但也没有继续问，只是让她多打打电动，我想这样可能可以会让她好受些，现在再想起这句话，又一次，我后知后觉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2042979197816312219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 175,
+          "like_count": 8245,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1394
+        },
+        "username": "damniwokeup",
+        "verified": true
+      }
+    ]
+  }
+}

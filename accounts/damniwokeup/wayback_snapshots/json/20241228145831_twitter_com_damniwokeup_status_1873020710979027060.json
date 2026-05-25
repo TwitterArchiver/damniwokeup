@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1873020710979027060",
+    "created_at": "2024-12-28T14:58:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T15:58:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873020710979027060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1082600293475397634",
+          "start": 3,
+          "username": "Kirakiradove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873020710979027060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873014386719342597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Kirakiradove: 该推文点赞量将关乎本账号的存亡，感谢您的支持与理解。\ne4e7ab8dc6f29b8e24cf0fa047de22de"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1873020710979027060",
+        "created_at": "2024-12-28T14:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T15:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873020710979027060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1082600293475397634",
+              "start": 3,
+              "username": "Kirakiradove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873020710979027060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873014386719342597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @Kirakiradove: 该推文点赞量将关乎本账号的存亡，感谢您的支持与理解。\ne4e7ab8dc6f29b8e24cf0fa047de22de"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1082600293475397634",
+        "conversation_id": "1873014386719342597",
+        "created_at": "2024-12-28T14:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T15:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873014386719342597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873014386719342597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 577,
+          "like_count": 94,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "该推文点赞量将关乎本账号的存亡，感谢您的支持与理解。\ne4e7ab8dc6f29b8e24cf0fa047de22de"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 149,
+          "like_count": 6430,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1229
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T11:29:58.000Z",
+        "description": "我叫可可，希望你幸福。",
+        "id": "1082600293475397634",
+        "location": "无性别",
+        "name": "うさココ",
+        "pinned_tweet_id": "1859467840635748539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514216529138696193/5YBbERgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6679,
+          "following_count": 0,
+          "like_count": 13929,
+          "listed_count": 12,
+          "media_count": 324,
+          "tweet_count": 9121
+        },
+        "username": "Kirakiradove",
+        "verified": true
+      }
+    ]
+  }
+}

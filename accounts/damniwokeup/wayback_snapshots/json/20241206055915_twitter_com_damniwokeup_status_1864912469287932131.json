@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864689528314974209"
+      ],
+      "media_source_tweet_id": [
+        "1864689532307935675"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1864912469287932131",
+    "created_at": "2024-12-06T05:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T06:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864912469287932131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1269957840917028864",
+          "start": 3,
+          "username": "wata_meamai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rQAd5dSHzh",
+          "end": 40,
+          "expanded_url": "https://x.com/wata_meamai/status/1864689532307935675/photo/1",
+          "media_key": "3_1864689528314974209",
+          "start": 17,
+          "url": "https://t.co/rQAd5dSHzh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864912469287932131",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 279
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864689532307935675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @wata_meamai: https://t.co/rQAd5dSHzh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1390,
+        "media_key": "3_1864689528314974209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeC1Pxea0AEPCQQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864689528314974209"
+          ],
+          "media_source_tweet_id": [
+            "1864689532307935675"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1864912469287932131",
+        "created_at": "2024-12-06T05:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T06:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864912469287932131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1269957840917028864",
+              "start": 3,
+              "username": "wata_meamai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQAd5dSHzh",
+              "end": 40,
+              "expanded_url": "https://x.com/wata_meamai/status/1864689532307935675/photo/1",
+              "media_key": "3_1864689528314974209",
+              "start": 17,
+              "url": "https://t.co/rQAd5dSHzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864912469287932131",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864689532307935675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @wata_meamai: https://t.co/rQAd5dSHzh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864689528314974209"
+          ]
+        },
+        "author_id": "1269957840917028864",
+        "conversation_id": "1864689532307935675",
+        "created_at": "2024-12-05T15:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T16:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864689532307935675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQAd5dSHzh",
+              "end": 23,
+              "expanded_url": "https://x.com/wata_meamai/status/1864689532307935675/photo/1",
+              "media_key": "3_1864689528314974209",
+              "start": 0,
+              "url": "https://t.co/rQAd5dSHzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864689532307935675",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 17141,
+          "like_count": 1911,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/rQAd5dSHzh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 144,
+          "like_count": 5628,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 937
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-08T11:42:10.000Z",
+        "description": "550🍝雑多/転載NG",
+        "id": "1269957840917028864",
+        "name": "ゆ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841499968173170688/CTR8jN4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22820,
+          "following_count": 100,
+          "like_count": 20275,
+          "listed_count": 169,
+          "media_count": 732,
+          "tweet_count": 10112
+        },
+        "username": "wata_meamai",
+        "verified": false
+      }
+    ]
+  }
+}

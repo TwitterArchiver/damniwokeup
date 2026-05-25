@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868078791781941248"
+      ],
+      "media_source_tweet_id": [
+        "1868078798278910273"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1868219261182943240",
+    "created_at": "2024-12-15T08:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T09:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868219261182943240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1028234567738519553",
+          "start": 3,
+          "username": "yuri_kyanon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sLRAn7W9q2",
+          "end": 52,
+          "expanded_url": "https://x.com/yuri_kyanon/status/1868078798278910273/photo/1",
+          "media_key": "3_1868078791781941248",
+          "start": 29,
+          "url": "https://t.co/sLRAn7W9q2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868219261182943240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3158
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868078798278910273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuri_kyanon: イメチェンのフリーレン https://t.co/sLRAn7W9q2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1868078791781941248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gey_w3yagAAr0C0.jpg",
+        "width": 1464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868078791781941248"
+          ],
+          "media_source_tweet_id": [
+            "1868078798278910273"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1868219261182943240",
+        "created_at": "2024-12-15T08:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T09:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868219261182943240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1028234567738519553",
+              "start": 3,
+              "username": "yuri_kyanon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sLRAn7W9q2",
+              "end": 52,
+              "expanded_url": "https://x.com/yuri_kyanon/status/1868078798278910273/photo/1",
+              "media_key": "3_1868078791781941248",
+              "start": 29,
+              "url": "https://t.co/sLRAn7W9q2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868219261182943240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3158
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868078798278910273",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuri_kyanon: イメチェンのフリーレン https://t.co/sLRAn7W9q2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868078791781941248"
+          ]
+        },
+        "author_id": "1028234567738519553",
+        "conversation_id": "1868078798278910273",
+        "created_at": "2024-12-14T23:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T00:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868078798278910273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sLRAn7W9q2",
+              "end": 35,
+              "expanded_url": "https://x.com/yuri_kyanon/status/1868078798278910273/photo/1",
+              "media_key": "3_1868078791781941248",
+              "start": 12,
+              "url": "https://t.co/sLRAn7W9q2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868078798278910273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2763,
+          "impression_count": 632187,
+          "like_count": 36723,
+          "quote_count": 18,
+          "reply_count": 20,
+          "retweet_count": 3158
+        },
+        "reply_settings": "everyone",
+        "text": "イメチェンのフリーレン https://t.co/sLRAn7W9q2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 145,
+          "like_count": 6001,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1079
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-11T10:59:59.000Z",
+        "description": "創作百合、アニメ・漫画、Vtuberさんなど好きなモノをお絵描きします⚠️Please don't use my picture as an icon. ⚠️好きな映画はサメ・アクション・SF・サスペンス等。医療・行政職→卒業、休憩中 サブ: @sabuyurikyanon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 122,
+                "username": "sabuyurikyanon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=45478147",
+                "start": 0,
+                "url": "https://t.co/IiJCjxhb3V"
+              }
+            ]
+          }
+        },
+        "id": "1028234567738519553",
+        "name": "ユリキャノン",
+        "pinned_tweet_id": "1763586471389442413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857064959940648960/WkCKIhqj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132326,
+          "following_count": 278,
+          "like_count": 81152,
+          "listed_count": 818,
+          "media_count": 4247,
+          "tweet_count": 34015
+        },
+        "url": "https://t.co/IiJCjxhb3V",
+        "username": "yuri_kyanon",
+        "verified": true
+      }
+    ]
+  }
+}

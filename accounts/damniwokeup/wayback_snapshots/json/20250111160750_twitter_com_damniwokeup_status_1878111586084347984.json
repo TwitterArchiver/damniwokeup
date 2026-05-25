@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1877945625389699447",
+    "created_at": "2025-01-11T16:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T17:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878111586084347984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "805055951321501696",
+          "start": 0,
+          "username": "NoCatsNoLife_m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878111586084347984",
+    "in_reply_to_user_id": "805055951321501696",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877945625389699447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NoCatsNoLife_m My cat has always been by my side, but a few days ago, he seemed sick. At that moment, I was really worried. Thankfully, he turned out to be fine in the end. I just want to say, sometimes cats are like family，you never want to part with them."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1877945625389699447",
+        "created_at": "2025-01-11T16:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T17:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878111586084347984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "805055951321501696",
+              "start": 0,
+              "username": "NoCatsNoLife_m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878111586084347984",
+        "in_reply_to_user_id": "805055951321501696",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877945625389699447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NoCatsNoLife_m My cat has always been by my side, but a few days ago, he seemed sick. At that moment, I was really worried. Thankfully, he turned out to be fine in the end. I just want to say, sometimes cats are like family，you never want to part with them."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1877945570951901184"
+          ]
+        },
+        "author_id": "805055951321501696",
+        "conversation_id": "1877945625389699447",
+        "created_at": "2025-01-11T05:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T06:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877945625389699447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vlx9jsqAGF",
+              "end": 47,
+              "expanded_url": "https://x.com/NoCatsNoLife_m/status/1877945625389699447/video/1",
+              "media_key": "13_1877945570951901184",
+              "start": 24,
+              "url": "https://t.co/vlx9jsqAGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877945625389699447",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9517,
+          "impression_count": 5642360,
+          "like_count": 126656,
+          "quote_count": 1082,
+          "reply_count": 973,
+          "retweet_count": 12428
+        },
+        "reply_settings": "everyone",
+        "text": "He lost his best friend https://t.co/vlx9jsqAGF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 152,
+          "like_count": 6670,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1313
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-03T14:27:50.000Z",
+        "description": "All you need is love and cats 🥰🧡",
+        "id": "805055951321501696",
+        "location": "DM : Credit or Remove",
+        "name": "No Cats No Life",
+        "pinned_tweet_id": "1877945625389699447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712627646407073793/mUGzK37B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402097,
+          "following_count": 233,
+          "like_count": 31317,
+          "listed_count": 1402,
+          "media_count": 18005,
+          "tweet_count": 24805
+        },
+        "username": "NoCatsNoLife_m",
+        "verified": true
+      }
+    ]
+  }
+}

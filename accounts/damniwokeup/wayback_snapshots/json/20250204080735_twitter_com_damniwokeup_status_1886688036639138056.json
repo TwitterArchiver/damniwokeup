@@ -1,0 +1,651 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886453291292438528",
+        "3_1886453306123550720"
+      ],
+      "media_source_tweet_id": [
+        "1886453545467330856",
+        "1886453545467330856"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1886688036639138056",
+    "created_at": "2025-02-04T08:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T09:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886688036639138056"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 56,
+          "normalized_text": "Arknights",
+          "probability": 0.8233,
+          "start": 48,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 39,
+          "tag": "アークナイツ"
+        },
+        {
+          "end": 57,
+          "start": 47,
+          "tag": "Arknights"
+        },
+        {
+          "end": 63,
+          "start": 58,
+          "tag": "明日方舟"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1424350575005638664",
+          "start": 3,
+          "username": "Drone_37"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U8NDEfq85C",
+          "end": 87,
+          "expanded_url": "https://x.com/Drone_37/status/1886453545467330856/photo/1",
+          "media_key": "3_1886453291292438528",
+          "start": 64,
+          "url": "https://t.co/U8NDEfq85C"
+        },
+        {
+          "display_url": "pic.x.com/U8NDEfq85C",
+          "end": 87,
+          "expanded_url": "https://x.com/Drone_37/status/1886453545467330856/photo/1",
+          "media_key": "3_1886453306123550720",
+          "start": 64,
+          "url": "https://t.co/U8NDEfq85C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886688036639138056",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 314
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886453545467330856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Drone_37: WIP\nA pair...of course😎\n\n#アークナイツ #Arknights #明日方舟 https://t.co/U8NDEfq85C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1509,
+        "media_key": "3_1886453291292438528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi4HRgjaMAAZi4S.jpg",
+        "width": 935
+      },
+      {
+        "height": 1509,
+        "media_key": "3_1886453306123550720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi4HSXzbAAAmG34.jpg",
+        "width": 935
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886453291292438528",
+            "3_1886453306123550720"
+          ],
+          "media_source_tweet_id": [
+            "1886453545467330856",
+            "1886453545467330856"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1886688036639138056",
+        "created_at": "2025-02-04T08:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T09:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886688036639138056"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "Arknights",
+              "probability": 0.8233,
+              "start": 48,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 39,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 57,
+              "start": 47,
+              "tag": "Arknights"
+            },
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "明日方舟"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1424350575005638664",
+              "start": 3,
+              "username": "Drone_37"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U8NDEfq85C",
+              "end": 87,
+              "expanded_url": "https://x.com/Drone_37/status/1886453545467330856/photo/1",
+              "media_key": "3_1886453291292438528",
+              "start": 64,
+              "url": "https://t.co/U8NDEfq85C"
+            },
+            {
+              "display_url": "pic.x.com/U8NDEfq85C",
+              "end": 87,
+              "expanded_url": "https://x.com/Drone_37/status/1886453545467330856/photo/1",
+              "media_key": "3_1886453306123550720",
+              "start": 64,
+              "url": "https://t.co/U8NDEfq85C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886688036639138056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 314
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886453545467330856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Drone_37: WIP\nA pair...of course😎\n\n#アークナイツ #Arknights #明日方舟 https://t.co/U8NDEfq85C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886453291292438528",
+            "3_1886453306123550720"
+          ]
+        },
+        "author_id": "1424350575005638664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1886453545467330856",
+        "created_at": "2025-02-03T16:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T17:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886453545467330856"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Arknights",
+              "probability": 0.8378,
+              "start": 34,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 43,
+              "start": 33,
+              "tag": "Arknights"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "明日方舟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U8NDEfq85C",
+              "end": 73,
+              "expanded_url": "https://x.com/Drone_37/status/1886453545467330856/photo/1",
+              "media_key": "3_1886453291292438528",
+              "start": 50,
+              "url": "https://t.co/U8NDEfq85C"
+            },
+            {
+              "display_url": "pic.x.com/U8NDEfq85C",
+              "end": 73,
+              "expanded_url": "https://x.com/Drone_37/status/1886453545467330856/photo/1",
+              "media_key": "3_1886453306123550720",
+              "start": 50,
+              "url": "https://t.co/U8NDEfq85C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886453545467330856",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 22971,
+          "like_count": 2030,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 314
+        },
+        "reply_settings": "everyone",
+        "text": "WIP\nA pair...of course😎\n\n#アークナイツ #Arknights #明日方舟 https://t.co/U8NDEfq85C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 151,
+          "like_count": 6809,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1311
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-08T12:43:40.000Z",
+        "description": "研修医→麻酔科レジデント ◽️EN/CH/JP ◽️絵を描いております Casual illustrator ◽️Contact/連絡先 ✉ jefferson00214@gmail.com IG: https://t.co/NUUUL3t5cu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/drone__37/",
+                "end": 123,
+                "expanded_url": "https://www.instagram.com/drone__37/",
+                "start": 100,
+                "url": "https://t.co/NUUUL3t5cu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/44232948",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/44232948",
+                "start": 0,
+                "url": "https://t.co/KZyJU4I5uR"
+              }
+            ]
+          }
+        },
+        "id": "1424350575005638664",
+        "location": "Taiwan",
+        "name": "Drone@多忙",
+        "pinned_tweet_id": "1846593698454454420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707005851788324864/zctFQTL9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3478,
+          "following_count": 711,
+          "like_count": 2782,
+          "listed_count": 36,
+          "media_count": 132,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/KZyJU4I5uR",
+        "username": "Drone_37",
+        "verified": true
+      }
+    ]
+  }
+}

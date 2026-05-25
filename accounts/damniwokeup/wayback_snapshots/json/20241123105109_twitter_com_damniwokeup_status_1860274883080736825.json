@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860222030844690437"
+      ],
+      "media_source_tweet_id": [
+        "1860222035802358117"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1860274883080736825",
+    "created_at": "2024-11-23T10:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T11:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860274883080736825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1148692152",
+          "start": 3,
+          "username": "Syunsaeki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JS7zROz3d0",
+          "end": 46,
+          "expanded_url": "https://x.com/Syunsaeki/status/1860222035802358117/photo/1",
+          "media_key": "3_1860222030844690437",
+          "start": 23,
+          "url": "https://t.co/JS7zROz3d0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860274883080736825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 609
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860222035802358117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Syunsaeki: プラクティス！ https://t.co/JS7zROz3d0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1169,
+        "media_key": "3_1860222030844690437",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdDWFMfagAUjKdl.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860222030844690437"
+          ],
+          "media_source_tweet_id": [
+            "1860222035802358117"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1860274883080736825",
+        "created_at": "2024-11-23T10:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T11:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860274883080736825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1148692152",
+              "start": 3,
+              "username": "Syunsaeki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JS7zROz3d0",
+              "end": 46,
+              "expanded_url": "https://x.com/Syunsaeki/status/1860222035802358117/photo/1",
+              "media_key": "3_1860222030844690437",
+              "start": 23,
+              "url": "https://t.co/JS7zROz3d0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860274883080736825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 609
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860222035802358117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Syunsaeki: プラクティス！ https://t.co/JS7zROz3d0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860222030844690437"
+          ]
+        },
+        "author_id": "1148692152",
+        "conversation_id": "1860222035802358117",
+        "created_at": "2024-11-23T07:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T08:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860222035802358117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JS7zROz3d0",
+              "end": 31,
+              "expanded_url": "https://x.com/Syunsaeki/status/1860222035802358117/photo/1",
+              "media_key": "3_1860222030844690437",
+              "start": 8,
+              "url": "https://t.co/JS7zROz3d0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860222035802358117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 791,
+          "impression_count": 110778,
+          "like_count": 6558,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 609
+        },
+        "reply_settings": "everyone",
+        "text": "プラクティス！ https://t.co/JS7zROz3d0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 130,
+          "like_count": 5026,
+          "listed_count": 0,
+          "tweet_count": 705
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-04T18:14:27.000Z",
+        "description": "漫画作画、イラストやキャラデザなどやってます。食戟のソーマ(集英社)というグルメバトル漫画の作画担当してました。よろしくお願いいたします！",
+        "id": "1148692152",
+        "location": "東京都",
+        "name": "佐伯俊",
+        "pinned_tweet_id": "1562498369729114113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731693875687723010/uc7GtL_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161366,
+          "following_count": 352,
+          "like_count": 7231,
+          "listed_count": 1195,
+          "tweet_count": 631
+        },
+        "username": "Syunsaeki",
+        "verified": true
+      }
+    ]
+  }
+}

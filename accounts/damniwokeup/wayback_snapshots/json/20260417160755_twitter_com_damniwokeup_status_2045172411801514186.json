@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2045172227335983104"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "2045172411801514186",
+    "created_at": "2026-04-17T16:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T17:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045172411801514186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/24cqWKlgmM",
+          "end": 35,
+          "expanded_url": "https://x.com/damniwokeup/status/2045172411801514186/video/1",
+          "media_key": "13_2045172227335983104",
+          "start": 12,
+          "url": "https://t.co/24cqWKlgmM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045172411801514186",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Remember me https://t.co/24cqWKlgmM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 71283,
+        "height": 1080,
+        "media_key": "13_2045172227335983104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045172227335983104/img/yWB0f6TBS7cqSSsh.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045172227335983104/pl/4za7M5DBIUz0MZvK.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045172227335983104/vid/avc1/640x360/hHAgeNl4VcyTvgYU.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045172227335983104/vid/avc1/480x270/9ULXAaf1SaRDQCRS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045172227335983104/vid/avc1/1280x720/uYvEby-Glsu1F23T.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045172227335983104/vid/avc1/1920x1080/gPj0bT89tieGQTMA.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045172227335983104"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "2045172411801514186",
+        "created_at": "2026-04-17T16:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045172411801514186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/24cqWKlgmM",
+              "end": 35,
+              "expanded_url": "https://x.com/damniwokeup/status/2045172411801514186/video/1",
+              "media_key": "13_2045172227335983104",
+              "start": 12,
+              "url": "https://t.co/24cqWKlgmM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045172411801514186",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Remember me https://t.co/24cqWKlgmM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "Per aspera ad astra",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2042979197816312219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 182,
+          "like_count": 8429,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1404
+        },
+        "username": "damniwokeup",
+        "verified": true
+      }
+    ]
+  }
+}

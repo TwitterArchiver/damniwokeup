@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864248129333469184"
+      ],
+      "media_source_tweet_id": [
+        "1864308682336665941"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1864602768499183773",
+    "created_at": "2024-12-05T09:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T10:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864602768499183773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "832965841264062464",
+          "start": 3,
+          "username": "yn0923_ashley"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uauHEHAzep",
+          "end": 53,
+          "expanded_url": "https://x.com/yn0923_ashley/status/1864308682336665941/photo/1",
+          "media_key": "3_1864248129333469184",
+          "start": 30,
+          "url": "https://t.co/uauHEHAzep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864602768499183773",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 131
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864308682336665941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yn0923_ashley: フリーレン練習　再掲 https://t.co/uauHEHAzep"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1864248129333469184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd8jy-IboAAimXF.jpg",
+        "width": 1047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864248129333469184"
+          ],
+          "media_source_tweet_id": [
+            "1864308682336665941"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1864602768499183773",
+        "created_at": "2024-12-05T09:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T10:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864602768499183773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "832965841264062464",
+              "start": 3,
+              "username": "yn0923_ashley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uauHEHAzep",
+              "end": 53,
+              "expanded_url": "https://x.com/yn0923_ashley/status/1864308682336665941/photo/1",
+              "media_key": "3_1864248129333469184",
+              "start": 30,
+              "url": "https://t.co/uauHEHAzep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864602768499183773",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 131
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864308682336665941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yn0923_ashley: フリーレン練習　再掲 https://t.co/uauHEHAzep"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864248129333469184"
+          ]
+        },
+        "author_id": "832965841264062464",
+        "conversation_id": "1864308682336665941",
+        "created_at": "2024-12-04T14:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T15:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864308682336665941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uauHEHAzep",
+              "end": 34,
+              "expanded_url": "https://x.com/yn0923_ashley/status/1864308682336665941/photo/1",
+              "media_key": "3_1864248129333469184",
+              "start": 11,
+              "url": "https://t.co/uauHEHAzep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864308682336665941",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 9691,
+          "like_count": 1117,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "フリーレン練習　再掲 https://t.co/uauHEHAzep"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 144,
+          "like_count": 5604,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 927
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-18T14:51:47.000Z",
+        "description": "趣味のらくがき用です。20↑。絵の無断使用禁止｜好き：鋼（ロイアイ）葬送（ヒンフリ・勇者一行・師弟いろいろ）｜のんびり創作と日常呟き→@yuna_u777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "yuna_u777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=267214",
+                "start": 0,
+                "url": "https://t.co/3Hx7ddwRWh"
+              }
+            ]
+          }
+        },
+        "id": "832965841264062464",
+        "name": "ゆな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623919122311675905/meSAONQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3725,
+          "following_count": 180,
+          "like_count": 2918,
+          "listed_count": 29,
+          "media_count": 8,
+          "tweet_count": 2705
+        },
+        "url": "https://t.co/3Hx7ddwRWh",
+        "username": "yn0923_ashley",
+        "verified": false
+      }
+    ]
+  }
+}

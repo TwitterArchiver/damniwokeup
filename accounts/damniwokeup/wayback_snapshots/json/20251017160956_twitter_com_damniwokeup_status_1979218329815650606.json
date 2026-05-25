@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979191950189195264"
+      ],
+      "media_source_tweet_id": [
+        "1979191961484693542"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1979218329815650606",
+    "created_at": "2025-10-17T16:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T17:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979218329815650606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1268478120568315904",
+          "start": 3,
+          "username": "gocue_10_5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lQZyzDQctq",
+          "end": 47,
+          "expanded_url": "https://x.com/gocue_10_5/status/1979191961484693542/photo/1",
+          "media_key": "3_1979191950189195264",
+          "start": 24,
+          "url": "https://t.co/lQZyzDQctq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979218329815650606",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 389
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979191961484693542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gocue_10_5: 🌸 ※特典パロ https://t.co/lQZyzDQctq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1326,
+        "media_key": "3_1979191950189195264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3eAl61W8AAui0y.jpg",
+        "width": 1382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979191950189195264"
+          ],
+          "media_source_tweet_id": [
+            "1979191961484693542"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1979218329815650606",
+        "created_at": "2025-10-17T16:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T17:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979218329815650606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1268478120568315904",
+              "start": 3,
+              "username": "gocue_10_5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQZyzDQctq",
+              "end": 47,
+              "expanded_url": "https://x.com/gocue_10_5/status/1979191961484693542/photo/1",
+              "media_key": "3_1979191950189195264",
+              "start": 24,
+              "url": "https://t.co/lQZyzDQctq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979218329815650606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 389
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979191961484693542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gocue_10_5: 🌸 ※特典パロ https://t.co/lQZyzDQctq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979191950189195264"
+          ]
+        },
+        "author_id": "1268478120568315904",
+        "conversation_id": "1979191961484693542",
+        "created_at": "2025-10-17T14:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T15:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979191961484693542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQZyzDQctq",
+              "end": 31,
+              "expanded_url": "https://x.com/gocue_10_5/status/1979191961484693542/photo/1",
+              "media_key": "3_1979191950189195264",
+              "start": 8,
+              "url": "https://t.co/lQZyzDQctq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979191961484693542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 412,
+          "impression_count": 22778,
+          "like_count": 3449,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 389
+        },
+        "reply_settings": "everyone",
+        "text": "🌸 ※特典パロ https://t.co/lQZyzDQctq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Phoenix, AZ",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 140,
+          "like_count": 6978,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1259
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-04T09:47:00.000Z",
+        "description": "デンレゼの幻覚を書き連ねるアカウント/本誌/成人済■転載禁止/Don't re-upload my art■ボカロと日常@gocue_59",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "gocue_59"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/1689485",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/1689485",
+                "start": 0,
+                "url": "https://t.co/TvHzPqNiUc"
+              }
+            ]
+          }
+        },
+        "id": "1268478120568315904",
+        "location": "カフェ二道",
+        "name": "ゴーキュー",
+        "pinned_tweet_id": "1972412929258717535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960288770076626944/dR7C5FtI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4911,
+          "following_count": 70,
+          "like_count": 12275,
+          "listed_count": 29,
+          "media_count": 372,
+          "tweet_count": 15019
+        },
+        "url": "https://t.co/TvHzPqNiUc",
+        "username": "gocue_10_5",
+        "verified": false
+      }
+    ]
+  }
+}

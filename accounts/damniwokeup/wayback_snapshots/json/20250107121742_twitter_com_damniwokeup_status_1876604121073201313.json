@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876556052495474688"
+      ],
+      "media_source_tweet_id": [
+        "1876556145198039180"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1876604121073201313",
+    "created_at": "2025-01-07T12:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T13:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876604121073201313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1452048723240894464",
+          "start": 3,
+          "username": "jhigf2008"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mxHOeDERBH",
+          "end": 38,
+          "expanded_url": "https://x.com/jhigf2008/status/1876556145198039180/photo/1",
+          "media_key": "3_1876556052495474688",
+          "start": 15,
+          "url": "https://t.co/mxHOeDERBH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876604121073201313",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 251
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876556145198039180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jhigf2008: https://t.co/mxHOeDERBH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1876556052495474688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgrdyY4aIAAEfUc.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876556052495474688"
+          ],
+          "media_source_tweet_id": [
+            "1876556145198039180"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1876604121073201313",
+        "created_at": "2025-01-07T12:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T13:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876604121073201313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1452048723240894464",
+              "start": 3,
+              "username": "jhigf2008"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxHOeDERBH",
+              "end": 38,
+              "expanded_url": "https://x.com/jhigf2008/status/1876556145198039180/photo/1",
+              "media_key": "3_1876556052495474688",
+              "start": 15,
+              "url": "https://t.co/mxHOeDERBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876604121073201313",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 251
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876556145198039180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jhigf2008: https://t.co/mxHOeDERBH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876556052495474688"
+          ]
+        },
+        "author_id": "1452048723240894464",
+        "conversation_id": "1876556145198039180",
+        "created_at": "2025-01-07T09:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T10:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876556145198039180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxHOeDERBH",
+              "end": 23,
+              "expanded_url": "https://x.com/jhigf2008/status/1876556145198039180/photo/1",
+              "media_key": "3_1876556052495474688",
+              "start": 0,
+              "url": "https://t.co/mxHOeDERBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876556145198039180",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 386,
+          "impression_count": 29925,
+          "like_count": 3334,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 251
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mxHOeDERBH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 151,
+          "like_count": 6575,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1289
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-23T23:06:30.000Z",
+        "description": "jhigf2008@naver.com\n블루스카이 : https://t.co/Mskx5ismu0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/jhigf.…",
+                "end": 51,
+                "expanded_url": "https://bsky.app/profile/jhigf.bsky.social",
+                "start": 28,
+                "url": "https://t.co/Mskx5ismu0"
+              }
+            ]
+          }
+        },
+        "id": "1452048723240894464",
+        "name": "미즈M1Z",
+        "pinned_tweet_id": "1870033901747597508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717508882401210368/A_tFC3ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27003,
+          "following_count": 1123,
+          "like_count": 7361,
+          "listed_count": 206,
+          "media_count": 160,
+          "tweet_count": 1131
+        },
+        "username": "jhigf2008",
+        "verified": false
+      }
+    ]
+  }
+}

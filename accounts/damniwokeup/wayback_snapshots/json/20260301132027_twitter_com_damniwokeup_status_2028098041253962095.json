@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "2028098041253962095",
+    "created_at": "2026-03-01T13:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T14:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028098041253962095"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "CosmicPrincessKaguya",
+          "probability": 0.5989,
+          "start": 28,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "超ぐや姫"
+        },
+        {
+          "end": 48,
+          "start": 27,
+          "tag": "CosmicPrincessKaguya"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1741758792017367040",
+          "start": 3,
+          "username": "ghost_finches"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028098041253962095",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 416
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027752810159476900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ghost_finches: [🌷#超ぐや姫 #CosmicPrincessKaguya] STAY TUNED FOR WHEN THESE COLORS BITE ME ONCE IM FOUR PAGES IN... ITS ALMOST DONE I SWEAR…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_2027752464867594246",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQGH5DbEAY6Tm5.png",
+        "width": 788
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "2028098041253962095",
+        "created_at": "2026-03-01T13:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028098041253962095"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "CosmicPrincessKaguya",
+              "probability": 0.5989,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "超ぐや姫"
+            },
+            {
+              "end": 48,
+              "start": 27,
+              "tag": "CosmicPrincessKaguya"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1741758792017367040",
+              "start": 3,
+              "username": "ghost_finches"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028098041253962095",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 416
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027752810159476900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ghost_finches: [🌷#超ぐや姫 #CosmicPrincessKaguya] STAY TUNED FOR WHEN THESE COLORS BITE ME ONCE IM FOUR PAGES IN... ITS ALMOST DONE I SWEAR…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027752464867594246"
+          ]
+        },
+        "author_id": "1741758792017367040",
+        "conversation_id": "2027752810159476900",
+        "created_at": "2026-02-28T14:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T15:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027752810159476900"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "CosmicPrincessKaguya",
+              "probability": 0.6134,
+              "start": 9,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 2,
+              "tag": "超ぐや姫"
+            },
+            {
+              "end": 29,
+              "start": 8,
+              "tag": "CosmicPrincessKaguya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ibuwK6WiXZ",
+              "end": 144,
+              "expanded_url": "https://x.com/ghost_finches/status/2027752810159476900/photo/1",
+              "media_key": "3_2027752464867594246",
+              "start": 121,
+              "url": "https://t.co/ibuwK6WiXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027752810159476900",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 280,
+          "impression_count": 17054,
+          "like_count": 2587,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 416
+        },
+        "reply_settings": "everyone",
+        "text": "[🌷#超ぐや姫 #CosmicPrincessKaguya] STAY TUNED FOR WHEN THESE COLORS BITE ME ONCE IM FOUR PAGES IN... ITS ALMOST DONE I SWEAR https://t.co/ibuwK6WiXZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2026181607040925930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 156,
+          "like_count": 7865,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 1379
+        },
+        "username": "damniwokeup",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-01T09:50:43.000Z",
+        "description": "ocs / lgts / cpk / pjsk || I'm back in the building AGAIN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/deadfi…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/deadfinches.bsky.social",
+                "start": 0,
+                "url": "https://t.co/yMesMsMm5V"
+              }
+            ]
+          }
+        },
+        "id": "1741758792017367040",
+        "location": "on a tree",
+        "name": "☁️ 𝐟𝐢𝐧𝐜𝐡🌷 is sleeping",
+        "pinned_tweet_id": "2011154420546072973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741759219043643392/OzuO2nnB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2121,
+          "following_count": 584,
+          "like_count": 16103,
+          "listed_count": 6,
+          "media_count": 194,
+          "tweet_count": 6021
+        },
+        "url": "https://t.co/yMesMsMm5V",
+        "username": "ghost_finches",
+        "verified": false
+      }
+    ]
+  }
+}

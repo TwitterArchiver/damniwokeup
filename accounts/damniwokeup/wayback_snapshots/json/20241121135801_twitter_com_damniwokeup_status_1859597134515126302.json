@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859561754491305984"
+      ],
+      "media_source_tweet_id": [
+        "1859561758781997367"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1859597134515126302",
+    "created_at": "2024-11-21T13:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T14:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859597134515126302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1802604618641477632",
+          "start": 3,
+          "username": "liilliilliilill"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3socg1lcMm",
+          "end": 44,
+          "expanded_url": "https://x.com/liilliilliilill/status/1859561758781997367/photo/1",
+          "media_key": "3_1859561754491305984",
+          "start": 21,
+          "url": "https://t.co/3socg1lcMm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859597134515126302",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 183
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859561758781997367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @liilliilliilill: https://t.co/3socg1lcMm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1104,
+        "media_key": "3_1859561754491305984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc59kDZbQAAMb2y.jpg",
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859561754491305984"
+          ],
+          "media_source_tweet_id": [
+            "1859561758781997367"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1859597134515126302",
+        "created_at": "2024-11-21T13:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T14:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859597134515126302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1802604618641477632",
+              "start": 3,
+              "username": "liilliilliilill"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3socg1lcMm",
+              "end": 44,
+              "expanded_url": "https://x.com/liilliilliilill/status/1859561758781997367/photo/1",
+              "media_key": "3_1859561754491305984",
+              "start": 21,
+              "url": "https://t.co/3socg1lcMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859597134515126302",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 183
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859561758781997367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @liilliilliilill: https://t.co/3socg1lcMm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859561754491305984"
+          ]
+        },
+        "author_id": "1802604618641477632",
+        "conversation_id": "1859561758781997367",
+        "created_at": "2024-11-21T11:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T12:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859561758781997367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3socg1lcMm",
+              "end": 23,
+              "expanded_url": "https://x.com/liilliilliilill/status/1859561758781997367/photo/1",
+              "media_key": "3_1859561754491305984",
+              "start": 0,
+              "url": "https://t.co/3socg1lcMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859561758781997367",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 12282,
+          "like_count": 1537,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 183
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/3socg1lcMm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 130,
+          "like_count": 4996,
+          "listed_count": 0,
+          "tweet_count": 687
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T07:30:15.000Z",
+        "description": "絶対結婚教",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@mgr_skb",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@mgr_skb",
+                "start": 0,
+                "url": "https://t.co/QUP7A4DWf1"
+              }
+            ]
+          }
+        },
+        "id": "1802604618641477632",
+        "location": "🔕 pfp:友達",
+        "name": "33円",
+        "pinned_tweet_id": "1803163477718286511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851215855973240832/EKB9Uo3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17438,
+          "following_count": 31,
+          "like_count": 4736,
+          "listed_count": 52,
+          "tweet_count": 1840
+        },
+        "url": "https://t.co/QUP7A4DWf1",
+        "username": "liilliilliilill",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,553 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1858544502719356928"
+      ],
+      "media_source_tweet_id": [
+        "1858545106565165154"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "1858709121098543351",
+    "created_at": "2024-11-19T03:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T04:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858709121098543351"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 67,
+          "normalized_text": "BocchiTheRock",
+          "probability": 0.7785,
+          "start": 55,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 27,
+          "tag": "ぼっちざろっく"
+        },
+        {
+          "end": 46,
+          "start": 36,
+          "tag": "ぼっち・ざ・ろっく"
+        },
+        {
+          "end": 53,
+          "start": 47,
+          "tag": "廣井きくり"
+        },
+        {
+          "end": 68,
+          "start": 54,
+          "tag": "BocchiTheRock"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1623973885182984192",
+          "start": 3,
+          "username": "Ghuler_Art"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mamxAiCpBk",
+          "end": 92,
+          "expanded_url": "https://x.com/Ghuler_Art/status/1858545106565165154/photo/1",
+          "media_key": "3_1858544502719356928",
+          "start": 69,
+          "url": "https://t.co/mamxAiCpBk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858709121098543351",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 466
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858545106565165154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ghuler_Art: It's cold\n\n#ぼっちざろっく #ぼっち・ざ・ろっく #廣井きくり #BocchiTheRock https://t.co/mamxAiCpBk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4050,
+        "media_key": "3_1858544502719356928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcrgYNPXoAAiuWX.jpg",
+        "width": 3240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858544502719356928"
+          ],
+          "media_source_tweet_id": [
+            "1858545106565165154"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1858709121098543351",
+        "created_at": "2024-11-19T03:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T04:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858709121098543351"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 67,
+              "normalized_text": "BocchiTheRock",
+              "probability": 0.7785,
+              "start": 55,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 27,
+              "tag": "ぼっちざろっく"
+            },
+            {
+              "end": 46,
+              "start": 36,
+              "tag": "ぼっち・ざ・ろっく"
+            },
+            {
+              "end": 53,
+              "start": 47,
+              "tag": "廣井きくり"
+            },
+            {
+              "end": 68,
+              "start": 54,
+              "tag": "BocchiTheRock"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1623973885182984192",
+              "start": 3,
+              "username": "Ghuler_Art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mamxAiCpBk",
+              "end": 92,
+              "expanded_url": "https://x.com/Ghuler_Art/status/1858545106565165154/photo/1",
+              "media_key": "3_1858544502719356928",
+              "start": 69,
+              "url": "https://t.co/mamxAiCpBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858709121098543351",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 466
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858545106565165154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ghuler_Art: It's cold\n\n#ぼっちざろっく #ぼっち・ざ・ろっく #廣井きくり #BocchiTheRock https://t.co/mamxAiCpBk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858544502719356928"
+          ]
+        },
+        "author_id": "1623973885182984192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1858545106565165154",
+        "created_at": "2024-11-18T16:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T17:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858545106565165154"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "きくり",
+              "probability": 0.4838,
+              "start": 34,
+              "type": "Person"
+            },
+            {
+              "end": 51,
+              "normalized_text": "BocchiTheRock",
+              "probability": 0.7303,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 11,
+              "tag": "ぼっちざろっく"
+            },
+            {
+              "end": 30,
+              "start": 20,
+              "tag": "ぼっち・ざ・ろっく"
+            },
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "廣井きくり"
+            },
+            {
+              "end": 52,
+              "start": 38,
+              "tag": "BocchiTheRock"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mamxAiCpBk",
+              "end": 76,
+              "expanded_url": "https://x.com/Ghuler_Art/status/1858545106565165154/photo/1",
+              "media_key": "3_1858544502719356928",
+              "start": 53,
+              "url": "https://t.co/mamxAiCpBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858545106565165154",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 243,
+          "impression_count": 16653,
+          "like_count": 3027,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 466
+        },
+        "reply_settings": "everyone",
+        "text": "It's cold\n\n#ぼっちざろっく #ぼっち・ざ・ろっく #廣井きくり #BocchiTheRock https://t.co/mamxAiCpBk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 126,
+          "like_count": 4924,
+          "listed_count": 0,
+          "tweet_count": 658
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-10T09:15:30.000Z",
+        "description": "I'm a little bit of drawer sometimes\n(DM for commissions)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Ghuler",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/Ghuler",
+                "start": 0,
+                "url": "https://t.co/qjdTgbwgdX"
+              }
+            ]
+          }
+        },
+        "id": "1623973885182984192",
+        "name": "Ghuler",
+        "pinned_tweet_id": "1858545106565165154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849673782052458496/5NDY0Xts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3559,
+          "following_count": 100,
+          "like_count": 3342,
+          "listed_count": 18,
+          "tweet_count": 320
+        },
+        "url": "https://t.co/qjdTgbwgdX",
+        "username": "Ghuler_Art",
+        "verified": false
+      }
+    ]
+  }
+}

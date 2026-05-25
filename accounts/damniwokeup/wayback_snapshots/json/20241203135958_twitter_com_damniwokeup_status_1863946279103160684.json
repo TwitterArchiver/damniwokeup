@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863765272533807104"
+      ],
+      "media_source_tweet_id": [
+        "1863765275000131986"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1863946279103160684",
+    "created_at": "2024-12-03T13:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T14:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863946279103160684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1793452310665777152",
+          "start": 3,
+          "username": "BocchiDeidad"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SyZBG3sp7o",
+          "end": 60,
+          "expanded_url": "https://x.com/BocchiDeidad/status/1863765275000131986/photo/1",
+          "media_key": "3_1863765272533807104",
+          "start": 37,
+          "url": "https://t.co/SyZBG3sp7o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863946279103160684",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863765275000131986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BocchiDeidad: Good nights guys 🩷 https://t.co/SyZBG3sp7o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1863765272533807104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd1spAYWMAAG9p8.jpg",
+        "width": 887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863765272533807104"
+          ],
+          "media_source_tweet_id": [
+            "1863765275000131986"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1863946279103160684",
+        "created_at": "2024-12-03T13:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T14:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863946279103160684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1793452310665777152",
+              "start": 3,
+              "username": "BocchiDeidad"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SyZBG3sp7o",
+              "end": 60,
+              "expanded_url": "https://x.com/BocchiDeidad/status/1863765275000131986/photo/1",
+              "media_key": "3_1863765272533807104",
+              "start": 37,
+              "url": "https://t.co/SyZBG3sp7o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863946279103160684",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863765275000131986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BocchiDeidad: Good nights guys 🩷 https://t.co/SyZBG3sp7o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863765272533807104"
+          ]
+        },
+        "author_id": "1793452310665777152",
+        "conversation_id": "1863765275000131986",
+        "created_at": "2024-12-03T02:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T03:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863765275000131986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SyZBG3sp7o",
+              "end": 42,
+              "expanded_url": "https://x.com/BocchiDeidad/status/1863765275000131986/photo/1",
+              "media_key": "3_1863765272533807104",
+              "start": 19,
+              "url": "https://t.co/SyZBG3sp7o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863765275000131986",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1005,
+          "like_count": 201,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "Good nights guys 🩷 https://t.co/SyZBG3sp7o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 143,
+          "like_count": 5516,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 889
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T01:22:19.000Z",
+        "description": "Cuenta dedicada a la besto guitarrista de las Kessoku band 🩷🎸//daily de Bocchi🩷//admin: @Fidel_Blue17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "Fidel_Blue17"
+              }
+            ]
+          }
+        },
+        "id": "1793452310665777152",
+        "location": "Starry",
+        "name": "Si te sigo eres fan de Hitori Gotoh🩷🎸",
+        "pinned_tweet_id": "1793464342303932656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863589545075195904/nP5mye_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6376,
+          "following_count": 1363,
+          "like_count": 4896,
+          "listed_count": 8,
+          "media_count": 1092,
+          "tweet_count": 3459
+        },
+        "username": "BocchiDeidad",
+        "verified": false
+      }
+    ]
+  }
+}

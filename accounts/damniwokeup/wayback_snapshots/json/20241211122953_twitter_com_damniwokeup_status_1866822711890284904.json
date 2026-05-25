@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866766852854255618"
+      ],
+      "media_source_tweet_id": [
+        "1866766858260713815"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1866822711890284904",
+    "created_at": "2024-12-11T12:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T13:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866822711890284904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1450292072833978368",
+          "start": 3,
+          "username": "tensenkujira"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8ivPrRMYNu",
+          "end": 56,
+          "expanded_url": "https://x.com/tensenkujira/status/1866766858260713815/photo/1",
+          "media_key": "3_1866766852854255618",
+          "start": 33,
+          "url": "https://t.co/8ivPrRMYNu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866822711890284904",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866766858260713815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tensenkujira: don't leave me https://t.co/8ivPrRMYNu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1866766852854255618",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GegWj-baEAIjyoA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866766852854255618"
+          ],
+          "media_source_tweet_id": [
+            "1866766858260713815"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1866822711890284904",
+        "created_at": "2024-12-11T12:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T13:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866822711890284904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1450292072833978368",
+              "start": 3,
+              "username": "tensenkujira"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ivPrRMYNu",
+              "end": 56,
+              "expanded_url": "https://x.com/tensenkujira/status/1866766858260713815/photo/1",
+              "media_key": "3_1866766852854255618",
+              "start": 33,
+              "url": "https://t.co/8ivPrRMYNu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866822711890284904",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866766858260713815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tensenkujira: don't leave me https://t.co/8ivPrRMYNu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866766852854255618"
+          ]
+        },
+        "author_id": "1450292072833978368",
+        "conversation_id": "1866766858260713815",
+        "created_at": "2024-12-11T08:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T09:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866766858260713815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ivPrRMYNu",
+              "end": 38,
+              "expanded_url": "https://x.com/tensenkujira/status/1866766858260713815/photo/1",
+              "media_key": "3_1866766852854255618",
+              "start": 15,
+              "url": "https://t.co/8ivPrRMYNu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866766858260713815",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1164,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "don't leave me https://t.co/8ivPrRMYNu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 5860,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1035
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-19T02:46:11.000Z",
+        "description": "絵描き All rights reserved. AI✘✉️:tensenkujira▢https://t.co/Ct4rb3vwSv ✧︎✧︎✧︎,12/11~「しずかの森」@Ato10Gallery ,1月,3月✧︎✧︎✧︎ 【https://t.co/NFHyCXXTrb】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "Ato10Gallery"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 67,
+                "expanded_url": "http://gmail.com",
+                "start": 44,
+                "url": "https://t.co/Ct4rb3vwSv"
+              },
+              {
+                "display_url": "instagram.com/tensenkujira",
+                "end": 139,
+                "expanded_url": "https://www.instagram.com/tensenkujira",
+                "start": 116,
+                "url": "https://t.co/NFHyCXXTrb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/tensenkujira?u…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/tensenkujira?utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/nvqZgcYpjQ"
+              }
+            ]
+          }
+        },
+        "id": "1450292072833978368",
+        "name": "てんせん",
+        "pinned_tweet_id": "1787030198644543829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681842135275032576/BDFkOW_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2894,
+          "following_count": 167,
+          "like_count": 5292,
+          "listed_count": 38,
+          "media_count": 381,
+          "tweet_count": 2034
+        },
+        "url": "https://t.co/nvqZgcYpjQ",
+        "username": "tensenkujira",
+        "verified": false
+      }
+    ]
+  }
+}

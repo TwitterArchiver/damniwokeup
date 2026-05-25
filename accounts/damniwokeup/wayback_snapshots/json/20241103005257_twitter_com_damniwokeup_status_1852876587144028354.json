@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1852789135360311296"
+      ],
+      "media_source_tweet_id": [
+        "1852789497227849920"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1852876587144028354",
+    "created_at": "2024-11-03T00:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T01:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852876587144028354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1441717126474002432",
+          "start": 3,
+          "username": "ChainsawManDog"
+        },
+        {
+          "end": 40,
+          "id": "442737979",
+          "start": 33,
+          "username": "hews__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NecabR7yTf",
+          "end": 64,
+          "expanded_url": "https://x.com/ChainsawManDog/status/1852789497227849920/photo/1",
+          "media_key": "3_1852789135360311296",
+          "start": 41,
+          "url": "https://t.co/NecabR7yTf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852876587144028354",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 286
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852789497227849920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChainsawManDog: Perfection 💝 @hews__ https://t.co/NecabR7yTf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1847,
+        "media_key": "3_1852789135360311296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbZt5vDawAAA76s.jpg",
+        "width": 1034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852789135360311296"
+          ],
+          "media_source_tweet_id": [
+            "1852789497227849920"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1852876587144028354",
+        "created_at": "2024-11-03T00:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T01:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852876587144028354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1441717126474002432",
+              "start": 3,
+              "username": "ChainsawManDog"
+            },
+            {
+              "end": 40,
+              "id": "442737979",
+              "start": 33,
+              "username": "hews__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NecabR7yTf",
+              "end": 64,
+              "expanded_url": "https://x.com/ChainsawManDog/status/1852789497227849920/photo/1",
+              "media_key": "3_1852789135360311296",
+              "start": 41,
+              "url": "https://t.co/NecabR7yTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852876587144028354",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 286
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852789497227849920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChainsawManDog: Perfection 💝 @hews__ https://t.co/NecabR7yTf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852789135360311296"
+          ]
+        },
+        "author_id": "1441717126474002432",
+        "conversation_id": "1852789497227849920",
+        "created_at": "2024-11-02T19:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T20:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852789497227849920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "442737979",
+              "start": 13,
+              "username": "hews__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NecabR7yTf",
+              "end": 44,
+              "expanded_url": "https://x.com/ChainsawManDog/status/1852789497227849920/photo/1",
+              "media_key": "3_1852789135360311296",
+              "start": 21,
+              "url": "https://t.co/NecabR7yTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852789497227849920",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 727,
+          "impression_count": 26801,
+          "like_count": 4103,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 286
+        },
+        "reply_settings": "everyone",
+        "text": "Perfection 💝 @hews__ https://t.co/NecabR7yTf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847962644852162560/UJMfw11t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 122,
+          "like_count": 4549,
+          "listed_count": 0,
+          "tweet_count": 487
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-25T10:52:35.000Z",
+        "description": "Daily CHAINSAW MAN posts. Mostly Makima 💗",
+        "id": "1441717126474002432",
+        "location": "Makima and Yoru enjoyer.",
+        "name": "CHAINSAW MAN - Makima (Perfect Shots) 🍭",
+        "pinned_tweet_id": "1849188876260356338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630528369421869058/yDMswQZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151759,
+          "following_count": 33,
+          "like_count": 599,
+          "listed_count": 264,
+          "tweet_count": 798
+        },
+        "username": "ChainsawManDog",
+        "verified": true
+      },
+      {
+        "created_at": "2011-12-21T12:14:20.000Z",
+        "description": "illustrator and for business work, DM me here",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/hewsie",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/hewsie",
+                "start": 0,
+                "url": "https://t.co/SRE4oEhKVJ"
+              }
+            ]
+          }
+        },
+        "id": "442737979",
+        "name": "hews",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722891241401298944/ZrYel2-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253338,
+          "following_count": 997,
+          "like_count": 9766,
+          "listed_count": 7497,
+          "tweet_count": 11881
+        },
+        "url": "https://t.co/SRE4oEhKVJ",
+        "username": "hews__",
+        "verified": true
+      }
+    ]
+  }
+}

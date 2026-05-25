@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890799745070977024"
+      ],
+      "media_source_tweet_id": [
+        "1890799748363206738"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1891335244835438713",
+    "created_at": "2025-02-17T03:53:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T04:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891335244835438713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1269518264490618880",
+          "start": 3,
+          "username": "basedukas"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/poEpQKk43b",
+          "end": 52,
+          "expanded_url": "https://x.com/basedukas/status/1890799748363206738/photo/1",
+          "media_key": "3_1890799745070977024",
+          "start": 29,
+          "url": "https://t.co/poEpQKk43b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891335244835438713",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 396
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890799748363206738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @basedukas: Good mourning https://t.co/poEpQKk43b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1178,
+        "media_key": "3_1890799745070977024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj14Wapa0AAXKr2.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890799745070977024"
+          ],
+          "media_source_tweet_id": [
+            "1890799748363206738"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1891335244835438713",
+        "created_at": "2025-02-17T03:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T04:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891335244835438713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1269518264490618880",
+              "start": 3,
+              "username": "basedukas"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/poEpQKk43b",
+              "end": 52,
+              "expanded_url": "https://x.com/basedukas/status/1890799748363206738/photo/1",
+              "media_key": "3_1890799745070977024",
+              "start": 29,
+              "url": "https://t.co/poEpQKk43b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891335244835438713",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 396
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890799748363206738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @basedukas: Good mourning https://t.co/poEpQKk43b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890799745070977024"
+          ]
+        },
+        "author_id": "1269518264490618880",
+        "conversation_id": "1890799748363206738",
+        "created_at": "2025-02-15T16:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T17:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890799748363206738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/poEpQKk43b",
+              "end": 37,
+              "expanded_url": "https://x.com/basedukas/status/1890799748363206738/photo/1",
+              "media_key": "3_1890799745070977024",
+              "start": 14,
+              "url": "https://t.co/poEpQKk43b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890799748363206738",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 261,
+          "impression_count": 27154,
+          "like_count": 2717,
+          "quote_count": 4,
+          "reply_count": 9,
+          "retweet_count": 396
+        },
+        "reply_settings": "everyone",
+        "text": "Good mourning https://t.co/poEpQKk43b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "Our very existence belongs to pride.",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 149,
+          "like_count": 6955,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1331
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-07T06:35:25.000Z",
+        "description": "Struggling soldier of God • RW Asuka enjoyer • @Gothsato meme plug • sad hapa • THE STUFF I POST I DO NOT OWN BC NO ONE OWNS SHIT ON THE INTERNET",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "Gothsato"
+              }
+            ]
+          }
+        },
+        "id": "1269518264490618880",
+        "name": "Baseduka",
+        "pinned_tweet_id": "1844105320899215498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875944869316964352/WxvXARM__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16870,
+          "following_count": 544,
+          "like_count": 58916,
+          "listed_count": 36,
+          "media_count": 4256,
+          "tweet_count": 8910
+        },
+        "username": "basedukas",
+        "verified": false
+      }
+    ]
+  }
+}

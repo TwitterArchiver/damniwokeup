@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857307643565793280"
+      ],
+      "media_source_tweet_id": [
+        "1857307650951913708"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1857454128815104050",
+    "created_at": "2024-11-15T16:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T17:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857454128815104050"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 20,
+          "tag": "東方Project"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1773961410319638528",
+          "start": 3,
+          "username": "_Regenschirm__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/llGb880M2E",
+          "end": 54,
+          "expanded_url": "https://x.com/_Regenschirm__/status/1857307650951913708/photo/1",
+          "media_key": "3_1857307643565793280",
+          "start": 31,
+          "url": "https://t.co/llGb880M2E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857454128815104050",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 506
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857307650951913708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Regenschirm__: #東方Project https://t.co/llGb880M2E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1857307643565793280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcZ7dh1bYAA1iSD.jpg",
+        "width": 1862
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857307643565793280"
+          ],
+          "media_source_tweet_id": [
+            "1857307650951913708"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1857454128815104050",
+        "created_at": "2024-11-15T16:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T17:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857454128815104050"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 20,
+              "tag": "東方Project"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1773961410319638528",
+              "start": 3,
+              "username": "_Regenschirm__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/llGb880M2E",
+              "end": 54,
+              "expanded_url": "https://x.com/_Regenschirm__/status/1857307650951913708/photo/1",
+              "media_key": "3_1857307643565793280",
+              "start": 31,
+              "url": "https://t.co/llGb880M2E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857454128815104050",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 506
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857307650951913708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Regenschirm__: #東方Project https://t.co/llGb880M2E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857307643565793280"
+          ]
+        },
+        "author_id": "1773961410319638528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1857307650951913708",
+        "created_at": "2024-11-15T06:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T07:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857307650951913708"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/llGb880M2E",
+              "end": 34,
+              "expanded_url": "https://x.com/_Regenschirm__/status/1857307650951913708/photo/1",
+              "media_key": "3_1857307643565793280",
+              "start": 11,
+              "url": "https://t.co/llGb880M2E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857307650951913708",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 370,
+          "impression_count": 67582,
+          "like_count": 4533,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 506
+        },
+        "reply_settings": "everyone",
+        "text": "#東方Project https://t.co/llGb880M2E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 125,
+          "like_count": 4799,
+          "listed_count": 0,
+          "tweet_count": 605
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T06:32:22.000Z",
+        "description": "",
+        "id": "1773961410319638528",
+        "location": "地霊殿",
+        "name": "傘_",
+        "pinned_tweet_id": "1854867763782947043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811064101105459200/fx18Gbnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11124,
+          "following_count": 355,
+          "like_count": 778,
+          "listed_count": 83,
+          "tweet_count": 32
+        },
+        "username": "_Regenschirm__",
+        "verified": false
+      }
+    ]
+  }
+}

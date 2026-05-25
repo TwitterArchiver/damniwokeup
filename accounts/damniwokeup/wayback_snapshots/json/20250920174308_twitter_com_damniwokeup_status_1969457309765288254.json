@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969008458466037760"
+      ],
+      "media_source_tweet_id": [
+        "1969008467273744409"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1969457309765288254",
+    "created_at": "2025-09-20T17:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T18:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969457309765288254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1609618371489701888",
+          "start": 3,
+          "username": "parmetroid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dRPPc9g3mF",
+          "end": 45,
+          "expanded_url": "https://x.com/parmetroid/status/1969008467273744409/photo/1",
+          "media_key": "3_1969008458466037760",
+          "start": 22,
+          "url": "https://t.co/dRPPc9g3mF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969457309765288254",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 536
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969008467273744409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @parmetroid: ehh.. https://t.co/dRPPc9g3mF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1969008458466037760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1NSwr6bkAAx6ue.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969008458466037760"
+          ],
+          "media_source_tweet_id": [
+            "1969008467273744409"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1969457309765288254",
+        "created_at": "2025-09-20T17:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T18:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969457309765288254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1609618371489701888",
+              "start": 3,
+              "username": "parmetroid"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dRPPc9g3mF",
+              "end": 45,
+              "expanded_url": "https://x.com/parmetroid/status/1969008467273744409/photo/1",
+              "media_key": "3_1969008458466037760",
+              "start": 22,
+              "url": "https://t.co/dRPPc9g3mF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969457309765288254",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 536
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969008467273744409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @parmetroid: ehh.. https://t.co/dRPPc9g3mF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969008458466037760"
+          ]
+        },
+        "author_id": "1609618371489701888",
+        "conversation_id": "1969008467273744409",
+        "created_at": "2025-09-19T11:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T12:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969008467273744409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dRPPc9g3mF",
+              "end": 29,
+              "expanded_url": "https://x.com/parmetroid/status/1969008467273744409/photo/1",
+              "media_key": "3_1969008458466037760",
+              "start": 6,
+              "url": "https://t.co/dRPPc9g3mF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969008467273744409",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1908,
+          "impression_count": 125024,
+          "like_count": 12296,
+          "quote_count": 21,
+          "reply_count": 38,
+          "retweet_count": 536
+        },
+        "reply_settings": "following",
+        "text": "ehh.. https://t.co/dRPPc9g3mF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Phoenix, AZ",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 140,
+          "like_count": 6968,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1255
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T18:31:50.000Z",
+        "description": "cosplay.                                                     no adult content",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/parmetroid?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/parmetroid?igsh=MTRyN21yaHU5aTkydw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/i1sviZLzPA"
+              }
+            ]
+          }
+        },
+        "id": "1609618371489701888",
+        "name": "pampam",
+        "pinned_tweet_id": "1958019575536128454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965410753722171392/MNDiN7IB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16633,
+          "following_count": 334,
+          "like_count": 16733,
+          "listed_count": 31,
+          "media_count": 1261,
+          "tweet_count": 5771
+        },
+        "url": "https://t.co/i1sviZLzPA",
+        "username": "parmetroid",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863648628306518016"
+      ],
+      "media_source_tweet_id": [
+        "1863776419760968082"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1863943461155799402",
+    "created_at": "2024-12-03T13:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T14:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863943461155799402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "933023097673748480",
+          "start": 3,
+          "username": "aroamoyasi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zvjPEQi0ac",
+          "end": 39,
+          "expanded_url": "https://x.com/aroamoyasi/status/1863776419760968082/photo/1",
+          "media_key": "3_1863648628306518016",
+          "start": 16,
+          "url": "https://t.co/zvjPEQi0ac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863943461155799402",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 379
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863776419760968082",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aroamoyasi: https://t.co/zvjPEQi0ac"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1860,
+        "media_key": "3_1863648628306518016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd0CjaxaoAAqQY5.jpg",
+        "width": 1315
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863648628306518016"
+          ],
+          "media_source_tweet_id": [
+            "1863776419760968082"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1863943461155799402",
+        "created_at": "2024-12-03T13:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T14:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863943461155799402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "933023097673748480",
+              "start": 3,
+              "username": "aroamoyasi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zvjPEQi0ac",
+              "end": 39,
+              "expanded_url": "https://x.com/aroamoyasi/status/1863776419760968082/photo/1",
+              "media_key": "3_1863648628306518016",
+              "start": 16,
+              "url": "https://t.co/zvjPEQi0ac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863943461155799402",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 379
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863776419760968082",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aroamoyasi: https://t.co/zvjPEQi0ac"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863648628306518016"
+          ]
+        },
+        "author_id": "933023097673748480",
+        "conversation_id": "1863776419760968082",
+        "created_at": "2024-12-03T02:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T03:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863776419760968082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zvjPEQi0ac",
+              "end": 23,
+              "expanded_url": "https://x.com/aroamoyasi/status/1863776419760968082/photo/1",
+              "media_key": "3_1863648628306518016",
+              "start": 0,
+              "url": "https://t.co/zvjPEQi0ac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863776419760968082",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 304,
+          "impression_count": 52092,
+          "like_count": 3320,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 379
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zvjPEQi0ac"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 143,
+          "like_count": 5513,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 888
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-21T17:23:36.000Z",
+        "description": "フリーのイラストレーター/白髪と四季と儚い女の子が好き。ヴィレヴァンコラボ、電撃文庫『赤点魔女に異世界最強の個別指導を！』、ホロライブ、プロセカなど。ご依頼はメールか下記HPにて 。【✉メール】：aroa138938＠gmail.com 【Youtube】https://t.co/QA7iuMgpWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@aroa32440",
+                "end": 151,
+                "expanded_url": "http://youtube.com/@aroa32440",
+                "start": 128,
+                "url": "https://t.co/QA7iuMgpWo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aroa138.tumblr.com/post/629297983…",
+                "end": 23,
+                "expanded_url": "https://aroa138.tumblr.com/post/629297983288197120/%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B",
+                "start": 0,
+                "url": "https://t.co/8sdPwU4tBf"
+              }
+            ]
+          }
+        },
+        "id": "933023097673748480",
+        "location": "ご依頼＆過去の実績は下記ホームページから",
+        "name": "あろあ@C105 月曜日 西 “す”01a(西２ホール)",
+        "pinned_tweet_id": "1774987618314551615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1473247172607242242/XOzmltF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128785,
+          "following_count": 856,
+          "like_count": 4547,
+          "listed_count": 1237,
+          "media_count": 540,
+          "tweet_count": 2678
+        },
+        "url": "https://t.co/8sdPwU4tBf",
+        "username": "aroamoyasi",
+        "verified": true
+      }
+    ]
+  }
+}

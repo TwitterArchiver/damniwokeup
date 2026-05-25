@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860672820818378752"
+      ],
+      "media_source_tweet_id": [
+        "1860672844277190824"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1860984030780702954",
+    "created_at": "2024-11-25T09:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T10:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860984030780702954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1195711247175434240",
+          "start": 3,
+          "username": "15907300wer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j6gDDQldml",
+          "end": 40,
+          "expanded_url": "https://x.com/15907300wer/status/1860672844277190824/photo/1",
+          "media_key": "3_1860672820818378752",
+          "start": 17,
+          "url": "https://t.co/j6gDDQldml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860984030780702954",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3626
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860672844277190824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @15907300wer: https://t.co/j6gDDQldml"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1627,
+        "media_key": "3_1860672820818378752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdJwEoAagAAfhrW.jpg",
+        "width": 3083
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860672820818378752"
+          ],
+          "media_source_tweet_id": [
+            "1860672844277190824"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1860984030780702954",
+        "created_at": "2024-11-25T09:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T10:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860984030780702954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1195711247175434240",
+              "start": 3,
+              "username": "15907300wer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6gDDQldml",
+              "end": 40,
+              "expanded_url": "https://x.com/15907300wer/status/1860672844277190824/photo/1",
+              "media_key": "3_1860672820818378752",
+              "start": 17,
+              "url": "https://t.co/j6gDDQldml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860984030780702954",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3626
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860672844277190824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @15907300wer: https://t.co/j6gDDQldml"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860672820818378752"
+          ]
+        },
+        "author_id": "1195711247175434240",
+        "conversation_id": "1860672844277190824",
+        "created_at": "2024-11-24T13:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T14:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860672844277190824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6gDDQldml",
+              "end": 23,
+              "expanded_url": "https://x.com/15907300wer/status/1860672844277190824/photo/1",
+              "media_key": "3_1860672820818378752",
+              "start": 0,
+              "url": "https://t.co/j6gDDQldml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860672844277190824",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2958,
+          "impression_count": 375216,
+          "like_count": 26455,
+          "quote_count": 21,
+          "reply_count": 12,
+          "retweet_count": 3626
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/j6gDDQldml"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 132,
+          "like_count": 5102,
+          "listed_count": 0,
+          "tweet_count": 746
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-16T14:32:36.000Z",
+        "description": "不会画画，禁止AI训练。大学牲绝赞打工中。英语很烂工作合作请说中文：hollning818@gmail.com",
+        "id": "1195711247175434240",
+        "location": "地球",
+        "name": "Hollning",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1576617168648736773/NOhpgl0X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98254,
+          "following_count": 533,
+          "like_count": 3464,
+          "listed_count": 512,
+          "tweet_count": 731
+        },
+        "username": "15907300wer",
+        "verified": false
+      }
+    ]
+  }
+}

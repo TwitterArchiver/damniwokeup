@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857379949587644416"
+      ],
+      "media_source_tweet_id": [
+        "1857379964695527811"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1857605341716033726",
+    "created_at": "2024-11-16T02:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T03:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857605341716033726"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "鳴潮"
+        },
+        {
+          "end": 45,
+          "start": 30,
+          "tag": "WutheringWaves"
+        },
+        {
+          "end": 50,
+          "start": 46,
+          "tag": "ツバキ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1520736489923313665",
+          "start": 3,
+          "username": "pkokonatu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IOAbiV8JFs",
+          "end": 74,
+          "expanded_url": "https://x.com/pkokonatu/status/1857379964695527811/photo/1",
+          "media_key": "3_1857379949587644416",
+          "start": 51,
+          "url": "https://t.co/IOAbiV8JFs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857605341716033726",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2496
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857379964695527811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pkokonatu: Camellya🥀🖤\n#鳴潮 #WutheringWaves #ツバキ https://t.co/IOAbiV8JFs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1857379949587644416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gca9OSwawAAT1t1.jpg",
+        "width": 1367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857379949587644416"
+          ],
+          "media_source_tweet_id": [
+            "1857379964695527811"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1857605341716033726",
+        "created_at": "2024-11-16T02:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T03:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857605341716033726"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "鳴潮"
+            },
+            {
+              "end": 45,
+              "start": 30,
+              "tag": "WutheringWaves"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "ツバキ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1520736489923313665",
+              "start": 3,
+              "username": "pkokonatu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IOAbiV8JFs",
+              "end": 74,
+              "expanded_url": "https://x.com/pkokonatu/status/1857379964695527811/photo/1",
+              "media_key": "3_1857379949587644416",
+              "start": 51,
+              "url": "https://t.co/IOAbiV8JFs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857605341716033726",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2496
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857379964695527811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pkokonatu: Camellya🥀🖤\n#鳴潮 #WutheringWaves #ツバキ https://t.co/IOAbiV8JFs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857379949587644416"
+          ]
+        },
+        "author_id": "1520736489923313665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1857379964695527811",
+        "created_at": "2024-11-15T11:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T12:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857379964695527811"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "鳴潮"
+            },
+            {
+              "end": 30,
+              "start": 15,
+              "tag": "WutheringWaves"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "ツバキ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IOAbiV8JFs",
+              "end": 59,
+              "expanded_url": "https://x.com/pkokonatu/status/1857379964695527811/photo/1",
+              "media_key": "3_1857379949587644416",
+              "start": 36,
+              "url": "https://t.co/IOAbiV8JFs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857379964695527811",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3413,
+          "impression_count": 400815,
+          "like_count": 26694,
+          "quote_count": 36,
+          "reply_count": 6,
+          "retweet_count": 2496
+        },
+        "reply_settings": "everyone",
+        "text": "Camellya🥀🖤\n#鳴潮 #WutheringWaves #ツバキ https://t.co/IOAbiV8JFs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 125,
+          "like_count": 4809,
+          "listed_count": 0,
+          "tweet_count": 611
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-01T12:06:58.000Z",
+        "description": "ぴり辛ココナッツ/ご連絡DMか✉️(pkokonatu🥥https://t.co/XCDVLw6eut) 🥥▶︎@まで /",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 51,
+                "expanded_url": "http://gmail.com",
+                "start": 28,
+                "url": "https://t.co/XCDVLw6eut"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/pkokonatu",
+                "end": 23,
+                "expanded_url": "https://lit.link/pkokonatu",
+                "start": 0,
+                "url": "https://t.co/2V7765GiFc"
+              }
+            ]
+          }
+        },
+        "id": "1520736489923313665",
+        "location": "トレス、転載、AI学習🆖",
+        "name": "ｺ🥥c105(日)東6'ツ'38b",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1528702790876659717/XObVIvjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125144,
+          "following_count": 325,
+          "like_count": 916,
+          "listed_count": 851,
+          "tweet_count": 1699
+        },
+        "url": "https://t.co/2V7765GiFc",
+        "username": "pkokonatu",
+        "verified": false
+      }
+    ]
+  }
+}

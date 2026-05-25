@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1853475591904952320"
+      ],
+      "media_source_tweet_id": [
+        "1853475596866838968"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1853719332066652181",
+    "created_at": "2024-11-05T08:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-05T09:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853719332066652181"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "ミミック",
+          "probability": 0.4373,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1675840811664281601",
+          "start": 3,
+          "username": "Nos__fri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cmwMkxgaQD",
+          "end": 42,
+          "expanded_url": "https://x.com/Nos__fri/status/1853475596866838968/photo/1",
+          "media_key": "3_1853475591904952320",
+          "start": 19,
+          "url": "https://t.co/cmwMkxgaQD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853719332066652181",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 135
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853475596866838968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nos__fri: ミミック https://t.co/cmwMkxgaQD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 638,
+        "media_key": "3_1853475591904952320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbjeOw9aAAAPQhr.jpg",
+        "width": 638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853475591904952320"
+          ],
+          "media_source_tweet_id": [
+            "1853475596866838968"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1853719332066652181",
+        "created_at": "2024-11-05T08:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T09:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853719332066652181"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "ミミック",
+              "probability": 0.4373,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1675840811664281601",
+              "start": 3,
+              "username": "Nos__fri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cmwMkxgaQD",
+              "end": 42,
+              "expanded_url": "https://x.com/Nos__fri/status/1853475596866838968/photo/1",
+              "media_key": "3_1853475591904952320",
+              "start": 19,
+              "url": "https://t.co/cmwMkxgaQD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853719332066652181",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853475596866838968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nos__fri: ミミック https://t.co/cmwMkxgaQD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853475591904952320"
+          ]
+        },
+        "author_id": "1675840811664281601",
+        "conversation_id": "1853475596866838968",
+        "created_at": "2024-11-04T16:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T17:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853475596866838968"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "ミミック",
+              "probability": 0.4088,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cmwMkxgaQD",
+              "end": 28,
+              "expanded_url": "https://x.com/Nos__fri/status/1853475596866838968/photo/1",
+              "media_key": "3_1853475591904952320",
+              "start": 5,
+              "url": "https://t.co/cmwMkxgaQD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853475596866838968",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 10259,
+          "like_count": 1388,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 135
+        },
+        "reply_settings": "everyone",
+        "text": "ミミック https://t.co/cmwMkxgaQD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 124,
+          "like_count": 4644,
+          "listed_count": 0,
+          "tweet_count": 524
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T12:17:21.000Z",
+        "description": "20↑/好きなもの色々、雑食/主にヒンフリと勇者一行/アプリネタバレあり/支部https://t.co/DkSZd0Cyjm /青空 https://t.co/MAZlDIxHVv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/96354765",
+                "end": 62,
+                "expanded_url": "https://www.pixiv.net/users/96354765",
+                "start": 39,
+                "url": "https://t.co/DkSZd0Cyjm"
+              },
+              {
+                "display_url": "bsky.app/profile/nosfri…",
+                "end": 90,
+                "expanded_url": "https://bsky.app/profile/nosfri.bsky.social",
+                "start": 67,
+                "url": "https://t.co/MAZlDIxHVv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/e5wvhznp4…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/e5wvhznp45ogdghi/",
+                "start": 0,
+                "url": "https://t.co/7TGxd9eAVM"
+              }
+            ]
+          }
+        },
+        "id": "1675840811664281601",
+        "location": "無断転載・無断使用禁止",
+        "name": "のす",
+        "pinned_tweet_id": "1834970901462630439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749778298266415104/J5878HIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4963,
+          "following_count": 83,
+          "like_count": 12413,
+          "listed_count": 17,
+          "tweet_count": 7756
+        },
+        "url": "https://t.co/7TGxd9eAVM",
+        "username": "Nos__fri",
+        "verified": false
+      }
+    ]
+  }
+}

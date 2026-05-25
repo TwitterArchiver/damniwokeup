@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862486330963345409"
+      ],
+      "media_source_tweet_id": [
+        "1862486900461998347"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1862775898266902627",
+    "created_at": "2024-11-30T08:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T09:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862775898266902627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1108601534600761350",
+          "start": 3,
+          "username": "krinnnin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XD6WhnNPBP",
+          "end": 44,
+          "expanded_url": "https://x.com/krinnnin/status/1862486900461998347/photo/1",
+          "media_key": "3_1862486330963345409",
+          "start": 21,
+          "url": "https://t.co/XD6WhnNPBP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862775898266902627",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1865
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862486900461998347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @krinnnin: Ellen🦈 https://t.co/XD6WhnNPBP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3323,
+        "media_key": "3_1862486330963345409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdjhczwXQAEUuGg.jpg",
+        "width": 1750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862486330963345409"
+          ],
+          "media_source_tweet_id": [
+            "1862486900461998347"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1862775898266902627",
+        "created_at": "2024-11-30T08:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T09:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862775898266902627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1108601534600761350",
+              "start": 3,
+              "username": "krinnnin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XD6WhnNPBP",
+              "end": 44,
+              "expanded_url": "https://x.com/krinnnin/status/1862486900461998347/photo/1",
+              "media_key": "3_1862486330963345409",
+              "start": 21,
+              "url": "https://t.co/XD6WhnNPBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862775898266902627",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1865
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862486900461998347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @krinnnin: Ellen🦈 https://t.co/XD6WhnNPBP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862486330963345409"
+          ]
+        },
+        "author_id": "1108601534600761350",
+        "conversation_id": "1862486900461998347",
+        "created_at": "2024-11-29T13:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T14:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862486900461998347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XD6WhnNPBP",
+              "end": 30,
+              "expanded_url": "https://x.com/krinnnin/status/1862486900461998347/photo/1",
+              "media_key": "3_1862486330963345409",
+              "start": 7,
+              "url": "https://t.co/XD6WhnNPBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862486900461998347",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1738,
+          "impression_count": 245385,
+          "like_count": 18569,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 1865
+        },
+        "reply_settings": "everyone",
+        "text": "Ellen🦈 https://t.co/XD6WhnNPBP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 135,
+          "like_count": 5298,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 818
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-21T05:29:37.000Z",
+        "description": "Freelance Illustrator | English |\n✉︎Email: krin13957@gmail.com\nhttps://t.co/66cKOJPQyU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/krinnnin",
+                "end": 86,
+                "expanded_url": "http://linktr.ee/krinnnin",
+                "start": 63,
+                "url": "https://t.co/66cKOJPQyU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/krinnnin",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/krinnnin",
+                "start": 0,
+                "url": "https://t.co/TKBUmomwYj"
+              }
+            ]
+          }
+        },
+        "id": "1108601534600761350",
+        "location": "Singapore",
+        "name": "krin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490896723601809409/m7IeK8qg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64594,
+          "following_count": 2171,
+          "like_count": 2639,
+          "listed_count": 471,
+          "media_count": 142,
+          "tweet_count": 786
+        },
+        "url": "https://t.co/TKBUmomwYj",
+        "username": "krinnnin",
+        "verified": false
+      }
+    ]
+  }
+}

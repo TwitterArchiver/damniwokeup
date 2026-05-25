@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026943577616740352"
+      ],
+      "media_source_tweet_id": [
+        "2026943580871462940"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "2027184075598184553",
+    "created_at": "2026-02-27T00:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T01:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027184075598184553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1862707908573827072",
+          "start": 3,
+          "username": "kawoshin0606"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4HuTuXAB3Q",
+          "end": 41,
+          "expanded_url": "https://x.com/kawoshin0606/status/2026943580871462940/photo/1",
+          "media_key": "3_2026943577616740352",
+          "start": 18,
+          "url": "https://t.co/4HuTuXAB3Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027184075598184553",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026943580871462940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kawoshin0606: https://t.co/4HuTuXAB3Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1406,
+        "media_key": "3_2026943577616740352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEmcdOa8AAi6SA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026943577616740352"
+          ],
+          "media_source_tweet_id": [
+            "2026943580871462940"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "2027184075598184553",
+        "created_at": "2026-02-27T00:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T01:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027184075598184553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1862707908573827072",
+              "start": 3,
+              "username": "kawoshin0606"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4HuTuXAB3Q",
+              "end": 41,
+              "expanded_url": "https://x.com/kawoshin0606/status/2026943580871462940/photo/1",
+              "media_key": "3_2026943577616740352",
+              "start": 18,
+              "url": "https://t.co/4HuTuXAB3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027184075598184553",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026943580871462940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kawoshin0606: https://t.co/4HuTuXAB3Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026943577616740352"
+          ]
+        },
+        "author_id": "1862707908573827072",
+        "conversation_id": "2026943580871462940",
+        "created_at": "2026-02-26T08:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026943580871462940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4HuTuXAB3Q",
+              "end": 23,
+              "expanded_url": "https://x.com/kawoshin0606/status/2026943580871462940/photo/1",
+              "media_key": "3_2026943577616740352",
+              "start": 0,
+              "url": "https://t.co/4HuTuXAB3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026943580871462940",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 4821,
+          "like_count": 744,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4HuTuXAB3Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2026181607040925930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 154,
+          "like_count": 7712,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1362
+        },
+        "username": "damniwokeup",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-30T03:59:15.000Z",
+        "description": "앜짝텐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/kawoshin00606",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/kawoshin00606",
+                "start": 0,
+                "url": "https://t.co/MFu4PaDuNF"
+              }
+            ]
+          }
+        },
+        "id": "1862707908573827072",
+        "location": "헤더:살려조님",
+        "name": "김기원",
+        "pinned_tweet_id": "1983791437583151249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977032132586618884/XChEELvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 77,
+          "like_count": 4043,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 3168
+        },
+        "url": "https://t.co/MFu4PaDuNF",
+        "username": "kawoshin0606",
+        "verified": false
+      }
+    ]
+  }
+}

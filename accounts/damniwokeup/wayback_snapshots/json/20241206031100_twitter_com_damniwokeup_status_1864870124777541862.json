@@ -1,0 +1,643 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864714341171499011"
+      ],
+      "media_source_tweet_id": [
+        "1864714371047526542"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1864870124777541862",
+    "created_at": "2024-12-06T03:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T04:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864870124777541862"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 17,
+          "tag": "ぼっち・ざ・ろっく"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "732295081",
+          "start": 3,
+          "username": "JL_T4N"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uPI2hXoI1j",
+          "end": 51,
+          "expanded_url": "https://x.com/JL_T4N/status/1864714371047526542/photo/1",
+          "media_key": "3_1864714341171499011",
+          "start": 28,
+          "url": "https://t.co/uPI2hXoI1j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864870124777541862",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 514
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864714371047526542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JL_T4N: rkgk\n#ぼっち・ざ・ろっく https://t.co/uPI2hXoI1j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_1864714341171499011",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeDL0EkakAMFo20.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864714341171499011"
+          ],
+          "media_source_tweet_id": [
+            "1864714371047526542"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1864870124777541862",
+        "created_at": "2024-12-06T03:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T04:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864870124777541862"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 17,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "732295081",
+              "start": 3,
+              "username": "JL_T4N"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPI2hXoI1j",
+              "end": 51,
+              "expanded_url": "https://x.com/JL_T4N/status/1864714371047526542/photo/1",
+              "media_key": "3_1864714341171499011",
+              "start": 28,
+              "url": "https://t.co/uPI2hXoI1j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864870124777541862",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 514
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864714371047526542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JL_T4N: rkgk\n#ぼっち・ざ・ろっく https://t.co/uPI2hXoI1j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864714341171499011"
+          ]
+        },
+        "author_id": "732295081",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1864714371047526542",
+        "created_at": "2024-12-05T16:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T17:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864714371047526542"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 5,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPI2hXoI1j",
+              "end": 39,
+              "expanded_url": "https://x.com/JL_T4N/status/1864714371047526542/photo/1",
+              "media_key": "3_1864714341171499011",
+              "start": 16,
+              "url": "https://t.co/uPI2hXoI1j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864714371047526542",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 355,
+          "impression_count": 41971,
+          "like_count": 3718,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 514
+        },
+        "reply_settings": "everyone",
+        "text": "rkgk\n#ぼっち・ざ・ろっく https://t.co/uPI2hXoI1j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 144,
+          "like_count": 5626,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 935
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-02T06:31:33.000Z",
+        "description": "あと少しだけ 僕は眠らずに\n\nArtist/Illustrator/Quaso\njlt4n @ bluesky\nComms: https://t.co/6b1D0mwK28 https://t.co/2DnX61r6gc\nFanbox: https://t.co/HuZV6wYQ2H\n📧 salieri.1.048@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/JLT4N",
+                "end": 86,
+                "expanded_url": "http://lit.link/JLT4N",
+                "start": 63,
+                "url": "https://t.co/6b1D0mwK28"
+              },
+              {
+                "display_url": "vgen.co/JL_T4N",
+                "end": 110,
+                "expanded_url": "http://vgen.co/JL_T4N",
+                "start": 87,
+                "url": "https://t.co/2DnX61r6gc"
+              },
+              {
+                "display_url": "jltan.fanbox.cc",
+                "end": 142,
+                "expanded_url": "http://jltan.fanbox.cc",
+                "start": 119,
+                "url": "https://t.co/HuZV6wYQ2H"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/54883…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/en/users/54883714",
+                "start": 0,
+                "url": "https://t.co/sLivC6asoe"
+              }
+            ]
+          }
+        },
+        "id": "732295081",
+        "location": "ウサギの穴の下",
+        "name": "JLT4̴͇̓n̶͊̐ 🥐 (working on comms!)",
+        "pinned_tweet_id": "1801663148145184881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617108081204432899/vN4CnjHH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78111,
+          "following_count": 1102,
+          "like_count": 4573,
+          "listed_count": 514,
+          "media_count": 388,
+          "tweet_count": 1149
+        },
+        "url": "https://t.co/sLivC6asoe",
+        "username": "JL_T4N",
+        "verified": false
+      }
+    ]
+  }
+}

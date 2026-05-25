@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1869308392428236800"
+      ],
+      "media_source_tweet_id": [
+        "1869308396375327052"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1869316063353262293",
+    "created_at": "2024-12-18T09:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T10:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869316063353262293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1013375878489919488",
+          "start": 3,
+          "username": "D_Kumii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AsabWilgY7",
+          "end": 84,
+          "expanded_url": "https://x.com/D_Kumii/status/1869308396375327052/photo/1",
+          "media_key": "3_1869308392428236800",
+          "start": 61,
+          "url": "https://t.co/AsabWilgY7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869316063353262293",
+    "lang": "et",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869308396375327052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @D_Kumii: New Look Back illustration by Kiyotaka Oshiyama https://t.co/AsabWilgY7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 845,
+        "media_key": "3_1869308392428236800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfEeFDJXcAA3DvQ.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869308392428236800"
+          ],
+          "media_source_tweet_id": [
+            "1869308396375327052"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1869316063353262293",
+        "created_at": "2024-12-18T09:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T10:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869316063353262293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1013375878489919488",
+              "start": 3,
+              "username": "D_Kumii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AsabWilgY7",
+              "end": 84,
+              "expanded_url": "https://x.com/D_Kumii/status/1869308396375327052/photo/1",
+              "media_key": "3_1869308392428236800",
+              "start": 61,
+              "url": "https://t.co/AsabWilgY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869316063353262293",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869308396375327052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @D_Kumii: New Look Back illustration by Kiyotaka Oshiyama https://t.co/AsabWilgY7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869308392428236800"
+          ]
+        },
+        "author_id": "1013375878489919488",
+        "conversation_id": "1869308396375327052",
+        "created_at": "2024-12-18T09:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T10:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869308396375327052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AsabWilgY7",
+              "end": 71,
+              "expanded_url": "https://x.com/D_Kumii/status/1869308396375327052/photo/1",
+              "media_key": "3_1869308392428236800",
+              "start": 48,
+              "url": "https://t.co/AsabWilgY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869308396375327052",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 1898,
+          "like_count": 324,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "New Look Back illustration by Kiyotaka Oshiyama https://t.co/AsabWilgY7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 6171,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1142
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-01T10:56:51.000Z",
+        "description": "I talk about Chainsaw Man and occasionally other stuff. Not spoiler free. priv: @kumi_alt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "kumi_alt"
+              }
+            ]
+          }
+        },
+        "id": "1013375878489919488",
+        "name": "Kumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851736188995997696/Jz8DOMz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81517,
+          "following_count": 396,
+          "like_count": 53964,
+          "listed_count": 248,
+          "media_count": 2605,
+          "tweet_count": 7087
+        },
+        "username": "D_Kumii",
+        "verified": false
+      }
+    ]
+  }
+}

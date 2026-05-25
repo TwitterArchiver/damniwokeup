@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860785321824190464"
+      ],
+      "media_source_tweet_id": [
+        "1860785386244526232"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1860976072877359248",
+    "created_at": "2024-11-25T09:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T10:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860976072877359248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1199982114915209216",
+          "start": 3,
+          "username": "oopsiediasies"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z3TgoNcBPU",
+          "end": 56,
+          "expanded_url": "https://x.com/oopsiediasies/status/1860785386244526232/photo/1",
+          "media_key": "3_1860785321824190464",
+          "start": 33,
+          "url": "https://t.co/Z3TgoNcBPU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860976072877359248",
+    "lang": "da",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1143
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860785386244526232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oopsiediasies: Goodbye Eri 🎥 https://t.co/Z3TgoNcBPU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2196,
+        "media_key": "3_1860785321824190464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdLWZC6XgAAQMv_.jpg",
+        "width": 1522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860785321824190464"
+          ],
+          "media_source_tweet_id": [
+            "1860785386244526232"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1860976072877359248",
+        "created_at": "2024-11-25T09:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T10:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860976072877359248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1199982114915209216",
+              "start": 3,
+              "username": "oopsiediasies"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z3TgoNcBPU",
+              "end": 56,
+              "expanded_url": "https://x.com/oopsiediasies/status/1860785386244526232/photo/1",
+              "media_key": "3_1860785321824190464",
+              "start": 33,
+              "url": "https://t.co/Z3TgoNcBPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860976072877359248",
+        "lang": "da",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1143
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860785386244526232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oopsiediasies: Goodbye Eri 🎥 https://t.co/Z3TgoNcBPU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860785321824190464"
+          ]
+        },
+        "author_id": "1199982114915209216",
+        "conversation_id": "1860785386244526232",
+        "created_at": "2024-11-24T20:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T21:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860785386244526232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z3TgoNcBPU",
+              "end": 37,
+              "expanded_url": "https://x.com/oopsiediasies/status/1860785386244526232/photo/1",
+              "media_key": "3_1860785321824190464",
+              "start": 14,
+              "url": "https://t.co/Z3TgoNcBPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860785386244526232",
+        "lang": "da",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 932,
+          "impression_count": 92439,
+          "like_count": 11212,
+          "quote_count": 14,
+          "reply_count": 20,
+          "retweet_count": 1143
+        },
+        "reply_settings": "everyone",
+        "text": "Goodbye Eri 🎥 https://t.co/Z3TgoNcBPU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 132,
+          "like_count": 5097,
+          "listed_count": 0,
+          "tweet_count": 745
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-28T09:23:31.000Z",
+        "description": "variety manga colorist, artist, fan of things | commissions open",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/oopsiediasies",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/oopsiediasies",
+                "start": 0,
+                "url": "https://t.co/7Ieq6c0q5h"
+              }
+            ]
+          }
+        },
+        "id": "1199982114915209216",
+        "location": "🧍🧍‍♂️ 🧍‍♀️",
+        "name": "EV 🍉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777779162578587648/vgKFPmR8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8498,
+          "following_count": 384,
+          "like_count": 32498,
+          "listed_count": 87,
+          "tweet_count": 4542
+        },
+        "url": "https://t.co/7Ieq6c0q5h",
+        "username": "oopsiediasies",
+        "verified": false
+      }
+    ]
+  }
+}

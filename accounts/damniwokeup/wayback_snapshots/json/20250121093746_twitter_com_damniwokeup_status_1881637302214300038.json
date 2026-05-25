@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881511882844180480"
+      ],
+      "media_source_tweet_id": [
+        "1881511890297516267"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1881637302214300038",
+    "created_at": "2025-01-21T09:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T10:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881637302214300038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "874620790196416513",
+          "start": 3,
+          "username": "kunitarouart"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wd9SZZqwvR",
+          "end": 41,
+          "expanded_url": "https://x.com/kunitarouart/status/1881511890297516267/photo/1",
+          "media_key": "3_1881511882844180480",
+          "start": 18,
+          "url": "https://t.co/wd9SZZqwvR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881637302214300038",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5353
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881511890297516267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kunitarouart: https://t.co/wd9SZZqwvR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1881511882844180480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghx5FrmakAARrVc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881511882844180480"
+          ],
+          "media_source_tweet_id": [
+            "1881511890297516267"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1881637302214300038",
+        "created_at": "2025-01-21T09:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T10:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881637302214300038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "874620790196416513",
+              "start": 3,
+              "username": "kunitarouart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wd9SZZqwvR",
+              "end": 41,
+              "expanded_url": "https://x.com/kunitarouart/status/1881511890297516267/photo/1",
+              "media_key": "3_1881511882844180480",
+              "start": 18,
+              "url": "https://t.co/wd9SZZqwvR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881637302214300038",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5353
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881511890297516267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kunitarouart: https://t.co/wd9SZZqwvR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881511882844180480"
+          ]
+        },
+        "author_id": "874620790196416513",
+        "conversation_id": "1881511890297516267",
+        "created_at": "2025-01-21T01:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T02:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881511890297516267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wd9SZZqwvR",
+              "end": 23,
+              "expanded_url": "https://x.com/kunitarouart/status/1881511890297516267/photo/1",
+              "media_key": "3_1881511882844180480",
+              "start": 0,
+              "url": "https://t.co/wd9SZZqwvR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881511890297516267",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9469,
+          "impression_count": 1085836,
+          "like_count": 83181,
+          "quote_count": 67,
+          "reply_count": 25,
+          "retweet_count": 5353
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wd9SZZqwvR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 152,
+          "like_count": 6727,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1307
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-13T13:33:40.000Z",
+        "description": "Illustrator │ ArtDirecter │ 『VISIONS 2022』『NEW GIRLS ILLUSTRATION』 『ILLUSTLATION2024』掲載 │ https://t.co/Ydw8Ixzr1m | kunitarou.art@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kunitarou-art.tumblr.com",
+                "end": 113,
+                "expanded_url": "https://kunitarou-art.tumblr.com",
+                "start": 90,
+                "url": "https://t.co/Ydw8Ixzr1m"
+              }
+            ]
+          }
+        },
+        "id": "874620790196416513",
+        "location": "Western Japan",
+        "name": "くにたろ -𝙆𝙐𝙉𝙄𝙏𝘼𝙍𝙊-",
+        "pinned_tweet_id": "1440522501470048264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792057309096775680/KC55-p-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73310,
+          "following_count": 879,
+          "like_count": 69422,
+          "listed_count": 812,
+          "media_count": 540,
+          "tweet_count": 8664
+        },
+        "username": "kunitarouart",
+        "verified": false
+      }
+    ]
+  }
+}

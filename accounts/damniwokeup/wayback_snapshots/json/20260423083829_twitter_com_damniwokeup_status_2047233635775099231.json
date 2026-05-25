@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "2047043419613106617",
+    "created_at": "2026-04-23T08:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T09:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047233635775099231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1622269072229425152",
+          "start": 0,
+          "username": "cottoncanmi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047233635775099231",
+    "in_reply_to_user_id": "1622269072229425152",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047043419613106617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cottoncanmi Yes sometimes I’m scared to admit it…… Ppl would think I’m being weak. Like “Your life is better than most so what do you even have to be depressed about?” But god damn it I think I have right to be depressed ."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "2047043419613106617",
+        "created_at": "2026-04-23T08:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047233635775099231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1622269072229425152",
+              "start": 0,
+              "username": "cottoncanmi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047233635775099231",
+        "in_reply_to_user_id": "1622269072229425152",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047043419613106617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cottoncanmi Yes sometimes I’m scared to admit it…… Ppl would think I’m being weak. Like “Your life is better than most so what do you even have to be depressed about?” But god damn it I think I have right to be depressed ."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622269072229425152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "2047043419613106617",
+        "created_at": "2026-04-22T20:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T21:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047043419613106617"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047043419613106617",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 263,
+          "impression_count": 40044,
+          "like_count": 2238,
+          "quote_count": 24,
+          "reply_count": 22,
+          "retweet_count": 266
+        },
+        "reply_settings": "everyone",
+        "text": "i feel so selfish for being depressed because people love me, i have a car, i go to a nice school, i go shopping a lot and own a lot of things, i usually get everything i ask for, i have animals, i have electronics, i have so many things in my life that should keep me happy and"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "Per aspera ad astra",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2045858174058758244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 204,
+          "like_count": 8722,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1421
+        },
+        "username": "damniwokeup",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T16:21:38.000Z",
+        "description": "yawn | #shtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 7,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1622269072229425152",
+        "name": "mimi .✦ ݁˖",
+        "pinned_tweet_id": "2047123098349015240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047122900386295808/pMZm1ilh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2316,
+          "following_count": 2280,
+          "like_count": 46308,
+          "listed_count": 31,
+          "media_count": 947,
+          "tweet_count": 7475
+        },
+        "username": "cottoncanmi",
+        "verified": false
+      }
+    ]
+  }
+}

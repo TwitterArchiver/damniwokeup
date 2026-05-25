@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893579525415383040"
+      ],
+      "media_source_tweet_id": [
+        "1893579569392755185"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1893936463621820586",
+    "created_at": "2025-02-24T08:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T09:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893936463621820586"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "Kyomoto",
+          "probability": 0.6555,
+          "start": 36,
+          "type": "Other"
+        },
+        {
+          "end": 52,
+          "normalized_text": "Lookback",
+          "probability": 0.5695,
+          "start": 45,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 35,
+          "tag": "Kyomoto"
+        },
+        {
+          "end": 53,
+          "start": 44,
+          "tag": "Lookback"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1393411704625762310",
+          "start": 3,
+          "username": "gato_gratam"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ocov7X1SuB",
+          "end": 77,
+          "expanded_url": "https://x.com/gato_gratam/status/1893579569392755185/photo/1",
+          "media_key": "3_1893579525415383040",
+          "start": 54,
+          "url": "https://t.co/Ocov7X1SuB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893936463621820586",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 434
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893579569392755185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gato_gratam: Artista de método\n#Kyomoto #Lookback https://t.co/Ocov7X1SuB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1893579525415383040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkdYi7ZWMAAjC6G.jpg",
+        "width": 3413
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893579525415383040"
+          ],
+          "media_source_tweet_id": [
+            "1893579569392755185"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1893936463621820586",
+        "created_at": "2025-02-24T08:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T09:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893936463621820586"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Kyomoto",
+              "probability": 0.6555,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 52,
+              "normalized_text": "Lookback",
+              "probability": 0.5695,
+              "start": 45,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 35,
+              "tag": "Kyomoto"
+            },
+            {
+              "end": 53,
+              "start": 44,
+              "tag": "Lookback"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1393411704625762310",
+              "start": 3,
+              "username": "gato_gratam"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ocov7X1SuB",
+              "end": 77,
+              "expanded_url": "https://x.com/gato_gratam/status/1893579569392755185/photo/1",
+              "media_key": "3_1893579525415383040",
+              "start": 54,
+              "url": "https://t.co/Ocov7X1SuB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893936463621820586",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 434
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893579569392755185",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gato_gratam: Artista de método\n#Kyomoto #Lookback https://t.co/Ocov7X1SuB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893579525415383040"
+          ]
+        },
+        "author_id": "1393411704625762310",
+        "conversation_id": "1893579569392755185",
+        "created_at": "2025-02-23T08:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T09:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893579569392755185"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Kyomoto",
+              "probability": 0.6662,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 35,
+              "normalized_text": "Lookback",
+              "probability": 0.6192,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "Kyomoto"
+            },
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "Lookback"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ocov7X1SuB",
+              "end": 60,
+              "expanded_url": "https://x.com/gato_gratam/status/1893579569392755185/photo/1",
+              "media_key": "3_1893579525415383040",
+              "start": 37,
+              "url": "https://t.co/Ocov7X1SuB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893579569392755185",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 836,
+          "impression_count": 38117,
+          "like_count": 4698,
+          "quote_count": 10,
+          "reply_count": 15,
+          "retweet_count": 434
+        },
+        "reply_settings": "everyone",
+        "text": "Artista de método\n#Kyomoto #Lookback https://t.co/Ocov7X1SuB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "Our very existence belongs to pride.",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 148,
+          "like_count": 6979,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1331
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T03:43:42.000Z",
+        "description": "Eres mi amor, me das placer como dolor\nHago dibujitos, a veces salen bien. NSFW +18",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "allmylinks.com/gratam",
+                "end": 23,
+                "expanded_url": "https://allmylinks.com/gratam",
+                "start": 0,
+                "url": "https://t.co/7zp6tkGH7p"
+              }
+            ]
+          }
+        },
+        "id": "1393411704625762310",
+        "name": "Señor Gato",
+        "pinned_tweet_id": "1884503224985522267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836836286562283520/2X5yYPf2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79676,
+          "following_count": 29,
+          "like_count": 21707,
+          "listed_count": 108,
+          "media_count": 212,
+          "tweet_count": 12951
+        },
+        "url": "https://t.co/7zp6tkGH7p",
+        "username": "gato_gratam",
+        "verified": false
+      }
+    ]
+  }
+}

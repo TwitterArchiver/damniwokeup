@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1851633410374291477",
+    "created_at": "2024-10-30T14:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T15:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851633410374291477"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 71,
+          "normalized_text": "3rd ONE-MAN LIVE",
+          "probability": 0.3061,
+          "start": 56,
+          "type": "Other"
+        },
+        {
+          "end": 79,
+          "normalized_text": "#咆哮の奏",
+          "probability": 0.5532,
+          "start": 75,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 37,
+          "tag": "トゲナシトゲアリ"
+        },
+        {
+          "end": 78,
+          "start": 73,
+          "tag": "咆哮の奏"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1646013705874976768",
+          "start": 3,
+          "username": "girlsbandcry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851633410374291477",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851624888475537435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @girlsbandcry: 🎤ガールズバンドクライ ライブ情報🎸\n#トゲナシトゲアリ\n11/2(土)3rd ONE-MAN LIVE \n『#咆哮の奏』\n\nチケット追加一般発売は終了しました。\n多数のお申し込みを頂き、ありがとうございました✨\nアーカイブ配信でもお楽しみく…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1851633410374291477",
+        "created_at": "2024-10-30T14:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T15:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851633410374291477"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 71,
+              "normalized_text": "3rd ONE-MAN LIVE",
+              "probability": 0.3061,
+              "start": 56,
+              "type": "Other"
+            },
+            {
+              "end": 79,
+              "normalized_text": "#咆哮の奏",
+              "probability": 0.5532,
+              "start": 75,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 37,
+              "tag": "トゲナシトゲアリ"
+            },
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "咆哮の奏"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1646013705874976768",
+              "start": 3,
+              "username": "girlsbandcry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851633410374291477",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851624888475537435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @girlsbandcry: 🎤ガールズバンドクライ ライブ情報🎸\n#トゲナシトゲアリ\n11/2(土)3rd ONE-MAN LIVE \n『#咆哮の奏』\n\nチケット追加一般発売は終了しました。\n多数のお申し込みを頂き、ありがとうございました✨\nアーカイブ配信でもお楽しみく…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851624800663506945"
+          ]
+        },
+        "author_id": "1646013705874976768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1851624888475537435",
+        "created_at": "2024-10-30T13:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T14:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851624888475537435"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 61,
+              "normalized_text": "#咆哮の奏",
+              "probability": 0.5643,
+              "start": 57,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 19,
+              "tag": "トゲナシトゲアリ"
+            },
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "咆哮の奏"
+            },
+            {
+              "end": 169,
+              "start": 160,
+              "tag": "トゲトゲワンマン"
+            }
+          ],
+          "urls": [
+            {
+              "description": "アニメ「ガールズバンドクライ」の公式サイトです。キャラクター情報やMV等のコンテンツをご紹介！キャストやスタッフ情報もこちらで確認できます。",
+              "display_url": "girls-band-cry.com/live/post-4.ht…",
+              "end": 158,
+              "expanded_url": "https://girls-band-cry.com/live/post-4.html",
+              "start": 135,
+              "status": 200,
+              "title": "3rd ONE-MAN LIVE | LIVE | アニメ「ガールズバンドクライ」公式サイト",
+              "unwound_url": "https://girls-band-cry.com/live/post-4.html",
+              "url": "https://t.co/7IHEPS6Uag"
+            },
+            {
+              "display_url": "pic.x.com/sX2nbaiOK6",
+              "end": 194,
+              "expanded_url": "https://x.com/girlsbandcry/status/1851624888475537435/photo/1",
+              "media_key": "3_1851624800663506945",
+              "start": 171,
+              "url": "https://t.co/sX2nbaiOK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851624888475537435",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 13305,
+          "like_count": 334,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "🎤ガールズバンドクライ ライブ情報🎸\n#トゲナシトゲアリ\n11/2(土)3rd ONE-MAN LIVE \n『#咆哮の奏』\n\nチケット追加一般発売は終了しました。\n多数のお申し込みを頂き、ありがとうございました✨\nアーカイブ配信でもお楽しみください！👀\n\n🔗ライブ詳細\nhttps://t.co/7IHEPS6Uag\n\n#トゲトゲワンマン… https://t.co/sX2nbaiOK6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847962644852162560/UJMfw11t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 121,
+          "like_count": 4420,
+          "listed_count": 0,
+          "tweet_count": 451
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T04:53:52.000Z",
+        "description": "オリジナルTVアニメ『ガールズバンドクライ』公式アカウントです。各サービスにて全話配信中！原作・企画・製作：東映アニメーション／シリーズ構成：花田十輝／音楽プロデューサー：玉井健二 (agehasprings)／キャラクターデザイン：手島nari／シリーズディレクター：酒井和男　推奨ハッシュタグ【#ガルクラ】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 154,
+                "start": 149,
+                "tag": "ガルクラ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "girls-band-cry.com",
+                "end": 23,
+                "expanded_url": "https://girls-band-cry.com/",
+                "start": 0,
+                "url": "https://t.co/HKW89YsJ1J"
+              }
+            ]
+          }
+        },
+        "id": "1646013705874976768",
+        "name": "アニメ『ガールズバンドクライ』公式",
+        "pinned_tweet_id": "1819523579265831129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741475331314536448/-CMk_tHF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167234,
+          "following_count": 23,
+          "like_count": 3322,
+          "listed_count": 707,
+          "tweet_count": 3752
+        },
+        "url": "https://t.co/HKW89YsJ1J",
+        "username": "girlsbandcry",
+        "verified": true
+      }
+    ]
+  }
+}

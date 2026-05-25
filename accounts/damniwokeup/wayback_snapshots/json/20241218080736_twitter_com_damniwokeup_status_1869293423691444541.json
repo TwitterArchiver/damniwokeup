@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868710119296684032"
+      ],
+      "media_source_tweet_id": [
+        "1868710133385380112"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1869293423691444541",
+    "created_at": "2024-12-18T08:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T09:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869293423691444541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1801578412240420864",
+          "start": 3,
+          "username": "lianyaneko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jW94E7gmb5",
+          "end": 47,
+          "expanded_url": "https://x.com/lianyaneko/status/1868710133385380112/photo/1",
+          "media_key": "3_1868710119296684032",
+          "start": 24,
+          "url": "https://t.co/jW94E7gmb5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869293423691444541",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868710133385380112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lianyaneko: frieren https://t.co/jW94E7gmb5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2016,
+        "media_key": "3_1868710119296684032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge798-DbUAAVCgU.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868710119296684032"
+          ],
+          "media_source_tweet_id": [
+            "1868710133385380112"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1869293423691444541",
+        "created_at": "2024-12-18T08:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T09:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869293423691444541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1801578412240420864",
+              "start": 3,
+              "username": "lianyaneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jW94E7gmb5",
+              "end": 47,
+              "expanded_url": "https://x.com/lianyaneko/status/1868710133385380112/photo/1",
+              "media_key": "3_1868710119296684032",
+              "start": 24,
+              "url": "https://t.co/jW94E7gmb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869293423691444541",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868710133385380112",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lianyaneko: frieren https://t.co/jW94E7gmb5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868710119296684032"
+          ]
+        },
+        "author_id": "1801578412240420864",
+        "conversation_id": "1868710133385380112",
+        "created_at": "2024-12-16T17:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T18:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868710133385380112"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "frieren",
+              "probability": 0.4051,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jW94E7gmb5",
+              "end": 31,
+              "expanded_url": "https://x.com/lianyaneko/status/1868710133385380112/photo/1",
+              "media_key": "3_1868710119296684032",
+              "start": 8,
+              "url": "https://t.co/jW94E7gmb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868710133385380112",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 17107,
+          "like_count": 1770,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "frieren https://t.co/jW94E7gmb5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 6168,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1140
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T11:32:31.000Z",
+        "description": "AIart nai+ Stable Diffusion +PS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/8786609",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/8786609",
+                "start": 0,
+                "url": "https://t.co/aHkdT9FtxQ"
+              }
+            ]
+          }
+        },
+        "id": "1801578412240420864",
+        "name": "nyalia",
+        "pinned_tweet_id": "1868674373823209761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801579839587291139/wfouUWvB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12226,
+          "following_count": 27,
+          "like_count": 17,
+          "listed_count": 40,
+          "media_count": 18,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/aHkdT9FtxQ",
+        "username": "lianyaneko",
+        "verified": false
+      }
+    ]
+  }
+}

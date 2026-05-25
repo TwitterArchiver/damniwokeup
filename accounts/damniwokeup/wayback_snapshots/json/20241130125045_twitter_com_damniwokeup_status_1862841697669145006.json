@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1862805323011989504"
+      ],
+      "media_source_tweet_id": [
+        "1862805341546979456"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1862841697669145006",
+    "created_at": "2024-11-30T12:50:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T13:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862841697669145006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1492141471734337545",
+          "start": 3,
+          "username": "BocchiTheChurch"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EXaacQMOEr",
+          "end": 69,
+          "expanded_url": "https://x.com/BocchiTheChurch/status/1862805341546979456/video/1",
+          "media_key": "13_1862805323011989504",
+          "start": 46,
+          "url": "https://t.co/EXaacQMOEr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862841697669145006",
+    "lang": "ro",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862805341546979456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BocchiTheChurch: Bocchi the schizophrenic https://t.co/EXaacQMOEr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4000,
+        "height": 742,
+        "media_key": "13_1862805323011989504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1862805323011989504/img/lNiTjeu6JepJ-bwT.jpg",
+        "public_metrics": {
+          "view_count": 257
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1862805323011989504/vid/avc1/392x270/4Re_23zzPmFlWaca.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1862805323011989504/vid/avc1/522x360/Hvax5YJmJga8qBc8.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1862805323011989504/vid/avc1/1046x720/n4IBuRYNeU_qKSUR.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1862805323011989504/pl/q_1aItA6WbsppahR.m3u8?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1862805323011989504"
+          ],
+          "media_source_tweet_id": [
+            "1862805341546979456"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1862841697669145006",
+        "created_at": "2024-11-30T12:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T13:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862841697669145006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1492141471734337545",
+              "start": 3,
+              "username": "BocchiTheChurch"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EXaacQMOEr",
+              "end": 69,
+              "expanded_url": "https://x.com/BocchiTheChurch/status/1862805341546979456/video/1",
+              "media_key": "13_1862805323011989504",
+              "start": 46,
+              "url": "https://t.co/EXaacQMOEr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862841697669145006",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862805341546979456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BocchiTheChurch: Bocchi the schizophrenic https://t.co/EXaacQMOEr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1862805323011989504"
+          ]
+        },
+        "author_id": "1492141471734337545",
+        "conversation_id": "1862805341546979456",
+        "created_at": "2024-11-30T10:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T11:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862805341546979456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EXaacQMOEr",
+              "end": 48,
+              "expanded_url": "https://x.com/BocchiTheChurch/status/1862805341546979456/video/1",
+              "media_key": "13_1862805323011989504",
+              "start": 25,
+              "url": "https://t.co/EXaacQMOEr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862805341546979456",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 598,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "Bocchi the schizophrenic https://t.co/EXaacQMOEr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 136,
+          "like_count": 5318,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 828
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T14:20:38.000Z",
+        "description": "Totally official Church of Bocchi ✨ All Hail Bocchi! ✨ Profile by @zetsuyochimayo ✨ Banner by @tenoo12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "zetsuyochimayo"
+              },
+              {
+                "end": 102,
+                "start": 94,
+                "username": "tenoo12"
+              }
+            ]
+          }
+        },
+        "id": "1492141471734337545",
+        "location": "Bocchi Heaven",
+        "name": "The Church of Bocchi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845064438589816835/0gTBBgRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4835,
+          "following_count": 67,
+          "like_count": 9294,
+          "listed_count": 8,
+          "media_count": 549,
+          "tweet_count": 827
+        },
+        "username": "BocchiTheChurch",
+        "verified": true
+      }
+    ]
+  }
+}

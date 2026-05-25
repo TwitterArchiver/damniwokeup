@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026476110666674178"
+      ],
+      "media_source_tweet_id": [
+        "2026476254606799078"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "2026642271840751649",
+    "created_at": "2026-02-25T12:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T13:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026642271840751649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867484229455708160",
+          "start": 3,
+          "username": "isuke_now"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uuskxodf6R",
+          "end": 50,
+          "expanded_url": "https://x.com/isuke_now/status/2026476254606799078/photo/1",
+          "media_key": "3_2026476110666674178",
+          "start": 27,
+          "url": "https://t.co/uuskxodf6R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026642271840751649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 403
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026476254606799078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @isuke_now: 「アサもしていいって」 https://t.co/uuskxodf6R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2026476110666674178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB99STIaMAIvQDF.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026476110666674178"
+          ],
+          "media_source_tweet_id": [
+            "2026476254606799078"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "2026642271840751649",
+        "created_at": "2026-02-25T12:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T13:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026642271840751649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867484229455708160",
+              "start": 3,
+              "username": "isuke_now"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uuskxodf6R",
+              "end": 50,
+              "expanded_url": "https://x.com/isuke_now/status/2026476254606799078/photo/1",
+              "media_key": "3_2026476110666674178",
+              "start": 27,
+              "url": "https://t.co/uuskxodf6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026642271840751649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 403
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026476254606799078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @isuke_now: 「アサもしていいって」 https://t.co/uuskxodf6R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026476110666674178"
+          ]
+        },
+        "author_id": "1867484229455708160",
+        "conversation_id": "2026476254606799078",
+        "created_at": "2026-02-25T01:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026476254606799078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uuskxodf6R",
+              "end": 35,
+              "expanded_url": "https://x.com/isuke_now/status/2026476254606799078/photo/1",
+              "media_key": "3_2026476110666674178",
+              "start": 12,
+              "url": "https://t.co/uuskxodf6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026476254606799078",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 804,
+          "impression_count": 108740,
+          "like_count": 8717,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 403
+        },
+        "reply_settings": "everyone",
+        "text": "「アサもしていいって」 https://t.co/uuskxodf6R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2026181607040925930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 154,
+          "like_count": 7647,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 1348
+        },
+        "username": "damniwokeup",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-13T08:18:57.000Z",
+        "description": "好きな作品のファンアートを描いたり✒️  ゲーム実況アカウント→ @ISUKE_ISK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "ISUKE_ISK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/isuke",
+                "end": 23,
+                "expanded_url": "https://lit.link/isuke",
+                "start": 0,
+                "url": "https://t.co/TxaS7QyHqX"
+              }
+            ]
+          }
+        },
+        "id": "1867484229455708160",
+        "name": "ISUKE✒️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913484509850501120/XER09g6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13817,
+          "following_count": 105,
+          "like_count": 1204,
+          "listed_count": 51,
+          "media_count": 261,
+          "tweet_count": 288
+        },
+        "url": "https://t.co/TxaS7QyHqX",
+        "username": "isuke_now",
+        "verified": false
+      }
+    ]
+  }
+}

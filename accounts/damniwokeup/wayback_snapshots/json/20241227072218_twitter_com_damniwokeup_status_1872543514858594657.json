@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872303061399691266"
+      ],
+      "media_source_tweet_id": [
+        "1872303175627387084"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1872543514858594657",
+    "created_at": "2024-12-27T07:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T08:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872543514858594657"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 29,
+          "tag": "絵フブキ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1067795483333193735",
+          "start": 3,
+          "username": "tabakko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7O25mzxIpL",
+          "end": 58,
+          "expanded_url": "https://x.com/tabakko/status/1872303175627387084/photo/1",
+          "media_key": "3_1872303061399691266",
+          "start": 35,
+          "url": "https://t.co/7O25mzxIpL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872543514858594657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6893
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872303175627387084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tabakko: 「なんだジロジロ見やがって」\n #絵フブキ https://t.co/7O25mzxIpL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1872303061399691266",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfvBtuaa4AIB8mx.jpg",
+        "width": 2782
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872303061399691266"
+          ],
+          "media_source_tweet_id": [
+            "1872303175627387084"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1872543514858594657",
+        "created_at": "2024-12-27T07:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T08:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872543514858594657"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "絵フブキ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1067795483333193735",
+              "start": 3,
+              "username": "tabakko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7O25mzxIpL",
+              "end": 58,
+              "expanded_url": "https://x.com/tabakko/status/1872303175627387084/photo/1",
+              "media_key": "3_1872303061399691266",
+              "start": 35,
+              "url": "https://t.co/7O25mzxIpL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872543514858594657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6893
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872303175627387084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tabakko: 「なんだジロジロ見やがって」\n #絵フブキ https://t.co/7O25mzxIpL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872303061399691266"
+          ]
+        },
+        "author_id": "1067795483333193735",
+        "conversation_id": "1872303175627387084",
+        "created_at": "2024-12-26T15:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T16:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872303175627387084"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "絵フブキ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7O25mzxIpL",
+              "end": 45,
+              "expanded_url": "https://x.com/tabakko/status/1872303175627387084/photo/1",
+              "media_key": "3_1872303061399691266",
+              "start": 22,
+              "url": "https://t.co/7O25mzxIpL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872303175627387084",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4549,
+          "impression_count": 659145,
+          "like_count": 50731,
+          "quote_count": 74,
+          "reply_count": 206,
+          "retweet_count": 6893
+        },
+        "reply_settings": "everyone",
+        "text": "「なんだジロジロ見やがって」\n #絵フブキ https://t.co/7O25mzxIpL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 149,
+          "like_count": 6396,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1224
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-28T15:00:56.000Z",
+        "description": "Illustrator\n\n 仕事の方 (Work contact) 📩 \n【 hydetabakko@gmail.com 】\n\ncommission info: https://t.co/BZkv2A5LyJ\n※ personal commission currently closed ※",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tabakko.carrd.co",
+                "end": 104,
+                "expanded_url": "https://tabakko.carrd.co/",
+                "start": 81,
+                "url": "https://t.co/BZkv2A5LyJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/hidetohyde",
+                "end": 23,
+                "expanded_url": "https://pixiv.me/hidetohyde",
+                "start": 0,
+                "url": "https://t.co/PPtlszodLk"
+              }
+            ]
+          }
+        },
+        "id": "1067795483333193735",
+        "location": "桐生会",
+        "name": "Hyde",
+        "pinned_tweet_id": "1871521618780172753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850172920859103232/_qWyMSE2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378302,
+          "following_count": 2721,
+          "like_count": 121013,
+          "listed_count": 1894,
+          "media_count": 1609,
+          "tweet_count": 40433
+        },
+        "url": "https://t.co/PPtlszodLk",
+        "username": "tabakko",
+        "verified": false
+      }
+    ]
+  }
+}

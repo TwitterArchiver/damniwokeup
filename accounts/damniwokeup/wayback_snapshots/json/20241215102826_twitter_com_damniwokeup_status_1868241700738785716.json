@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868191518387023872"
+      ],
+      "media_source_tweet_id": [
+        "1868234548216991930"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1868241700738785716",
+    "created_at": "2024-12-15T10:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T11:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868241700738785716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1178489828263858176",
+          "start": 3,
+          "username": "oxxsexxto"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/riJXclg3RM",
+          "end": 44,
+          "expanded_url": "https://x.com/oxxsexxto/status/1868234548216991930/photo/1",
+          "media_key": "3_1868191518387023872",
+          "start": 21,
+          "url": "https://t.co/riJXclg3RM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868241700738785716",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868234548216991930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oxxsexxto: 散りたい花 https://t.co/riJXclg3RM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1868191518387023872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge0mSbHbMAAfgTn.jpg",
+        "width": 849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868191518387023872"
+          ],
+          "media_source_tweet_id": [
+            "1868234548216991930"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1868241700738785716",
+        "created_at": "2024-12-15T10:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T11:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868241700738785716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1178489828263858176",
+              "start": 3,
+              "username": "oxxsexxto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/riJXclg3RM",
+              "end": 44,
+              "expanded_url": "https://x.com/oxxsexxto/status/1868234548216991930/photo/1",
+              "media_key": "3_1868191518387023872",
+              "start": 21,
+              "url": "https://t.co/riJXclg3RM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868241700738785716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868234548216991930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oxxsexxto: 散りたい花 https://t.co/riJXclg3RM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868191518387023872"
+          ]
+        },
+        "author_id": "1178489828263858176",
+        "conversation_id": "1868234548216991930",
+        "created_at": "2024-12-15T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868234548216991930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/riJXclg3RM",
+              "end": 29,
+              "expanded_url": "https://x.com/oxxsexxto/status/1868234548216991930/photo/1",
+              "media_key": "3_1868191518387023872",
+              "start": 6,
+              "url": "https://t.co/riJXclg3RM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868234548216991930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 2962,
+          "like_count": 364,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "散りたい花 https://t.co/riJXclg3RM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 145,
+          "like_count": 6013,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1088
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-30T02:00:52.000Z",
+        "description": "◆絵◆土日更新◆ ご依頼はこちらから▶︎ https://t.co/WJKdYPac0s",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/50Ts8",
+                "end": 44,
+                "expanded_url": "https://x.gd/50Ts8",
+                "start": 21,
+                "url": "https://t.co/WJKdYPac0s"
+              }
+            ]
+          }
+        },
+        "id": "1178489828263858176",
+        "location": "◆2025年3月中頃〜納期のご依頼から受付可能です",
+        "name": "おせと",
+        "pinned_tweet_id": "1814601140497211631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486352124745498626/_JOehOVN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39889,
+          "following_count": 141,
+          "like_count": 1812,
+          "listed_count": 447,
+          "media_count": 105,
+          "tweet_count": 1853
+        },
+        "username": "oxxsexxto",
+        "verified": true
+      }
+    ]
+  }
+}

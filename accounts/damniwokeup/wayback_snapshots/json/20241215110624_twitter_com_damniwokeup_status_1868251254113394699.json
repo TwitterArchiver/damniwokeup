@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866459661983166464"
+      ],
+      "media_source_tweet_id": [
+        "1866459667066675260"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1868251254113394699",
+    "created_at": "2024-12-15T11:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T12:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868251254113394699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1086312637",
+          "start": 3,
+          "username": "sasakura34"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kIErbGygDY",
+          "end": 51,
+          "expanded_url": "https://x.com/sasakura34/status/1866459667066675260/photo/1",
+          "media_key": "3_1866459661983166464",
+          "start": 28,
+          "url": "https://t.co/kIErbGygDY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868251254113394699",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1456
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866459667066675260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @sasakura34: スノードーム・マルシル https://t.co/kIErbGygDY"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "『ダンジョン飯』のファンアート\n迷宮の主マルシルが入ったスノードームを手に抱えているキメラファリン",
+        "height": 1861,
+        "media_key": "3_1866459661983166464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Geb_LHQaMAA_-YP.jpg",
+        "width": 1790
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866459661983166464"
+          ],
+          "media_source_tweet_id": [
+            "1866459667066675260"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1868251254113394699",
+        "created_at": "2024-12-15T11:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T12:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868251254113394699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1086312637",
+              "start": 3,
+              "username": "sasakura34"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIErbGygDY",
+              "end": 51,
+              "expanded_url": "https://x.com/sasakura34/status/1866459667066675260/photo/1",
+              "media_key": "3_1866459661983166464",
+              "start": 28,
+              "url": "https://t.co/kIErbGygDY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868251254113394699",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1456
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866459667066675260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @sasakura34: スノードーム・マルシル https://t.co/kIErbGygDY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866459661983166464"
+          ]
+        },
+        "author_id": "1086312637",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1866459667066675260",
+        "created_at": "2024-12-10T12:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T13:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866459667066675260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIErbGygDY",
+              "end": 35,
+              "expanded_url": "https://x.com/sasakura34/status/1866459667066675260/photo/1",
+              "media_key": "3_1866459661983166464",
+              "start": 12,
+              "url": "https://t.co/kIErbGygDY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866459667066675260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 410,
+          "impression_count": 119414,
+          "like_count": 6614,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 1456
+        },
+        "reply_settings": "following",
+        "text": "スノードーム・マルシル https://t.co/kIErbGygDY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 145,
+          "like_count": 6023,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1090
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-13T14:44:57.000Z",
+        "description": "成人 雑多 最近はブルスカにいます https://t.co/MqxwmkqMmf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/a2vhhfrcf…",
+                "end": 41,
+                "expanded_url": "https://wavebox.me/wave/a2vhhfrcftbch09g/",
+                "start": 18,
+                "url": "https://t.co/MqxwmkqMmf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sasakura34",
+                "end": 23,
+                "expanded_url": "https://lit.link/sasakura34",
+                "start": 0,
+                "url": "https://t.co/8la0eWsTOE"
+              }
+            ]
+          }
+        },
+        "id": "1086312637",
+        "name": "笹倉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1099860371832111104/mdmlZnzC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43976,
+          "following_count": 44,
+          "like_count": 6329,
+          "listed_count": 308,
+          "media_count": 137,
+          "tweet_count": 30733
+        },
+        "url": "https://t.co/8la0eWsTOE",
+        "username": "sasakura34",
+        "verified": false
+      }
+    ]
+  }
+}

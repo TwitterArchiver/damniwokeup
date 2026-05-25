@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872902696329723907"
+      ],
+      "media_source_tweet_id": [
+        "1872902698665918867"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1872959423112765777",
+    "created_at": "2024-12-28T10:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T11:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872959423112765777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "770520209413124096",
+          "start": 3,
+          "username": "ryow_6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c3mRMNAkFn",
+          "end": 37,
+          "expanded_url": "https://x.com/ryow_6/status/1872902698665918867/photo/1",
+          "media_key": "3_1872902696329723907",
+          "start": 14,
+          "url": "https://t.co/c3mRMNAkFn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872959423112765777",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 340
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872902698665918867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ryow_6: 🤭 https://t.co/c3mRMNAkFn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1552,
+        "media_key": "3_1872902696329723907",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf3jFEmawAMUdux.jpg",
+        "width": 1142
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872902696329723907"
+          ],
+          "media_source_tweet_id": [
+            "1872902698665918867"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1872959423112765777",
+        "created_at": "2024-12-28T10:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T11:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872959423112765777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "770520209413124096",
+              "start": 3,
+              "username": "ryow_6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c3mRMNAkFn",
+              "end": 37,
+              "expanded_url": "https://x.com/ryow_6/status/1872902698665918867/photo/1",
+              "media_key": "3_1872902696329723907",
+              "start": 14,
+              "url": "https://t.co/c3mRMNAkFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872959423112765777",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 340
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872902698665918867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ryow_6: 🤭 https://t.co/c3mRMNAkFn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872902696329723907"
+          ]
+        },
+        "author_id": "770520209413124096",
+        "conversation_id": "1872902698665918867",
+        "created_at": "2024-12-28T07:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T08:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872902698665918867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c3mRMNAkFn",
+              "end": 25,
+              "expanded_url": "https://x.com/ryow_6/status/1872902698665918867/photo/1",
+              "media_key": "3_1872902696329723907",
+              "start": 2,
+              "url": "https://t.co/c3mRMNAkFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872902698665918867",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 16240,
+          "like_count": 1431,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 340
+        },
+        "reply_settings": "everyone",
+        "text": "🤭 https://t.co/c3mRMNAkFn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 149,
+          "like_count": 6417,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1227
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-30T07:15:08.000Z",
+        "description": "中文（繁简）日本語·ENG🆗\nfuck AI😤\n⚠️No reproduction without\npermission.⚠️\n偷我图去骗流量的一辈子发不了财",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/7842363399",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/7842363399",
+                "start": 0,
+                "url": "https://t.co/wRs3jwgYBx"
+              }
+            ]
+          }
+        },
+        "id": "770520209413124096",
+        "location": "山田的衣柜",
+        "name": "Ryow_斑纹仓鼠🐹",
+        "pinned_tweet_id": "1802693867428626934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795900838353006593/fbVnxeMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2842,
+          "following_count": 97,
+          "like_count": 357,
+          "listed_count": 18,
+          "media_count": 142,
+          "tweet_count": 279
+        },
+        "url": "https://t.co/wRs3jwgYBx",
+        "username": "ryow_6",
+        "verified": false
+      }
+    ]
+  }
+}

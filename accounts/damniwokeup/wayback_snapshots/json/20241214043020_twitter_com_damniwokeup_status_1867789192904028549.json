@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867725594751819776"
+      ],
+      "media_source_tweet_id": [
+        "1867725597692023240"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1867789192904028549",
+    "created_at": "2024-12-14T04:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T05:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867789192904028549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1082566450567671809",
+          "start": 3,
+          "username": "junior_gamer24"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mFbEI8mxYY",
+          "end": 56,
+          "expanded_url": "https://x.com/junior_gamer24/status/1867725597692023240/photo/1",
+          "media_key": "3_1867725594751819776",
+          "start": 33,
+          "url": "https://t.co/mFbEI8mxYY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867789192904028549",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867725597692023240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @junior_gamer24: Look at them https://t.co/mFbEI8mxYY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_1867725594751819776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Get-iGUWYAAuqAF.jpg",
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867725594751819776"
+          ],
+          "media_source_tweet_id": [
+            "1867725597692023240"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1867789192904028549",
+        "created_at": "2024-12-14T04:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T05:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867789192904028549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1082566450567671809",
+              "start": 3,
+              "username": "junior_gamer24"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mFbEI8mxYY",
+              "end": 56,
+              "expanded_url": "https://x.com/junior_gamer24/status/1867725597692023240/photo/1",
+              "media_key": "3_1867725594751819776",
+              "start": 33,
+              "url": "https://t.co/mFbEI8mxYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867789192904028549",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867725597692023240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @junior_gamer24: Look at them https://t.co/mFbEI8mxYY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867725594751819776"
+          ]
+        },
+        "author_id": "1082566450567671809",
+        "conversation_id": "1867725597692023240",
+        "created_at": "2024-12-14T00:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T01:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867725597692023240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mFbEI8mxYY",
+              "end": 36,
+              "expanded_url": "https://x.com/junior_gamer24/status/1867725597692023240/photo/1",
+              "media_key": "3_1867725594751819776",
+              "start": 13,
+              "url": "https://t.co/mFbEI8mxYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867725597692023240",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 6086,
+          "like_count": 592,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "Look at them https://t.co/mFbEI8mxYY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 146,
+          "like_count": 5948,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1061
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T09:15:29.000Z",
+        "description": "biggest Medusa simp & enjoyer🍷| talk about type moon stuff and does make daily Medusa tweet /discord: https://t.co/7aVbhMxxsb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/thesnekgangser…",
+                "end": 125,
+                "expanded_url": "https://discord.gg/thesnekgangserver",
+                "start": 102,
+                "url": "https://t.co/7aVbhMxxsb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@da_junior?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@da_junior?si=MR_9Ztvsmophc9Pk",
+                "start": 0,
+                "url": "https://t.co/A7aX7ZS9p8"
+              }
+            ]
+          }
+        },
+        "id": "1082566450567671809",
+        "location": "The Snek House ",
+        "name": "❄️𝕁𝕌ℕ𝕀𝕆ℝ❄️",
+        "pinned_tweet_id": "1861979169741037683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863094914176745472/h_L9fhsz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23039,
+          "following_count": 840,
+          "like_count": 140850,
+          "listed_count": 169,
+          "media_count": 20060,
+          "tweet_count": 77698
+        },
+        "url": "https://t.co/A7aX7ZS9p8",
+        "username": "junior_gamer24",
+        "verified": false
+      }
+    ]
+  }
+}

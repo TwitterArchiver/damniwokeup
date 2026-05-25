@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1874831230413524992"
+      ],
+      "media_source_tweet_id": [
+        "1874831235010408748"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1875185965192593806",
+    "created_at": "2025-01-03T14:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T15:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875185965192593806"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "リョウ喜多",
+          "probability": 0.4811,
+          "start": 36,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1501806530718359556",
+          "start": 3,
+          "username": "super_obebe555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SPJGiYCFer",
+          "end": 65,
+          "expanded_url": "https://x.com/super_obebe555/status/1874831235010408748/photo/1",
+          "media_key": "3_1874831230413524992",
+          "start": 42,
+          "url": "https://t.co/SPJGiYCFer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875185965192593806",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 523
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874831235010408748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @super_obebe555: あらゆるテストも兼ねて\n書き初めリョウ喜多 https://t.co/SPJGiYCFer"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1874831230413524992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgS9Eh6bUAAeQ_k.jpg",
+        "width": 1443
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874831230413524992"
+          ],
+          "media_source_tweet_id": [
+            "1874831235010408748"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1875185965192593806",
+        "created_at": "2025-01-03T14:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T15:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875185965192593806"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "リョウ喜多",
+              "probability": 0.4811,
+              "start": 36,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1501806530718359556",
+              "start": 3,
+              "username": "super_obebe555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SPJGiYCFer",
+              "end": 65,
+              "expanded_url": "https://x.com/super_obebe555/status/1874831235010408748/photo/1",
+              "media_key": "3_1874831230413524992",
+              "start": 42,
+              "url": "https://t.co/SPJGiYCFer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875185965192593806",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 523
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874831235010408748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @super_obebe555: あらゆるテストも兼ねて\n書き初めリョウ喜多 https://t.co/SPJGiYCFer"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874831230413524992"
+          ]
+        },
+        "author_id": "1501806530718359556",
+        "conversation_id": "1874831235010408748",
+        "created_at": "2025-01-02T14:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T15:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874831235010408748"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "リョウ喜多",
+              "probability": 0.4473,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SPJGiYCFer",
+              "end": 45,
+              "expanded_url": "https://x.com/super_obebe555/status/1874831235010408748/photo/1",
+              "media_key": "3_1874831230413524992",
+              "start": 22,
+              "url": "https://t.co/SPJGiYCFer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874831235010408748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 46778,
+          "like_count": 3771,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 523
+        },
+        "reply_settings": "following",
+        "text": "あらゆるテストも兼ねて\n書き初めリョウ喜多 https://t.co/SPJGiYCFer"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 149,
+          "like_count": 6513,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1266
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-10T06:26:12.000Z",
+        "description": "ぼ虹、リョウ喜多 固定🏖感想などhttps://t.co/CRtfwvsWgQ ⚠️転載禁止/image: Repost is prohibited,AI学習禁止",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/1l8hfgyce5kr8d…",
+                "end": 39,
+                "expanded_url": "https://marshmallow-qa.com/1l8hfgyce5kr8da?t=FdHHIc&utm_medium=url_text&utm_source=promotion",
+                "start": 16,
+                "url": "https://t.co/CRtfwvsWgQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/93036637",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/93036637",
+                "start": 0,
+                "url": "https://t.co/PUtviescDE"
+              }
+            ]
+          }
+        },
+        "id": "1501806530718359556",
+        "location": "余計なお世Wi-Fi",
+        "name": "戸々部",
+        "pinned_tweet_id": "1863226050928583152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817471036524580864/dgjZaO_D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16418,
+          "following_count": 24,
+          "like_count": 15822,
+          "listed_count": 135,
+          "media_count": 212,
+          "tweet_count": 10550
+        },
+        "url": "https://t.co/PUtviescDE",
+        "username": "super_obebe555",
+        "verified": false
+      }
+    ]
+  }
+}

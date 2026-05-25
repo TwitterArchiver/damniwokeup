@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862193714459811840"
+      ],
+      "media_source_tweet_id": [
+        "1862193720206217266"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1862414184421761027",
+    "created_at": "2024-11-29T08:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T09:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862414184421761027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3079996314",
+          "start": 3,
+          "username": "ligton1225"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d64JzbW1ym",
+          "end": 39,
+          "expanded_url": "https://x.com/ligton1225/status/1862193720206217266/photo/1",
+          "media_key": "3_1862193714459811840",
+          "start": 16,
+          "url": "https://t.co/d64JzbW1ym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862414184421761027",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 578
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862193720206217266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ligton1225: https://t.co/d64JzbW1ym"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1862193714459811840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdfXUSVXoAAFFcA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862193714459811840"
+          ],
+          "media_source_tweet_id": [
+            "1862193720206217266"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1862414184421761027",
+        "created_at": "2024-11-29T08:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T09:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862414184421761027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3079996314",
+              "start": 3,
+              "username": "ligton1225"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d64JzbW1ym",
+              "end": 39,
+              "expanded_url": "https://x.com/ligton1225/status/1862193720206217266/photo/1",
+              "media_key": "3_1862193714459811840",
+              "start": 16,
+              "url": "https://t.co/d64JzbW1ym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862414184421761027",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 578
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862193720206217266",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ligton1225: https://t.co/d64JzbW1ym"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862193714459811840"
+          ]
+        },
+        "author_id": "3079996314",
+        "conversation_id": "1862193720206217266",
+        "created_at": "2024-11-28T17:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T18:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862193720206217266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d64JzbW1ym",
+              "end": 23,
+              "expanded_url": "https://x.com/ligton1225/status/1862193720206217266/photo/1",
+              "media_key": "3_1862193714459811840",
+              "start": 0,
+              "url": "https://t.co/d64JzbW1ym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862193720206217266",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1012,
+          "impression_count": 163416,
+          "like_count": 11044,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 578
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/d64JzbW1ym"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 134,
+          "like_count": 5264,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 809
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-14T08:38:21.000Z",
+        "description": "Likuリグトン🌊illustration /animation ハイライトに主な仕事まとめています✉️(ligton1225@gmail.com)原画のお仕事は只今お受けしていません😖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ligton1225",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ligton1225",
+                "start": 0,
+                "url": "https://t.co/8w7oXDYKfJ"
+              }
+            ]
+          }
+        },
+        "id": "3079996314",
+        "name": "りく Ligton",
+        "pinned_tweet_id": "1762769038370054457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1430226712827105281/gZjWTX0G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216079,
+          "following_count": 2256,
+          "like_count": 55221,
+          "listed_count": 1840,
+          "media_count": 374,
+          "tweet_count": 11995
+        },
+        "url": "https://t.co/8w7oXDYKfJ",
+        "username": "ligton1225",
+        "verified": true
+      }
+    ]
+  }
+}

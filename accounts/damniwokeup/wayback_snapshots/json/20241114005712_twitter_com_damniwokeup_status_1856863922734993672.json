@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1856651668546629632"
+      ],
+      "media_source_tweet_id": [
+        "1856651720945963010"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1856863922734993672",
+    "created_at": "2024-11-14T00:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T01:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856863922734993672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2453601319",
+          "start": 3,
+          "username": "Pa1mira_Moi01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TwBSOR1ySk",
+          "end": 42,
+          "expanded_url": "https://x.com/Pa1mira_Moi01/status/1856651720945963010/photo/1",
+          "media_key": "3_1856651668546629632",
+          "start": 19,
+          "url": "https://t.co/TwBSOR1ySk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856863922734993672",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1994
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856651720945963010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pa1mira_Moi01: https://t.co/TwBSOR1ySk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2166,
+        "media_key": "3_1856651668546629632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcQm2wdbsAA2lN6.jpg",
+        "width": 1516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856651668546629632"
+          ],
+          "media_source_tweet_id": [
+            "1856651720945963010"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1856863922734993672",
+        "created_at": "2024-11-14T00:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T01:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856863922734993672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2453601319",
+              "start": 3,
+              "username": "Pa1mira_Moi01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TwBSOR1ySk",
+              "end": 42,
+              "expanded_url": "https://x.com/Pa1mira_Moi01/status/1856651720945963010/photo/1",
+              "media_key": "3_1856651668546629632",
+              "start": 19,
+              "url": "https://t.co/TwBSOR1ySk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856863922734993672",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1994
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856651720945963010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pa1mira_Moi01: https://t.co/TwBSOR1ySk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856651668546629632"
+          ]
+        },
+        "author_id": "2453601319",
+        "conversation_id": "1856651720945963010",
+        "created_at": "2024-11-13T10:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T11:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856651720945963010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TwBSOR1ySk",
+              "end": 23,
+              "expanded_url": "https://x.com/Pa1mira_Moi01/status/1856651720945963010/photo/1",
+              "media_key": "3_1856651668546629632",
+              "start": 0,
+              "url": "https://t.co/TwBSOR1ySk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856651720945963010",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 968,
+          "impression_count": 192577,
+          "like_count": 11538,
+          "quote_count": 15,
+          "reply_count": 20,
+          "retweet_count": 1994
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TwBSOR1ySk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 125,
+          "like_count": 4789,
+          "listed_count": 0,
+          "tweet_count": 591
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-19T19:19:57.000Z",
+        "description": "型月大好き人間でファンアート描いています。\n\nProfile→https://t.co/wY9j5HdtTN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/DmYQNeFtg2MH…",
+                "end": 54,
+                "expanded_url": "https://profcard.info/u/DmYQNeFtg2MH55ZGMQZ6tYbl9ic2",
+                "start": 31,
+                "url": "https://t.co/wY9j5HdtTN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/4733397",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/4733397",
+                "start": 0,
+                "url": "https://t.co/Y5aSajaj80"
+              }
+            ]
+          }
+        },
+        "id": "2453601319",
+        "name": "暁蕾",
+        "pinned_tweet_id": "1856651720945963010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771909983451615232/i7DQwAbG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179808,
+          "following_count": 0,
+          "like_count": 494,
+          "listed_count": 1282,
+          "tweet_count": 2221
+        },
+        "url": "https://t.co/Y5aSajaj80",
+        "username": "Pa1mira_Moi01",
+        "verified": true
+      }
+    ]
+  }
+}

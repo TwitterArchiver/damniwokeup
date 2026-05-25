@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1865289720835772727",
+    "created_at": "2024-12-07T06:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T07:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865289720835772727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1082600293475397634",
+          "start": 3,
+          "username": "Kirakiradove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865289720835772727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865287572987211802",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kirakiradove: 听说在罗德岛，刚入职的干员都会送给博士一张高级凭证，但对不起...我已经没有什么能送给博士了\n\n重度感染者体内的源石结晶可以提炼出一颗完整的源石，那我就送给博士一颗源石吧，希望博士能用它招募到喜欢的干员\n\n很遗憾不能和你一起回罗德岛了，但真的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1865289720835772727",
+        "created_at": "2024-12-07T06:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T07:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865289720835772727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1082600293475397634",
+              "start": 3,
+              "username": "Kirakiradove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865289720835772727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865287572987211802",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kirakiradove: 听说在罗德岛，刚入职的干员都会送给博士一张高级凭证，但对不起...我已经没有什么能送给博士了\n\n重度感染者体内的源石结晶可以提炼出一颗完整的源石，那我就送给博士一颗源石吧，希望博士能用它招募到喜欢的干员\n\n很遗憾不能和你一起回罗德岛了，但真的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865287566117023744"
+          ]
+        },
+        "author_id": "1082600293475397634",
+        "conversation_id": "1865287572987211802",
+        "created_at": "2024-12-07T06:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T07:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865287572987211802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jLBlZZMt0",
+              "end": 156,
+              "expanded_url": "https://x.com/Kirakiradove/status/1865287572987211802/photo/1",
+              "media_key": "3_1865287566117023744",
+              "start": 133,
+              "url": "https://t.co/7jLBlZZMt0"
+            },
+            {
+              "display_url": "x.com/ashsekiro44217…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/ashsekiro44217/status/1864884015884570822",
+              "start": 157,
+              "url": "https://t.co/hkcZWZHUKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865287572987211802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864884015884570822",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "听说在罗德岛，刚入职的干员都会送给博士一张高级凭证，但对不起...我已经没有什么能送给博士了\n\n重度感染者体内的源石结晶可以提炼出一颗完整的源石，那我就送给博士一颗源石吧，希望博士能用它招募到喜欢的干员\n\n很遗憾不能和你一起回罗德岛了，但真的谢谢你，博士，永别了。 https://t.co/7jLBlZZMt0 https://t.co/hkcZWZHUKk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 144,
+          "like_count": 5659,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 949
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T11:29:58.000Z",
+        "description": "🉑🉑丨我是孤儿丨原因就是性别丨非男非女纯人间失格丨每周去麦当当打工还助学贷款丨能活到现在纯靠运气和好人援助交际丨有问题可以直接私信我但想要提要求请先支付宝口令丨vx门槛88接陪聊陪玩交明年学费丨重度药物依赖每天晚上都会发癫⚠️丨正常情况下超高频率和粉丝互动丨免费头像进度请点击媒体查看丨其他请看亮点丨感谢你们喜欢我",
+        "id": "1082600293475397634",
+        "location": "隨機",
+        "name": "うさココ",
+        "pinned_tweet_id": "1859467840635748539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514216529138696193/5YBbERgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3050,
+          "following_count": 0,
+          "like_count": 4011,
+          "listed_count": 6,
+          "media_count": 217,
+          "tweet_count": 2977
+        },
+        "username": "Kirakiradove",
+        "verified": true
+      }
+    ]
+  }
+}

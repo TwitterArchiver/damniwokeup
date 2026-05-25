@@ -1,0 +1,168 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1847682276361973760"
+      ],
+      "media_source_tweet_id": [
+        "1847682279000211548"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1848016987970286009",
+    "created_at": "2024-10-20T15:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T16:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848016987970286009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "845063285607161857",
+          "start": 3,
+          "username": "XMasterFGO"
+        }
+      ]
+    },
+    "id": "1848016987970286009",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1349
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847682279000211548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XMasterFGO: Saber would make a wonderful Mother 🥰  #FGO #FateGO #ShirouDay https://t.co/3HiVOeanf0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1847682276361973760",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaRJPaxXMAAt0BT.jpg",
+        "width": 635
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1847682276361973760"
+          ],
+          "media_source_tweet_id": [
+            "1847682279000211548"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1848016987970286009",
+        "created_at": "2024-10-20T15:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T16:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848016987970286009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "845063285607161857",
+              "start": 3,
+              "username": "XMasterFGO"
+            }
+          ]
+        },
+        "id": "1848016987970286009",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1349
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847682279000211548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XMasterFGO: Saber would make a wonderful Mother 🥰  #FGO #FateGO #ShirouDay https://t.co/3HiVOeanf0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 133,
+          "like_count": 5167,
+          "listed_count": 0,
+          "tweet_count": 769
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-24T00:02:42.000Z",
+        "description": "✨Passionate FGO & BlueArchive player ✨| 💫Type-Moon Enjoyer | ✨True Knight of Artoria Pendragon✨ Love Neru ❤️‍🔥 Fan art appreciator 🖼️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/xmasterfgo",
+                "end": 23,
+                "expanded_url": "https://twitter.com/xmasterfgo",
+                "start": 0,
+                "url": "https://t.co/JVliANkPfi"
+              }
+            ]
+          }
+        },
+        "id": "845063285607161857",
+        "location": "Chaldea🌐",
+        "name": "XMaster @ FGO  🍁",
+        "pinned_tweet_id": "1649540085719740416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854000250026967060/VgAv9kFI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102421,
+          "following_count": 1237,
+          "like_count": 57264,
+          "listed_count": 456,
+          "tweet_count": 48922
+        },
+        "url": "https://t.co/JVliANkPfi",
+        "username": "XMasterFGO",
+        "verified": false
+      }
+    ]
+  }
+}

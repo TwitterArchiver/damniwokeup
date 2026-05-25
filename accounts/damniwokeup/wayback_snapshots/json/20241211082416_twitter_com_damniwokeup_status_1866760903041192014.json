@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866130260829642752"
+      ],
+      "media_source_tweet_id": [
+        "1866130590573191668"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1866760903041192014",
+    "created_at": "2024-12-11T08:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T09:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866760903041192014"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1643908437494099968",
+          "start": 3,
+          "username": "hp__001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sLIimMrblG",
+          "end": 53,
+          "expanded_url": "https://x.com/hp__001/status/1866130590573191668/photo/1",
+          "media_key": "3_1866130260829642752",
+          "start": 30,
+          "url": "https://t.co/sLIimMrblG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866760903041192014",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 217
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866130590573191668",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hp__001: 機械は泣かないらしい\n#初音ミク https://t.co/sLIimMrblG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1866130260829642752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeXTlcVboAAqfqT.jpg",
+        "width": 1321
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866130260829642752"
+          ],
+          "media_source_tweet_id": [
+            "1866130590573191668"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1866760903041192014",
+        "created_at": "2024-12-11T08:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T09:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866760903041192014"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1643908437494099968",
+              "start": 3,
+              "username": "hp__001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sLIimMrblG",
+              "end": 53,
+              "expanded_url": "https://x.com/hp__001/status/1866130590573191668/photo/1",
+              "media_key": "3_1866130260829642752",
+              "start": 30,
+              "url": "https://t.co/sLIimMrblG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866760903041192014",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 217
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866130590573191668",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hp__001: 機械は泣かないらしい\n#初音ミク https://t.co/sLIimMrblG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866130260829642752"
+          ]
+        },
+        "author_id": "1643908437494099968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1866130590573191668",
+        "created_at": "2024-12-09T14:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T15:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866130590573191668"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sLIimMrblG",
+              "end": 40,
+              "expanded_url": "https://x.com/hp__001/status/1866130590573191668/photo/1",
+              "media_key": "3_1866130260829642752",
+              "start": 17,
+              "url": "https://t.co/sLIimMrblG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866130590573191668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 33031,
+          "like_count": 4312,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 217
+        },
+        "reply_settings": "everyone",
+        "text": "機械は泣かないらしい\n#初音ミク https://t.co/sLIimMrblG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 5837,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1017
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T09:28:45.000Z",
+        "description": "絵を描きます。skeb▶ https://t.co/a5lPfqg5vk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@hp__001",
+                "end": 36,
+                "expanded_url": "http://skeb.jp/@hp__001",
+                "start": 13,
+                "url": "https://t.co/a5lPfqg5vk"
+              }
+            ]
+          }
+        },
+        "id": "1643908437494099968",
+        "location": "版権と創作",
+        "name": "ぐるる",
+        "pinned_tweet_id": "1860277877952196670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651855856399708160/PkrGfZ39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3721,
+          "following_count": 88,
+          "like_count": 2869,
+          "listed_count": 16,
+          "media_count": 82,
+          "tweet_count": 525
+        },
+        "username": "hp__001",
+        "verified": false
+      }
+    ]
+  }
+}

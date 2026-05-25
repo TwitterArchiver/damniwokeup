@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866423925460324352"
+      ],
+      "media_source_tweet_id": [
+        "1867781563779367037"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1867890143425949706",
+    "created_at": "2024-12-14T11:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T12:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867890143425949706"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "ShirouSaber",
+          "probability": 0.6018,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "士剣"
+        },
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "鞘剣"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1564107000585129985",
+          "start": 3,
+          "username": "Blue_Phoenixofb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8QL0S1qAUs",
+          "end": 64,
+          "expanded_url": "https://x.com/Blue_Phoenixofb/status/1867781563779367037/photo/1",
+          "media_key": "3_1866423925460324352",
+          "start": 41,
+          "url": "https://t.co/8QL0S1qAUs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867890143425949706",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867781563779367037",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Blue_Phoenixofb: ShirouSaber #士剣 #鞘剣 https://t.co/8QL0S1qAUs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2286,
+        "media_key": "3_1866423925460324352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gebeq-VaUAAKqKV.jpg",
+        "width": 1098
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866423925460324352"
+          ],
+          "media_source_tweet_id": [
+            "1867781563779367037"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1867890143425949706",
+        "created_at": "2024-12-14T11:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T12:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867890143425949706"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "ShirouSaber",
+              "probability": 0.6018,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "士剣"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "鞘剣"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1564107000585129985",
+              "start": 3,
+              "username": "Blue_Phoenixofb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8QL0S1qAUs",
+              "end": 64,
+              "expanded_url": "https://x.com/Blue_Phoenixofb/status/1867781563779367037/photo/1",
+              "media_key": "3_1866423925460324352",
+              "start": 41,
+              "url": "https://t.co/8QL0S1qAUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867890143425949706",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867781563779367037",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Blue_Phoenixofb: ShirouSaber #士剣 #鞘剣 https://t.co/8QL0S1qAUs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866423925460324352"
+          ]
+        },
+        "author_id": "1564107000585129985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1867781563779367037",
+        "created_at": "2024-12-14T04:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867781563779367037"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "士剣"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "鞘剣"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8QL0S1qAUs",
+              "end": 43,
+              "expanded_url": "https://x.com/Blue_Phoenixofb/status/1867781563779367037/photo/1",
+              "media_key": "3_1866423925460324352",
+              "start": 20,
+              "url": "https://t.co/8QL0S1qAUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867781563779367037",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 661,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "ShirouSaber #士剣 #鞘剣 https://t.co/8QL0S1qAUs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 146,
+          "like_count": 5966,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1068
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-29T04:26:16.000Z",
+        "description": "I talk about a lot things\nLove making edits\nWanna make good contents\nLet's be friends\n#FGO #TYPEMOON #ARKNIGHTS #WutheringWaves #Anime #Games",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 86,
+                "tag": "FGO"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "tag": "TYPEMOON"
+              },
+              {
+                "end": 111,
+                "start": 101,
+                "tag": "ARKNIGHTS"
+              },
+              {
+                "end": 127,
+                "start": 112,
+                "tag": "WutheringWaves"
+              },
+              {
+                "end": 134,
+                "start": 128,
+                "tag": "Anime"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "Games"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ObserversFrom…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@ObserversFromBeyond?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/NuxeS0XE2W"
+              }
+            ]
+          }
+        },
+        "id": "1564107000585129985",
+        "location": "Mother Earth",
+        "name": "Observers from Beyond",
+        "pinned_tweet_id": "1861473656972644747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850236652498927616/8wltOL_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 1975,
+          "like_count": 71416,
+          "listed_count": 7,
+          "media_count": 3672,
+          "tweet_count": 38960
+        },
+        "url": "https://t.co/NuxeS0XE2W",
+        "username": "Blue_Phoenixofb",
+        "verified": false
+      }
+    ]
+  }
+}

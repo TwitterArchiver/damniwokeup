@@ -1,0 +1,737 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1851640008840728576"
+      ],
+      "media_source_tweet_id": [
+        "1851640213489262908"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Halloween for all years",
+          "id": "1301463450099482625",
+          "name": "Halloween "
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1851657672774533518",
+    "created_at": "2024-10-30T16:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T17:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851657672774533518"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "葬送のフリーレン",
+          "probability": 0.8069,
+          "start": 23,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 33,
+          "tag": "ハロウィン"
+        },
+        {
+          "end": 57,
+          "start": 51,
+          "tag": "フリーレン"
+        },
+        {
+          "end": 66,
+          "start": 58,
+          "tag": "frieren"
+        },
+        {
+          "end": 77,
+          "start": 67,
+          "tag": "Halloween"
+        },
+        {
+          "end": 84,
+          "start": 79,
+          "tag": "2期決定"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1554275945841692672",
+          "start": 3,
+          "username": "Anime_Frieren"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rh0N5vpdXV",
+          "end": 108,
+          "expanded_url": "https://x.com/Anime_Frieren/status/1851640213489262908/photo/1",
+          "media_key": "3_1851640008840728576",
+          "start": 85,
+          "url": "https://t.co/rh0N5vpdXV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851657672774533518",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6139
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851640213489262908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anime_Frieren: アニメ『葬送のフリーレン』\n#ハロウィン ビジュアルが到着🪄\n\n#フリーレン #frieren #Halloween \n#2期決定 https://t.co/rh0N5vpdXV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1851640008840728576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbJYxxLaUAAEEgu.jpg",
+        "width": 849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851640008840728576"
+          ],
+          "media_source_tweet_id": [
+            "1851640213489262908"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1851657672774533518",
+        "created_at": "2024-10-30T16:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T17:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851657672774533518"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "葬送のフリーレン",
+              "probability": 0.8069,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 33,
+              "tag": "ハロウィン"
+            },
+            {
+              "end": 57,
+              "start": 51,
+              "tag": "フリーレン"
+            },
+            {
+              "end": 66,
+              "start": 58,
+              "tag": "frieren"
+            },
+            {
+              "end": 77,
+              "start": 67,
+              "tag": "Halloween"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "2期決定"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1554275945841692672",
+              "start": 3,
+              "username": "Anime_Frieren"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rh0N5vpdXV",
+              "end": 108,
+              "expanded_url": "https://x.com/Anime_Frieren/status/1851640213489262908/photo/1",
+              "media_key": "3_1851640008840728576",
+              "start": 85,
+              "url": "https://t.co/rh0N5vpdXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851657672774533518",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6139
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851640213489262908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Anime_Frieren: アニメ『葬送のフリーレン』\n#ハロウィン ビジュアルが到着🪄\n\n#フリーレン #frieren #Halloween \n#2期決定 https://t.co/rh0N5vpdXV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851640008840728576"
+          ]
+        },
+        "author_id": "1554275945841692672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1851640213489262908",
+        "created_at": "2024-10-30T15:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T16:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851640213489262908"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "葬送のフリーレン",
+              "probability": 0.8373,
+              "start": 4,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "ハロウィン"
+            },
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "フリーレン"
+            },
+            {
+              "end": 47,
+              "start": 39,
+              "tag": "frieren"
+            },
+            {
+              "end": 58,
+              "start": 48,
+              "tag": "Halloween"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "2期決定"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rh0N5vpdXV",
+              "end": 89,
+              "expanded_url": "https://x.com/Anime_Frieren/status/1851640213489262908/photo/1",
+              "media_key": "3_1851640008840728576",
+              "start": 66,
+              "url": "https://t.co/rh0N5vpdXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851640213489262908",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1326,
+          "impression_count": 379616,
+          "like_count": 28622,
+          "quote_count": 225,
+          "reply_count": 75,
+          "retweet_count": 6139
+        },
+        "reply_settings": "everyone",
+        "text": "アニメ『葬送のフリーレン』\n#ハロウィン ビジュアルが到着🪄\n\n#フリーレン #frieren #Halloween \n#2期決定 https://t.co/rh0N5vpdXV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847962644852162560/UJMfw11t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 121,
+          "like_count": 4433,
+          "listed_count": 0,
+          "tweet_count": 452
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T01:21:37.000Z",
+        "description": "TVアニメ2期制作決定🪄原作:山田鐘人・アベツカサ(小学館「週刊少年サンデー」連載中)による『葬送のフリーレン』アニメの公式アカウントです。推奨ハッシュタグ：#フリーレン #frieren ※原則、個別リプライは行っておりません",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "フリーレン"
+              },
+              {
+                "end": 94,
+                "start": 86,
+                "tag": "frieren"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "frieren-anime.jp",
+                "end": 23,
+                "expanded_url": "http://frieren-anime.jp",
+                "start": 0,
+                "url": "https://t.co/81iohm9k3C"
+              }
+            ]
+          }
+        },
+        "id": "1554275945841692672",
+        "name": "『葬送のフリーレン』アニメ公式",
+        "pinned_tweet_id": "1839994715581673674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780079237673955328/I_FUq6XT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476238,
+          "following_count": 52,
+          "like_count": 4,
+          "listed_count": 1636,
+          "tweet_count": 2834
+        },
+        "url": "https://t.co/81iohm9k3C",
+        "username": "Anime_Frieren",
+        "verified": true
+      }
+    ]
+  }
+}

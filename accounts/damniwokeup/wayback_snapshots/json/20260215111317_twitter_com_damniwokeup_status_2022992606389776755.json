@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022880471991103488"
+      ],
+      "media_source_tweet_id": [
+        "2022880580841730058"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "2022992606389776755",
+    "created_at": "2026-02-15T11:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T12:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022992606389776755"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "Sophia",
+          "probability": 0.5774,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 23,
+          "tag": "リバース1999"
+        },
+        {
+          "end": 45,
+          "start": 33,
+          "tag": "Reverse1999"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "987738531408658432",
+          "start": 3,
+          "username": "Nullllity"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OObpBxMsnQ",
+          "end": 69,
+          "expanded_url": "https://x.com/Nullllity/status/2022880580841730058/photo/1",
+          "media_key": "3_2022880471991103488",
+          "start": 46,
+          "url": "https://t.co/OObpBxMsnQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022992606389776755",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 202
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022880580841730058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nullllity: Sophia\n\n#リバース1999 #Reverse1999 https://t.co/OObpBxMsnQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2022880471991103488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBK3ElQasAAanGL.jpg",
+        "width": 745
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022880471991103488"
+          ],
+          "media_source_tweet_id": [
+            "2022880580841730058"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "2022992606389776755",
+        "created_at": "2026-02-15T11:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022992606389776755"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Sophia",
+              "probability": 0.5774,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "リバース1999"
+            },
+            {
+              "end": 45,
+              "start": 33,
+              "tag": "Reverse1999"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "987738531408658432",
+              "start": 3,
+              "username": "Nullllity"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OObpBxMsnQ",
+              "end": 69,
+              "expanded_url": "https://x.com/Nullllity/status/2022880580841730058/photo/1",
+              "media_key": "3_2022880471991103488",
+              "start": 46,
+              "url": "https://t.co/OObpBxMsnQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022992606389776755",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 202
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022880580841730058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nullllity: Sophia\n\n#リバース1999 #Reverse1999 https://t.co/OObpBxMsnQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022880471991103488"
+          ]
+        },
+        "author_id": "987738531408658432",
+        "conversation_id": "2022880580841730058",
+        "created_at": "2026-02-15T03:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022880580841730058"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Sophia",
+              "probability": 0.6263,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "リバース1999"
+            },
+            {
+              "end": 30,
+              "start": 18,
+              "tag": "Reverse1999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OObpBxMsnQ",
+              "end": 54,
+              "expanded_url": "https://x.com/Nullllity/status/2022880580841730058/photo/1",
+              "media_key": "3_2022880471991103488",
+              "start": 31,
+              "url": "https://t.co/OObpBxMsnQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022880580841730058",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 6231,
+          "like_count": 717,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 202
+        },
+        "reply_settings": "everyone",
+        "text": "Sophia\n\n#リバース1999 #Reverse1999 https://t.co/OObpBxMsnQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 153,
+          "like_count": 7397,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1325
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-21T17:03:11.000Z",
+        "description": "🐥|中文/日本語/EN👌|20+|AI学習禁止|雑多垢Reverse1999✨Limbuscompany✨arknights|persona垢(主にペごキタ)❤️💙@Nulliitty\n|skeb 請求停止中https://t.co/8NUiRyWLOU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Nulliitty"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Nullllity",
+                "end": 127,
+                "expanded_url": "https://skeb.jp/@Nullllity",
+                "start": 104,
+                "url": "https://t.co/8NUiRyWLOU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Nullity",
+                "end": 23,
+                "expanded_url": "https://lit.link/Nullity",
+                "start": 0,
+                "url": "https://t.co/nxSeFJtJ4p"
+              }
+            ]
+          }
+        },
+        "id": "987738531408658432",
+        "name": "🐥🐥🐥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843509395076050944/r3sjhorP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 122,
+          "like_count": 488,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 189
+        },
+        "url": "https://t.co/nxSeFJtJ4p",
+        "username": "Nullllity",
+        "verified": false
+      }
+    ]
+  }
+}

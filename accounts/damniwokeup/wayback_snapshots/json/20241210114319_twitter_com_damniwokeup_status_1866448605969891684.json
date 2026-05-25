@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1866444276634386449"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1866448605969891684",
+    "created_at": "2024-12-10T11:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T12:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866448605969891684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1082600293475397634",
+          "start": 3,
+          "username": "Kirakiradove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5GtP2WLaqR",
+          "end": 61,
+          "expanded_url": "https://x.com/Kirakiradove/status/1866444276634386449/photo/1",
+          "media_key": "3_1866444269894164480",
+          "start": 38,
+          "url": "https://t.co/5GtP2WLaqR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866448605969891684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866444276634386449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kirakiradove: 『集结的星之吐息，闪耀的生命奔流——』 https://t.co/5GtP2WLaqR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1866444276634386449"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1866448605969891684",
+        "created_at": "2024-12-10T11:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T12:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866448605969891684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1082600293475397634",
+              "start": 3,
+              "username": "Kirakiradove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5GtP2WLaqR",
+              "end": 61,
+              "expanded_url": "https://x.com/Kirakiradove/status/1866444276634386449/photo/1",
+              "media_key": "3_1866444269894164480",
+              "start": 38,
+              "url": "https://t.co/5GtP2WLaqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866448605969891684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866444276634386449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kirakiradove: 『集结的星之吐息，闪耀的生命奔流——』 https://t.co/5GtP2WLaqR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866444269894164480"
+          ]
+        },
+        "author_id": "1082600293475397634",
+        "conversation_id": "1866444276634386449",
+        "created_at": "2024-12-10T11:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T12:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866444276634386449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5GtP2WLaqR",
+              "end": 43,
+              "expanded_url": "https://x.com/Kirakiradove/status/1866444276634386449/photo/1",
+              "media_key": "3_1866444269894164480",
+              "start": 20,
+              "url": "https://t.co/5GtP2WLaqR"
+            },
+            {
+              "display_url": "x.com/saber1332914/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/saber1332914/status/1866090754809950629",
+              "start": 44,
+              "url": "https://t.co/d6Ss98qTuJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866444276634386449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866090754809950629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "『集结的星之吐息，闪耀的生命奔流——』 https://t.co/5GtP2WLaqR https://t.co/d6Ss98qTuJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 5771,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 987
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T11:29:58.000Z",
+        "description": "🉑🉑丨我是孤儿丨原因就是性别丨非男非女纯人间失格丨每周去麦当当打工还助学贷款丨能活到现在纯靠运气和好人援助交际丨有问题可以直接私信我但想要提要求请先支付宝口令丨vx门槛88接陪聊陪玩交明年学费丨重度药物依赖每天晚上都会发癫⚠️丨正常情况下超高频率和粉丝互动丨免费头像进度请点击媒体查看丨其他请看亮点丨感谢你们喜欢我",
+        "id": "1082600293475397634",
+        "location": "隨機",
+        "name": "うさココ",
+        "pinned_tweet_id": "1859467840635748539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514216529138696193/5YBbERgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3247,
+          "following_count": 0,
+          "like_count": 5236,
+          "listed_count": 7,
+          "media_count": 244,
+          "tweet_count": 3768
+        },
+        "username": "Kirakiradove",
+        "verified": true
+      }
+    ]
+  }
+}

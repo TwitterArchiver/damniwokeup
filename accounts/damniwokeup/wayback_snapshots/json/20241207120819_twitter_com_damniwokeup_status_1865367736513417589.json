@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863557045833924608",
+        "3_1863557058332901376",
+        "3_1863557070387351553",
+        "3_1863557185462222848"
+      ],
+      "media_source_tweet_id": [
+        "1865233017314083269",
+        "1865233017314083269",
+        "1865233017314083269",
+        "1865233017314083269"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1865367736513417589",
+    "created_at": "2024-12-07T12:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T13:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865367736513417589"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "butterfly",
+          "probability": 0.5203,
+          "start": 20,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3165209270",
+          "start": 3,
+          "username": "artindetails"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CH3GCb8BRa",
+          "end": 60,
+          "expanded_url": "https://x.com/artindetails/status/1865233017314083269/photo/1",
+          "media_key": "3_1863557045833924608",
+          "start": 37,
+          "url": "https://t.co/CH3GCb8BRa"
+        },
+        {
+          "display_url": "pic.x.com/CH3GCb8BRa",
+          "end": 60,
+          "expanded_url": "https://x.com/artindetails/status/1865233017314083269/photo/1",
+          "media_key": "3_1863557058332901376",
+          "start": 37,
+          "url": "https://t.co/CH3GCb8BRa"
+        },
+        {
+          "display_url": "pic.x.com/CH3GCb8BRa",
+          "end": 60,
+          "expanded_url": "https://x.com/artindetails/status/1865233017314083269/photo/1",
+          "media_key": "3_1863557070387351553",
+          "start": 37,
+          "url": "https://t.co/CH3GCb8BRa"
+        },
+        {
+          "display_url": "pic.x.com/CH3GCb8BRa",
+          "end": 60,
+          "expanded_url": "https://x.com/artindetails/status/1865233017314083269/photo/1",
+          "media_key": "3_1863557185462222848",
+          "start": 37,
+          "url": "https://t.co/CH3GCb8BRa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865367736513417589",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 472
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865233017314083269",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @artindetails: — butterfly garden https://t.co/CH3GCb8BRa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 411,
+        "media_key": "3_1863557045833924608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdyvQnebgAATioW.png",
+        "width": 403
+      },
+      {
+        "height": 960,
+        "media_key": "3_1863557058332901376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdyvRWCawAAp6wO.jpg",
+        "width": 643
+      },
+      {
+        "height": 960,
+        "media_key": "3_1863557070387351553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdyvSC8bEAEekfc.jpg",
+        "width": 720
+      },
+      {
+        "height": 960,
+        "media_key": "3_1863557185462222848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdyvYvoaQAAaL-1.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863557045833924608",
+            "3_1863557058332901376",
+            "3_1863557070387351553",
+            "3_1863557185462222848"
+          ],
+          "media_source_tweet_id": [
+            "1865233017314083269",
+            "1865233017314083269",
+            "1865233017314083269",
+            "1865233017314083269"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1865367736513417589",
+        "created_at": "2024-12-07T12:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T13:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865367736513417589"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "butterfly",
+              "probability": 0.5203,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3165209270",
+              "start": 3,
+              "username": "artindetails"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CH3GCb8BRa",
+              "end": 60,
+              "expanded_url": "https://x.com/artindetails/status/1865233017314083269/photo/1",
+              "media_key": "3_1863557045833924608",
+              "start": 37,
+              "url": "https://t.co/CH3GCb8BRa"
+            },
+            {
+              "display_url": "pic.x.com/CH3GCb8BRa",
+              "end": 60,
+              "expanded_url": "https://x.com/artindetails/status/1865233017314083269/photo/1",
+              "media_key": "3_1863557058332901376",
+              "start": 37,
+              "url": "https://t.co/CH3GCb8BRa"
+            },
+            {
+              "display_url": "pic.x.com/CH3GCb8BRa",
+              "end": 60,
+              "expanded_url": "https://x.com/artindetails/status/1865233017314083269/photo/1",
+              "media_key": "3_1863557070387351553",
+              "start": 37,
+              "url": "https://t.co/CH3GCb8BRa"
+            },
+            {
+              "display_url": "pic.x.com/CH3GCb8BRa",
+              "end": 60,
+              "expanded_url": "https://x.com/artindetails/status/1865233017314083269/photo/1",
+              "media_key": "3_1863557185462222848",
+              "start": 37,
+              "url": "https://t.co/CH3GCb8BRa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865367736513417589",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 472
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865233017314083269",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @artindetails: — butterfly garden https://t.co/CH3GCb8BRa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863557045833924608",
+            "3_1863557058332901376",
+            "3_1863557070387351553",
+            "3_1863557185462222848"
+          ]
+        },
+        "author_id": "3165209270",
+        "conversation_id": "1865233017314083269",
+        "created_at": "2024-12-07T03:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T04:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865233017314083269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CH3GCb8BRa",
+              "end": 42,
+              "expanded_url": "https://x.com/artindetails/status/1865233017314083269/photo/1",
+              "media_key": "3_1863557045833924608",
+              "start": 19,
+              "url": "https://t.co/CH3GCb8BRa"
+            },
+            {
+              "display_url": "pic.x.com/CH3GCb8BRa",
+              "end": 42,
+              "expanded_url": "https://x.com/artindetails/status/1865233017314083269/photo/1",
+              "media_key": "3_1863557058332901376",
+              "start": 19,
+              "url": "https://t.co/CH3GCb8BRa"
+            },
+            {
+              "display_url": "pic.x.com/CH3GCb8BRa",
+              "end": 42,
+              "expanded_url": "https://x.com/artindetails/status/1865233017314083269/photo/1",
+              "media_key": "3_1863557070387351553",
+              "start": 19,
+              "url": "https://t.co/CH3GCb8BRa"
+            },
+            {
+              "display_url": "pic.x.com/CH3GCb8BRa",
+              "end": 42,
+              "expanded_url": "https://x.com/artindetails/status/1865233017314083269/photo/1",
+              "media_key": "3_1863557185462222848",
+              "start": 19,
+              "url": "https://t.co/CH3GCb8BRa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865233017314083269",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 34358,
+          "like_count": 1638,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 472
+        },
+        "reply_settings": "everyone",
+        "text": "— butterfly garden https://t.co/CH3GCb8BRa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 145,
+          "like_count": 5671,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 954
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-20T11:00:08.000Z",
+        "description": "— Dedicated to the seekers. ☾ @artindetaiIs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "artindetaiIs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/artindetails",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/artindetails",
+                "start": 0,
+                "url": "https://t.co/zRjbVdaeod"
+              }
+            ]
+          }
+        },
+        "id": "3165209270",
+        "name": "ᅠ",
+        "pinned_tweet_id": "1855526307171356767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544503030531248128/HqjYjqEp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862088,
+          "following_count": 48,
+          "like_count": 31195,
+          "listed_count": 3860,
+          "media_count": 7047,
+          "tweet_count": 9764
+        },
+        "url": "https://t.co/zRjbVdaeod",
+        "username": "artindetails",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868188064902004736"
+      ],
+      "media_source_tweet_id": [
+        "1868188099681071549"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1868203687027638615",
+    "created_at": "2024-12-15T07:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T08:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868203687027638615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587590799746682880",
+          "start": 3,
+          "username": "Elyzerda"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/02vcLfDObi",
+          "end": 42,
+          "expanded_url": "https://x.com/Elyzerda/status/1868188099681071549/photo/1",
+          "media_key": "3_1868188064902004736",
+          "start": 19,
+          "url": "https://t.co/02vcLfDObi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868203687027638615",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868188099681071549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Elyzerda: rkgk https://t.co/02vcLfDObi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1868188064902004736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge0jJZ4bwAAxERg.jpg",
+        "width": 2512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868188064902004736"
+          ],
+          "media_source_tweet_id": [
+            "1868188099681071549"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1868203687027638615",
+        "created_at": "2024-12-15T07:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T08:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868203687027638615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587590799746682880",
+              "start": 3,
+              "username": "Elyzerda"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/02vcLfDObi",
+              "end": 42,
+              "expanded_url": "https://x.com/Elyzerda/status/1868188099681071549/photo/1",
+              "media_key": "3_1868188064902004736",
+              "start": 19,
+              "url": "https://t.co/02vcLfDObi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868203687027638615",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868188099681071549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Elyzerda: rkgk https://t.co/02vcLfDObi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868188064902004736"
+          ]
+        },
+        "author_id": "1587590799746682880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1868188099681071549",
+        "created_at": "2024-12-15T06:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T07:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868188099681071549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/02vcLfDObi",
+              "end": 28,
+              "expanded_url": "https://x.com/Elyzerda/status/1868188099681071549/photo/1",
+              "media_key": "3_1868188064902004736",
+              "start": 5,
+              "url": "https://t.co/02vcLfDObi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868188099681071549",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 2726,
+          "like_count": 402,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "rkgk https://t.co/02vcLfDObi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 145,
+          "like_count": 5996,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1076
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-01T23:42:13.000Z",
+        "description": "NO A.I🚫| Cms Open: https://t.co/DKBLz2Ymeg| https://t.co/hNWf0T6ROS\nWork: thaoanh1222@gmail.com or dm me on X",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "elyzerda.carrd.co",
+                "end": 42,
+                "expanded_url": "https://elyzerda.carrd.co/",
+                "start": 19,
+                "url": "https://t.co/DKBLz2Ymeg"
+              },
+              {
+                "display_url": "trello.com/b/iY4yegrm/ely…",
+                "end": 67,
+                "expanded_url": "https://trello.com/b/iY4yegrm/elyzerda-waitlist",
+                "start": 44,
+                "url": "https://t.co/hNWf0T6ROS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/anhhlthaoo?igs…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/anhhlthaoo?igshid=MzNlNGNkZWQ4Mg==",
+                "start": 0,
+                "url": "https://t.co/7JRMszTsJJ"
+              }
+            ]
+          }
+        },
+        "id": "1587590799746682880",
+        "name": "Re Eʟy",
+        "pinned_tweet_id": "1865684237976027195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827745060760535040/6UhVCJIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23436,
+          "following_count": 133,
+          "like_count": 3255,
+          "listed_count": 144,
+          "media_count": 130,
+          "tweet_count": 359
+        },
+        "url": "https://t.co/7JRMszTsJJ",
+        "username": "Elyzerda",
+        "verified": true
+      }
+    ]
+  }
+}

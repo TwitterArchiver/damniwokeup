@@ -1,0 +1,599 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1854788131402530816"
+      ],
+      "media_source_tweet_id": [
+        "1854788346150895898"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1855131414733406294",
+    "created_at": "2024-11-09T06:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T07:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855131414733406294"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 15,
+          "tag": "ラップランド"
+        },
+        {
+          "end": 32,
+          "start": 23,
+          "tag": "Lappland"
+        },
+        {
+          "end": 40,
+          "start": 33,
+          "tag": "アークナイツ"
+        },
+        {
+          "end": 51,
+          "start": 41,
+          "tag": "Arknights"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1809553870030622720",
+          "start": 3,
+          "username": "BlueQ_qqq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lmHHrK7YFo",
+          "end": 75,
+          "expanded_url": "https://x.com/BlueQ_qqq/status/1854788346150895898/photo/1",
+          "media_key": "3_1854788131402530816",
+          "start": 52,
+          "url": "https://t.co/lmHHrK7YFo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855131414733406294",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 224
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854788346150895898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BlueQ_qqq: #ラップランド #Lappland #アークナイツ #Arknights https://t.co/lmHHrK7YFo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1272,
+        "media_key": "3_1854788131402530816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gb2H-nnbwAAdrW3.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854788131402530816"
+          ],
+          "media_source_tweet_id": [
+            "1854788346150895898"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1855131414733406294",
+        "created_at": "2024-11-09T06:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T07:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855131414733406294"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "ラップランド"
+            },
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "Lappland"
+            },
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 51,
+              "start": 41,
+              "tag": "Arknights"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1809553870030622720",
+              "start": 3,
+              "username": "BlueQ_qqq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lmHHrK7YFo",
+              "end": 75,
+              "expanded_url": "https://x.com/BlueQ_qqq/status/1854788346150895898/photo/1",
+              "media_key": "3_1854788131402530816",
+              "start": 52,
+              "url": "https://t.co/lmHHrK7YFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855131414733406294",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 224
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854788346150895898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BlueQ_qqq: #ラップランド #Lappland #アークナイツ #Arknights https://t.co/lmHHrK7YFo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854788131402530816"
+          ]
+        },
+        "author_id": "1809553870030622720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1854788346150895898",
+        "created_at": "2024-11-08T07:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T08:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854788346150895898"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "ラップランド"
+            },
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "Lappland"
+            },
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 36,
+              "start": 26,
+              "tag": "Arknights"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lmHHrK7YFo",
+              "end": 60,
+              "expanded_url": "https://x.com/BlueQ_qqq/status/1854788346150895898/photo/1",
+              "media_key": "3_1854788131402530816",
+              "start": 37,
+              "url": "https://t.co/lmHHrK7YFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854788346150895898",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 9355,
+          "like_count": 1231,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 224
+        },
+        "reply_settings": "everyone",
+        "text": "#ラップランド #Lappland #アークナイツ #Arknights https://t.co/lmHHrK7YFo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 126,
+          "like_count": 4759,
+          "listed_count": 0,
+          "tweet_count": 567
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T11:44:01.000Z",
+        "description": "|🔞AI-generated illustration\n|中文/English/日本語 \n|More Links: https://t.co/cVK694J85m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/blueqqq",
+                "end": 81,
+                "expanded_url": "https://linktr.ee/blueqqq",
+                "start": 58,
+                "url": "https://t.co/cVK694J85m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/Blue_Q",
+                "end": 23,
+                "expanded_url": "http://patreon.com/Blue_Q",
+                "start": 0,
+                "url": "https://t.co/CqmcecG8KG"
+              }
+            ]
+          }
+        },
+        "id": "1809553870030622720",
+        "name": "BlueQ",
+        "pinned_tweet_id": "1826198534976377235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826199184241762304/gZho4Vbs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 33,
+          "like_count": 357,
+          "listed_count": 2,
+          "tweet_count": 214
+        },
+        "url": "https://t.co/CqmcecG8KG",
+        "username": "BlueQ_qqq",
+        "verified": true
+      }
+    ]
+  }
+}

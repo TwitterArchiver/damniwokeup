@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1858442529253011456"
+      ],
+      "media_source_tweet_id": [
+        "1858442554410512457"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1858704867013128629",
+    "created_at": "2024-11-19T02:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T03:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858704867013128629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817358979779153920",
+          "start": 3,
+          "username": "usomelt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zicNzlekDy",
+          "end": 41,
+          "expanded_url": "https://x.com/usomelt/status/1858442554410512457/photo/1",
+          "media_key": "3_1858442529253011456",
+          "start": 18,
+          "url": "https://t.co/zicNzlekDy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858704867013128629",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858442554410512457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usomelt: ●REC https://t.co/zicNzlekDy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2573,
+        "media_key": "3_1858442529253011456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcqDokeasAAVJ8K.jpg",
+        "width": 2573
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858442529253011456"
+          ],
+          "media_source_tweet_id": [
+            "1858442554410512457"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1858704867013128629",
+        "created_at": "2024-11-19T02:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T03:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858704867013128629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817358979779153920",
+              "start": 3,
+              "username": "usomelt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zicNzlekDy",
+              "end": 41,
+              "expanded_url": "https://x.com/usomelt/status/1858442554410512457/photo/1",
+              "media_key": "3_1858442529253011456",
+              "start": 18,
+              "url": "https://t.co/zicNzlekDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858704867013128629",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858442554410512457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usomelt: ●REC https://t.co/zicNzlekDy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858442529253011456"
+          ]
+        },
+        "author_id": "1817358979779153920",
+        "conversation_id": "1858442554410512457",
+        "created_at": "2024-11-18T09:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T10:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858442554410512457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zicNzlekDy",
+              "end": 28,
+              "expanded_url": "https://x.com/usomelt/status/1858442554410512457/photo/1",
+              "media_key": "3_1858442529253011456",
+              "start": 5,
+              "url": "https://t.co/zicNzlekDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858442554410512457",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 15731,
+          "like_count": 1138,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "●REC https://t.co/zicNzlekDy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 126,
+          "like_count": 4923,
+          "listed_count": 0,
+          "tweet_count": 657
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T00:38:47.000Z",
+        "description": "とわりうそ │ 🐙Do Not Re-upload🐙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/usomelt",
+                "end": 23,
+                "expanded_url": "https://lit.link/usomelt",
+                "start": 0,
+                "url": "https://t.co/BRO05bq38c"
+              }
+            ]
+          }
+        },
+        "id": "1817358979779153920",
+        "location": "詳細→",
+        "name": "十割 嘘",
+        "pinned_tweet_id": "1858442554410512457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856006936036294656/D--oetAF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 69,
+          "like_count": 1403,
+          "listed_count": 4,
+          "tweet_count": 168
+        },
+        "url": "https://t.co/BRO05bq38c",
+        "username": "usomelt",
+        "verified": false
+      }
+    ]
+  }
+}

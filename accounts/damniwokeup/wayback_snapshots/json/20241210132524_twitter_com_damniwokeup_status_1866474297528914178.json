@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866306043271397376"
+      ],
+      "media_source_tweet_id": [
+        "1866306049814487189"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1866474297528914178",
+    "created_at": "2024-12-10T13:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T14:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866474297528914178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1832783147572035584",
+          "start": 3,
+          "username": "nagiho_btr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wAVjf3DwmC",
+          "end": 44,
+          "expanded_url": "https://x.com/nagiho_btr/status/1866306049814487189/photo/1",
+          "media_key": "3_1866306043271397376",
+          "start": 21,
+          "url": "https://t.co/wAVjf3DwmC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866474297528914178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866306049814487189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nagiho_btr: 盗るなよ https://t.co/wAVjf3DwmC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2022,
+        "media_key": "3_1866306043271397376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeZzdU9bQAAACbL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866306043271397376"
+          ],
+          "media_source_tweet_id": [
+            "1866306049814487189"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1866474297528914178",
+        "created_at": "2024-12-10T13:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T14:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866474297528914178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1832783147572035584",
+              "start": 3,
+              "username": "nagiho_btr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAVjf3DwmC",
+              "end": 44,
+              "expanded_url": "https://x.com/nagiho_btr/status/1866306049814487189/photo/1",
+              "media_key": "3_1866306043271397376",
+              "start": 21,
+              "url": "https://t.co/wAVjf3DwmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866474297528914178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866306049814487189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nagiho_btr: 盗るなよ https://t.co/wAVjf3DwmC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866306043271397376"
+          ]
+        },
+        "author_id": "1832783147572035584",
+        "conversation_id": "1866306049814487189",
+        "created_at": "2024-12-10T02:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T03:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866306049814487189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAVjf3DwmC",
+              "end": 28,
+              "expanded_url": "https://x.com/nagiho_btr/status/1866306049814487189/photo/1",
+              "media_key": "3_1866306043271397376",
+              "start": 5,
+              "url": "https://t.co/wAVjf3DwmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866306049814487189",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 7163,
+          "like_count": 686,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "盗るなよ https://t.co/wAVjf3DwmC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 5779,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 990
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T14:09:20.000Z",
+        "description": "主にぼざろ描く垢です。たまにギターのこと呟いたり日常のこと呟いたり。基本rynj描いてます。リクもらったら他のも描くかも。サークル名【サイクロン】にて1月19日なんこー・ろっく・ふぇす申し込みました",
+        "id": "1832783147572035584",
+        "name": "凪帆",
+        "pinned_tweet_id": "1863400428916089166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845855850612785152/Kv8W3Fix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 74,
+          "like_count": 1168,
+          "listed_count": 1,
+          "media_count": 280,
+          "tweet_count": 1613
+        },
+        "username": "nagiho_btr",
+        "verified": false
+      }
+    ]
+  }
+}

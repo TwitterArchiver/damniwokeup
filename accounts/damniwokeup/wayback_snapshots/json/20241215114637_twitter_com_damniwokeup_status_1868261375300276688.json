@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868252160674410496"
+      ],
+      "media_source_tweet_id": [
+        "1868252169734111492"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1868261375300276688",
+    "created_at": "2024-12-15T11:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T12:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868261375300276688"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 24,
+          "tag": "Miyabi"
+        },
+        {
+          "end": 54,
+          "start": 32,
+          "tag": "ZenlessZoneZeroFanart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1288759813736808448",
+          "start": 3,
+          "username": "nest_virgo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hT4kTjWnSs",
+          "end": 78,
+          "expanded_url": "https://x.com/nest_virgo/status/1868252169734111492/photo/1",
+          "media_key": "3_1868252160674410496",
+          "start": 55,
+          "url": "https://t.co/hT4kTjWnSs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868261375300276688",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868252169734111492",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nest_virgo: Miyabi\n\n#Miyabi #ZenlessZoneZeroFanart https://t.co/hT4kTjWnSs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1868252160674410496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge1dcRPasAAY9uQ.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868252160674410496"
+          ],
+          "media_source_tweet_id": [
+            "1868252169734111492"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1868261375300276688",
+        "created_at": "2024-12-15T11:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T12:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868261375300276688"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "Miyabi"
+            },
+            {
+              "end": 54,
+              "start": 32,
+              "tag": "ZenlessZoneZeroFanart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1288759813736808448",
+              "start": 3,
+              "username": "nest_virgo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hT4kTjWnSs",
+              "end": 78,
+              "expanded_url": "https://x.com/nest_virgo/status/1868252169734111492/photo/1",
+              "media_key": "3_1868252160674410496",
+              "start": 55,
+              "url": "https://t.co/hT4kTjWnSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868261375300276688",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868252169734111492",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nest_virgo: Miyabi\n\n#Miyabi #ZenlessZoneZeroFanart https://t.co/hT4kTjWnSs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868252160674410496"
+          ]
+        },
+        "author_id": "1288759813736808448",
+        "conversation_id": "1868252169734111492",
+        "created_at": "2024-12-15T11:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T12:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868252169734111492"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "Miyabi"
+            },
+            {
+              "end": 38,
+              "start": 16,
+              "tag": "ZenlessZoneZeroFanart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hT4kTjWnSs",
+              "end": 62,
+              "expanded_url": "https://x.com/nest_virgo/status/1868252169734111492/photo/1",
+              "media_key": "3_1868252160674410496",
+              "start": 39,
+              "url": "https://t.co/hT4kTjWnSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868252169734111492",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 2429,
+          "like_count": 355,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "Miyabi\n\n#Miyabi #ZenlessZoneZeroFanart https://t.co/hT4kTjWnSs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 145,
+          "like_count": 6029,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1092
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-30T08:54:33.000Z",
+        "description": "✉️ - nest.virgo@gmail.com self-taught artist; STORE CLOSE IG: https://t.co/wWOCMBKIZQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nest_virgo/",
+                "end": 85,
+                "expanded_url": "http://instagram.com/nest_virgo/",
+                "start": 62,
+                "url": "https://t.co/wWOCMBKIZQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nestvirgo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nestvirgo",
+                "start": 0,
+                "url": "https://t.co/nTBGArnUpL"
+              }
+            ]
+          }
+        },
+        "id": "1288759813736808448",
+        "location": "Bulacan, Philippines",
+        "name": "nest | COSMATSU FQ03",
+        "pinned_tweet_id": "1857543633236537595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614473920639561731/HUC7qCoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67075,
+          "following_count": 165,
+          "like_count": 11468,
+          "listed_count": 375,
+          "media_count": 634,
+          "tweet_count": 2118
+        },
+        "url": "https://t.co/nTBGArnUpL",
+        "username": "nest_virgo",
+        "verified": false
+      }
+    ]
+  }
+}

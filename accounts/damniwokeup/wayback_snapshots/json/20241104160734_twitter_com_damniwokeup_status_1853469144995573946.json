@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1852001944711368709",
+        "3_1852001954194690050"
+      ],
+      "media_source_tweet_id": [
+        "1853164494677062048",
+        "1853164494677062048"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1853469144995573946",
+    "created_at": "2024-11-04T16:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T17:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853469144995573946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3165209270",
+          "start": 3,
+          "username": "artindetails"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UOxJDMEqep",
+          "end": 89,
+          "expanded_url": "https://x.com/artindetails/status/1853164494677062048/photo/1",
+          "media_key": "3_1852001944711368709",
+          "start": 66,
+          "url": "https://t.co/UOxJDMEqep"
+        },
+        {
+          "display_url": "pic.x.com/UOxJDMEqep",
+          "end": 89,
+          "expanded_url": "https://x.com/artindetails/status/1853164494677062048/photo/1",
+          "media_key": "3_1852001954194690050",
+          "start": 66,
+          "url": "https://t.co/UOxJDMEqep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853469144995573946",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16949
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853164494677062048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @artindetails: here’s a 4-leaf clover to bring you good luck ✨ https://t.co/UOxJDMEqep"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 601,
+        "media_key": "3_1852001944711368709",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbOh9NXakAUeUGs.png",
+        "width": 563
+      },
+      {
+        "height": 785,
+        "media_key": "3_1852001954194690050",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbOh9wsakAIFD7W.png",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852001944711368709",
+            "3_1852001954194690050"
+          ],
+          "media_source_tweet_id": [
+            "1853164494677062048",
+            "1853164494677062048"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1853469144995573946",
+        "created_at": "2024-11-04T16:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T17:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853469144995573946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3165209270",
+              "start": 3,
+              "username": "artindetails"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UOxJDMEqep",
+              "end": 89,
+              "expanded_url": "https://x.com/artindetails/status/1853164494677062048/photo/1",
+              "media_key": "3_1852001944711368709",
+              "start": 66,
+              "url": "https://t.co/UOxJDMEqep"
+            },
+            {
+              "display_url": "pic.x.com/UOxJDMEqep",
+              "end": 89,
+              "expanded_url": "https://x.com/artindetails/status/1853164494677062048/photo/1",
+              "media_key": "3_1852001954194690050",
+              "start": 66,
+              "url": "https://t.co/UOxJDMEqep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853469144995573946",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16949
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853164494677062048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @artindetails: here’s a 4-leaf clover to bring you good luck ✨ https://t.co/UOxJDMEqep"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852001944711368709",
+            "3_1852001954194690050"
+          ]
+        },
+        "author_id": "3165209270",
+        "conversation_id": "1853164494677062048",
+        "created_at": "2024-11-03T19:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T20:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853164494677062048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UOxJDMEqep",
+              "end": 71,
+              "expanded_url": "https://x.com/artindetails/status/1853164494677062048/photo/1",
+              "media_key": "3_1852001944711368709",
+              "start": 48,
+              "url": "https://t.co/UOxJDMEqep"
+            },
+            {
+              "display_url": "pic.x.com/UOxJDMEqep",
+              "end": 71,
+              "expanded_url": "https://x.com/artindetails/status/1853164494677062048/photo/1",
+              "media_key": "3_1852001954194690050",
+              "start": 48,
+              "url": "https://t.co/UOxJDMEqep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853164494677062048",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2773,
+          "impression_count": 1281273,
+          "like_count": 61967,
+          "quote_count": 677,
+          "reply_count": 89,
+          "retweet_count": 16949
+        },
+        "reply_settings": "everyone",
+        "text": "here’s a 4-leaf clover to bring you good luck ✨ https://t.co/UOxJDMEqep"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 123,
+          "like_count": 4628,
+          "listed_count": 0,
+          "tweet_count": 514
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-20T11:00:08.000Z",
+        "description": "— Dedicated to the seekers. ☾ @artsindetails",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "artsindetails"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/artindetails",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/artindetails",
+                "start": 0,
+                "url": "https://t.co/zRjbVdaeod"
+              }
+            ]
+          }
+        },
+        "id": "3165209270",
+        "name": "ᅠ",
+        "pinned_tweet_id": "1845306214587977888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544503030531248128/HqjYjqEp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857065,
+          "following_count": 49,
+          "like_count": 31117,
+          "listed_count": 3872,
+          "tweet_count": 9666
+        },
+        "url": "https://t.co/zRjbVdaeod",
+        "username": "artindetails",
+        "verified": true
+      }
+    ]
+  }
+}

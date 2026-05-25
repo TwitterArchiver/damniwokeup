@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027360861455835136"
+      ],
+      "media_source_tweet_id": [
+        "2027360880619642964"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "2027403011426017351",
+    "created_at": "2026-02-27T15:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T16:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027403011426017351"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "豊川祥子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1842352400470044672",
+          "start": 3,
+          "username": "lilizh0u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oxtqT7WMUA",
+          "end": 46,
+          "expanded_url": "https://x.com/lilizh0u/status/2027360880619642964/photo/1",
+          "media_key": "3_2027360861455835136",
+          "start": 23,
+          "url": "https://t.co/oxtqT7WMUA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027403011426017351",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027360880619642964",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilizh0u: #豊川祥子\n\n！ https://t.co/oxtqT7WMUA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027360861455835136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKh9kqa4AAlEX-.jpg",
+        "width": 1530
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027360861455835136"
+          ],
+          "media_source_tweet_id": [
+            "2027360880619642964"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "2027403011426017351",
+        "created_at": "2026-02-27T15:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027403011426017351"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "豊川祥子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1842352400470044672",
+              "start": 3,
+              "username": "lilizh0u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oxtqT7WMUA",
+              "end": 46,
+              "expanded_url": "https://x.com/lilizh0u/status/2027360880619642964/photo/1",
+              "media_key": "3_2027360861455835136",
+              "start": 23,
+              "url": "https://t.co/oxtqT7WMUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027403011426017351",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027360880619642964",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilizh0u: #豊川祥子\n\n！ https://t.co/oxtqT7WMUA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027360861455835136"
+          ]
+        },
+        "author_id": "1842352400470044672",
+        "conversation_id": "2027360880619642964",
+        "created_at": "2026-02-27T12:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027360880619642964"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "豊川祥子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oxtqT7WMUA",
+              "end": 32,
+              "expanded_url": "https://x.com/lilizh0u/status/2027360880619642964/photo/1",
+              "media_key": "3_2027360861455835136",
+              "start": 9,
+              "url": "https://t.co/oxtqT7WMUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027360880619642964",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1732,
+          "like_count": 193,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "#豊川祥子\n\n！ https://t.co/oxtqT7WMUA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2026181607040925930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 155,
+          "like_count": 7781,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1369
+        },
+        "username": "damniwokeup",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-04T23:53:51.000Z",
+        "description": "*🍅🍅🍅*",
+        "id": "1842352400470044672",
+        "location": "END",
+        "name": "雪國",
+        "pinned_tweet_id": "1985380397140816081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014017820334706689/2CcSaN0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 293,
+          "like_count": 1066,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 381
+        },
+        "username": "lilizh0u",
+        "verified": false
+      }
+    ]
+  }
+}

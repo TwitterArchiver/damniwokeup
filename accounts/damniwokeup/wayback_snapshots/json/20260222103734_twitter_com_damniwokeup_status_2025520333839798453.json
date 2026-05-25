@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025500020754239488"
+      ],
+      "media_source_tweet_id": [
+        "2025500040601755707"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "2025520333839798453",
+    "created_at": "2026-02-22T10:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T11:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025520333839798453"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 18,
+          "tag": "この恋を星には願わない"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1607266207815856128",
+          "start": 3,
+          "username": "koinega_info"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3qBwwlVkvg",
+          "end": 54,
+          "expanded_url": "https://x.com/koinega_info/status/2025500040601755707/photo/1",
+          "media_key": "3_2025500020754239488",
+          "start": 31,
+          "url": "https://t.co/3qBwwlVkvg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025520333839798453",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025500040601755707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koinega_info: #この恋を星には願わない https://t.co/3qBwwlVkvg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2137,
+        "media_key": "3_2025500020754239488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwFiY2aUAAdVw0.jpg",
+        "width": 2138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025500020754239488"
+          ],
+          "media_source_tweet_id": [
+            "2025500040601755707"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "2025520333839798453",
+        "created_at": "2026-02-22T10:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025520333839798453"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 18,
+              "tag": "この恋を星には願わない"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1607266207815856128",
+              "start": 3,
+              "username": "koinega_info"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3qBwwlVkvg",
+              "end": 54,
+              "expanded_url": "https://x.com/koinega_info/status/2025500040601755707/photo/1",
+              "media_key": "3_2025500020754239488",
+              "start": 31,
+              "url": "https://t.co/3qBwwlVkvg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025520333839798453",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025500040601755707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koinega_info: #この恋を星には願わない https://t.co/3qBwwlVkvg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025500020754239488"
+          ]
+        },
+        "author_id": "1607266207815856128",
+        "conversation_id": "2025500040601755707",
+        "created_at": "2026-02-22T09:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025500040601755707"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "この恋を星には願わない"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3qBwwlVkvg",
+              "end": 36,
+              "expanded_url": "https://x.com/koinega_info/status/2025500040601755707/photo/1",
+              "media_key": "3_2025500020754239488",
+              "start": 13,
+              "url": "https://t.co/3qBwwlVkvg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025500040601755707",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2849,
+          "like_count": 369,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "#この恋を星には願わない https://t.co/3qBwwlVkvg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 153,
+          "like_count": 7555,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 1339
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T06:45:19.000Z",
+        "description": "漫画：紫のあ（@sinoa_ster）｜ 全5巻販売中｜#この恋を星には願わない #恋ねが｜お便りはこちらへ💌〒102-8177 東京都千代田区富士見2-13-3 COMIC it編集部 紫のあ先生宛",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 28,
+                "tag": "この恋を星には願わない"
+              },
+              {
+                "end": 45,
+                "start": 41,
+                "tag": "恋ねが"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "sinoa_ster"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "comic-walker.com/contents/detai…",
+                "end": 23,
+                "expanded_url": "https://comic-walker.com/contents/detail/KDCW_AM17203787010000_68/",
+                "start": 0,
+                "url": "https://t.co/oIxJVI9hDY"
+              }
+            ]
+          }
+        },
+        "id": "1607266207815856128",
+        "location": "株式会社KADOKAWA",
+        "name": "この恋を星には願わない公式 ◇5巻発売中◇",
+        "pinned_tweet_id": "2012432870162231671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608014423830204416/Ysh4weDE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33379,
+          "following_count": 2,
+          "like_count": 12642,
+          "listed_count": 100,
+          "media_count": 1495,
+          "tweet_count": 2313
+        },
+        "url": "https://t.co/oIxJVI9hDY",
+        "username": "koinega_info",
+        "verified": true
+      }
+    ]
+  }
+}

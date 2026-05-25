@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871890390883913728"
+      ],
+      "media_source_tweet_id": [
+        "1871890462157729900"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1871897749710631083",
+    "created_at": "2024-12-25T12:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T13:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871897749710631083"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "セイバー",
+          "probability": 0.4752,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "Fate"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1270043018528092166",
+          "start": 3,
+          "username": "onigiri_gyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GzsuYQqNtz",
+          "end": 53,
+          "expanded_url": "https://x.com/onigiri_gyu/status/1871890462157729900/photo/1",
+          "media_key": "3_1871890390883913728",
+          "start": 30,
+          "url": "https://t.co/GzsuYQqNtz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871897749710631083",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 137
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871890462157729900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onigiri_gyu: セイバー🎄🌟 #Fate https://t.co/GzsuYQqNtz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1570,
+        "media_key": "3_1871890390883913728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfpKZI8aUAAEMgC.jpg",
+        "width": 2218
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871890390883913728"
+          ],
+          "media_source_tweet_id": [
+            "1871890462157729900"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1871897749710631083",
+        "created_at": "2024-12-25T12:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T13:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871897749710631083"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "セイバー",
+              "probability": 0.4752,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "Fate"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1270043018528092166",
+              "start": 3,
+              "username": "onigiri_gyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzsuYQqNtz",
+              "end": 53,
+              "expanded_url": "https://x.com/onigiri_gyu/status/1871890462157729900/photo/1",
+              "media_key": "3_1871890390883913728",
+              "start": 30,
+              "url": "https://t.co/GzsuYQqNtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871897749710631083",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 137
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871890462157729900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @onigiri_gyu: セイバー🎄🌟 #Fate https://t.co/GzsuYQqNtz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871890390883913728"
+          ]
+        },
+        "author_id": "1270043018528092166",
+        "conversation_id": "1871890462157729900",
+        "created_at": "2024-12-25T12:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T13:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871890462157729900"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "セイバー",
+              "probability": 0.4699,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "Fate"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzsuYQqNtz",
+              "end": 36,
+              "expanded_url": "https://x.com/onigiri_gyu/status/1871890462157729900/photo/1",
+              "media_key": "3_1871890390883913728",
+              "start": 13,
+              "url": "https://t.co/GzsuYQqNtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871890462157729900",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 3292,
+          "like_count": 524,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "セイバー🎄🌟 #Fate https://t.co/GzsuYQqNtz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 148,
+          "like_count": 6341,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1206
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-08T17:20:43.000Z",
+        "description": "˗ˏˋ ｾｲﾊﾞｰ!!!ˎˊ˗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/7kt6n2ub7…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/7kt6n2ub752zt38k/",
+                "start": 0,
+                "url": "https://t.co/XDlKZ090EA"
+              }
+            ]
+          }
+        },
+        "id": "1270043018528092166",
+        "location": "Repost is prohibited",
+        "name": "𝗻𝗶𝗴𝗶",
+        "pinned_tweet_id": "1868315733622661556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830281009600094208/ykFOChhG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32008,
+          "following_count": 29,
+          "like_count": 5346,
+          "listed_count": 231,
+          "media_count": 103,
+          "tweet_count": 605
+        },
+        "url": "https://t.co/XDlKZ090EA",
+        "username": "onigiri_gyu",
+        "verified": false
+      }
+    ]
+  }
+}

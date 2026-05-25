@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "2045853190642692168",
+    "created_at": "2026-04-19T13:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045853751186178085"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045853751186178085",
+    "in_reply_to_user_id": "1081115542109380608",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045853190642692168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "God pls🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "2045853190642692168",
+        "created_at": "2026-04-19T13:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045853751186178085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045853751186178085",
+        "in_reply_to_user_id": "1081115542109380608",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045853190642692168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "God pls🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "2045853190642692168",
+        "created_at": "2026-04-19T13:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045853190642692168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045853190642692168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "万一呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "Per aspera ad astra",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "2042979197816312219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 194,
+          "like_count": 8558,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1414
+        },
+        "username": "damniwokeup",
+        "verified": true
+      }
+    ]
+  }
+}

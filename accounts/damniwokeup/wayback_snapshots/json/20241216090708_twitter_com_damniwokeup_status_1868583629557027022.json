@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868352503084916736"
+      ],
+      "media_source_tweet_id": [
+        "1868352528540123410"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1868583629557027022",
+    "created_at": "2024-12-16T09:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T10:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868583629557027022"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 26,
+          "tag": "chainsawman"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1411265842092908549",
+          "start": 3,
+          "username": "somedeimi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fBfjyOK8Nb",
+          "end": 62,
+          "expanded_url": "https://x.com/somedeimi/status/1868352528540123410/photo/1",
+          "media_key": "3_1868352503084916736",
+          "start": 39,
+          "url": "https://t.co/fBfjyOK8Nb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868583629557027022",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1336
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868352528540123410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @somedeimi: Jealous 👎👎 #chainsawman https://t.co/fBfjyOK8Nb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4020,
+        "media_key": "3_1868352503084916736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge24s92WoAA7wb2.jpg",
+        "width": 3027
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868352503084916736"
+          ],
+          "media_source_tweet_id": [
+            "1868352528540123410"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1868583629557027022",
+        "created_at": "2024-12-16T09:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T10:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868583629557027022"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 26,
+              "tag": "chainsawman"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1411265842092908549",
+              "start": 3,
+              "username": "somedeimi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fBfjyOK8Nb",
+              "end": 62,
+              "expanded_url": "https://x.com/somedeimi/status/1868352528540123410/photo/1",
+              "media_key": "3_1868352503084916736",
+              "start": 39,
+              "url": "https://t.co/fBfjyOK8Nb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868583629557027022",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1336
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868352528540123410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @somedeimi: Jealous 👎👎 #chainsawman https://t.co/fBfjyOK8Nb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868352503084916736"
+          ]
+        },
+        "author_id": "1411265842092908549",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1868352528540123410",
+        "created_at": "2024-12-15T17:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T18:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868352528540123410"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 11,
+              "tag": "chainsawman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fBfjyOK8Nb",
+              "end": 47,
+              "expanded_url": "https://x.com/somedeimi/status/1868352528540123410/photo/1",
+              "media_key": "3_1868352503084916736",
+              "start": 24,
+              "url": "https://t.co/fBfjyOK8Nb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868352528540123410",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 587,
+          "impression_count": 55400,
+          "like_count": 6309,
+          "quote_count": 38,
+          "reply_count": 5,
+          "retweet_count": 1336
+        },
+        "reply_settings": "everyone",
+        "text": "Jealous 👎👎 #chainsawman https://t.co/fBfjyOK8Nb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 145,
+          "like_count": 6066,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1107
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-03T10:10:37.000Z",
+        "description": "He/She 🇮🇹 17 || multifandom || for commissions dms are open || somethingdeimi@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "inprnt.com/gallery/somede…",
+                "end": 23,
+                "expanded_url": "https://www.inprnt.com/gallery/somedeimi/",
+                "start": 0,
+                "url": "https://t.co/0AqWnVHIqo"
+              }
+            ]
+          }
+        },
+        "id": "1411265842092908549",
+        "name": "Deimi ★",
+        "pinned_tweet_id": "1822689585177997721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831311509990834176/rzsJKt3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27344,
+          "following_count": 245,
+          "like_count": 14145,
+          "listed_count": 128,
+          "media_count": 447,
+          "tweet_count": 7673
+        },
+        "url": "https://t.co/0AqWnVHIqo",
+        "username": "somedeimi",
+        "verified": false
+      }
+    ]
+  }
+}

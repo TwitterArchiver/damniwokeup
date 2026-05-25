@@ -1,0 +1,550 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860268931187093504"
+      ],
+      "media_source_tweet_id": [
+        "1860268937667375258"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "1860627495458107741",
+    "created_at": "2024-11-24T10:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T11:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860627495458107741"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "初音ミク",
+          "probability": 0.6321,
+          "start": 15,
+          "type": "Person"
+        },
+        {
+          "end": 24,
+          "normalized_text": "にゃん",
+          "probability": 0.4053,
+          "start": 22,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 29,
+          "tag": "初音ミク"
+        },
+        {
+          "end": 47,
+          "start": 35,
+          "tag": "hatsunemiku"
+        },
+        {
+          "end": 55,
+          "start": 48,
+          "tag": "AIイラスト"
+        },
+        {
+          "end": 66,
+          "start": 56,
+          "tag": "AIArtwork"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1619166665614438401",
+          "start": 3,
+          "username": "xyz10156"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z4PckXRIcj",
+          "end": 90,
+          "expanded_url": "https://x.com/xyz10156/status/1860268937667375258/photo/1",
+          "media_key": "3_1860268931187093504",
+          "start": 67,
+          "url": "https://t.co/Z4PckXRIcj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860627495458107741",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860268937667375258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xyz10156: ♪初音ミク×🐱にゃんと一緒💕\n#初音ミク\n#hatsunemiku\n#AIイラスト\n#AIArtwork https://t.co/Z4PckXRIcj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1860268931187093504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdEAvJ4aMAAfhG2.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860268931187093504"
+          ],
+          "media_source_tweet_id": [
+            "1860268937667375258"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1860627495458107741",
+        "created_at": "2024-11-24T10:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T11:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860627495458107741"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "初音ミク",
+              "probability": 0.6321,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 24,
+              "normalized_text": "にゃん",
+              "probability": 0.4053,
+              "start": 22,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 47,
+              "start": 35,
+              "tag": "hatsunemiku"
+            },
+            {
+              "end": 55,
+              "start": 48,
+              "tag": "AIイラスト"
+            },
+            {
+              "end": 66,
+              "start": 56,
+              "tag": "AIArtwork"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1619166665614438401",
+              "start": 3,
+              "username": "xyz10156"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z4PckXRIcj",
+              "end": 90,
+              "expanded_url": "https://x.com/xyz10156/status/1860268937667375258/photo/1",
+              "media_key": "3_1860268931187093504",
+              "start": 67,
+              "url": "https://t.co/Z4PckXRIcj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860627495458107741",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860268937667375258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xyz10156: ♪初音ミク×🐱にゃんと一緒💕\n#初音ミク\n#hatsunemiku\n#AIイラスト\n#AIArtwork https://t.co/Z4PckXRIcj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860268931187093504"
+          ]
+        },
+        "author_id": "1619166665614438401",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1860268937667375258",
+        "created_at": "2024-11-23T10:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T11:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860268937667375258"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "初音ミク",
+              "probability": 0.7021,
+              "start": 1,
+              "type": "Person"
+            },
+            {
+              "end": 10,
+              "normalized_text": "にゃん",
+              "probability": 0.4215,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 33,
+              "start": 21,
+              "tag": "hatsunemiku"
+            },
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "AIイラスト"
+            },
+            {
+              "end": 52,
+              "start": 42,
+              "tag": "AIArtwork"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z4PckXRIcj",
+              "end": 76,
+              "expanded_url": "https://x.com/xyz10156/status/1860268937667375258/photo/1",
+              "media_key": "3_1860268931187093504",
+              "start": 53,
+              "url": "https://t.co/Z4PckXRIcj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860268937667375258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 2294,
+          "like_count": 304,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "♪初音ミク×🐱にゃんと一緒💕\n#初音ミク\n#hatsunemiku\n#AIイラスト\n#AIArtwork https://t.co/Z4PckXRIcj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 132,
+          "like_count": 5083,
+          "listed_count": 0,
+          "tweet_count": 738
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T02:53:51.000Z",
+        "description": "AI作品(初音ミク)を主にポストする人。そして、ONEPIECEのウタちゃんも大好きな二刀流推し人。たまに所有グッズ等ポストしてます。\nONE PIECE(ウタ)、初音ミク、フィギュア、ムズキュン作品、ほっこり作品好きの方と繋がりたいな😌\n※怪しい人はごめんなさい…。",
+        "id": "1619166665614438401",
+        "name": "ピート🐣",
+        "pinned_tweet_id": "1856261539608834493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853900898621337600/2xoxgAWC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 549,
+          "like_count": 36243,
+          "listed_count": 6,
+          "tweet_count": 9777
+        },
+        "username": "xyz10156",
+        "verified": false
+      }
+    ]
+  }
+}

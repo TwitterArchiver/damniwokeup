@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1858464576142229505"
+      ],
+      "media_source_tweet_id": [
+        "1858464734548562234"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1858508365082832897",
+    "created_at": "2024-11-18T13:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T14:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858508365082832897"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "バニーリードさん",
+          "probability": 0.6781,
+          "start": 11,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1780161015705190400",
+          "start": 3,
+          "username": "vxdrq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nxHpiYBNxE",
+          "end": 58,
+          "expanded_url": "https://x.com/vxdrq/status/1858464734548562234/photo/1",
+          "media_key": "3_1858464576142229505",
+          "start": 35,
+          "url": "https://t.co/nxHpiYBNxE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858508365082832897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 269
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858464734548562234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vxdrq: バニーリードさんのバストアップも見てくれ！！！ https://t.co/nxHpiYBNxE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1858464576142229505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcqXr3iawAEknez.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858464576142229505"
+          ],
+          "media_source_tweet_id": [
+            "1858464734548562234"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1858508365082832897",
+        "created_at": "2024-11-18T13:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T14:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858508365082832897"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "バニーリードさん",
+              "probability": 0.6781,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780161015705190400",
+              "start": 3,
+              "username": "vxdrq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nxHpiYBNxE",
+              "end": 58,
+              "expanded_url": "https://x.com/vxdrq/status/1858464734548562234/photo/1",
+              "media_key": "3_1858464576142229505",
+              "start": 35,
+              "url": "https://t.co/nxHpiYBNxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858508365082832897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 269
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858464734548562234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vxdrq: バニーリードさんのバストアップも見てくれ！！！ https://t.co/nxHpiYBNxE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858464576142229505"
+          ]
+        },
+        "author_id": "1780161015705190400",
+        "conversation_id": "1858464734548562234",
+        "created_at": "2024-11-18T10:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T11:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858464734548562234"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "バニーリードさん",
+              "probability": 0.7195,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nxHpiYBNxE",
+              "end": 47,
+              "expanded_url": "https://x.com/vxdrq/status/1858464734548562234/photo/1",
+              "media_key": "3_1858464576142229505",
+              "start": 24,
+              "url": "https://t.co/nxHpiYBNxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858464734548562234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 277,
+          "impression_count": 26208,
+          "like_count": 2351,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 269
+        },
+        "reply_settings": "everyone",
+        "text": "バニーリードさんのバストアップも見てくれ！！！ https://t.co/nxHpiYBNxE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 127,
+          "like_count": 4908,
+          "listed_count": 0,
+          "tweet_count": 649
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T09:07:35.000Z",
+        "description": "コミケ初日参加いたします！アークナイツと東方を中心に最近はゼンゼロにハマっています！skeb（2/5）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@vxdrq",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@vxdrq",
+                "start": 0,
+                "url": "https://t.co/rdROvjnyYk"
+              }
+            ]
+          }
+        },
+        "id": "1780161015705190400",
+        "location": "緑一色",
+        "name": "VXDRQ@日曜東v-41a",
+        "pinned_tweet_id": "1854813114258407632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788667550072803329/qTLoZCug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30186,
+          "following_count": 641,
+          "like_count": 733,
+          "listed_count": 180,
+          "tweet_count": 443
+        },
+        "url": "https://t.co/rdROvjnyYk",
+        "username": "vxdrq",
+        "verified": true
+      }
+    ]
+  }
+}

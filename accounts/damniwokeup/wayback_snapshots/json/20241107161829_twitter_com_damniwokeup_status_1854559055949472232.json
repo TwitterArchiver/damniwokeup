@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1854548876159598595"
+      ],
+      "media_source_tweet_id": [
+        "1854548920795332777"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1854559055949472232",
+    "created_at": "2024-11-07T16:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T17:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854559055949472232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1146746706626785281",
+          "start": 3,
+          "username": "hasu__art"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SMzTnTbXPG",
+          "end": 38,
+          "expanded_url": "https://x.com/hasu__art/status/1854548920795332777/photo/1",
+          "media_key": "16_1854548876159598595",
+          "start": 15,
+          "url": "https://t.co/SMzTnTbXPG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854559055949472232",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854548920795332777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @hasu__art: https://t.co/SMzTnTbXPG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "16_1854548876159598595",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GbyuYIYXwAMtBg3.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GbyuYIYXwAMtBg3.mp4"
+          }
+        ],
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1854548876159598595"
+          ],
+          "media_source_tweet_id": [
+            "1854548920795332777"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1854559055949472232",
+        "created_at": "2024-11-07T16:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T17:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854559055949472232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1146746706626785281",
+              "start": 3,
+              "username": "hasu__art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SMzTnTbXPG",
+              "end": 38,
+              "expanded_url": "https://x.com/hasu__art/status/1854548920795332777/photo/1",
+              "media_key": "16_1854548876159598595",
+              "start": 15,
+              "url": "https://t.co/SMzTnTbXPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854559055949472232",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854548920795332777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @hasu__art: https://t.co/SMzTnTbXPG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1854548876159598595"
+          ]
+        },
+        "author_id": "1146746706626785281",
+        "conversation_id": "1854548920795332777",
+        "created_at": "2024-11-07T15:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T16:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854548920795332777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SMzTnTbXPG",
+              "end": 23,
+              "expanded_url": "https://x.com/hasu__art/status/1854548920795332777/photo/1",
+              "media_key": "16_1854548876159598595",
+              "start": 0,
+              "url": "https://t.co/SMzTnTbXPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854548920795332777",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1483,
+          "like_count": 158,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 33
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/SMzTnTbXPG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 125,
+          "like_count": 4726,
+          "listed_count": 0,
+          "tweet_count": 558
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-04T11:44:55.000Z",
+        "description": "commissions closed",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kamabokoplanet.neocities.org",
+                "end": 23,
+                "expanded_url": "https://kamabokoplanet.neocities.org/",
+                "start": 0,
+                "url": "https://t.co/aDVKOBtVJN"
+              }
+            ]
+          }
+        },
+        "id": "1146746706626785281",
+        "location": "🇸🇮🇯🇵",
+        "name": "hasu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853529800004026369/x5LI5LMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17249,
+          "following_count": 225,
+          "like_count": 30597,
+          "listed_count": 148,
+          "tweet_count": 623
+        },
+        "url": "https://t.co/aDVKOBtVJN",
+        "username": "hasu__art",
+        "verified": false
+      }
+    ]
+  }
+}

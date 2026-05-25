@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1081115542109380608",
+    "conversation_id": "1850928627258741211",
+    "created_at": "2024-10-28T15:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-28T16:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850929313513980174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1786771245750755328",
+          "start": 0,
+          "username": "Atropine_SuAn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850929313513980174",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850928627258741211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Atropine_SuAn 别割手了 吃点东西垫垫肚子然后吃药睡觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081115542109380608",
+        "conversation_id": "1850928627258741211",
+        "created_at": "2024-10-28T15:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T16:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850929313513980174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Atropine_SuAn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850929313513980174",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850928627258741211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Atropine_SuAn 别割手了 吃点东西垫垫肚子然后吃药睡觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1850928625757167618"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "1850928627258741211",
+        "created_at": "2024-10-28T15:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T16:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850928627258741211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1850928627258741211",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要干什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847962644852162560/UJMfw11t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 121,
+          "like_count": 4340,
+          "listed_count": 0,
+          "tweet_count": 440
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/小女孩/双性恋/友跨/双相 焦虑 强迫 服药中…/不登校/日本留学考试备考中/无门槛 不缺钱 不加墙内联系方式 请大家和我互关吧！",
+        "id": "1786771245750755328",
+        "name": "苏",
+        "pinned_tweet_id": "1804878356229525510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845524119770800128/c10vN9jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 99,
+          "like_count": 171,
+          "listed_count": 0,
+          "tweet_count": 785
+        },
+        "username": "Atropine_SuAn",
+        "verified": false
+      }
+    ]
+  }
+}

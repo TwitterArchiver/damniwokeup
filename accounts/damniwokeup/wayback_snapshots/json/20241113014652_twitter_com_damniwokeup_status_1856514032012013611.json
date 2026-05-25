@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1855930156428513280"
+      ],
+      "media_source_tweet_id": [
+        "1855930162279248227"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1856514032012013611",
+    "created_at": "2024-11-13T01:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T02:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856514032012013611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1495790626956529665",
+          "start": 3,
+          "username": "310_dust"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fjy5gAAZHA",
+          "end": 37,
+          "expanded_url": "https://x.com/310_dust/status/1855930162279248227/photo/1",
+          "media_key": "3_1855930156428513280",
+          "start": 14,
+          "url": "https://t.co/fjy5gAAZHA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856514032012013611",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 483
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855930162279248227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @310_dust: https://t.co/fjy5gAAZHA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 924,
+        "media_key": "3_1855930156428513280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcGWpOXbUAAcAv1.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855930156428513280"
+          ],
+          "media_source_tweet_id": [
+            "1855930162279248227"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1856514032012013611",
+        "created_at": "2024-11-13T01:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T02:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856514032012013611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1495790626956529665",
+              "start": 3,
+              "username": "310_dust"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fjy5gAAZHA",
+              "end": 37,
+              "expanded_url": "https://x.com/310_dust/status/1855930162279248227/photo/1",
+              "media_key": "3_1855930156428513280",
+              "start": 14,
+              "url": "https://t.co/fjy5gAAZHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856514032012013611",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 483
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855930162279248227",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @310_dust: https://t.co/fjy5gAAZHA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855930156428513280"
+          ]
+        },
+        "author_id": "1495790626956529665",
+        "conversation_id": "1855930162279248227",
+        "created_at": "2024-11-11T11:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T12:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855930162279248227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fjy5gAAZHA",
+              "end": 23,
+              "expanded_url": "https://x.com/310_dust/status/1855930162279248227/photo/1",
+              "media_key": "3_1855930156428513280",
+              "start": 0,
+              "url": "https://t.co/fjy5gAAZHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855930162279248227",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 545,
+          "impression_count": 80124,
+          "like_count": 5597,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 483
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fjy5gAAZHA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 125,
+          "like_count": 4818,
+          "listed_count": 0,
+          "tweet_count": 589
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T16:01:00.000Z",
+        "description": "無 RBお気軽に",
+        "id": "1495790626956529665",
+        "location": "配慮無",
+        "name": "🈂️",
+        "pinned_tweet_id": "1554833885711994881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685178909477031936/Titqcq3Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6895,
+          "following_count": 57,
+          "like_count": 3602,
+          "listed_count": 29,
+          "tweet_count": 1043
+        },
+        "username": "310_dust",
+        "verified": false
+      }
+    ]
+  }
+}

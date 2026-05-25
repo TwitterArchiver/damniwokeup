@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863052999276261376"
+      ],
+      "media_source_tweet_id": [
+        "1863053008004870461"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1863177149903237388",
+    "created_at": "2024-12-01T11:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T12:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863177149903237388"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 16,
+          "tag": "ヰ世界情緒美術部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1186299235999744000",
+          "start": 3,
+          "username": "Kenran_000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BCTskR734q",
+          "end": 49,
+          "expanded_url": "https://x.com/Kenran_000/status/1863053008004870461/photo/1",
+          "media_key": "3_1863052999276261376",
+          "start": 26,
+          "url": "https://t.co/BCTskR734q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863177149903237388",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 157
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863053008004870461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kenran_000: #ヰ世界情緒美術部 https://t.co/BCTskR734q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3828,
+        "media_key": "3_1863052999276261376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdrk1PuWcAAtteg.jpg",
+        "width": 2570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863052999276261376"
+          ],
+          "media_source_tweet_id": [
+            "1863053008004870461"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1863177149903237388",
+        "created_at": "2024-12-01T11:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T12:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863177149903237388"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "ヰ世界情緒美術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1186299235999744000",
+              "start": 3,
+              "username": "Kenran_000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BCTskR734q",
+              "end": 49,
+              "expanded_url": "https://x.com/Kenran_000/status/1863053008004870461/photo/1",
+              "media_key": "3_1863052999276261376",
+              "start": 26,
+              "url": "https://t.co/BCTskR734q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863177149903237388",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863053008004870461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kenran_000: #ヰ世界情緒美術部 https://t.co/BCTskR734q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863052999276261376"
+          ]
+        },
+        "author_id": "1186299235999744000",
+        "conversation_id": "1863053008004870461",
+        "created_at": "2024-12-01T02:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T03:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863053008004870461"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "ヰ世界情緒美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BCTskR734q",
+              "end": 33,
+              "expanded_url": "https://x.com/Kenran_000/status/1863053008004870461/photo/1",
+              "media_key": "3_1863052999276261376",
+              "start": 10,
+              "url": "https://t.co/BCTskR734q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863053008004870461",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 8001,
+          "like_count": 716,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "#ヰ世界情緒美術部 https://t.co/BCTskR734q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 141,
+          "like_count": 5420,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 857
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-21T15:12:46.000Z",
+        "description": "灰白┋ freelance illustrator ┋character designer┋イラスト依頼受付中 ご依頼→Kenran000@gmail.com or DM",
+        "id": "1186299235999744000",
+        "location": "イラスト閲覧はハイライトorメディア推奨　",
+        "name": "眷爛　C105（月） 東7ｎ-11b 2日目",
+        "pinned_tweet_id": "1642466909433069571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802791602282545152/9DuML_4-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3950,
+          "following_count": 965,
+          "like_count": 25889,
+          "listed_count": 49,
+          "media_count": 285,
+          "tweet_count": 2584
+        },
+        "username": "Kenran_000",
+        "verified": false
+      }
+    ]
+  }
+}

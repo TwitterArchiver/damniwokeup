@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859852264263012352"
+      ],
+      "media_source_tweet_id": [
+        "1859853111042638093"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1860157630070816806",
+    "created_at": "2024-11-23T03:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T04:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860157630070816806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1643478567727292417",
+          "start": 3,
+          "username": "kyanora_sub"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3eiKTToSri",
+          "end": 40,
+          "expanded_url": "https://x.com/kyanora_sub/status/1859853111042638093/photo/1",
+          "media_key": "3_1859852264263012352",
+          "start": 17,
+          "url": "https://t.co/3eiKTToSri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860157630070816806",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 548
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859853111042638093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyanora_sub: https://t.co/3eiKTToSri"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1859852264263012352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc-Fx8oaUAABxLM.jpg",
+        "width": 2801
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859852264263012352"
+          ],
+          "media_source_tweet_id": [
+            "1859853111042638093"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1860157630070816806",
+        "created_at": "2024-11-23T03:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T04:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860157630070816806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1643478567727292417",
+              "start": 3,
+              "username": "kyanora_sub"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3eiKTToSri",
+              "end": 40,
+              "expanded_url": "https://x.com/kyanora_sub/status/1859853111042638093/photo/1",
+              "media_key": "3_1859852264263012352",
+              "start": 17,
+              "url": "https://t.co/3eiKTToSri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860157630070816806",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 548
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859853111042638093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyanora_sub: https://t.co/3eiKTToSri"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859852264263012352"
+          ]
+        },
+        "author_id": "1643478567727292417",
+        "conversation_id": "1859853111042638093",
+        "created_at": "2024-11-22T06:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T07:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859853111042638093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3eiKTToSri",
+              "end": 23,
+              "expanded_url": "https://x.com/kyanora_sub/status/1859853111042638093/photo/1",
+              "media_key": "3_1859852264263012352",
+              "start": 0,
+              "url": "https://t.co/3eiKTToSri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859853111042638093",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1075,
+          "impression_count": 120988,
+          "like_count": 8820,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 548
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3eiKTToSri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 130,
+          "like_count": 5018,
+          "listed_count": 0,
+          "tweet_count": 699
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T05:00:25.000Z",
+        "description": "独り言   本垢→ @kyanora3141",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "kyanora3141"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/yk6kenygixk35o…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/yk6kenygixk35oc?t=TekCPP&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/vCU9qaKJy6"
+              }
+            ]
+          }
+        },
+        "id": "1643478567727292417",
+        "location": "⚠️フォロー非推奨  自我ばかり 絵師じゃない⚠️",
+        "name": "𓆐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776675057974259712/uDrSvU2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11734,
+          "following_count": 7,
+          "like_count": 1889,
+          "listed_count": 100,
+          "tweet_count": 4241
+        },
+        "url": "https://t.co/vCU9qaKJy6",
+        "username": "kyanora_sub",
+        "verified": false
+      }
+    ]
+  }
+}

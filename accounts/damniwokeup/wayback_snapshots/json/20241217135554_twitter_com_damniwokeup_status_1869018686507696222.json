@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868669765163917313"
+      ],
+      "media_source_tweet_id": [
+        "1868669769618215276"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1869018686507696222",
+    "created_at": "2024-12-17T13:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T14:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869018686507696222"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 18,
+          "tag": "NEEDY_pic"
+        },
+        {
+          "end": 50,
+          "start": 30,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1214470995982966784",
+          "start": 3,
+          "username": "Purumeria_36"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Id2SLCrlWN",
+          "end": 74,
+          "expanded_url": "https://x.com/Purumeria_36/status/1868669769618215276/photo/1",
+          "media_key": "3_1868669765163917313",
+          "start": 51,
+          "url": "https://t.co/Id2SLCrlWN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869018686507696222",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868669769618215276",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Purumeria_36: #NEEDY_pic  #NEEDY_GIRL_OVERDOSE https://t.co/Id2SLCrlWN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1868669765163917313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge7ZQDMboAEnfqG.jpg",
+        "width": 1326
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868669765163917313"
+          ],
+          "media_source_tweet_id": [
+            "1868669769618215276"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1869018686507696222",
+        "created_at": "2024-12-17T13:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T14:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869018686507696222"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 50,
+              "start": 30,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1214470995982966784",
+              "start": 3,
+              "username": "Purumeria_36"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Id2SLCrlWN",
+              "end": 74,
+              "expanded_url": "https://x.com/Purumeria_36/status/1868669769618215276/photo/1",
+              "media_key": "3_1868669765163917313",
+              "start": 51,
+              "url": "https://t.co/Id2SLCrlWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869018686507696222",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868669769618215276",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Purumeria_36: #NEEDY_pic  #NEEDY_GIRL_OVERDOSE https://t.co/Id2SLCrlWN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868669765163917313"
+          ]
+        },
+        "author_id": "1214470995982966784",
+        "conversation_id": "1868669769618215276",
+        "created_at": "2024-12-16T14:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T15:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868669769618215276"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 32,
+              "start": 12,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Id2SLCrlWN",
+              "end": 56,
+              "expanded_url": "https://x.com/Purumeria_36/status/1868669769618215276/photo/1",
+              "media_key": "3_1868669765163917313",
+              "start": 33,
+              "url": "https://t.co/Id2SLCrlWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868669769618215276",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 5024,
+          "like_count": 503,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "#NEEDY_pic  #NEEDY_GIRL_OVERDOSE https://t.co/Id2SLCrlWN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 145,
+          "like_count": 6148,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1130
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-07T08:57:13.000Z",
+        "description": "illustration￤好きな曲と女の子⛓🖤",
+        "id": "1214470995982966784",
+        "location": "をとはちゃん/VTuber/VOCALOID/ニディガ/東方",
+        "name": "輪廻ﾐｵ",
+        "pinned_tweet_id": "1868669769618215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863802954551365632/GYulziZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 60,
+          "like_count": 8847,
+          "listed_count": 13,
+          "media_count": 70,
+          "tweet_count": 929
+        },
+        "username": "Purumeria_36",
+        "verified": false
+      }
+    ]
+  }
+}

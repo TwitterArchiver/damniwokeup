@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1853657757616099328"
+      ],
+      "media_source_tweet_id": [
+        "1853995736796447064"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1854348217644883977",
+    "created_at": "2024-11-07T02:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T03:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854348217644883977"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1703636516965429248",
+          "start": 3,
+          "username": "cocotte_ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AiSkmGgEcJ",
+          "end": 55,
+          "expanded_url": "https://x.com/cocotte_ai/status/1853995736796447064/photo/1",
+          "media_key": "3_1853657757616099328",
+          "start": 32,
+          "url": "https://t.co/AiSkmGgEcJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854348217644883977",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 334
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853995736796447064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cocotte_ai: #初音ミク　歌姫のピアニッシモ https://t.co/AiSkmGgEcJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_1853657757616099328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbmD6NHa0AAI9uk.jpg",
+        "width": 821
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853657757616099328"
+          ],
+          "media_source_tweet_id": [
+            "1853995736796447064"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1854348217644883977",
+        "created_at": "2024-11-07T02:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T03:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854348217644883977"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1703636516965429248",
+              "start": 3,
+              "username": "cocotte_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AiSkmGgEcJ",
+              "end": 55,
+              "expanded_url": "https://x.com/cocotte_ai/status/1853995736796447064/photo/1",
+              "media_key": "3_1853657757616099328",
+              "start": 32,
+              "url": "https://t.co/AiSkmGgEcJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854348217644883977",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 334
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853995736796447064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cocotte_ai: #初音ミク　歌姫のピアニッシモ https://t.co/AiSkmGgEcJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853657757616099328"
+          ]
+        },
+        "author_id": "1703636516965429248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1853995736796447064",
+        "created_at": "2024-11-06T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853995736796447064"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AiSkmGgEcJ",
+              "end": 39,
+              "expanded_url": "https://x.com/cocotte_ai/status/1853995736796447064/photo/1",
+              "media_key": "3_1853657757616099328",
+              "start": 16,
+              "url": "https://t.co/AiSkmGgEcJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853995736796447064",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 46754,
+          "like_count": 3412,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 334
+        },
+        "reply_settings": "everyone",
+        "text": "#初音ミク　歌姫のピアニッシモ https://t.co/AiSkmGgEcJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 124,
+          "like_count": 4688,
+          "listed_count": 0,
+          "tweet_count": 540
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-18T05:06:18.000Z",
+        "description": "無言フォロー失礼します💫The illustration posted is generated by nijijourney+Stable diffusion（AI）+Photoshop drawing☆*。",
+        "id": "1703636516965429248",
+        "name": "poco",
+        "pinned_tweet_id": "1853995736796447064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725631551776653312/HQUTj_70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93365,
+          "following_count": 179,
+          "like_count": 9920,
+          "listed_count": 516,
+          "tweet_count": 8388
+        },
+        "username": "cocotte_ai",
+        "verified": true
+      }
+    ]
+  }
+}

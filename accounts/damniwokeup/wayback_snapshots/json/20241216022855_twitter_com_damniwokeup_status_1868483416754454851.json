@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868275803747971073"
+      ],
+      "media_source_tweet_id": [
+        "1868275810655928620"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1868483416754454851",
+    "created_at": "2024-12-16T02:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T03:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868483416754454851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1699634854756040704",
+          "start": 3,
+          "username": "Szs0K"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F64UjYyIGy",
+          "end": 42,
+          "expanded_url": "https://x.com/Szs0K/status/1868275810655928620/photo/1",
+          "media_key": "3_1868275803747971073",
+          "start": 19,
+          "url": "https://t.co/F64UjYyIGy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868483416754454851",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 694
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868275810655928620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Szs0K: なんもわからん https://t.co/F64UjYyIGy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1868275803747971073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge1y8eja8AE7lxz.jpg",
+        "width": 1422
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868275803747971073"
+          ],
+          "media_source_tweet_id": [
+            "1868275810655928620"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1868483416754454851",
+        "created_at": "2024-12-16T02:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T03:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868483416754454851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1699634854756040704",
+              "start": 3,
+              "username": "Szs0K"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F64UjYyIGy",
+              "end": 42,
+              "expanded_url": "https://x.com/Szs0K/status/1868275810655928620/photo/1",
+              "media_key": "3_1868275803747971073",
+              "start": 19,
+              "url": "https://t.co/F64UjYyIGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868483416754454851",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 694
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868275810655928620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Szs0K: なんもわからん https://t.co/F64UjYyIGy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868275803747971073"
+          ]
+        },
+        "author_id": "1699634854756040704",
+        "conversation_id": "1868275810655928620",
+        "created_at": "2024-12-15T12:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T13:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868275810655928620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F64UjYyIGy",
+              "end": 31,
+              "expanded_url": "https://x.com/Szs0K/status/1868275810655928620/photo/1",
+              "media_key": "3_1868275803747971073",
+              "start": 8,
+              "url": "https://t.co/F64UjYyIGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868275810655928620",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 800,
+          "impression_count": 110911,
+          "like_count": 8758,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 694
+        },
+        "reply_settings": "everyone",
+        "text": "なんもわからん https://t.co/F64UjYyIGy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 145,
+          "like_count": 6053,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1102
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T04:05:14.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/ryou0k…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/ryou0k.bsky.social",
+                "start": 0,
+                "url": "https://t.co/iNeJHhWzmo"
+              }
+            ]
+          }
+        },
+        "id": "1699634854756040704",
+        "name": "了。",
+        "pinned_tweet_id": "1701044611865890891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701067887535108096/zFZRBdAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13356,
+          "following_count": 31,
+          "like_count": 565,
+          "listed_count": 66,
+          "media_count": 92,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/iNeJHhWzmo",
+        "username": "Szs0K",
+        "verified": false
+      }
+    ]
+  }
+}

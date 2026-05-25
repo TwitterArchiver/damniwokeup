@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1854524460755533824",
+        "3_1854524460700938240"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1854524473090949557",
+    "created_at": "2024-11-07T14:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T15:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854524473090949557"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M0aZ5Zmxxl",
+          "end": 23,
+          "expanded_url": "https://x.com/damniwokeup/status/1854524473090949557/photo/1",
+          "media_key": "3_1854524460755533824",
+          "start": 0,
+          "url": "https://t.co/M0aZ5Zmxxl"
+        },
+        {
+          "display_url": "pic.x.com/M0aZ5Zmxxl",
+          "end": 23,
+          "expanded_url": "https://x.com/damniwokeup/status/1854524473090949557/photo/1",
+          "media_key": "3_1854524460700938240",
+          "start": 0,
+          "url": "https://t.co/M0aZ5Zmxxl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854524473090949557",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/M0aZ5Zmxxl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1854524460755533824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbyYK96bQAA-Otm.jpg",
+        "width": 1724
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1854524460700938240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbyYK9taMAAywVG.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854524460755533824",
+            "3_1854524460700938240"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1854524473090949557",
+        "created_at": "2024-11-07T14:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T15:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854524473090949557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M0aZ5Zmxxl",
+              "end": 23,
+              "expanded_url": "https://x.com/damniwokeup/status/1854524473090949557/photo/1",
+              "media_key": "3_1854524460755533824",
+              "start": 0,
+              "url": "https://t.co/M0aZ5Zmxxl"
+            },
+            {
+              "display_url": "pic.x.com/M0aZ5Zmxxl",
+              "end": 23,
+              "expanded_url": "https://x.com/damniwokeup/status/1854524473090949557/photo/1",
+              "media_key": "3_1854524460700938240",
+              "start": 0,
+              "url": "https://t.co/M0aZ5Zmxxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854524473090949557",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/M0aZ5Zmxxl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 124,
+          "like_count": 4720,
+          "listed_count": 0,
+          "tweet_count": 556
+        },
+        "username": "damniwokeup",
+        "verified": false
+      }
+    ]
+  }
+}

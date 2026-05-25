@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862255333004943360"
+      ],
+      "media_source_tweet_id": [
+        "1862255337828413655"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1862502076049498255",
+    "created_at": "2024-11-29T14:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T15:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862502076049498255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3331362597",
+          "start": 3,
+          "username": "GifsAnime_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B5UYCiaj5V",
+          "end": 43,
+          "expanded_url": "https://x.com/GifsAnime_/status/1862255337828413655/photo/1",
+          "media_key": "3_1862255333004943360",
+          "start": 20,
+          "url": "https://t.co/B5UYCiaj5V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862502076049498255",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 113
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862255337828413655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GifsAnime_: ☺️🤍 https://t.co/B5UYCiaj5V"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Anime : Frieren",
+        "height": 1201,
+        "media_key": "3_1862255333004943360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdgPW9TWIAALs2k.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862255333004943360"
+          ],
+          "media_source_tweet_id": [
+            "1862255337828413655"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1862502076049498255",
+        "created_at": "2024-11-29T14:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T15:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862502076049498255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3331362597",
+              "start": 3,
+              "username": "GifsAnime_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B5UYCiaj5V",
+              "end": 43,
+              "expanded_url": "https://x.com/GifsAnime_/status/1862255337828413655/photo/1",
+              "media_key": "3_1862255333004943360",
+              "start": 20,
+              "url": "https://t.co/B5UYCiaj5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862502076049498255",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 113
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862255337828413655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GifsAnime_: ☺️🤍 https://t.co/B5UYCiaj5V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862255333004943360"
+          ]
+        },
+        "author_id": "3331362597",
+        "conversation_id": "1862255337828413655",
+        "created_at": "2024-11-28T22:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T23:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862255337828413655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B5UYCiaj5V",
+              "end": 27,
+              "expanded_url": "https://x.com/GifsAnime_/status/1862255337828413655/photo/1",
+              "media_key": "3_1862255333004943360",
+              "start": 4,
+              "url": "https://t.co/B5UYCiaj5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862255337828413655",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 15376,
+          "like_count": 1712,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "☺️🤍 https://t.co/B5UYCiaj5V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 134,
+          "like_count": 5277,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 813
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-17T15:13:11.000Z",
+        "description": "🇯🇵🏯 𝕏 Anime page about japanese culture🎏 and animation. Featured Gifs,videos,pictures,fan art,studio ghibli,culture threads,old school everyday. DM open ✍️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pinterest.fr/ludo_chan/",
+                "end": 23,
+                "expanded_url": "https://www.pinterest.fr/ludo_chan/",
+                "start": 0,
+                "url": "https://t.co/CDwTccEoXu"
+              }
+            ]
+          }
+        },
+        "id": "3331362597",
+        "location": "Kyoto",
+        "name": "Anime Pics & Gifs ツ",
+        "pinned_tweet_id": "1589746589266227201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/659338631744761856/kksklplx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366702,
+          "following_count": 5714,
+          "like_count": 160288,
+          "listed_count": 913,
+          "media_count": 63397,
+          "tweet_count": 71468
+        },
+        "url": "https://t.co/CDwTccEoXu",
+        "username": "GifsAnime_",
+        "verified": true
+      }
+    ]
+  }
+}

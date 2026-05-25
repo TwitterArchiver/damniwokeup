@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861772557067943936"
+      ],
+      "media_source_tweet_id": [
+        "1861772559827796111"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1862303326974746896",
+    "created_at": "2024-11-29T01:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T02:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862303326974746896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1501890055832412166",
+          "start": 3,
+          "username": "moshinya_32"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XDWSg7k005",
+          "end": 57,
+          "expanded_url": "https://x.com/moshinya_32/status/1861772559827796111/photo/1",
+          "media_key": "3_1861772557067943936",
+          "start": 34,
+          "url": "https://t.co/XDWSg7k005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862303326974746896",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1000
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861772559827796111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moshinya_32: 모니터링 좋아서 자주 듣고있음 https://t.co/XDWSg7k005"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1861772557067943936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdZYRsybAAAx9eS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861772557067943936"
+          ],
+          "media_source_tweet_id": [
+            "1861772559827796111"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1862303326974746896",
+        "created_at": "2024-11-29T01:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T02:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862303326974746896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1501890055832412166",
+              "start": 3,
+              "username": "moshinya_32"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDWSg7k005",
+              "end": 57,
+              "expanded_url": "https://x.com/moshinya_32/status/1861772559827796111/photo/1",
+              "media_key": "3_1861772557067943936",
+              "start": 34,
+              "url": "https://t.co/XDWSg7k005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862303326974746896",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1000
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861772559827796111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moshinya_32: 모니터링 좋아서 자주 듣고있음 https://t.co/XDWSg7k005"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861772557067943936"
+          ]
+        },
+        "author_id": "1501890055832412166",
+        "conversation_id": "1861772559827796111",
+        "created_at": "2024-11-27T14:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T15:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861772559827796111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDWSg7k005",
+              "end": 40,
+              "expanded_url": "https://x.com/moshinya_32/status/1861772559827796111/photo/1",
+              "media_key": "3_1861772557067943936",
+              "start": 17,
+              "url": "https://t.co/XDWSg7k005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861772559827796111",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1692,
+          "impression_count": 200138,
+          "like_count": 15717,
+          "quote_count": 11,
+          "reply_count": 4,
+          "retweet_count": 1000
+        },
+        "reply_settings": "everyone",
+        "text": "모니터링 좋아서 자주 듣고있음 https://t.co/XDWSg7k005"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 134,
+          "like_count": 5245,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 804
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-10T11:58:18.000Z",
+        "description": "그림러 / 잡덕 / 선팔구독간주 / 그림 그리는 감자 / 회피캣이되 / 상시커미션",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/8283801754",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/8283801754",
+                "start": 0,
+                "url": "https://t.co/GrAytvnqnw"
+              }
+            ]
+          }
+        },
+        "id": "1501890055832412166",
+        "location": "I. 흑댱님cm",
+        "name": "감자",
+        "pinned_tweet_id": "1846825012936036843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840597813274812416/P_j3h6h5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4181,
+          "following_count": 1474,
+          "like_count": 31016,
+          "listed_count": 33,
+          "media_count": 1106,
+          "tweet_count": 15280
+        },
+        "url": "https://t.co/GrAytvnqnw",
+        "username": "moshinya_32",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1855765345803304960"
+      ],
+      "media_source_tweet_id": [
+        "1855765348743537078"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1855996004878942679",
+    "created_at": "2024-11-11T15:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T16:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855996004878942679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1653577361579753473",
+          "start": 3,
+          "username": "RyoDeidad"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BnAzHdseMQ",
+          "end": 38,
+          "expanded_url": "https://x.com/RyoDeidad/status/1855765348743537078/photo/1",
+          "media_key": "3_1855765345803304960",
+          "start": 15,
+          "url": "https://t.co/BnAzHdseMQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855996004878942679",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855765348743537078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RyoDeidad: https://t.co/BnAzHdseMQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1075,
+        "media_key": "3_1855765345803304960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcEAv-8WAAA-EXt.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855765345803304960"
+          ],
+          "media_source_tweet_id": [
+            "1855765348743537078"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1855996004878942679",
+        "created_at": "2024-11-11T15:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T16:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855996004878942679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1653577361579753473",
+              "start": 3,
+              "username": "RyoDeidad"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BnAzHdseMQ",
+              "end": 38,
+              "expanded_url": "https://x.com/RyoDeidad/status/1855765348743537078/photo/1",
+              "media_key": "3_1855765345803304960",
+              "start": 15,
+              "url": "https://t.co/BnAzHdseMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855996004878942679",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855765348743537078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RyoDeidad: https://t.co/BnAzHdseMQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855765345803304960"
+          ]
+        },
+        "author_id": "1653577361579753473",
+        "conversation_id": "1855765348743537078",
+        "created_at": "2024-11-11T00:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T01:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855765348743537078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BnAzHdseMQ",
+              "end": 23,
+              "expanded_url": "https://x.com/RyoDeidad/status/1855765348743537078/photo/1",
+              "media_key": "3_1855765345803304960",
+              "start": 0,
+              "url": "https://t.co/BnAzHdseMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855765348743537078",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 8274,
+          "like_count": 827,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BnAzHdseMQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 126,
+          "like_count": 4800,
+          "listed_count": 0,
+          "tweet_count": 585
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T01:49:18.000Z",
+        "description": "|Idiota profesional|\n|Cuenta dedicada a la GOAT de las bajistas 💙🌿🫶🌹|\n|Bassists  💙🛐🛐|\n|Cole Jermaine Palmer  💙🥶🐐💯✨🛐🛐|",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/RyoDeidad",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/RyoDeidad",
+                "start": 0,
+                "url": "https://t.co/YfGMlUoj1U"
+              }
+            ]
+          }
+        },
+        "id": "1653577361579753473",
+        "location": "Starry",
+        "name": "Si te sigo eres fan de Ryō Yamada 💙🌿😼",
+        "pinned_tweet_id": "1732476936700452877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750398352993239040/IPxE963z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20088,
+          "following_count": 11230,
+          "like_count": 359948,
+          "listed_count": 38,
+          "tweet_count": 30680
+        },
+        "url": "https://t.co/YfGMlUoj1U",
+        "username": "RyoDeidad",
+        "verified": false
+      }
+    ]
+  }
+}

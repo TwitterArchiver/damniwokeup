@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1854174386796060672"
+      ],
+      "media_source_tweet_id": [
+        "1854174446216782071"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Sapporo",
+          "id": "1009884650444021760",
+          "name": "Sapporo"
+        }
+      }
+    ],
+    "conversation_id": "1854523437609300420",
+    "created_at": "2024-11-07T13:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T14:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854523437609300420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "701317942563057665",
+          "start": 3,
+          "username": "daily_simaenaga"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mQdf6CfAbq",
+          "end": 59,
+          "expanded_url": "https://x.com/daily_simaenaga/status/1854174446216782071/video/1",
+          "media_key": "13_1854174386796060672",
+          "start": 36,
+          "url": "https://t.co/mQdf6CfAbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854523437609300420",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12769
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854174446216782071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daily_simaenaga: 札幌初雪だああああああ💬❄️ https://t.co/mQdf6CfAbq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10333,
+        "height": 1350,
+        "media_key": "13_1854174386796060672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1854174386796060672/img/ObQiuAwV-sv3AY8M.jpg",
+        "public_metrics": {
+          "view_count": 3153912
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1854174386796060672/vid/avc1/720x900/XY_4gz1UvFuHEo3r.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1854174386796060672/vid/avc1/480x600/L5ZwN6j5IDgVENzR.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1854174386796060672/vid/avc1/1080x1350/Jpu5i5SyDqJx-nYe.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1854174386796060672/pl/s7DqwtH41Xe9VUSX.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1854174386796060672/vid/avc1/320x400/E4ev0_EAO1Ao5yVs.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1854174386796060672"
+          ],
+          "media_source_tweet_id": [
+            "1854174446216782071"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sapporo",
+              "id": "1009884650444021760",
+              "name": "Sapporo"
+            }
+          }
+        ],
+        "conversation_id": "1854523437609300420",
+        "created_at": "2024-11-07T13:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T14:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854523437609300420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "701317942563057665",
+              "start": 3,
+              "username": "daily_simaenaga"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mQdf6CfAbq",
+              "end": 59,
+              "expanded_url": "https://x.com/daily_simaenaga/status/1854174446216782071/video/1",
+              "media_key": "13_1854174386796060672",
+              "start": 36,
+              "url": "https://t.co/mQdf6CfAbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854523437609300420",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12769
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854174446216782071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daily_simaenaga: 札幌初雪だああああああ💬❄️ https://t.co/mQdf6CfAbq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1854174386796060672"
+          ]
+        },
+        "author_id": "701317942563057665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sapporo",
+              "id": "1009884650444021760",
+              "name": "Sapporo"
+            }
+          }
+        ],
+        "conversation_id": "1854174446216782071",
+        "created_at": "2024-11-06T14:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T15:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854174446216782071"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "札幌",
+              "probability": 0.8557,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mQdf6CfAbq",
+              "end": 38,
+              "expanded_url": "https://x.com/daily_simaenaga/status/1854174446216782071/video/1",
+              "media_key": "13_1854174386796060672",
+              "start": 15,
+              "url": "https://t.co/mQdf6CfAbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854174446216782071",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3495,
+          "impression_count": 7157578,
+          "like_count": 130096,
+          "quote_count": 866,
+          "reply_count": 380,
+          "retweet_count": 12769
+        },
+        "reply_settings": "everyone",
+        "text": "札幌初雪だああああああ💬❄️ https://t.co/mQdf6CfAbq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 124,
+          "like_count": 4720,
+          "listed_count": 0,
+          "tweet_count": 555
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-21T08:10:02.000Z",
+        "description": "かわいいとり",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shimaenaga.jp/contact",
+                "end": 23,
+                "expanded_url": "http://shimaenaga.jp/contact",
+                "start": 0,
+                "url": "https://t.co/12FgbG2AFD"
+              }
+            ]
+          }
+        },
+        "id": "701317942563057665",
+        "location": "ほっかいどう",
+        "name": "ぼく、シマエナガ。",
+        "pinned_tweet_id": "1810850727306350824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1112549372229640192/7JCtTV8T_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663080,
+          "following_count": 1,
+          "like_count": 19844,
+          "listed_count": 2581,
+          "tweet_count": 82579
+        },
+        "url": "https://t.co/12FgbG2AFD",
+        "username": "daily_simaenaga",
+        "verified": true
+      }
+    ]
+  }
+}

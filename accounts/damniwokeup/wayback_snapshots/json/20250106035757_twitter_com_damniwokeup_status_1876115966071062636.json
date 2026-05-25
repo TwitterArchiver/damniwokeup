@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875953358814777344"
+      ],
+      "media_source_tweet_id": [
+        "1875953363466268690"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1876115966071062636",
+    "created_at": "2025-01-06T03:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T04:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876115966071062636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1569965004086190080",
+          "start": 3,
+          "username": "kaje7pi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CLYx3z0cFt",
+          "end": 36,
+          "expanded_url": "https://x.com/kaje7pi/status/1875953363466268690/photo/1",
+          "media_key": "3_1875953358814777344",
+          "start": 13,
+          "url": "https://t.co/CLYx3z0cFt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876115966071062636",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 279
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875953363466268690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaje7pi: https://t.co/CLYx3z0cFt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1355,
+        "media_key": "3_1875953358814777344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ggi5o_9bEAAE60X.jpg",
+        "width": 1274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875953358814777344"
+          ],
+          "media_source_tweet_id": [
+            "1875953363466268690"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1876115966071062636",
+        "created_at": "2025-01-06T03:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T04:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876115966071062636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569965004086190080",
+              "start": 3,
+              "username": "kaje7pi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLYx3z0cFt",
+              "end": 36,
+              "expanded_url": "https://x.com/kaje7pi/status/1875953363466268690/photo/1",
+              "media_key": "3_1875953358814777344",
+              "start": 13,
+              "url": "https://t.co/CLYx3z0cFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876115966071062636",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875953363466268690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kaje7pi: https://t.co/CLYx3z0cFt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875953358814777344"
+          ]
+        },
+        "author_id": "1569965004086190080",
+        "conversation_id": "1875953363466268690",
+        "created_at": "2025-01-05T17:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T18:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875953363466268690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLYx3z0cFt",
+              "end": 23,
+              "expanded_url": "https://x.com/kaje7pi/status/1875953363466268690/photo/1",
+              "media_key": "3_1875953358814777344",
+              "start": 0,
+              "url": "https://t.co/CLYx3z0cFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875953363466268690",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 304,
+          "impression_count": 36084,
+          "like_count": 2679,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CLYx3z0cFt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 151,
+          "like_count": 6552,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1280
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T08:23:27.000Z",
+        "description": "",
+        "id": "1569965004086190080",
+        "location": "H gaemung",
+        "name": "7pi",
+        "pinned_tweet_id": "1862484017523957989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858321723646713856/v3Xvb-l3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9746,
+          "following_count": 63,
+          "like_count": 365,
+          "listed_count": 61,
+          "media_count": 21,
+          "tweet_count": 91
+        },
+        "username": "kaje7pi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1852029103844495728"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1852207518203990318",
+    "created_at": "2024-11-01T04:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T05:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852207518203990318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "982976105417199616",
+          "start": 3,
+          "username": "MapleTheGal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q4bXHayH8V",
+          "end": 40,
+          "expanded_url": "https://x.com/MapleTheGal/status/1852029103844495728/photo/1",
+          "media_key": "3_1852029098069024769",
+          "start": 17,
+          "url": "https://t.co/q4bXHayH8V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852207518203990318",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852029103844495728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MapleTheGal: https://t.co/q4bXHayH8V"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1852029103844495728"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1852207518203990318",
+        "created_at": "2024-11-01T04:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T05:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852207518203990318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "982976105417199616",
+              "start": 3,
+              "username": "MapleTheGal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q4bXHayH8V",
+              "end": 40,
+              "expanded_url": "https://x.com/MapleTheGal/status/1852029103844495728/photo/1",
+              "media_key": "3_1852029098069024769",
+              "start": 17,
+              "url": "https://t.co/q4bXHayH8V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852207518203990318",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852029103844495728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MapleTheGal: https://t.co/q4bXHayH8V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852029098069024769"
+          ]
+        },
+        "author_id": "982976105417199616",
+        "conversation_id": "1852029103844495728",
+        "created_at": "2024-10-31T16:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T17:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852029103844495728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q4bXHayH8V",
+              "end": 23,
+              "expanded_url": "https://x.com/MapleTheGal/status/1852029103844495728/photo/1",
+              "media_key": "3_1852029098069024769",
+              "start": 0,
+              "url": "https://t.co/q4bXHayH8V"
+            },
+            {
+              "display_url": "x.com/MapleTheGal/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/MapleTheGal/status/1852004378816704734",
+              "start": 24,
+              "url": "https://t.co/v3lzihQRhN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852029103844495728",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 7910,
+          "like_count": 1002,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852004378816704734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/q4bXHayH8V https://t.co/v3lzihQRhN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847962644852162560/UJMfw11t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 121,
+          "like_count": 4474,
+          "listed_count": 0,
+          "tweet_count": 465
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-08T13:39:01.000Z",
+        "description": "Hey, I’m Maple! // Just a beginner musician trying to get by. // Bocchi the Rock, FNF, JToH, etc. // PFP By: @Dravencore210",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "Dravencore210"
+              }
+            ]
+          }
+        },
+        "id": "982976105417199616",
+        "name": "MapleThe 𝓕𝓻𝓮𝓪𝓴",
+        "pinned_tweet_id": "1770337596494729626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795978383362301952/jRcD005D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 2109,
+          "like_count": 159991,
+          "listed_count": 4,
+          "tweet_count": 22596
+        },
+        "username": "MapleTheGal",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862928491794333696"
+      ],
+      "media_source_tweet_id": [
+        "1862928493916664165"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1863232789153513565",
+    "created_at": "2024-12-01T14:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T15:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863232789153513565"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 61,
+          "normalized_text": "GirlsBandCry",
+          "probability": 0.671,
+          "start": 50,
+          "type": "Other"
+        },
+        {
+          "end": 72,
+          "normalized_text": "tegaki_dt",
+          "probability": 0.4931,
+          "start": 64,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 49,
+          "tag": "GirlsBandCry"
+        },
+        {
+          "end": 73,
+          "start": 63,
+          "tag": "tegaki_dt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "157389907",
+          "start": 3,
+          "username": "2outni4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1br0uVtZfD",
+          "end": 97,
+          "expanded_url": "https://x.com/2outni4/status/1862928493916664165/photo/1",
+          "media_key": "3_1862928491794333696",
+          "start": 74,
+          "url": "https://t.co/1br0uVtZfD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863232789153513565",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862928493916664165",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2outni4: “I am a prince, how is that fine?”\n\n#GirlsBandCry #tegaki_dt https://t.co/1br0uVtZfD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 655,
+        "media_key": "3_1862928491794333696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdpzl9NbAAAdTdv.png",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862928491794333696"
+          ],
+          "media_source_tweet_id": [
+            "1862928493916664165"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1863232789153513565",
+        "created_at": "2024-12-01T14:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T15:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863232789153513565"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 61,
+              "normalized_text": "GirlsBandCry",
+              "probability": 0.671,
+              "start": 50,
+              "type": "Other"
+            },
+            {
+              "end": 72,
+              "normalized_text": "tegaki_dt",
+              "probability": 0.4931,
+              "start": 64,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 49,
+              "tag": "GirlsBandCry"
+            },
+            {
+              "end": 73,
+              "start": 63,
+              "tag": "tegaki_dt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "157389907",
+              "start": 3,
+              "username": "2outni4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1br0uVtZfD",
+              "end": 97,
+              "expanded_url": "https://x.com/2outni4/status/1862928493916664165/photo/1",
+              "media_key": "3_1862928491794333696",
+              "start": 74,
+              "url": "https://t.co/1br0uVtZfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863232789153513565",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862928493916664165",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2outni4: “I am a prince, how is that fine?”\n\n#GirlsBandCry #tegaki_dt https://t.co/1br0uVtZfD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862928491794333696"
+          ]
+        },
+        "author_id": "157389907",
+        "conversation_id": "1862928493916664165",
+        "created_at": "2024-11-30T18:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T19:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862928493916664165"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "GirlsBandCry",
+              "probability": 0.6682,
+              "start": 37,
+              "type": "Other"
+            },
+            {
+              "end": 59,
+              "normalized_text": "tegaki_dt",
+              "probability": 0.5391,
+              "start": 51,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 36,
+              "tag": "GirlsBandCry"
+            },
+            {
+              "end": 60,
+              "start": 50,
+              "tag": "tegaki_dt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1br0uVtZfD",
+              "end": 84,
+              "expanded_url": "https://x.com/2outni4/status/1862928493916664165/photo/1",
+              "media_key": "3_1862928491794333696",
+              "start": 61,
+              "url": "https://t.co/1br0uVtZfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862928493916664165",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 5104,
+          "like_count": 282,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "“I am a prince, how is that fine?”\n\n#GirlsBandCry #tegaki_dt https://t.co/1br0uVtZfD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 141,
+          "like_count": 5450,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 868
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-19T17:22:05.000Z",
+        "description": "阿佐ヶ谷パラレルユニバース／サークル「残像ランダゼイション」「キッサルリ」「石神井公園(仮)」 https://t.co/LcmfJRyhPi / https://t.co/epvly1W2Fu / https://t.co/JTdwmjfdT0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/2outni4",
+                "end": 71,
+                "expanded_url": "http://pixiv.me/2outni4",
+                "start": 48,
+                "url": "https://t.co/LcmfJRyhPi"
+              },
+              {
+                "display_url": "instagram.com/2outni4",
+                "end": 97,
+                "expanded_url": "http://instagram.com/2outni4",
+                "start": 74,
+                "url": "https://t.co/epvly1W2Fu"
+              },
+              {
+                "display_url": "youtube.com/user/2outni4",
+                "end": 123,
+                "expanded_url": "http://youtube.com/user/2outni4",
+                "start": 100,
+                "url": "https://t.co/JTdwmjfdT0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "2outni4.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://2outni4.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/IVaS2Qs0yY"
+              }
+            ]
+          }
+        },
+        "id": "157389907",
+        "location": "東京都↔︎京都市",
+        "name": "24",
+        "pinned_tweet_id": "1267122709978181632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1341785394552049667/ouiiochO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5662,
+          "following_count": 755,
+          "like_count": 229653,
+          "listed_count": 160,
+          "media_count": 79308,
+          "tweet_count": 276906
+        },
+        "url": "https://t.co/IVaS2Qs0yY",
+        "username": "2outni4",
+        "verified": false
+      }
+    ]
+  }
+}

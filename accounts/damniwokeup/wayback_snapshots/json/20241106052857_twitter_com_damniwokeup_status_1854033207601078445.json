@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1853986145077772288"
+      ],
+      "media_source_tweet_id": [
+        "1853986156318470514"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1854033207601078445",
+    "created_at": "2024-11-06T05:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T06:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854033207601078445"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 14,
+          "tag": "いまだけダブチ食べ美"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1074029029",
+          "start": 3,
+          "username": "Bitseon_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EnQdOug7NM",
+          "end": 49,
+          "expanded_url": "https://x.com/Bitseon_/status/1853986156318470514/photo/1",
+          "media_key": "3_1853986145077772288",
+          "start": 26,
+          "url": "https://t.co/EnQdOug7NM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854033207601078445",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 939
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853986156318470514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bitseon_: #いまだけダブチ食べ美 https://t.co/EnQdOug7NM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1795,
+        "media_key": "3_1853986145077772288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gbquk3vbQAAObjU.jpg",
+        "width": 1222
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853986145077772288"
+          ],
+          "media_source_tweet_id": [
+            "1853986156318470514"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1854033207601078445",
+        "created_at": "2024-11-06T05:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T06:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854033207601078445"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 14,
+              "tag": "いまだけダブチ食べ美"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1074029029",
+              "start": 3,
+              "username": "Bitseon_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EnQdOug7NM",
+              "end": 49,
+              "expanded_url": "https://x.com/Bitseon_/status/1853986156318470514/photo/1",
+              "media_key": "3_1853986145077772288",
+              "start": 26,
+              "url": "https://t.co/EnQdOug7NM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854033207601078445",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 939
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853986156318470514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bitseon_: #いまだけダブチ食べ美 https://t.co/EnQdOug7NM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853986145077772288"
+          ]
+        },
+        "author_id": "1074029029",
+        "conversation_id": "1853986156318470514",
+        "created_at": "2024-11-06T02:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T03:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853986156318470514"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "いまだけダブチ食べ美"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EnQdOug7NM",
+              "end": 35,
+              "expanded_url": "https://x.com/Bitseon_/status/1853986156318470514/photo/1",
+              "media_key": "3_1853986145077772288",
+              "start": 12,
+              "url": "https://t.co/EnQdOug7NM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853986156318470514",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 893,
+          "impression_count": 78945,
+          "like_count": 7344,
+          "quote_count": 6,
+          "reply_count": 28,
+          "retweet_count": 939
+        },
+        "reply_settings": "everyone",
+        "text": "#いまだけダブチ食べ美 https://t.co/EnQdOug7NM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1823759278207066433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 124,
+          "like_count": 4668,
+          "listed_count": 0,
+          "tweet_count": 534
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-09T15:02:31.000Z",
+        "description": "Freelancer Illustrator\nE-mail : ksh02178@naver.com\n依頼募集中\n\nCommission\nhttps://t.co/WPPB52pAzH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bitseon.carrd.co",
+                "end": 92,
+                "expanded_url": "https://bitseon.carrd.co/",
+                "start": 69,
+                "url": "https://t.co/WPPB52pAzH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/10257686",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/10257686",
+                "start": 0,
+                "url": "https://t.co/rs1zQiHD7D"
+              }
+            ]
+          }
+        },
+        "id": "1074029029",
+        "name": "Bitseon / 빛선",
+        "pinned_tweet_id": "1851238075747455312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830594307348201472/aN5AHGbN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153362,
+          "following_count": 1037,
+          "like_count": 52384,
+          "listed_count": 880,
+          "tweet_count": 31205
+        },
+        "url": "https://t.co/rs1zQiHD7D",
+        "username": "Bitseon_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880588157579853824"
+      ],
+      "media_source_tweet_id": [
+        "1880588162965307820"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1880920637893685513",
+    "created_at": "2025-01-19T10:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T11:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880920637893685513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1675840811664281601",
+          "start": 3,
+          "username": "Nos__fri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9ijSNlT2Sp",
+          "end": 46,
+          "expanded_url": "https://x.com/Nos__fri/status/1880588162965307820/photo/1",
+          "media_key": "3_1880588157579853824",
+          "start": 23,
+          "url": "https://t.co/9ijSNlT2Sp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880920637893685513",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 556
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880588162965307820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nos__fri: ヒンフリのぎゅー https://t.co/9ijSNlT2Sp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1880588157579853824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghkw9y1agAAA7Ar.jpg",
+        "width": 792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880588157579853824"
+          ],
+          "media_source_tweet_id": [
+            "1880588162965307820"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1880920637893685513",
+        "created_at": "2025-01-19T10:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T11:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880920637893685513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1675840811664281601",
+              "start": 3,
+              "username": "Nos__fri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ijSNlT2Sp",
+              "end": 46,
+              "expanded_url": "https://x.com/Nos__fri/status/1880588162965307820/photo/1",
+              "media_key": "3_1880588157579853824",
+              "start": 23,
+              "url": "https://t.co/9ijSNlT2Sp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880920637893685513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 556
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880588162965307820",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nos__fri: ヒンフリのぎゅー https://t.co/9ijSNlT2Sp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880588157579853824"
+          ]
+        },
+        "author_id": "1675840811664281601",
+        "conversation_id": "1880588162965307820",
+        "created_at": "2025-01-18T12:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T13:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880588162965307820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ijSNlT2Sp",
+              "end": 32,
+              "expanded_url": "https://x.com/Nos__fri/status/1880588162965307820/photo/1",
+              "media_key": "3_1880588157579853824",
+              "start": 9,
+              "url": "https://t.co/9ijSNlT2Sp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880588162965307820",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 313,
+          "impression_count": 51004,
+          "like_count": 5329,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 556
+        },
+        "reply_settings": "everyone",
+        "text": "ヒンフリのぎゅー https://t.co/9ijSNlT2Sp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873251527508492288/Qw8besei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 152,
+          "like_count": 6698,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1302
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T12:17:21.000Z",
+        "description": "20↑/好きなもの色々、雑食/主にヒンフリと勇者一行/愛を叫んでる場所/うぇぶりネタバレあり(たまに本誌も)/青空 https://t.co/RMgHkwKU4V支部 https://t.co/DkSZd0Cyjm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/nosfri…",
+                "end": 81,
+                "expanded_url": "https://bsky.app/profile/nosfri.bsky.social/",
+                "start": 58,
+                "url": "https://t.co/RMgHkwKU4V"
+              },
+              {
+                "display_url": "pixiv.net/users/96354765",
+                "end": 107,
+                "expanded_url": "https://www.pixiv.net/users/96354765",
+                "start": 84,
+                "url": "https://t.co/DkSZd0Cyjm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/e5wvhznp4…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/e5wvhznp45ogdghi/",
+                "start": 0,
+                "url": "https://t.co/7TGxd9eAVM"
+              }
+            ]
+          }
+        },
+        "id": "1675840811664281601",
+        "location": "無断転載禁止",
+        "name": "のす",
+        "pinned_tweet_id": "1834970901462630439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749778298266415104/J5878HIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7492,
+          "following_count": 75,
+          "like_count": 14004,
+          "listed_count": 31,
+          "media_count": 212,
+          "tweet_count": 9287
+        },
+        "url": "https://t.co/7TGxd9eAVM",
+        "username": "Nos__fri",
+        "verified": false
+      }
+    ]
+  }
+}

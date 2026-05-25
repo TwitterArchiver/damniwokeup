@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1866481101369425968"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      }
+    ],
+    "conversation_id": "1866807102200746481",
+    "created_at": "2024-12-11T11:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T12:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866807102200746481"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "hallei彗星さん",
+          "probability": 0.3673,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "3238608072",
+          "start": 3,
+          "username": "noko_morokoshi"
+        },
+        {
+          "end": 44,
+          "id": "2554672388",
+          "start": 31,
+          "username": "HalleiSuisei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xVhVsfkOh7",
+          "end": 113,
+          "expanded_url": "https://x.com/noko_morokoshi/status/1866481101369425968/photo/1",
+          "media_key": "3_1866480932800344064",
+          "start": 90,
+          "url": "https://t.co/xVhVsfkOh7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866807102200746481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866481101369425968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noko_morokoshi: hallei彗星さん(@HalleiSuisei )のC105新刊の小説の表紙を夏コミに引き続き描かせて頂いております。\n冬が来たぞ～～～ https://t.co/xVhVsfkOh7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1866481101369425968"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "1866807102200746481",
+        "created_at": "2024-12-11T11:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T12:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866807102200746481"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "hallei彗星さん",
+              "probability": 0.3673,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "3238608072",
+              "start": 3,
+              "username": "noko_morokoshi"
+            },
+            {
+              "end": 44,
+              "id": "2554672388",
+              "start": 31,
+              "username": "HalleiSuisei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xVhVsfkOh7",
+              "end": 113,
+              "expanded_url": "https://x.com/noko_morokoshi/status/1866481101369425968/photo/1",
+              "media_key": "3_1866480932800344064",
+              "start": 90,
+              "url": "https://t.co/xVhVsfkOh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866807102200746481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866481101369425968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noko_morokoshi: hallei彗星さん(@HalleiSuisei )のC105新刊の小説の表紙を夏コミに引き続き描かせて頂いております。\n冬が来たぞ～～～ https://t.co/xVhVsfkOh7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866480932800344064"
+          ]
+        },
+        "author_id": "3238608072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "1866481101369425968",
+        "created_at": "2024-12-10T13:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T14:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866481101369425968"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "hallei彗星さん",
+              "probability": 0.2881,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 24,
+              "id": "2554672388",
+              "start": 11,
+              "username": "HalleiSuisei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xVhVsfkOh7",
+              "end": 93,
+              "expanded_url": "https://x.com/noko_morokoshi/status/1866481101369425968/photo/1",
+              "media_key": "3_1866480932800344064",
+              "start": 70,
+              "url": "https://t.co/xVhVsfkOh7"
+            },
+            {
+              "display_url": "x.com/HalleiSuisei/s…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/HalleiSuisei/status/1865672448332734706",
+              "start": 94,
+              "url": "https://t.co/FhWce8BIO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866481101369425968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 13052,
+          "like_count": 506,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865672448332734706",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hallei彗星さん(@HalleiSuisei )のC105新刊の小説の表紙を夏コミに引き続き描かせて頂いております。\n冬が来たぞ～～～ https://t.co/xVhVsfkOh7 https://t.co/FhWce8BIO7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1863983459905237429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864333689951539204/7SF8ek5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 146,
+          "like_count": 5853,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1030
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-07T08:28:46.000Z",
+        "description": "健やかに生きているオタク。\nお問合せ他各種SNS・通販はリンク先から\n🚫無断転載/使用(AI学習含)禁止\n🚫Do not unauthorized reuploading/use (including AI learning) .",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nokomorokoshi",
+                "end": 23,
+                "expanded_url": "https://lit.link/nokomorokoshi",
+                "start": 0,
+                "url": "https://t.co/vvLwgLLIUQ"
+              }
+            ]
+          }
+        },
+        "id": "3238608072",
+        "name": "ノコもろこし🌽",
+        "pinned_tweet_id": "1832700477836070984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860252291703709696/HC_ToGou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20400,
+          "following_count": 421,
+          "like_count": 29327,
+          "listed_count": 206,
+          "media_count": 681,
+          "tweet_count": 19621
+        },
+        "url": "https://t.co/vvLwgLLIUQ",
+        "username": "noko_morokoshi",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-08T13:02:43.000Z",
+        "description": "Type-moon用アカウント。士剣最推し。他にもネロザビ、ジクジャン、ぐだマシュなど王道カップが好きです。\n『星の雫達』という二次小説サークルやってます。\nアイコンとヘッダーはフォロワーさんから頂きました。\n\nウマ娘（＆ブルアカ）用アカウント作りました(@hallei_suisei)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 128,
+                "username": "hallei_suisei"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/670039",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/670039",
+                "start": 0,
+                "url": "https://t.co/DLZuvJkQi9"
+              }
+            ]
+          }
+        },
+        "id": "2554672388",
+        "location": "マウント深山商店街",
+        "name": "hallei彗星@日曜日 東7ｇブロック－16b",
+        "pinned_tweet_id": "1865672448332734706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1134791228426350592/_vbDUFnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 749,
+          "like_count": 9917,
+          "listed_count": 11,
+          "media_count": 4108,
+          "tweet_count": 20005
+        },
+        "url": "https://t.co/DLZuvJkQi9",
+        "username": "HalleiSuisei",
+        "verified": false
+      }
+    ]
+  }
+}

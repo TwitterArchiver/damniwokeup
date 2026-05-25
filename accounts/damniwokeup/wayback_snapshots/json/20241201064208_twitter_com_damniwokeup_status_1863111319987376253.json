@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862758564751691776",
+        "3_1862758587920986112"
+      ],
+      "media_source_tweet_id": [
+        "1862758592685691213",
+        "1862758592685691213"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "1863111319987376253",
+    "created_at": "2024-12-01T06:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T07:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863111319987376253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1361048592467820551",
+          "start": 3,
+          "username": "dionysusvvine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jmPaMu4oVu",
+          "end": 78,
+          "expanded_url": "https://x.com/dionysusvvine/status/1862758592685691213/photo/1",
+          "media_key": "3_1862758564751691776",
+          "start": 55,
+          "url": "https://t.co/jmPaMu4oVu"
+        },
+        {
+          "display_url": "pic.x.com/jmPaMu4oVu",
+          "end": 78,
+          "expanded_url": "https://x.com/dionysusvvine/status/1862758592685691213/photo/1",
+          "media_key": "3_1862758587920986112",
+          "start": 55,
+          "url": "https://t.co/jmPaMu4oVu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863111319987376253",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2544
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862758592685691213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dionysusvvine: a melody that extends to the canvas https://t.co/jmPaMu4oVu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_1862758564751691776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdnZC5pXUAAkpw-.jpg",
+        "width": 554
+      },
+      {
+        "height": 3023,
+        "media_key": "3_1862758587920986112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdnZEP9WsAAJ83i.jpg",
+        "width": 3670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862758564751691776",
+            "3_1862758587920986112"
+          ],
+          "media_source_tweet_id": [
+            "1862758592685691213",
+            "1862758592685691213"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "1863111319987376253",
+        "created_at": "2024-12-01T06:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T07:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863111319987376253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1361048592467820551",
+              "start": 3,
+              "username": "dionysusvvine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jmPaMu4oVu",
+              "end": 78,
+              "expanded_url": "https://x.com/dionysusvvine/status/1862758592685691213/photo/1",
+              "media_key": "3_1862758564751691776",
+              "start": 55,
+              "url": "https://t.co/jmPaMu4oVu"
+            },
+            {
+              "display_url": "pic.x.com/jmPaMu4oVu",
+              "end": 78,
+              "expanded_url": "https://x.com/dionysusvvine/status/1862758592685691213/photo/1",
+              "media_key": "3_1862758587920986112",
+              "start": 55,
+              "url": "https://t.co/jmPaMu4oVu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863111319987376253",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2544
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862758592685691213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dionysusvvine: a melody that extends to the canvas https://t.co/jmPaMu4oVu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862758564751691776",
+            "3_1862758587920986112"
+          ]
+        },
+        "author_id": "1361048592467820551",
+        "conversation_id": "1862758592685691213",
+        "created_at": "2024-11-30T07:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T08:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862758592685691213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jmPaMu4oVu",
+              "end": 59,
+              "expanded_url": "https://x.com/dionysusvvine/status/1862758592685691213/photo/1",
+              "media_key": "3_1862758564751691776",
+              "start": 36,
+              "url": "https://t.co/jmPaMu4oVu"
+            },
+            {
+              "display_url": "pic.x.com/jmPaMu4oVu",
+              "end": 59,
+              "expanded_url": "https://x.com/dionysusvvine/status/1862758592685691213/photo/1",
+              "media_key": "3_1862758587920986112",
+              "start": 36,
+              "url": "https://t.co/jmPaMu4oVu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862758592685691213",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1641,
+          "impression_count": 313270,
+          "like_count": 20532,
+          "quote_count": 45,
+          "reply_count": 9,
+          "retweet_count": 2544
+        },
+        "reply_settings": "everyone",
+        "text": "a melody that extends to the canvas https://t.co/jmPaMu4oVu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1853106930300149941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853110610407620608/IXexJ7I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 139,
+          "like_count": 5394,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 852
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-14T20:24:21.000Z",
+        "description": "a nameless singing bird",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "digitalstains.tumblr.com",
+                "end": 23,
+                "expanded_url": "http://digitalstains.tumblr.com",
+                "start": 0,
+                "url": "https://t.co/B0Lipetmvs"
+              }
+            ]
+          }
+        },
+        "id": "1361048592467820551",
+        "location": " s/h • 23",
+        "name": "ness",
+        "pinned_tweet_id": "1584579795139973125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862010911466135552/DWPm2BrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8137,
+          "following_count": 180,
+          "like_count": 40163,
+          "listed_count": 120,
+          "media_count": 1993,
+          "tweet_count": 12544
+        },
+        "url": "https://t.co/B0Lipetmvs",
+        "username": "dionysusvvine",
+        "verified": false
+      }
+    ]
+  }
+}

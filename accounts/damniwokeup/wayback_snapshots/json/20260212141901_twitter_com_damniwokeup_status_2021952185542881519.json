@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021217010173300736"
+      ],
+      "media_source_tweet_id": [
+        "2021217018372886725"
+      ]
+    },
+    "author_id": "1081115542109380608",
+    "conversation_id": "2021952185542881519",
+    "created_at": "2026-02-12T14:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T15:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021952185542881519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639819054256107521",
+          "start": 3,
+          "username": "shie__j007"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2J0G9zroqw",
+          "end": 54,
+          "expanded_url": "https://x.com/shie__j007/status/2021217018372886725/photo/1",
+          "media_key": "3_2021217010173300736",
+          "start": 31,
+          "url": "https://t.co/2J0G9zroqw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021952185542881519",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 309
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021217018372886725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shie__j007: 𓏴𓏴 𓊆ྀི💚🩷𓊇ྀི 𓏴𓏴 https://t.co/2J0G9zroqw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021217010173300736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAzOKXFbUAAtshO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021217010173300736"
+          ],
+          "media_source_tweet_id": [
+            "2021217018372886725"
+          ]
+        },
+        "author_id": "1081115542109380608",
+        "conversation_id": "2021952185542881519",
+        "created_at": "2026-02-12T14:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021952185542881519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639819054256107521",
+              "start": 3,
+              "username": "shie__j007"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2J0G9zroqw",
+              "end": 54,
+              "expanded_url": "https://x.com/shie__j007/status/2021217018372886725/photo/1",
+              "media_key": "3_2021217010173300736",
+              "start": 31,
+              "url": "https://t.co/2J0G9zroqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021952185542881519",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 309
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021217018372886725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shie__j007: 𓏴𓏴 𓊆ྀི💚🩷𓊇ྀི 𓏴𓏴 https://t.co/2J0G9zroqw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021217010173300736"
+          ]
+        },
+        "author_id": "1639819054256107521",
+        "conversation_id": "2021217018372886725",
+        "created_at": "2026-02-10T13:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T14:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021217018372886725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2J0G9zroqw",
+              "end": 38,
+              "expanded_url": "https://x.com/shie__j007/status/2021217018372886725/photo/1",
+              "media_key": "3_2021217010173300736",
+              "start": 15,
+              "url": "https://t.co/2J0G9zroqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021217018372886725",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 357,
+          "impression_count": 31712,
+          "like_count": 3572,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 309
+        },
+        "reply_settings": "everyone",
+        "text": "𓏴𓏴 𓊆ྀི💚🩷𓊇ྀི 𓏴𓏴 https://t.co/2J0G9zroqw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-01-04T09:10:06.000Z",
+        "description": "",
+        "id": "1081115542109380608",
+        "location": "Freetaxland",
+        "name": "RyougiShiki",
+        "pinned_tweet_id": "1871586745520951512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985989837124771840/l4HMeC3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 153,
+          "like_count": 7308,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1320
+        },
+        "username": "damniwokeup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:38:36.000Z",
+        "description": "NO AI🚫 | for inquiries: shiej007@gmail.com | Commissions: https://t.co/BA8nRdVunU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shione.ju.mp/#",
+                "end": 81,
+                "expanded_url": "https://shione.ju.mp/#",
+                "start": 58,
+                "url": "https://t.co/BA8nRdVunU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/shiej007",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/shiej007",
+                "start": 0,
+                "url": "https://t.co/c7faD2X93h"
+              }
+            ]
+          }
+        },
+        "id": "1639819054256107521",
+        "location": "cm closed",
+        "name": "shie",
+        "pinned_tweet_id": "2011384190739345703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016126847487254528/p32nkO7H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39199,
+          "following_count": 374,
+          "like_count": 6983,
+          "listed_count": 244,
+          "media_count": 79,
+          "tweet_count": 1367
+        },
+        "url": "https://t.co/c7faD2X93h",
+        "username": "shie__j007",
+        "verified": false
+      }
+    ]
+  }
+}
