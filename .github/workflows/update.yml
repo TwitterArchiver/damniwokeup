@@ -11,7 +11,6 @@ jobs:
     timeout-minutes: 360
     permissions:
       contents: write
-      actions: write
 
     steps:
       - name: 检出仓库
@@ -34,7 +33,7 @@ jobs:
             echo "skip=false" >> $GITHUB_OUTPUT
           else
             echo "skip=true"  >> $GITHUB_OUTPUT
-            echo "⚠️ 数据目录不存在，跳过本次更新（请先运行 setup.yml）"
+            echo "⚠️ 数据目录不存在，请先运行首次建档"
           fi
 
       - name: 安装依赖

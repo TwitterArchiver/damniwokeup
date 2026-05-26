@@ -14,7 +14,6 @@ jobs:
     timeout-minutes: 360
     permissions:
       contents: write
-      actions: write
 
     steps:
       - name: 检出仓库
@@ -28,8 +27,8 @@ jobs:
           U=$(echo "${{ github.repository }}" | cut -d'/' -f2)
           OWNER=$(echo "${{ github.repository }}" | cut -d'/' -f1)
           PAGES_URL="https://${OWNER}.github.io/${U}/"
-          echo "username=$U"    >> $GITHUB_OUTPUT
-          echo "owner=$OWNER"   >> $GITHUB_OUTPUT
+          echo "username=$U"         >> $GITHUB_OUTPUT
+          echo "owner=$OWNER"        >> $GITHUB_OUTPUT
           echo "pages_url=$PAGES_URL" >> $GITHUB_OUTPUT
           echo "✅ 账号：@${U}  Pages：${PAGES_URL}"
 
@@ -44,11 +43,6 @@ jobs:
             -o index.html || true
           curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/.nojekyll" \
             -o .nojekyll || touch .nojekyll
-          mkdir -p .github/workflows
-          curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/update.yml" \
-            -o .github/workflows/update.yml || true
-          curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/retry_all.yml" \
-            -o .github/workflows/retry_all.yml || true
           echo "✅ archive.py ($(wc -l < /tmp/archive.py) 行)"
 
       - name: 替换 index.html 中的账号名
@@ -115,10 +109,15 @@ jobs:
           echo "✅ 第一阶段推送完成"
 
       - name: 开启 GitHub Pages
-        uses: actions/configure-pages@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api repos/${{ github.repository }}/pages \
+            --method POST \
+            -f '{"source":{"branch":"main","path":"/"}}' 2>/dev/null || \
+          gh api repos/${{ github.repository }}/pages \
+            --method PUT \
+            -f '{"source":{"branch":"main","path":"/"}}' || true
 
       - name: 设置仓库 Homepage
         env:
@@ -127,26 +126,11 @@ jobs:
           gh repo edit "${{ github.repository }}" \
             --homepage "${{ steps.info.outputs.pages_url }}" || true
 
-      # ── 第二阶段：媒体 + clean-html ────────────────────────────────────────
+      # ── 第二阶段：媒体版 ────────────────────────────────────────────────────
       - name: fetch-media
         run: |
           cd accounts/${{ steps.info.outputs.username }}
           python3 /tmp/archive.py fetch-media || true
-
-      - name: retry --image-failed
-        run: |
-          cd accounts/${{ steps.info.outputs.username }}
-          python3 /tmp/archive.py retry --image-failed || true
-
-      - name: retry --video-failed
-        run: |
-          cd accounts/${{ steps.info.outputs.username }}
-          python3 /tmp/archive.py retry --video-failed || true
-
-      - name: retry --avatar-failed
-        run: |
-          cd accounts/${{ steps.info.outputs.username }}
-          python3 /tmp/archive.py retry --avatar-failed || true
 
       - name: clean-html
         run: |
