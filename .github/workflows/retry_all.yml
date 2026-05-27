@@ -4,7 +4,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  # ── Job 1：retry 图片 ──────────────────────────────────────────────────────
   retry-image:
     name: 全量重试 图片
     runs-on: ubuntu-latest
@@ -36,10 +35,14 @@ jobs:
         run: |
           SKIP=true
           while IFS= read -r U; do
-            [ -z "$U" ] && continue
-            [ -d "accounts/${U}/wayback_snapshots" ] && SKIP=false && break
+            if [ -z "$U" ]; then continue; fi
+            if [ -d "accounts/${U}/wayback_snapshots" ]; then
+              SKIP=false
+              break
+            fi
           done <<< "${{ steps.info.outputs.accounts }}"
           echo "skip=$SKIP" >> $GITHUB_OUTPUT
+          if [ "$SKIP" = "true" ]; then echo "⚠️ 请先运行首次建档"; fi
 
       - name: 安装依赖
         if: steps.check.outputs.skip == 'false'
@@ -53,8 +56,8 @@ jobs:
         if: steps.check.outputs.skip == 'false'
         run: |
           while IFS= read -r U; do
-            [ -z "$U" ] && continue
-            [ -d "accounts/${U}/wayback_snapshots" ] || continue
+            if [ -z "$U" ]; then continue; fi
+            if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
             cd accounts/${U} && python3 /tmp/archive.py retry --image-failed-all || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
@@ -63,8 +66,8 @@ jobs:
         if: steps.check.outputs.skip == 'false'
         run: |
           while IFS= read -r U; do
-            [ -z "$U" ] && continue
-            [ -d "accounts/${U}/wayback_snapshots" ] || continue
+            if [ -z "$U" ]; then continue; fi
+            if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
             cd accounts/${U} && python3 /tmp/archive.py clean-html --force || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
@@ -76,15 +79,15 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git diff --cached --name-only | while IFS= read -r f; do
-            [ -f "$f" ] || continue
-            [ "$(stat -c%s "$f" 2>/dev/null || echo 0)" -gt 104857600 ] && git rm --cached "$f"
+            if [ ! -f "$f" ]; then continue; fi
+            size=$(stat -c%s "$f" 2>/dev/null || echo 0)
+            if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
           done
           git diff --cached --quiet && echo "无新内容" && exit 0
           COUNT=$(git diff --cached --numstat | wc -l)
           git commit -m "🔁 全量重试 图片 (+${COUNT} 文件) $(date -u +%Y-%m-%d) [skip ci]"
           git push
 
-  # ── Job 2：retry 视频 ──────────────────────────────────────────────────────
   retry-video:
     name: 全量重试 视频
     needs: retry-image
@@ -122,8 +125,8 @@ jobs:
       - name: retry --video-failed-all
         run: |
           while IFS= read -r U; do
-            [ -z "$U" ] && continue
-            [ -d "accounts/${U}/wayback_snapshots" ] || continue
+            if [ -z "$U" ]; then continue; fi
+            if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
             cd accounts/${U} && python3 /tmp/archive.py retry --video-failed-all || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
@@ -131,8 +134,8 @@ jobs:
       - name: clean-html --force
         run: |
           while IFS= read -r U; do
-            [ -z "$U" ] && continue
-            [ -d "accounts/${U}/wayback_snapshots" ] || continue
+            if [ -z "$U" ]; then continue; fi
+            if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
             cd accounts/${U} && python3 /tmp/archive.py clean-html --force || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
@@ -143,15 +146,15 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git diff --cached --name-only | while IFS= read -r f; do
-            [ -f "$f" ] || continue
-            [ "$(stat -c%s "$f" 2>/dev/null || echo 0)" -gt 104857600 ] && git rm --cached "$f"
+            if [ ! -f "$f" ]; then continue; fi
+            size=$(stat -c%s "$f" 2>/dev/null || echo 0)
+            if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
           done
           git diff --cached --quiet && echo "无新内容" && exit 0
           COUNT=$(git diff --cached --numstat | wc -l)
           git commit -m "🔁 全量重试 视频 (+${COUNT} 文件) $(date -u +%Y-%m-%d) [skip ci]"
           git push
 
-  # ── Job 3：retry 头像 + build-index ───────────────────────────────────────
   retry-avatar:
     name: 全量重试 头像+收尾
     needs: retry-video
@@ -189,8 +192,8 @@ jobs:
       - name: retry --avatar-failed-all
         run: |
           while IFS= read -r U; do
-            [ -z "$U" ] && continue
-            [ -d "accounts/${U}/wayback_snapshots" ] || continue
+            if [ -z "$U" ]; then continue; fi
+            if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
             cd accounts/${U} && python3 /tmp/archive.py retry --avatar-failed-all || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
@@ -198,8 +201,8 @@ jobs:
       - name: clean-html --force
         run: |
           while IFS= read -r U; do
-            [ -z "$U" ] && continue
-            [ -d "accounts/${U}/wayback_snapshots" ] || continue
+            if [ -z "$U" ]; then continue; fi
+            if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
             cd accounts/${U} && python3 /tmp/archive.py clean-html --force || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
@@ -207,8 +210,8 @@ jobs:
       - name: build-index
         run: |
           while IFS= read -r U; do
-            [ -z "$U" ] && continue
-            [ -d "accounts/${U}/wayback_snapshots" ] || continue
+            if [ -z "$U" ]; then continue; fi
+            if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
             cd accounts/${U} && python3 /tmp/archive.py build-index || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
@@ -219,8 +222,9 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git diff --cached --name-only | while IFS= read -r f; do
-            [ -f "$f" ] || continue
-            [ "$(stat -c%s "$f" 2>/dev/null || echo 0)" -gt 104857600 ] && git rm --cached "$f"
+            if [ ! -f "$f" ]; then continue; fi
+            size=$(stat -c%s "$f" 2>/dev/null || echo 0)
+            if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
           done
           if git diff --cached --quiet; then echo "✅ 无新内容"; exit 0; fi
           COUNT=$(git diff --cached --numstat | wc -l)

@@ -9,7 +9,6 @@ on:
         default: ''
 
 jobs:
-  # ── Job 1：fetch-html + fetch-image + clean-html ────────────────────────────
   build-html-image:
     name: 建档 HTML+图片
     runs-on: ubuntu-latest
@@ -62,7 +61,7 @@ jobs:
       - name: 建立目录结构
         run: |
           while IFS= read -r U; do
-            [ -z "$U" ] && continue
+            if [ -z "$U" ]; then continue; fi
             mkdir -p accounts/${U}/wayback_snapshots/{html,json,image,video,avatar,_log}
             if [ ! -f "accounts/${U}/wayback_snapshots/profile.json" ]; then
               curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/profile.template.json" \
@@ -77,17 +76,20 @@ jobs:
         run: |
           SINCE="${{ github.event.inputs.since }}"
           while IFS= read -r U; do
-            [ -z "$U" ] && continue
+            if [ -z "$U" ]; then continue; fi
             cd accounts/${U}
-            [ -n "$SINCE" ] && python3 /tmp/archive.py fetch-cdx "$U" --from "$SINCE" || \
-                               python3 /tmp/archive.py fetch-cdx "$U"
+            if [ -n "$SINCE" ]; then
+              python3 /tmp/archive.py fetch-cdx "$U" --from "$SINCE" || true
+            else
+              python3 /tmp/archive.py fetch-cdx "$U" || true
+            fi
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
 
       - name: fetch-html
         run: |
           while IFS= read -r U; do
-            [ -z "$U" ] && continue
+            if [ -z "$U" ]; then continue; fi
             cd accounts/${U} && python3 /tmp/archive.py fetch-html || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
@@ -95,7 +97,7 @@ jobs:
       - name: fetch-image
         run: |
           while IFS= read -r U; do
-            [ -z "$U" ] && continue
+            if [ -z "$U" ]; then continue; fi
             cd accounts/${U} && python3 /tmp/archive.py fetch-image || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
@@ -103,7 +105,7 @@ jobs:
       - name: clean-html
         run: |
           while IFS= read -r U; do
-            [ -z "$U" ] && continue
+            if [ -z "$U" ]; then continue; fi
             cd accounts/${U} && python3 /tmp/archive.py clean-html || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
@@ -111,7 +113,7 @@ jobs:
       - name: build-index（第一阶段）
         run: |
           while IFS= read -r U; do
-            [ -z "$U" ] && continue
+            if [ -z "$U" ]; then continue; fi
             cd accounts/${U} && python3 /tmp/archive.py build-index || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
@@ -130,8 +132,11 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git diff --cached --name-only | while IFS= read -r f; do
-            [ -f "$f" ] || continue
-            [ "$(stat -c%s "$f" 2>/dev/null || echo 0)" -gt 104857600 ] && git rm --cached "$f"
+            if [ ! -f "$f" ]; then continue; fi
+            size=$(stat -c%s "$f" 2>/dev/null || echo 0)
+            if [ "$size" -gt 104857600 ]; then
+              git rm --cached "$f"
+            fi
           done
           git diff --cached --quiet && echo "无新内容" && exit 0
           COUNT=$(git diff --cached --numstat | wc -l)
@@ -151,7 +156,6 @@ jobs:
           gh repo edit "${{ github.repository }}" \
             --homepage "${{ steps.info.outputs.pages_url }}" || true
 
-  # ── Job 2：fetch-video + clean-html --force ────────────────────────────────
   build-video:
     name: 建档 视频
     needs: build-html-image
@@ -189,7 +193,7 @@ jobs:
       - name: fetch-video
         run: |
           while IFS= read -r U; do
-            [ -z "$U" ] && continue
+            if [ -z "$U" ]; then continue; fi
             cd accounts/${U} && python3 /tmp/archive.py fetch-video || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
@@ -197,7 +201,7 @@ jobs:
       - name: clean-html --force
         run: |
           while IFS= read -r U; do
-            [ -z "$U" ] && continue
+            if [ -z "$U" ]; then continue; fi
             cd accounts/${U} && python3 /tmp/archive.py clean-html --force || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
@@ -208,15 +212,15 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git diff --cached --name-only | while IFS= read -r f; do
-            [ -f "$f" ] || continue
-            [ "$(stat -c%s "$f" 2>/dev/null || echo 0)" -gt 104857600 ] && git rm --cached "$f"
+            if [ ! -f "$f" ]; then continue; fi
+            size=$(stat -c%s "$f" 2>/dev/null || echo 0)
+            if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
           done
           git diff --cached --quiet && echo "无新内容" && exit 0
           COUNT=$(git diff --cached --numstat | wc -l)
           git commit -m "🎬 首次建档 视频 (+${COUNT} 文件) [skip ci]"
           git push
 
-  # ── Job 3：fetch-avatars + clean-html --force + build-index ───────────────
   build-avatar:
     name: 建档 头像+收尾
     needs: build-video
@@ -235,6 +239,7 @@ jobs:
       - name: 读取账号列表
         id: info
         run: |
+          OWNER=$(echo "${{ github.repository }}" | cut -d'/' -f1)
           REPO=$(echo "${{ github.repository }}" | cut -d'/' -f2)
           if [ -f "accounts.txt" ]; then
             ACCOUNTS=$(grep -v '^#' accounts.txt | grep -v '^$')
@@ -244,8 +249,7 @@ jobs:
           echo "accounts<<EOF" >> $GITHUB_OUTPUT
           echo "$ACCOUNTS"     >> $GITHUB_OUTPUT
           echo "EOF"           >> $GITHUB_OUTPUT
-          PAGES_URL="https://$(echo "${{ github.repository }}" | cut -d'/' -f1).github.io/$(echo "${{ github.repository }}" | cut -d'/' -f2)/"
-          echo "pages_url=$PAGES_URL" >> $GITHUB_OUTPUT
+          echo "pages_url=https://${OWNER}.github.io/${REPO}/" >> $GITHUB_OUTPUT
 
       - name: 安装依赖
         run: pip install requests beautifulsoup4 lxml
@@ -256,7 +260,7 @@ jobs:
       - name: fetch-avatars
         run: |
           while IFS= read -r U; do
-            [ -z "$U" ] && continue
+            if [ -z "$U" ]; then continue; fi
             cd accounts/${U} && python3 /tmp/archive.py fetch-avatars || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
@@ -264,7 +268,7 @@ jobs:
       - name: clean-html --force
         run: |
           while IFS= read -r U; do
-            [ -z "$U" ] && continue
+            if [ -z "$U" ]; then continue; fi
             cd accounts/${U} && python3 /tmp/archive.py clean-html --force || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
@@ -272,7 +276,7 @@ jobs:
       - name: build-index（最终）
         run: |
           while IFS= read -r U; do
-            [ -z "$U" ] && continue
+            if [ -z "$U" ]; then continue; fi
             cd accounts/${U} && python3 /tmp/archive.py build-index || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
@@ -283,8 +287,9 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git diff --cached --name-only | while IFS= read -r f; do
-            [ -f "$f" ] || continue
-            [ "$(stat -c%s "$f" 2>/dev/null || echo 0)" -gt 104857600 ] && git rm --cached "$f"
+            if [ ! -f "$f" ]; then continue; fi
+            size=$(stat -c%s "$f" 2>/dev/null || echo 0)
+            if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
           done
           if git diff --cached --quiet; then echo "✅ 无新内容"; exit 0; fi
           COUNT=$(git diff --cached --numstat | wc -l)
