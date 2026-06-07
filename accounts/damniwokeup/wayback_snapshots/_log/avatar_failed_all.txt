@@ -1,9 +1,7 @@
 https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
 https://pbs.twimg.com/profile_images/1402603320095633412/husvrrzz_normal.jpg
-https://pbs.twimg.com/profile_images/1487289472848826368/1qHaZNEp_normal.jpg
 https://pbs.twimg.com/profile_images/1539446194383900672/BB5yugtQ_normal.jpg
 https://pbs.twimg.com/profile_images/1610900336985931776/u6dK-w2r_normal.jpg
-https://pbs.twimg.com/profile_images/1656292987511664640/rx3pluSQ_normal.jpg
 https://pbs.twimg.com/profile_images/1660307586242207744/C1cTMLK2_normal.jpg
 https://pbs.twimg.com/profile_images/1679901070108278784/0eBPlZQz_normal.jpg
 https://pbs.twimg.com/profile_images/1681170062399647744/fnCfInvS_normal.jpg
@@ -16,7 +14,6 @@ https://pbs.twimg.com/profile_images/1729381755121967104/oAdqqY9Z_normal.jpg
 https://pbs.twimg.com/profile_images/1741759219043643392/OzuO2nnB_normal.jpg
 https://pbs.twimg.com/profile_images/1741832877699141632/njMoBdUw_normal.jpg
 https://pbs.twimg.com/profile_images/1742074832920154112/aNvLOVbe_normal.jpg
-https://pbs.twimg.com/profile_images/1755889504425287680/cKYvGSUs_normal.jpg
 https://pbs.twimg.com/profile_images/1765044270010884096/0gid0G9n_normal.jpg
 https://pbs.twimg.com/profile_images/1765944798752677888/F3PGJgmh_normal.jpg
 https://pbs.twimg.com/profile_images/1768186798600323072/PlfLnAlz_normal.jpg
@@ -97,7 +94,6 @@ https://pbs.twimg.com/profile_images/1849511133989961730/5Q4yOEll_normal.jpg
 https://pbs.twimg.com/profile_images/1849673782052458496/5NDY0Xts_normal.jpg
 https://pbs.twimg.com/profile_images/1849699547502813184/Tjs1aovT_normal.jpg
 https://pbs.twimg.com/profile_images/1849744876562415619/7a0GSRYJ_normal.jpg
-https://pbs.twimg.com/profile_images/1850319113220206592/TQvS0yiq_normal.jpg
 https://pbs.twimg.com/profile_images/1850495326773538816/5Y07s_xn_normal.jpg
 https://pbs.twimg.com/profile_images/1851103050645295104/bIkYk_AQ_normal.jpg
 https://pbs.twimg.com/profile_images/1851215855973240832/EKB9Uo3e_normal.jpg
